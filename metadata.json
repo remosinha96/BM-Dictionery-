@@ -1,0 +1,5 @@
+{
+  "name": "Static Dictionary App",
+  "description": "A simple, clean dictionary application built with vanilla HTML, CSS, and JavaScript. Uses a local JSON file for data.",
+  "requestFramePermissions": []
+}
