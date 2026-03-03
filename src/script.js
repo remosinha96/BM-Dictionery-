@@ -15,16 +15,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
 
-  // Highlight matches
+  // Highlight matches only at the beginning of words
   const highlight = (text, query) => {
     if (!query || !text) return text || "";
     const normalizedQuery = normalize(query);
     if (!normalizedQuery) return text;
 
-    // Simple case-insensitive match for highlighting
     try {
       const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      const regex = new RegExp(`(${escapedQuery})`, 'gi');
+      // Use \b to match only at the beginning of words
+      const regex = new RegExp(`\\b(${escapedQuery})`, 'gi');
       return String(text).replace(regex, '<mark>$1</mark>');
     } catch (e) {
       return text;
@@ -34,8 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
   // Show loading state
   resultContainer.innerHTML = `
     <div class="empty-state">
-      <p>Loading dictionary...</p>
-      <div style="margin-top: 1rem; font-size: 0.7rem; color: #94a3b8;">Please wait a moment.</div>
     </div>
   `;
 
@@ -57,8 +55,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         resultContainer.innerHTML = `
           <div class="empty-state">
-            <p>Dictionary Loaded!</p>
-            <p style="font-size: 0.8rem; margin-top: 0.5rem; opacity: 0.7;">Found ${dictionary.length} words. Type above to search.</p>
           </div>
         `;
       } else {
@@ -82,8 +78,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!query) {
       resultContainer.innerHTML = `
         <div class="empty-state">
-          <p>Type a word above to see its meaning.</p>
-          <p style="font-size: 0.8rem; margin-top: 0.5rem; opacity: 0.7;">You can search in Roman, Bangla, or English.</p>
         </div>
       `;
       return;
@@ -94,11 +88,15 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // Filter results based on Roman word, Bangla word, or English meaning
+    // Filter results based on Roman word, Bangla word, or English meaning (starting with query)
     const matches = dictionary.filter(item => {
-      const romanMatch = item.word_roman && normalize(item.word_roman).includes(normalizedQuery);
+      const escapedQuery = normalizedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const queryRegex = new RegExp(`\\b${escapedQuery}`, 'i');
+      
+      const romanMatch = item.word_roman && queryRegex.test(normalize(item.word_roman));
       const banglaMatch = item.word_bangla && item.word_bangla.includes(query);
-      const meaningMatch = item.meaning_english && normalize(item.meaning_english).includes(normalizedQuery);
+      const meaningMatch = item.meaning_english && queryRegex.test(normalize(item.meaning_english));
+      
       return romanMatch || banglaMatch || meaningMatch;
     });
 
@@ -127,25 +125,24 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="category-tag">${entry.category || 'Word'}</div>
           
           <div class="meaning-section">
-            <h3 class="section-label">English Meaning</h3>
+            <h3 class="section-label label-english">English Meaning</h3>
             <p class="meaning-text english-meaning">${highlight(entry.meaning_english, query)}</p>
           </div>
           
           <div class="meaning-section">
-            <h3 class="section-label">Bangla Meaning</h3>
+            <h3 class="section-label label-bangla">Bangla Meaning</h3>
             <p class="meaning-text bangla-meaning bangla-text">${entry.meaning_bangla || ''}</p>
           </div>
         </div>
       `).join('');
 
       if (matches.length > 50) {
-        resultContainer.innerHTML += `<p style="text-align: center; color: #64748b; font-size: 0.8rem; padding: 1rem;">Showing top 50 of ${matches.length} matches.</p>`;
+        // Just show the results, no "Showing top 50" message
       }
     } else {
       resultContainer.innerHTML = `
         <div class="error">
           <p>No matches found for "<strong>${query}</strong>".</p>
-          <p style="font-size: 0.8rem; margin-top: 0.5rem; color: #64748b;">Try searching for something else.</p>
         </div>
       `;
     }
