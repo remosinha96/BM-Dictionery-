@@ -425,5 +425,166 @@
   "category": "Noun",
   "meaning_english": "Inquiry",
   "meaning_bangla": "জিজ্ঞাসাবাদ/তদন্ত"
+},
+{
+  "word_roman": "Á-",
+  "word_bangla": "আ/অ-",
+  "category": "Verb",
+  "meaning_english": "To be, to become",
+  "meaning_bangla": "হওয়া"
+},
+{
+  "word_roman": "A",
+  "word_bangla": "আ/অ-",
+  "category": "Prefix",
+  "meaning_english": "Such / Negative",
+  "meaning_bangla": "নেতিবাচক"
+},
+{
+  "word_roman": "A",
+  "word_bangla": "আ",
+  "category": "Interjection",
+  "meaning_english": "Oh! (Vocative)",
+  "meaning_bangla": "সম্বোধন - যেমন: আ দাদা"
+},
+{
+  "word_roman": "AICĀ",
+  "word_bangla": "আইচা",
+  "category": "Noun",
+  "meaning_english": "Profit",
+  "meaning_bangla": "লাভ/ফায়দা"
+},
+{
+  "word_roman": "AICCĀ",
+  "word_bangla": "আইচ্চা",
+  "category": "Adjective",
+  "meaning_english": "Restless, fickle",
+  "meaning_bangla": "চঞ্চল/অস্থির"
+},
+{
+  "word_roman": "AITHI-TĀMTHI",
+  "word_bangla": "আইথি-তামথি",
+  "category": "Noun",
+  "meaning_english": "Mishap, accident",
+  "meaning_bangla": "দুর্ঘটনা"
+},
+{
+  "word_roman": "ĀIBĀ-NĀIBĀ",
+  "word_bangla": "আইবা-নাইবা",
+  "category": "Phrase",
+  "meaning_english": "Positive or negative",
+  "meaning_bangla": "হ্যাঁ-না"
+},
+{
+  "word_roman": "AILO",
+  "word_bangla": "আইলো",
+  "category": "Adverb",
+  "meaning_english": "As it happened",
+  "meaning_bangla": "যেমনটি ঘটেছে"
+},
+{
+  "word_roman": "AIS",
+  "word_bangla": "আইস",
+  "category": "Interjection",
+  "meaning_english": "Pish/Pshaw",
+  "meaning_bangla": "বিরক্তি প্রকাশ"
+},
+{
+  "word_roman": "AKPĀ / AK",
+  "word_bangla": "অকপা/অক",
+  "category": "Adjective",
+  "meaning_english": "Efficient, befitting",
+  "meaning_bangla": "দক্ষ/উপযুক্ত"
+},
+{
+  "word_roman": "AKPĪ",
+  "word_bangla": "অকপী",
+  "category": "Adjective",
+  "meaning_english": "Efficient (Fem.)",
+  "meaning_bangla": "দক্ষ - স্ত্রীলিঙ্গ"
+},
+{
+  "word_roman": "ÁKAR / ÁKARĀ",
+  "word_bangla": "আকর/আকরা",
+  "category": "Verb",
+  "meaning_english": "To begin / Beginning",
+  "meaning_bangla": "আরম্ভ"
+},
+{
+  "word_roman": "AKARAŃ-BAKR.",
+  "word_bangla": "অকরন-বকরন",
+  "category": "Adjective",
+  "meaning_english": "Deformed",
+  "meaning_bangla": "বিকৃত/তেড়াবেঁকা"
+},
+{
+  "word_roman": "AKĀRAṆE",
+  "word_bangla": "অকারণে",
+  "category": "Adverb",
+  "meaning_english": "Unnecessarily",
+  "meaning_bangla": "অকারণে/বৃথা"
+},
+{
+  "word_roman": "AKULĀN",
+  "word_bangla": "অকুলান",
+  "category": "Noun",
+  "meaning_english": "Deficiency",
+  "meaning_bangla": "অভাব/কমতি"
+},
+{
+  "word_roman": "AKKHĀK",
+  "word_bangla": "অক্ষাক",
+  "category": "Adjective",
+  "meaning_english": "Much / Sufficient",
+  "meaning_bangla": "অনেক/পর্যাপ্ত"
+},
+{
+  "word_roman": "AKCĀK",
+  "word_bangla": "অকচাক",
+  "category": "Noun",
+  "meaning_english": "Filth",
+  "meaning_bangla": "নোংরা/ময়লা"
+},
+{
+  "word_roman": "AKCĀKTHAKPĀ",
+  "word_bangla": "অকচাকথকপা",
+  "category": "Adjective",
+  "meaning_english": "Filthy",
+  "meaning_bangla": "খুব নোংরা"
+},
+{
+  "word_roman": "AKNĀ",
+  "word_bangla": "অকনা",
+  "category": "Noun",
+  "meaning_english": "Meeting",
+  "meaning_bangla": "সাক্ষাৎ/মিলন"
+},
+{
+  "word_roman": "AKLĀK",
+  "word_bangla": "অকলাক",
+  "category": "Noun",
+  "meaning_english": "Wrapper for babies",
+  "meaning_bangla": "বাচ্চাদের কাপড়"
+},
+{
+  "word_roman": "AKLAU-KARE",
+  "word_bangla": "অকলাউ-করে",
+  "category": "Adverb",
+  "meaning_english": "Excessively",
+  "meaning_bangla": "অত্যধিক পরিমাণে"
+},
+{
+  "word_roman": "AGHUR",
+  "word_bangla": "অঘুর",
+  "category": "Adjective",
+  "meaning_english": "Terrific",
+  "meaning_bangla": "ভয়ঙ্কর/প্রচণ্ড"
+},
+{
+  "word_roman": "AGHRĀN",
+  "word_bangla": "অঘ্রান",
+  "category": "Noun",
+  "meaning_english": "Indian month",
+  "meaning_bangla": "অগ্রহায়ণ মাস"
 }
 ]
