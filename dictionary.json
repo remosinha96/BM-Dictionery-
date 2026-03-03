@@ -1902,5 +1902,495 @@
   "category": "Noun",
   "meaning_english": "Asthma",
   "meaning_bangla": "হাঁপানি, শ্বাসরোগ"
+},
+{
+  "word_roman": "ĀCETPĀ",
+  "word_bangla": "আচেতপা",
+  "category": "Adjective",
+  "meaning_english": "Reserved, confidential",
+  "meaning_bangla": "সংরক্ষিত, গোপনীয়"
+},
+{
+  "word_roman": "ĀCCA",
+  "word_bangla": "আচ্চা",
+  "category": "Interjection",
+  "meaning_english": "Fie",
+  "meaning_bangla": "ছি ছি"
+},
+{
+  "word_roman": "ĀCCULE",
+  "word_bangla": "আচ্চুলে",
+  "category": "Adverb",
+  "meaning_english": "Loudly",
+  "meaning_bangla": "জোরে"
+},
+{
+  "word_roman": "ĀCCHĀ",
+  "word_bangla": "আচ্ছা",
+  "category": "Interjection",
+  "meaning_english": "Well, yes",
+  "meaning_bangla": "আচ্ছা, ভাল"
+},
+{
+  "word_roman": "ĀCH",
+  "word_bangla": "আছ",
+  "category": "Noun",
+  "meaning_english": "Fibre",
+  "meaning_bangla": "আঁশ"
+},
+{
+  "word_roman": "ĀCH-",
+  "word_bangla": "আছ-",
+  "category": "Verb",
+  "meaning_english": "(i) To scratch, to peel, (ii) To remain",
+  "meaning_bangla": "(i) আঁচড়ানো, ছাড়ানো, (ii) থাকা"
+},
+{
+  "word_roman": "ĀCHĀNI",
+  "word_bangla": "আছানি",
+  "category": "Noun",
+  "meaning_english": "(i) Scratching, peeling, (ii) Existing",
+  "meaning_bangla": "(i) আঁচড়ানো, ছাড়ানো, (ii) অবস্থান"
+},
+{
+  "word_roman": "ĀCHĀR",
+  "word_bangla": "আছার",
+  "category": "Noun",
+  "meaning_english": "Slip, toppling down",
+  "meaning_bangla": "পিছলে পড়া"
+},
+{
+  "word_roman": "ĀCHARĀ-",
+  "word_bangla": "আছরা-",
+  "category": "Verb",
+  "meaning_english": "To pull down, to dash against",
+  "meaning_bangla": "টেনে নামানো, ধাক্কা দেওয়া"
+},
+{
+  "word_roman": "ĀCHIL",
+  "word_bangla": "আছিল",
+  "category": "Verb",
+  "meaning_english": "(It, he) remained, existed",
+  "meaning_bangla": "ছিল, অবস্থান করেছিল"
+},
+{
+  "word_roman": "ĀCHE",
+  "word_bangla": "আছে",
+  "category": "Verb",
+  "meaning_english": "(It, he) remains (3rd person sing.)",
+  "meaning_bangla": "আছে"
+},
+{
+  "word_roman": "ĀJ-",
+  "word_bangla": "আজ-",
+  "category": "Verb",
+  "meaning_english": "To happen",
+  "meaning_bangla": "ঘটা"
+},
+{
+  "word_roman": "ĀJAKTA",
+  "word_bangla": "আজক্ত",
+  "category": "Adjective",
+  "meaning_english": "Careless, aberrated",
+  "meaning_bangla": "অসাবধান, বিপথগামী"
+},
+{
+  "word_roman": "ĀJANMA",
+  "word_bangla": "আজনম",
+  "category": "Noun",
+  "meaning_english": "Other (previous) birth",
+  "meaning_bangla": "অন্য (পূর্ব) জন্ম"
+},
+{
+  "word_roman": "ĀJĀ",
+  "word_bangla": "আজা",
+  "category": "Noun",
+  "meaning_english": "Grand father",
+  "meaning_bangla": "পিতামহ, দাদা"
+},
+{
+  "word_roman": "ĀJĀ-",
+  "word_bangla": "আজা-",
+  "category": "Verb",
+  "meaning_english": "To cause to happen, to over-burden",
+  "meaning_bangla": "ঘটানো, অতিরিক্ত বোঝা দেওয়া"
+},
+{
+  "word_roman": "ĀJĀN",
+  "word_bangla": "আজান",
+  "category": "Noun",
+  "meaning_english": "A call to prayer (of Mohammedans)",
+  "meaning_bangla": "আযান"
+},
+{
+  "word_roman": "ĀJĀNI",
+  "word_bangla": "আজানি",
+  "category": "Noun",
+  "meaning_english": "(i) Happening, (ii) Causing to happen",
+  "meaning_bangla": "(i) ঘটনা, (ii) ঘটানো"
+},
+{
+  "word_roman": "ĀJĀB",
+  "word_bangla": "আজাব",
+  "category": "Adjective",
+  "meaning_english": "Congested, overcrowded",
+  "meaning_bangla": "ভিড় করা, অতিরিক্ত ভর্তি"
+},
+{
+  "word_roman": "ĀJĀLĀ",
+  "word_bangla": "আজালা",
+  "category": "Adjective",
+  "meaning_english": "Having less growth",
+  "meaning_bangla": "কম বৃদ্ধি"
+},
+{
+  "word_roman": "ĀJĀLI",
+  "word_bangla": "আজালি",
+  "category": "Noun",
+  "meaning_english": "A kind of louse growing on animal-skin",
+  "meaning_bangla": "পশুর চামড়ায় জন্মানো এক ধরনের উকুন"
+},
+{
+  "word_roman": "ĀJI",
+  "word_bangla": "আজি",
+  "category": "Adverb",
+  "meaning_english": "Today",
+  "meaning_bangla": "আজ"
+},
+{
+  "word_roman": "ĀJIKĀR",
+  "word_bangla": "আজিকার",
+  "category": "Adjective",
+  "meaning_english": "Of to-day, pertaining to to-day",
+  "meaning_bangla": "আজকের"
+},
+{
+  "word_roman": "ĀJIRA(I)T",
+  "word_bangla": "আজিরা(ই)ত",
+  "category": "Adjective",
+  "meaning_english": "Over-powered by a supernatural agency",
+  "meaning_bangla": "অলৌকিক শক্তি দ্বারা প্রভাবিত"
+},
+{
+  "word_roman": "ĀJEBĀJE",
+  "word_bangla": "আজেবাজে",
+  "category": "Adjective",
+  "meaning_english": "Useless, meaningless",
+  "meaning_bangla": "অকেজো, অর্থহীন"
+},
+{
+  "word_roman": "ĀJGUBI",
+  "word_bangla": "আজগুবি",
+  "category": "Adjective",
+  "meaning_english": "Fantastic",
+  "meaning_bangla": "অদ্ভুত, কাল্পনিক"
+},
+{
+  "word_roman": "ĀÑCIL",
+  "word_bangla": "আঞ্চিল",
+  "category": "Noun",
+  "meaning_english": "Return",
+  "meaning_bangla": "প্রত্যাবর্তন"
+},
+{
+  "word_roman": "ĀÑJI",
+  "word_bangla": "আঞ্জি",
+  "category": "Noun",
+  "meaning_english": "A hook",
+  "meaning_bangla": "আঁকড়া, হুক"
+},
+{
+  "word_roman": "ĀṬ",
+  "word_bangla": "আট",
+  "category": "Noun/Adjective",
+  "meaning_english": "(i) Eight, (ii) Seriously ill, (iii) Market",
+  "meaning_bangla": "(i) আট, (ii) অসুস্থ, (iii) বাজার"
+},
+{
+  "word_roman": "ĀṬ-",
+  "word_bangla": "আট-",
+  "category": "Verb",
+  "meaning_english": "To be tight, to hold to capacity",
+  "meaning_bangla": "আটকা, ধারণ করা"
+},
+{
+  "word_roman": "ĀṬ-",
+  "word_bangla": "আট-",
+  "category": "Verb",
+  "meaning_english": "To walk",
+  "meaning_bangla": "হাঁটা"
+ },
+  {
+  "word_roman": "ĀṬAK",
+  "word_bangla": "আটক",
+  "category": "Noun",
+  "meaning_english": "Confinement, obstruction",
+  "meaning_bangla": "আটক, বাধা"
+},
+{
+  "word_roman": "ĀṬAN",
+  "word_bangla": "আটন",
+  "category": "Noun",
+  "meaning_english": "Tightening",
+  "meaning_bangla": "আটকানো, শক্ত করা"
+},
+{
+  "word_roman": "ĀṬĀ",
+  "word_bangla": "আটা",
+  "category": "Noun",
+  "meaning_english": "(i) Flour, (ii) Laziness, (iii) Tightness",
+  "meaning_bangla": "(i) ময়দা, আটা, (ii) অলসতা, (iii) শক্ততা"
+},
+{
+  "word_roman": "ĀṬĀ-",
+  "word_bangla": "আটা-",
+  "category": "Verb",
+  "meaning_english": "To tighten",
+  "meaning_bangla": "আটকানো, শক্ত করা"
+},
+{
+  "word_roman": "ĀṬANI",
+  "word_bangla": "আটানি",
+  "category": "Noun",
+  "meaning_english": "Being accommodated, tightening",
+  "meaning_bangla": "স্থান সংকুলান, আটকানো"
+},
+{
+  "word_roman": "ĀṬI",
+  "word_bangla": "আটি",
+  "category": "Noun",
+  "meaning_english": "(i) Market, (ii) Bundle, bunch",
+  "meaning_bangla": "(i) বাজার, হাট, (ii) আঁটি, গুচ্ছ"
+},
+{
+  "word_roman": "ĀṬITU-PIṬIT",
+  "word_bangla": "আটিতু-পিটিত",
+  "category": "Adjective",
+  "meaning_english": "Congested, over-crowded",
+  "meaning_bangla": "ঠাসা, অতিরিক্ত ভিড়"
+},
+{
+  "word_roman": "ĀṬELPĀ",
+  "word_bangla": "আটেলপা",
+  "category": "Adjective",
+  "meaning_english": "Lazy, idle",
+  "meaning_bangla": "অলস, নিষ্ক্রিয়"
+},
+{
+  "word_roman": "ĀṬKĀ-",
+  "word_bangla": "আটকা-",
+  "category": "Verb",
+  "meaning_english": "To obstruct, to confine",
+  "meaning_bangla": "বাধা দেওয়া, আটকানো"
+},
+{
+  "word_roman": "ĀṬKURI",
+  "word_bangla": "আটকুরি",
+  "category": "Noun",
+  "meaning_english": "Female who never had an issue",
+  "meaning_bangla": "যে মহিলার কখনও সন্তান হয়নি"
+},
+{
+  "word_roman": "ĀṬGHĀṬ",
+  "word_bangla": "আটঘাট",
+  "category": "Noun",
+  "meaning_english": "Eight sides, all sides",
+  "meaning_bangla": "আট দিক, সর্বদিক"
+},
+{
+  "word_roman": "ĀṬHĀRA",
+  "word_bangla": "আঠার",
+  "category": "Numeral",
+  "meaning_english": "Eighteen",
+  "meaning_bangla": "আঠারো"
+},
+{
+  "word_roman": "ĀṬHI",
+  "word_bangla": "আঠি",
+  "category": "Noun",
+  "meaning_english": "Stony seed",
+  "meaning_bangla": "আঠি, শক্ত বীজ"
+},
+{
+  "word_roman": "ĀṬHILĀ",
+  "word_bangla": "আঠিলা",
+  "category": "Adjective",
+  "meaning_english": "(i) Short-statured, (ii) Delayed growth",
+  "meaning_bangla": "(i) বেঁটে, (ii) ধীর বৃদ্ধি"
+},
+{
+  "word_roman": "ĀṬHUMPĀ",
+  "word_bangla": "আঠুম্পা",
+  "category": "Adjective",
+  "meaning_english": "Sweet, Sweets",
+  "meaning_bangla": "মিষ্টি, মিষ্টান্ন"
+},
+{
+  "word_roman": "ĀT",
+  "word_bangla": "াত",
+  "category": "Noun",
+  "meaning_english": "(i) Hand, (ii) Cubit",
+  "meaning_bangla": "(i) হাত, (ii) হাত (পরিমাপ)"
+},
+{
+  "word_roman": "ĀTĀ",
+  "word_bangla": "াতা",
+  "category": "Noun",
+  "meaning_english": "Bundle or handful of seedlings",
+  "meaning_bangla": "চারার আঁটি বা মুঠি"
+},
+{
+  "word_roman": "ĀTĀ-",
+  "word_bangla": "াতা-",
+  "category": "Verb",
+  "meaning_english": "To touch",
+  "meaning_bangla": "স্পর্শ করা"
+},
+{
+  "word_roman": "ĀTĀ",
+  "word_bangla": "াতা",
+  "category": "Noun",
+  "meaning_english": "Custard apple",
+  "meaning_bangla": "আতা ফল"
+},
+{
+  "word_roman": "ĀTĀ-ĀTI",
+  "word_bangla": "াতা-াতি",
+  "category": "Noun",
+  "meaning_english": "Fighting with hands",
+  "meaning_bangla": "হাতাহাতি যুদ্ধ"
+},
+{
+  "word_roman": "ĀTKNĀ-KARE",
+  "word_bangla": "াতকনা-করে",
+  "category": "Adverb",
+  "meaning_english": "Exactly",
+  "meaning_bangla": "ঠিকভাবে, সঠিকভাবে"
+},
+{
+  "word_roman": "ĀTĀNPĀ",
+  "word_bangla": "াতানপা",
+  "category": "Adjective",
+  "meaning_english": "Rare",
+  "meaning_bangla": "দুর্লভ"
+},
+{
+  "word_roman": "ĀTUR",
+  "word_bangla": "াতুর",
+  "category": "Adjective",
+  "meaning_english": "Lame, deformed",
+  "meaning_bangla": "খোঁড়া, বিকৃতাঙ্গ"
+},
+{
+  "word_roman": "ĀTTAMĀ",
+  "word_bangla": "াত্তমা",
+  "category": "Noun",
+  "meaning_english": "Soul",
+  "meaning_bangla": "আত্মা"
+},
+{
+  "word_roman": "ĀTTAR",
+  "word_bangla": "াত্তর",
+  "category": "Noun",
+  "meaning_english": "Otto, perfume",
+  "meaning_bangla": "আতর, সুগন্ধি"
+},
+{
+  "word_roman": "ĀTTI",
+  "word_bangla": "াত্তি",
+  "category": "Noun",
+  "meaning_english": "Elephant",
+  "meaning_bangla": "হাতি"
+},
+{
+  "word_roman": "ĀTTURĀ",
+  "word_bangla": "াত্তুরা",
+  "category": "Noun",
+  "meaning_english": "Hammer",
+  "meaning_bangla": "হাতুড়ি"
+},
+{
+  "word_roman": "ĀTRĀ",
+  "word_bangla": "াত্রা",
+  "category": "Adjective",
+  "meaning_english": "Separate",
+  "meaning_bangla": "পৃথক, আলাদা"
+},
+{
+  "word_roman": "ĀDĀ",
+  "word_bangla": "আদা",
+  "category": "Noun",
+  "meaning_english": "Ginger",
+  "meaning_bangla": "আদা"
+},
+{
+  "word_roman": "ĀDĀY(A)",
+  "word_bangla": "আদায়(আ)",
+  "category": "Noun",
+  "meaning_english": "Realisation, collection",
+  "meaning_bangla": "আদায়, সংগ্রহ"
+},
+{
+  "word_roman": "ĀDĀLAT",
+  "word_bangla": "আদালত",
+  "category": "Noun",
+  "meaning_english": "Court of justice",
+  "meaning_bangla": "আদালত, বিচারালয়"
+},
+{
+  "word_roman": "ĀDD-",
+  "word_bangla": "াত্ত-",
+  "category": "Verb",
+  "meaning_english": "To massage",
+  "meaning_bangla": "মালিশ করা"
+},
+{
+  "word_roman": "ĀDHĀ",
+  "word_bangla": "াধা",
+  "category": "Noun",
+  "meaning_english": "Half",
+  "meaning_bangla": "অর্ধেক, আধা"
+},
+{
+  "word_roman": "ĀDHĀR",
+  "word_bangla": "াধার",
+  "category": "Noun",
+  "meaning_english": "Darkness",
+  "meaning_bangla": "অন্ধকার"
+},
+{
+  "word_roman": "ĀN-",
+  "word_bangla": "ান-",
+  "category": "Verb",
+  "meaning_english": "To bring",
+  "meaning_bangla": "আনা"
+},
+{
+  "word_roman": "ĀN",
+  "word_bangla": "ান",
+  "category": "Adjective",
+  "meaning_english": "Other",
+  "meaning_bangla": "অন্য"
+},
+{
+  "word_roman": "ĀNAK",
+  "word_bangla": "ানক",
+  "category": "Noun",
+  "meaning_english": "Spectacles",
+  "meaning_bangla": "চশমা"
+},
+{
+  "word_roman": "ĀNĀ",
+  "word_bangla": "ানা",
+  "category": "Noun",
+  "meaning_english": "Coming",
+  "meaning_bangla": "আগমন"
+},
+{
+  "word_roman": "ĀNĀ",
+  "word_bangla": "ানা",
+  "category": "Noun",
+  "meaning_english": "Anna (currency/unit)",
+  "meaning_bangla": "আনা (মুদ্রা/একক)"
 }
 ]
