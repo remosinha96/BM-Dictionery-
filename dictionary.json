@@ -992,5 +992,502 @@
   "category": "Verb",
   "meaning_english": "Become, changed",
   "meaning_bangla": "পরিবর্তিত হওয়া"
+},
+{
+  "word_roman": "AŃ, AŃPĀ",
+  "word_bangla": "অঙ, অঙপা",
+  "category": "Adjective",
+  "meaning_english": "Cheap",
+  "meaning_bangla": "সস্তা"
+},
+{
+  "word_roman": "AŃKUR",
+  "word_bangla": "অঙ্কুর",
+  "category": "Noun",
+  "meaning_english": "Vanity",
+  "meaning_bangla": "অহংকার"
+},
+{
+  "word_roman": "AŃTĀ",
+  "word_bangla": "অন্তা",
+  "category": "Noun",
+  "meaning_english": "Nature, appearance",
+  "meaning_bangla": "প্রকৃতি/চেহারা"
+},
+{
+  "word_roman": "AŃTHIL",
+  "word_bangla": "অন্থিল",
+  "category": "Adjective",
+  "meaning_english": "Filled, congested",
+  "meaning_bangla": "ঠাসা/ভর্তি"
+},
+{
+  "word_roman": "AŃNĀ-THEŃNI",
+  "word_bangla": "অন্না-থেঙনি",
+  "category": "Noun",
+  "meaning_english": "Exchange",
+  "meaning_bangla": "বিনিময়"
+},
+{
+  "word_roman": "AJĀ",
+  "word_bangla": "অজা",
+  "category": "Noun",
+  "meaning_english": "Teacher, sir",
+  "meaning_bangla": "শিক্ষক"
+},
+{
+  "word_roman": "AJUHĀT",
+  "word_bangla": "অজুহাত",
+  "category": "Noun",
+  "meaning_english": "Plea",
+  "meaning_bangla": "অজুহাত"
+},
+{
+  "word_roman": "AṬ",
+  "word_bangla": "অট",
+  "category": "Noun",
+  "meaning_english": "Lip / Japa flower",
+  "meaning_bangla": "ঠোঁট/জবা ফুল"
+},
+{
+  "word_roman": "ATIT",
+  "word_bangla": "অতিত",
+  "category": "Noun",
+  "meaning_english": "Guest",
+  "meaning_bangla": "অতিথি"
+},
+{
+  "word_roman": "ATO",
+  "word_bangla": "অতো",
+  "category": "Adverb",
+  "meaning_english": "So much",
+  "meaning_bangla": "এত/তত"
+},
+{
+  "word_roman": "ÁTTI",
+  "word_bangla": "াত্তি",
+  "category": "Noun",
+  "meaning_english": "Elephant, big",
+  "meaning_bangla": "হাতি/বিশাল"
+},
+{
+  "word_roman": "ADAL-BADAL",
+  "word_bangla": "অদল-বদল",
+  "category": "Noun",
+  "meaning_english": "Exchange, interchange",
+  "meaning_bangla": "বিনিময়"
+},
+{
+  "word_roman": "ADYA",
+  "word_bangla": "অদ্য",
+  "category": "Adverb",
+  "meaning_english": "Now, today",
+  "meaning_bangla": "আজ/এখন"
+},
+{
+  "word_roman": "ANĀ-",
+  "word_bangla": "অনা-",
+  "category": "Verb",
+  "meaning_english": "To melt",
+  "meaning_bangla": "গলে যাওয়া"
+},
+{
+  "word_roman": "ANĀCĀR",
+  "word_bangla": "অনাচার",
+  "category": "Adjective",
+  "meaning_english": "Dirty",
+  "meaning_bangla": "নোংরা"
+},
+{
+  "word_roman": "ANĀHAK",
+  "word_bangla": "অনাহক",
+  "category": "Adjective",
+  "meaning_english": "Fruitless",
+  "meaning_bangla": "বৃথা"
+},
+{
+  "word_roman": "ANTHAK, -PĀ",
+  "word_bangla": "অন্থক, -পা",
+  "category": "Adjective",
+  "meaning_english": "Queer, strange",
+  "meaning_bangla": "অদ্ভুত"
+},
+{
+  "word_roman": "ANDAR",
+  "word_bangla": "অন্দর",
+  "category": "Noun",
+  "meaning_english": "Inner apartment",
+  "meaning_bangla": "অন্দরমহল"
+},
+{
+  "word_roman": "ĀP",
+  "word_bangla": "আপ",
+  "category": "Noun",
+  "meaning_english": "Mud",
+  "meaning_bangla": "কাদা"
+},
+{
+  "word_roman": "APARŪP",
+  "word_bangla": "অপরূপ",
+  "category": "Adjective",
+  "meaning_english": "Wonderful",
+  "meaning_bangla": "অপূর্ব"
+},
+{
+  "word_roman": "APŪRAṆ",
+  "word_bangla": "অপূরণ",
+  "category": "Adjective",
+  "meaning_english": "Incomplete",
+  "meaning_bangla": "অসম্পূর্ণ"
+},
+{
+  "word_roman": "ABUJ",
+  "word_bangla": "অবুঝ",
+  "category": "Adjective",
+  "meaning_english": "Unreasonable, foolish",
+  "meaning_bangla": "অবুঝ"
+},
+{
+  "word_roman": "ABHĀGĀ",
+  "word_bangla": "অভাগা",
+  "category": "Adjective",
+  "meaning_english": "Unfortunate",
+  "meaning_bangla": "অভাগা"
+},
+{
+  "word_roman": "AMABĀSI",
+  "word_bangla": "অমাবাসি",
+  "category": "Noun",
+  "meaning_english": "Three days of Āṣāḍha for fast",
+  "meaning_bangla": "অমাবস্যা"
+},
+{
+  "word_roman": "AMIL",
+  "word_bangla": "অমিল",
+  "category": "Noun",
+  "meaning_english": "Discord, dissimilarity",
+  "meaning_bangla": "অমিল"
+},
+{
+  "word_roman": "AMBIRTĀ",
+  "word_bangla": "আম্বিৰ্তা",
+  "category": "Noun",
+  "meaning_english": "Nectar",
+  "meaning_bangla": "অমৃত"
+},
+{
+  "word_roman": "ÁRAŃ-BARAŃ",
+  "word_bangla": "অরন-বরন",
+  "category": "Adjective",
+  "meaning_english": "Not tight, slack",
+  "meaning_bangla": "আলগা/ঢিলেঢালা"
+},
+{
+  "word_roman": "ARĀ",
+  "word_bangla": "অরা",
+  "category": "Verb",
+  "meaning_english": "To rehearse, to think",
+  "meaning_bangla": "অভ্যাস করা"
+},
+{
+  "word_roman": "ÁRIŃ",
+  "word_bangla": "আরিঙ",
+  "category": "Noun",
+  "meaning_english": "Deer",
+  "meaning_bangla": "হরিণ"
+},
+{
+  "word_roman": "ARDHĀŃGA",
+  "word_bangla": "অর্ধাঙ্গ",
+  "category": "Noun",
+  "meaning_english": "Paralysis",
+  "meaning_bangla": "প্যারালাইসিস"
+},
+{
+  "word_roman": "ARDHEK",
+  "word_bangla": "অর্ধেক",
+  "category": "Noun",
+  "meaning_english": "Half",
+  "meaning_bangla": "অর্ধেক"
+},
+{
+  "word_roman": "AL",
+  "word_bangla": "অল",
+  "category": "Noun",
+  "meaning_english": "Arum",
+  "meaning_bangla": "ওল"
+},
+{
+  "word_roman": "ALDIYA",
+  "word_bangla": "অলিদয়া",
+  "category": "Adjective",
+  "meaning_english": "Yellowish",
+  "meaning_bangla": "হলদেটে"
+},
+{
+  "word_roman": "ALMI",
+  "word_bangla": "অলিমি",
+  "category": "Noun",
+  "meaning_english": "Jaundice",
+  "meaning_bangla": "জন্ডিস"
+},
+{
+  "word_roman": "ASTI",
+  "word_bangla": "অস্তি",
+  "category": "Noun",
+  "meaning_english": "Piece of bone",
+  "meaning_bangla": "হাড়ের টুকরো"
+},
+{
+  "word_roman": "Ā-",
+  "word_bangla": "আ-",
+  "category": "Verb",
+  "meaning_english": "To come",
+  "meaning_bangla": "আসা"
+},
+{
+  "word_roman": "ĀI",
+  "word_bangla": "আই",
+  "category": "Noun",
+  "meaning_english": "Great grand-mother",
+  "meaning_bangla": "বড় ঠাকুরমা"
+},
+{
+  "word_roman": "AIŃ",
+  "word_bangla": "আইন",
+  "category": "Noun",
+  "meaning_english": "Law, regulation",
+  "meaning_bangla": "আইন/নিয়ম"
+},
+{
+  "word_roman": "ĀIBA",
+  "word_bangla": "আইবা",
+  "category": "Adjective",
+  "meaning_english": "Coming, next",
+  "meaning_bangla": "আগামী"
+},
+{
+  "word_roman": "AISA-BAISA",
+  "word_bangla": "আইসা-বাইসা",
+  "category": "Noun",
+  "meaning_english": "Courtesy (lit. come and sit)",
+  "meaning_bangla": "শিষ্টাচার"
+},
+{
+  "word_roman": "AUKĀL",
+  "word_bangla": "অকাল",
+  "category": "Noun",
+  "meaning_english": "Disturbance, trouble",
+  "meaning_bangla": "অশান্তি/বিপদ"
+},
+{
+  "word_roman": "AUTA",
+  "word_bangla": "অউতা",
+  "category": "Noun",
+  "meaning_english": "Area, confinement",
+  "meaning_bangla": "সীমানা/আবদ্ধ স্থান"
+},
+{
+  "word_roman": "A'UR",
+  "word_bangla": "অউর",
+  "category": "Noun",
+  "meaning_english": "Lake",
+  "meaning_bangla": "হ্রদ"
+},
+  {
+  "word_roman": "Ā'UK-PĀ",
+  "word_bangla": "অউক-পা",
+  "category": "Verb",
+  "meaning_english": "To swallow",
+  "meaning_bangla": "গিলে ফেলা"
+},
+{
+  "word_roman": "Ā'UT-KARE",
+  "word_bangla": "অউট-করে",
+  "category": "Adverb",
+  "meaning_english": "Suddenly",
+  "meaning_bangla": "হঠাৎ করে"
+},
+{
+  "word_roman": "ĀK-PĀ",
+  "word_bangla": "আক-পা",
+  "category": "Verb",
+  "meaning_english": "To draw, to paint",
+  "meaning_bangla": "আঁকা/চিত্রাঙ্কন"
+},
+{
+  "word_roman": "ĀKĀŚ",
+  "word_bangla": "আকাশ",
+  "category": "Noun",
+  "meaning_english": "Sky",
+  "meaning_bangla": "আকাশ"
+},
+{
+  "word_roman": "ĀKOT",
+  "word_bangla": "আকোট",
+  "category": "Adjective",
+  "meaning_english": "Obstinate, stubborn",
+  "meaning_bangla": "একগুঁয়ে/জিদ্দি"
+},
+{
+  "word_roman": "ĀKHIL",
+  "word_bangla": "আখিল",
+  "category": "Adjective",
+  "meaning_english": "Wise, intelligent",
+  "meaning_bangla": "বুদ্ধিমান/জ্ঞানী"
+},
+{
+  "word_roman": "ĀKHUŚĪ",
+  "word_bangla": "আখুশী",
+  "category": "Adjective",
+  "meaning_english": "Unhappy, displeased",
+  "meaning_bangla": "অখুশি/অসন্তুষ্ট"
+},
+{
+  "word_roman": "ĀG-PĀ",
+  "word_bangla": "আগ-পা",
+  "category": "Verb",
+  "meaning_english": "To move forward",
+  "meaning_bangla": "এগিয়ে যাওয়া"
+},
+{
+  "word_roman": "ĀG-BĀRĀ",
+  "word_bangla": "আগ-বারা",
+  "category": "Verb",
+  "meaning_english": "To advance",
+  "meaning_bangla": "অগ্রসর হওয়া"
+},
+{
+  "word_roman": "ĀGĀ",
+  "word_bangla": "আগা",
+  "category": "Noun",
+  "meaning_english": "Top, tip",
+  "meaning_bangla": "আগা/শিখর"
+},
+{
+  "word_roman": "ĀGĀM",
+  "word_bangla": "আগাম",
+  "category": "Adjective",
+  "meaning_english": "Advance",
+  "meaning_bangla": "অগ্রিম"
+},
+{
+  "word_roman": "ĀGU",
+  "word_bangla": "আগু",
+  "category": "Noun",
+  "meaning_english": "Fire",
+  "meaning_bangla": "আগুন"
+},
+{
+  "word_roman": "ĀGUMĀNI",
+  "word_bangla": "আগুমনি",
+  "category": "Adjective",
+  "meaning_english": "Feverish",
+  "meaning_bangla": "জ্বর জ্বর ভাব"
+},
+{
+  "word_roman": "ĀGUL-PĀ",
+  "word_bangla": "আগুল-পা",
+  "category": "Verb",
+  "meaning_english": "To prevent, to stop",
+  "meaning_bangla": "আটকানো/বাধা দেওয়া"
+},
+{
+  "word_roman": "ĀGOL",
+  "word_bangla": "আগোল",
+  "category": "Noun",
+  "meaning_english": "Door-bolt",
+  "meaning_bangla": "দরজার খিল"
+},
+{
+  "word_roman": "ĀŃAR",
+  "word_bangla": "আঙর",
+  "category": "Noun",
+  "meaning_english": "Coal / Charcoal",
+  "meaning_bangla": "কয়লা/আঙার"
+},
+{
+  "word_roman": "ĀŃARĀ",
+  "word_bangla": "আঙরা",
+  "category": "Noun",
+  "meaning_english": "Burning coal",
+  "meaning_bangla": "জ্বলন্ত কয়লা"
+},
+{
+  "word_roman": "ĀŃUL",
+  "word_bangla": "আঙুল",
+  "category": "Noun",
+  "meaning_english": "Finger",
+  "meaning_bangla": "আঙুল"
+},
+{
+  "word_roman": "ĀŃULI",
+  "word_bangla": "আঙুলি",
+  "category": "Noun",
+  "meaning_english": "Ring for finger",
+  "meaning_bangla": "আঙটি/আঙুলি"
+},
+{
+  "word_roman": "ĀCAK-PĀ",
+  "word_bangla": "আচক-পা",
+  "category": "Verb",
+  "meaning_english": "To surprise",
+  "meaning_bangla": "আশ্চর্য করা"
+},
+{
+  "word_roman": "ĀCAR",
+  "word_bangla": "আচর",
+  "category": "Noun",
+  "meaning_english": "Conduct, behavior",
+  "meaning_bangla": "আচরণ"
+},
+{
+  "word_roman": "ĀCĀR",
+  "word_bangla": "আচার",
+  "category": "Noun",
+  "meaning_english": "Pickles",
+  "meaning_bangla": "আচার"
+},
+{
+  "word_roman": "ĀCĀR-VICĀR",
+  "word_bangla": "আচার-বিচার",
+  "category": "Noun",
+  "meaning_english": "Custom and justice",
+  "meaning_bangla": "আচার-বিচার"
+},
+{
+  "word_roman": "ĀCHĀL",
+  "word_bangla": "আছাল",
+  "category": "Adjective",
+  "meaning_english": "Real, original",
+  "meaning_bangla": "আসল"
+},
+{
+  "word_roman": "ĀJI",
+  "word_bangla": "আজি",
+  "category": "Adverb",
+  "meaning_english": "Today",
+  "meaning_bangla": "আজ"
+},
+{
+  "word_roman": "ĀJĀD",
+  "word_bangla": "আজাদ",
+  "category": "Adjective",
+  "meaning_english": "Free, independent",
+  "meaning_bangla": "স্বাধীন/মুক্ত"
+},
+{
+  "word_roman": "ĀJUK-PĀ",
+  "word_bangla": "আজুক-পা",
+  "category": "Verb",
+  "meaning_english": "To measure",
+  "meaning_bangla": "মাপ করা/পরিমাপ"
+},
+{
+  "word_roman": "ĀJOL",
+  "word_bangla": "আজোল",
+  "category": "Noun",
+  "meaning_english": "Net",
+  "meaning_bangla": "জাল"
 }
 ]
