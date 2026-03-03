@@ -128,12 +128,12 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <div class="meaning-section">
             <h3 class="section-label">English Meaning</h3>
-            <p class="meaning-text">${highlight(entry.meaning_english, query)}</p>
+            <p class="meaning-text english-meaning">${highlight(entry.meaning_english, query)}</p>
           </div>
           
           <div class="meaning-section">
-            <h3 class="section-label">বাংলা অর্থ</h3>
-            <p class="meaning-text bangla-text">${entry.meaning_bangla || ''}</p>
+            <h3 class="section-label">Bangla Meaning</h3>
+            <p class="meaning-text bangla-meaning bangla-text">${entry.meaning_bangla || ''}</p>
           </div>
         </div>
       `).join('');

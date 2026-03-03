@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f8fafc;
+  background-color: #ffffff;
   color: #1e293b;
   display: flex;
   justify-content: center;
@@ -72,7 +72,7 @@ input {
   font-size: 1rem;
   outline: none;
   transition: all 0.2s;
-  background-color: #f8fafc;
+  background-color: #ffffff;
 }
 
 input:focus {
@@ -90,9 +90,10 @@ input:focus {
 }
 
 .result-card {
-  background-color: #f1f5f9;
+  background-color: #ffffff;
   padding: 1rem;
   border-radius: 1rem;
+  border: 1px solid #e2e8f0;
   border-left: 4px solid #3b82f6;
   margin-bottom: 1rem;
   animation: fadeIn 0.3s ease-out;
@@ -168,6 +169,14 @@ mark {
   color: #334155;
 }
 
+.english-meaning {
+  color: #2563eb; /* Blue for English */
+}
+
+.bangla-meaning {
+  color: #059669; /* Green for Bangla */
+}
+
 .bangla-text {
   font-family: 'Hind Siliguri', sans-serif;
   font-size: 1rem;
@@ -178,7 +187,7 @@ mark {
   color: #94a3b8;
   font-style: italic;
   padding: 2rem;
-  background: #f8fafc;
+  background: #ffffff;
   border: 2px dashed #e2e8f0;
   border-radius: 1rem;
 }
