@@ -17588,5 +17588,915 @@
     "category": "Adjective",
     "meaning_english": "Very fast",
     "meaning_bangla": "অত্যন্ত দ্রুত"
+  },
+  {
+    "word_roman": "CINTAK",
+    "word_bangla": "চিন্তাক",
+    "category": "Noun",
+    "meaning_english": "Misgivings",
+    "meaning_bangla": "সন্দেহ, দ্বিধা"
+  },
+  {
+    "word_roman": "CINANA",
+    "word_bangla": "চিনানা",
+    "category": "Adjective",
+    "meaning_english": "Known",
+    "meaning_bangla": "জানা"
+  },
+  {
+    "word_roman": "CINANA",
+    "word_bangla": "চিনানা",
+    "category": "Noun",
+    "meaning_english": "(i) Comb (ii) Weaver's comb",
+    "meaning_bangla": "(i) চিরুনি (ii) তাঁতির চিরুনি"
+  },
+  {
+    "word_roman": "CINANANI",
+    "word_bangla": "চিনানানি",
+    "category": "Noun",
+    "meaning_english": "Knowing, recognising",
+    "meaning_bangla": "জানা, চেনা"
+  },
+  {
+    "word_roman": "CINAPAK(M)",
+    "word_bangla": "চিনাপাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sénâpak",
+    "meaning_bangla": "সেনাপাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CINI",
+    "word_bangla": "চিনি",
+    "category": "Noun",
+    "meaning_english": "Sugar",
+    "meaning_bangla": "চিনি"
+  },
+  {
+    "word_roman": "CINUWA",
+    "word_bangla": "চিনুয়া",
+    "category": "Verb",
+    "meaning_english": "Cause of knowing",
+    "meaning_bangla": "জানার কারণ"
+  },
+  {
+    "word_roman": "CIR",
+    "word_bangla": "চির",
+    "category": "Noun",
+    "meaning_english": "Crack",
+    "meaning_bangla": "ফাটল"
+  },
+  {
+    "word_roman": "CIRANJIBI",
+    "word_bangla": "চিরঞ্জীবি",
+    "category": "Adjective",
+    "meaning_english": "Long-lived",
+    "meaning_bangla": "চিরঞ্জীবী"
+  },
+  {
+    "word_roman": "CIRATA",
+    "word_bangla": "চিরাতা",
+    "category": "Noun",
+    "meaning_english": "A medicinal plant",
+    "meaning_bangla": "একটি ঔষধি গাছ"
+  },
+  {
+    "word_roman": "CIRA",
+    "word_bangla": "চিরা",
+    "category": "Noun",
+    "meaning_english": "Long piece of land",
+    "meaning_bangla": "লম্বা জমির টুকরো"
+  },
+  {
+    "word_roman": "CIRA",
+    "word_bangla": "চিরা",
+    "category": "Verb",
+    "meaning_english": "(i) To tear asunder (ii) To saw (iii) To taunt",
+    "meaning_bangla": "(i) ছিঁড়া (ii) করাত দিয়ে কাটা (iii) খোঁচা দেওয়া"
+  },
+  {
+    "word_roman": "CIRANI",
+    "word_bangla": "চিরানি",
+    "category": "Noun",
+    "meaning_english": "Sawing, tearing, taunting",
+    "meaning_bangla": "করাত কাটা, ছেঁড়া, খোঁচা দেওয়া"
+  },
+  {
+    "word_roman": "CIRI",
+    "word_bangla": "চিরি",
+    "category": "Noun",
+    "meaning_english": "Ladder",
+    "meaning_bangla": "সিঁড়ি"
+  },
+  {
+    "word_roman": "CIRUWA",
+    "word_bangla": "চিরুয়া",
+    "category": "Verb",
+    "meaning_english": "To cause to saw or tear",
+    "meaning_bangla": "করাত কাটানো বা ছেঁড়ানো"
+  },
+  {
+    "word_roman": "CIKA",
+    "word_bangla": "চিকা",
+    "category": "Noun",
+    "meaning_english": "Beaten rice",
+    "meaning_bangla": "চিঁড়া"
+  },
+  {
+    "word_roman": "CIL",
+    "word_bangla": "চিল",
+    "category": "Noun",
+    "meaning_english": "Kite",
+    "meaning_bangla": "ঘুড়ি"
+  },
+  {
+    "word_roman": "CIL",
+    "word_bangla": "চিল",
+    "category": "Adjective",
+    "meaning_english": "(i) Busy (ii) Congested",
+    "meaning_bangla": "(i) ব্যস্ত (ii) ভিড়"
+  },
+  {
+    "word_roman": "CILA",
+    "word_bangla": "চিলা",
+    "category": "Noun",
+    "meaning_english": "Long piece",
+    "meaning_bangla": "লম্বা টুকরো"
+  },
+  {
+    "word_roman": "CILI",
+    "word_bangla": "চিলি",
+    "category": "Noun",
+    "meaning_english": "Long kite",
+    "meaning_bangla": "লম্বা ঘুড়ি"
+  },
+  {
+    "word_roman": "CILUNI",
+    "word_bangla": "চিলুনি",
+    "category": "Noun",
+    "meaning_english": "Kite",
+    "meaning_bangla": "ঘুড়ি"
+  },
+  {
+    "word_roman": "CILEI",
+    "word_bangla": "চিলেই",
+    "category": "Noun",
+    "meaning_english": "Strip (as of bamboo)",
+    "meaning_bangla": "বাঁশের পাতলা টুকরো"
+  },
+  {
+    "word_roman": "CILPACIL",
+    "word_bangla": "চিলপচিল",
+    "category": "Adjective",
+    "meaning_english": "Congested",
+    "meaning_bangla": "ভিড়"
+  },
+  {
+    "word_roman": "CILLA",
+    "word_bangla": "চিল্লা",
+    "category": "Verb",
+    "meaning_english": "To shout",
+    "meaning_bangla": "চিৎকার করা"
+  },
+  {
+    "word_roman": "CILLANI",
+    "word_bangla": "চিল্লানি",
+    "category": "Noun",
+    "meaning_english": "Shouting",
+    "meaning_bangla": "চিৎকার করা"
+  },
+  {
+    "word_roman": "CUCCUPA",
+    "word_bangla": "চুচ্চুপা",
+    "category": "Adjective",
+    "meaning_english": "Wet",
+    "meaning_bangla": "ভিজা"
+  },
+  {
+    "word_roman": "CUJ",
+    "word_bangla": "চুজ",
+    "category": "Noun",
+    "meaning_english": "(i) Injury, stroke (ii) Speedy movement",
+    "meaning_bangla": "(i) আঘাত, চোট (ii) দ্রুত চলাচল"
+  },
+  {
+    "word_roman": "CUTI",
+    "word_bangla": "চুটি",
+    "category": "Noun",
+    "meaning_english": "(i) Fringe, border (ii) A little",
+    "meaning_bangla": "(i) কিনারা, প্রান্ত (ii) সামান্য"
+  },
+  {
+    "word_roman": "CUTTA",
+    "word_bangla": "চুট্টা",
+    "category": "Adjective",
+    "meaning_english": "Naughty",
+    "meaning_bangla": "দুষ্টু"
+  },
+  {
+    "word_roman": "CUTHHA",
+    "word_bangla": "চুথা",
+    "category": "Noun",
+    "meaning_english": "Soda",
+    "meaning_bangla": "সোডা"
+  },
+  {
+    "word_roman": "CUTHEK",
+    "word_bangla": "চুথেক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of tuthek",
+    "meaning_bangla": "তুথেক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CUTAT-PATAT(M)",
+    "word_bangla": "চুটাত-পাটাত(ম)",
+    "category": "Adjective",
+    "meaning_english": "Helpless",
+    "meaning_bangla": "অসহায়"
+  },
+  {
+    "word_roman": "CUNA",
+    "word_bangla": "চুনা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of suna",
+    "meaning_bangla": "সুনা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CUNU",
+    "word_bangla": "চুনু",
+    "category": "Noun",
+    "meaning_english": "An affectionate address to a child",
+    "meaning_bangla": "শিশুর প্রতি স্নেহসূচক সম্বোধন"
+  },
+  {
+    "word_roman": "CUP",
+    "word_bangla": "চুপ",
+    "category": "Adjective",
+    "meaning_english": "Hush, silent",
+    "meaning_bangla": "চুপ, নীরব"
+  },
+  {
+    "word_roman": "CUPAPA(M)",
+    "word_bangla": "চুপাপা(ম)",
+    "category": "Noun",
+    "meaning_english": "Side of the face",
+    "meaning_bangla": "মুখের পাশ"
+  },
+  {
+    "word_roman": "CUM",
+    "word_bangla": "চুম",
+    "category": "Adjective",
+    "meaning_english": "(i) Right (ii) Straight",
+    "meaning_bangla": "(i) ডান (ii) সোজা"
+  },
+  {
+    "word_roman": "CUMA",
+    "word_bangla": "চুমা",
+    "category": "Noun",
+    "meaning_english": "Kiss",
+    "meaning_bangla": "চুম্বন"
+  },
+  {
+    "word_roman": "CUMPUL",
+    "word_bangla": "চুম্পুল",
+    "category": "Noun",
+    "meaning_english": "Bunch (as of fruit)",
+    "meaning_bangla": "গুচ্ছ (ফলের)"
+  },
+  {
+    "word_roman": "CUWA",
+    "word_bangla": "চুয়া",
+    "category": "Adjective",
+    "meaning_english": "Almost",
+    "meaning_bangla": "প্রায়"
+  },
+  {
+    "word_roman": "CUWA",
+    "word_bangla": "চুয়া",
+    "category": "Verb",
+    "meaning_english": "To suck out",
+    "meaning_bangla": "চুষে বের করা"
+  },
+  {
+    "word_roman": "CUWA",
+    "word_bangla": "চুয়া",
+    "category": "Verb",
+    "meaning_english": "To ooze out, to trickle",
+    "meaning_bangla": "চোয়ানো, টপকে পড়া"
+  },
+  {
+    "word_roman": "CUWANI",
+    "word_bangla": "চুয়ানি",
+    "category": "Noun",
+    "meaning_english": "Sucking out",
+    "meaning_bangla": "চুষে বের করা"
+  },
+  {
+    "word_roman": "CUWANI",
+    "word_bangla": "চুয়ানি",
+    "category": "Noun",
+    "meaning_english": "Oozing, trickling out",
+    "meaning_bangla": "চোয়ানো, টপকে পড়া"
+  },
+  {
+    "word_roman": "CURA",
+    "word_bangla": "চুরা",
+    "category": "Adjective",
+    "meaning_english": "Broken to pieces, crushed",
+    "meaning_bangla": "টুকরো টুকরো, চূর্ণ"
+  },
+  {
+    "word_roman": "CURANTA",
+    "word_bangla": "চুরান্তা",
+    "category": "Adjective",
+    "meaning_english": "Secret, top",
+    "meaning_bangla": "গোপন, শীর্ষ"
+  },
+  {
+    "word_roman": "CURITAL",
+    "word_bangla": "চুরিতাল",
+    "category": "Noun",
+    "meaning_english": "The space below the lower edge of a roof",
+    "meaning_bangla": "ছাদের নিচের প্রান্তের নিচের জায়গা"
+  },
+  {
+    "word_roman": "CURUK(M)",
+    "word_bangla": "চুরুক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of caruk",
+    "meaning_bangla": "চারুক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CURUT",
+    "word_bangla": "চুরুত",
+    "category": "Noun",
+    "meaning_english": "Cigar",
+    "meaning_bangla": "চুরুট"
+  },
+  {
+    "word_roman": "CURMARA",
+    "word_bangla": "চুরমারা",
+    "category": "Adjective",
+    "meaning_english": "Broken to pieces, crushed",
+    "meaning_bangla": "টুকরো টুকরো, চূর্ণ"
+  },
+  {
+    "word_roman": "CURI",
+    "word_bangla": "চুরি",
+    "category": "Noun",
+    "meaning_english": "Bangles",
+    "meaning_bangla": "চুড়ি"
+  },
+  {
+    "word_roman": "CUL(A)",
+    "word_bangla": "চুল(আ)",
+    "category": "Noun",
+    "meaning_english": "Hair",
+    "meaning_bangla": "চুল"
+  },
+  {
+    "word_roman": "CULI",
+    "word_bangla": "চুলি",
+    "category": "Noun",
+    "meaning_english": "The lower edge of a slanting roof",
+    "meaning_bangla": "ঢালু ছাদের নিচের প্রান্ত"
+  },
+  {
+    "word_roman": "CUS",
+    "word_bangla": "চুস",
+    "category": "Noun",
+    "meaning_english": "Husk",
+    "meaning_bangla": "ভুসি"
+  },
+  {
+    "word_roman": "CUS",
+    "word_bangla": "চুস",
+    "category": "Verb",
+    "meaning_english": "To suck dry",
+    "meaning_bangla": "চুষে শুকিয়ে ফেলা"
+  },
+  {
+    "word_roman": "CUSANI",
+    "word_bangla": "চুসানি",
+    "category": "Noun",
+    "meaning_english": "Sucking up",
+    "meaning_bangla": "চুষে তোলা"
+  },
+  {
+    "word_roman": "CUSUBA(M)",
+    "word_bangla": "চুসুবা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of cuccupa",
+    "meaning_bangla": "চুচ্চুপা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CUH(M)",
+    "word_bangla": "চুহ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of cuh",
+    "meaning_bangla": "চুহ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CUHI",
+    "word_bangla": "চুহি",
+    "category": "Noun",
+    "meaning_english": "Smoking pipe",
+    "meaning_bangla": "ধূমপানের পাইপ"
+  },
+  {
+    "word_roman": "CUHI(M)",
+    "word_bangla": "চুহি(ম)",
+    "category": "Noun",
+    "meaning_english": "Juice of sugarcane",
+    "meaning_bangla": "আখের রস"
+  },
+  {
+    "word_roman": "CUHUNI",
+    "word_bangla": "চুহুনি",
+    "category": "Noun",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "CUHURI",
+    "word_bangla": "চুহুরি",
+    "category": "Noun",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "CURA",
+    "word_bangla": "চুরা",
+    "category": "Noun",
+    "meaning_english": "Crown, crest",
+    "meaning_bangla": "মুকুট, শীর্ষ"
+  },
+  {
+    "word_roman": "CURANTA",
+    "word_bangla": "চুরান্তা",
+    "category": "Adjective",
+    "meaning_english": "Final, decisive",
+    "meaning_bangla": "চূড়ান্ত, নির্ণায়ক"
+  },
+  {
+    "word_roman": "CE",
+    "word_bangla": "চে",
+    "category": "Noun",
+    "meaning_english": "Paper",
+    "meaning_bangla": "কাগজ"
+  },
+  {
+    "word_roman": "CEIHAL",
+    "word_bangla": "চেইহাল",
+    "category": "Noun",
+    "meaning_english": "Stick used as a partition",
+    "meaning_bangla": "বিভাজক হিসেবে ব্যবহৃত লাঠি"
+  },
+  {
+    "word_roman": "CEK",
+    "word_bangla": "চেক",
+    "category": "Noun",
+    "meaning_english": "Brick",
+    "meaning_bangla": "ইট"
+  },
+  {
+    "word_roman": "CEKAT",
+    "word_bangla": "চেকাত",
+    "category": "Noun",
+    "meaning_english": "The shoulder-blade",
+    "meaning_bangla": "কাঁধের ব্লেড"
+  },
+  {
+    "word_roman": "CEKARAN(M)",
+    "word_bangla": "চেকারান(ম)",
+    "category": "Noun",
+    "meaning_english": "A big perforated net",
+    "meaning_bangla": "বড় ছিদ্রযুক্ত জাল"
+  },
+  {
+    "word_roman": "CEKAI",
+    "word_bangla": "চেকাই",
+    "category": "Noun",
+    "meaning_english": "Pot-sherd tongs",
+    "meaning_bangla": "হাঁড়ির টুকরো ধরার চিমটি"
+  },
+  {
+    "word_roman": "CEKAP",
+    "word_bangla": "চেকাপ",
+    "category": "Noun",
+    "meaning_english": "Tongs",
+    "meaning_bangla": "চিমটি"
+  },
+  {
+    "word_roman": "CEKCIL",
+    "word_bangla": "চেকচিল",
+    "category": "Adjective",
+    "meaning_english": "(i) Cautious (ii) Calculative",
+    "meaning_bangla": "(i) সতর্ক (ii) হিসাবী"
+  },
+  {
+    "word_roman": "CEKPAL",
+    "word_bangla": "চেকপাল",
+    "category": "Noun",
+    "meaning_english": "Wall",
+    "meaning_bangla": "দেয়াল"
+  },
+  {
+    "word_roman": "CEKPHAI(M)",
+    "word_bangla": "চেকফাই(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sekpi",
+    "meaning_bangla": "সেকপি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CEKPHIL(M)",
+    "word_bangla": "চেকফিল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sekpil",
+    "meaning_bangla": "সেকপিল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CEKMUK",
+    "word_bangla": "চেকমুক",
+    "category": "Noun",
+    "meaning_english": "The least response",
+    "meaning_bangla": "সবচেয়ে কম প্রতিক্রিয়া"
+  },
+  {
+    "word_roman": "CEN",
+    "word_bangla": "চেন",
+    "category": "Noun",
+    "meaning_english": "A kind of fish",
+    "meaning_bangla": "এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "CEN",
+    "word_bangla": "চেন",
+    "category": "Verb",
+    "meaning_english": "Jump",
+    "meaning_bangla": "লাফানো"
+  },
+  {
+    "word_roman": "CENAK",
+    "word_bangla": "চেনাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of cinak",
+    "meaning_bangla": "চিনাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CENI",
+    "word_bangla": "চেনি",
+    "category": "Noun",
+    "meaning_english": "Rice water",
+    "meaning_bangla": "ভাতের পানি"
+  },
+  {
+    "word_roman": "CENCANU(M)",
+    "word_bangla": "চেনচানু(ম)",
+    "category": "Noun",
+    "meaning_english": "A wicker-basket for washing rice",
+    "meaning_bangla": "ধান ধোয়ার বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "CENCALUK",
+    "word_bangla": "চেনচালুক",
+    "category": "Noun",
+    "meaning_english": "A wicker-basket for washing rice",
+    "meaning_bangla": "ধান ধোয়ার বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "CENCENA",
+    "word_bangla": "চেনচেনা",
+    "category": "Adjective",
+    "meaning_english": "Restless",
+    "meaning_bangla": "অস্থির"
+  },
+  {
+    "word_roman": "CENCEL(M)",
+    "word_bangla": "চেনচেল(ম)",
+    "category": "Noun",
+    "meaning_english": "A wicker-basket for keeping rice",
+    "meaning_bangla": "চাল রাখার বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "CENTHI",
+    "word_bangla": "চেন্থি",
+    "category": "Adjective",
+    "meaning_english": "Very restless",
+    "meaning_bangla": "অত্যন্ত অস্থির"
+  },
+  {
+    "word_roman": "CENPHU",
+    "word_bangla": "চেনফু",
+    "category": "Noun",
+    "meaning_english": "Container of rice",
+    "meaning_bangla": "চালের পাত্র"
+  },
+  {
+    "word_roman": "CENRA",
+    "word_bangla": "চেনরা",
+    "category": "Noun",
+    "meaning_english": "A flippant person",
+    "meaning_bangla": "হালকা মনের লোক"
+  },
+  {
+    "word_roman": "CENSU",
+    "word_bangla": "চেনসু",
+    "category": "Noun",
+    "meaning_english": "Party",
+    "meaning_bangla": "দল"
+  },
+  {
+    "word_roman": "CEMUṬI",
+    "word_bangla": "চেমুটি",
+    "category": "Noun",
+    "meaning_english": "Rheum",
+    "meaning_bangla": "চোখের পিচুটি"
+  },
+  {
+    "word_roman": "CEMURĪ",
+    "word_bangla": "চেমুরী",
+    "category": "Adjective",
+    "meaning_english": "Nasty (fem.)",
+    "meaning_bangla": "নোংরা (স্ত্রীলিঙ্গ)"
+  },
+  {
+    "word_roman": "CEMPĀI(M.)",
+    "word_bangla": "চেম্পাই(ম.)",
+    "category": "Noun",
+    "meaning_english": "A long wicker-basket",
+    "meaning_bangla": "একটি লম্বা বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "CEMPĀK(M.)",
+    "word_bangla": "চেম্পাক(ম.)",
+    "category": "Noun",
+    "meaning_english": "Flattened rice",
+    "meaning_bangla": "চিঁড়া"
+  },
+  {
+    "word_roman": "CERĀ",
+    "word_bangla": "চেরা",
+    "category": "Noun",
+    "meaning_english": "Boar",
+    "meaning_bangla": "বন্য শুকর"
+  },
+  {
+    "word_roman": "CERĀL(M.)",
+    "word_bangla": "চেরাল(ম.)",
+    "category": "Noun",
+    "meaning_english": "A cord made by twisting paddy-plants",
+    "meaning_bangla": "ধান গাছ পাকিয়ে তৈরি দড়ি"
+  },
+  {
+    "word_roman": "CERI / CEREI",
+    "word_bangla": "চেরি / চেরেই",
+    "category": "Verb",
+    "meaning_english": "To twist paddy plants",
+    "meaning_bangla": "ধান গাছ পাকানো"
+  },
+  {
+    "word_roman": "CÉRAU",
+    "word_bangla": "চেরাউ",
+    "category": "Noun",
+    "meaning_english": "A kind of small bird",
+    "meaning_bangla": "এক ধরণের ছোট পাখি"
+  },
+  {
+    "word_roman": "CEL(M.)",
+    "word_bangla": "চেল(ম.)",
+    "category": "Noun",
+    "meaning_english": "Announcement",
+    "meaning_bangla": "ঘোষণা"
+  },
+  {
+    "word_roman": "CEL",
+    "word_bangla": "চেল",
+    "category": "Verb",
+    "meaning_english": "Reach",
+    "meaning_bangla": "পৌঁছানো"
+  },
+  {
+    "word_roman": "CEL",
+    "word_bangla": "চেল",
+    "category": "Noun",
+    "meaning_english": "Accommodation",
+    "meaning_bangla": "থাকার জায়গা"
+  },
+  {
+    "word_roman": "CEL",
+    "word_bangla": "চেল",
+    "category": "Verb",
+    "meaning_english": "Suffering from (disease)",
+    "meaning_bangla": "রোগে ভোগা"
+  },
+  {
+    "word_roman": "CELĀ",
+    "word_bangla": "চেলা",
+    "category": "Noun",
+    "meaning_english": "Centipede",
+    "meaning_bangla": "কেন্নো বা বিছা"
+  },
+  {
+    "word_roman": "CELA-(M.)",
+    "word_bangla": "চেলা-(ম.)",
+    "category": "Verb",
+    "meaning_english": "To awaken",
+    "meaning_bangla": "জাগানো"
+  },
+  {
+    "word_roman": "CÉLĀCAKI",
+    "word_bangla": "চেলাচাকি",
+    "category": "Noun",
+    "meaning_english": "A kind of swift-moving bird",
+    "meaning_bangla": "এক ধরণের দ্রুতগামী পাখি"
+  },
+  {
+    "word_roman": "CELANI(M.)",
+    "word_bangla": "চেলানি(ম.)",
+    "category": "Noun",
+    "meaning_english": "Awakening",
+    "meaning_bangla": "জাগরণ"
+  },
+  {
+    "word_roman": "CELI",
+    "word_bangla": "চেলি",
+    "category": "Noun",
+    "meaning_english": "Split wood or earth",
+    "meaning_bangla": "চেরা কাঠ বা মাটি"
+  },
+  {
+    "word_roman": "CELTHĀ",
+    "word_bangla": "চেলথা",
+    "category": "Noun",
+    "meaning_english": "(i) Condemnation (ii) Condemned",
+    "meaning_bangla": "(i) নিন্দা (ii) নিন্দিত"
+  },
+  {
+    "word_roman": "CÉSURĀ(M.)",
+    "word_bangla": "চেলুরা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of cécurā",
+    "meaning_bangla": "চেচুরা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CEHARA",
+    "word_bangla": "চেহারা",
+    "category": "Noun",
+    "meaning_english": "Appearance",
+    "meaning_bangla": "চেহারা বা আকৃতি"
+  },
+  {
+    "word_roman": "COK",
+    "word_bangla": "চোক",
+    "category": "Noun",
+    "meaning_english": "Eye",
+    "meaning_bangla": "চোখ"
+  },
+  {
+    "word_roman": "COKHĀ(M.)",
+    "word_bangla": "চোখা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of cahā",
+    "meaning_bangla": "চাহা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CON(M.)",
+    "word_bangla": "চোন(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of caul",
+    "meaning_bangla": "চাউল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CAUKĀ",
+    "word_bangla": "চৌকা",
+    "category": "Noun",
+    "meaning_english": "Quadrangular hole on the earth",
+    "meaning_bangla": "মাটিতে চারকোণা গর্ত"
+  },
+  {
+    "word_roman": "CAUKHĀT",
+    "word_bangla": "চৌখাত",
+    "category": "Adjective",
+    "meaning_english": "Prompt",
+    "meaning_bangla": "তৎপর বা চটপটে"
+  },
+  {
+    "word_roman": "CAUCALĀ",
+    "word_bangla": "চৌচালা",
+    "category": "Noun",
+    "meaning_english": "A house with roofs on four sides",
+    "meaning_bangla": "চারচালা ঘর"
+  },
+  {
+    "word_roman": "CAUṬṬHĀ",
+    "word_bangla": "চৌঠা",
+    "category": "Noun",
+    "meaning_english": "The fourth day (from today)",
+    "meaning_bangla": "চতুর্থ দিন (আজ থেকে)"
+  },
+  {
+    "word_roman": "CAUTĀL",
+    "word_bangla": "চৌতাল",
+    "category": "Noun",
+    "meaning_english": "A musical measure",
+    "meaning_bangla": "সঙ্গীতের একটি তাল"
+  },
+  {
+    "word_roman": "CAUDDA",
+    "word_bangla": "চৌদ্দ",
+    "category": "Number",
+    "meaning_english": "Fourteen",
+    "meaning_bangla": "চৌদ্দ"
+  },
+  {
+    "word_roman": "CAUDDĀ",
+    "word_bangla": "চৌদ্দা",
+    "category": "Noun",
+    "meaning_english": "Area",
+    "meaning_bangla": "এলাকা বা সীমানা"
+  },
+  {
+    "word_roman": "CAUDHURĪ",
+    "word_bangla": "চৌধুরী",
+    "category": "Noun",
+    "meaning_english": "Zamindar",
+    "meaning_bangla": "জমিদার"
+  },
+  {
+    "word_roman": "CAUPHALĀ",
+    "word_bangla": "চৌফলা",
+    "category": "Adjective",
+    "meaning_english": "Having four sides",
+    "meaning_bangla": "চারপাশ বিশিষ্ট"
+  },
+  {
+    "word_roman": "CAUMAHALĀ",
+    "word_bangla": "চৌমহলা",
+    "category": "Noun",
+    "meaning_english": "Four-storeyed building",
+    "meaning_bangla": "চারতলা ভবন"
+  },
+  {
+    "word_roman": "CAUMUNI(M.)",
+    "word_bangla": "চৌমুনি(ম.)",
+    "category": "Noun",
+    "meaning_english": "A place where four roads meet",
+    "meaning_bangla": "চৌমাথা বা মোড়"
+  },
+  {
+    "word_roman": "CAURAN",
+    "word_bangla": "চৌরন",
+    "category": "Adjective",
+    "meaning_english": "Restless, fickle",
+    "meaning_bangla": "অস্থির বা চঞ্চল"
+  },
+  {
+    "word_roman": "CAURĀP",
+    "word_bangla": "চৌরাপ",
+    "category": "Adjective",
+    "meaning_english": "Having gaps at places",
+    "meaning_bangla": "মাঝে মাঝে ফাঁক থাকা"
+  },
+  {
+    "word_roman": "CAURI(M.)",
+    "word_bangla": "চৌরি(ম.)",
+    "category": "Noun",
+    "meaning_english": "Stick of cane",
+    "meaning_bangla": "বেতের লাঠি"
+  },
+  {
+    "word_roman": "CAURIYAL",
+    "word_bangla": "চৌরিয়াল",
+    "category": "Noun",
+    "meaning_english": "Mushroom",
+    "meaning_bangla": "ব্যাঙের ছাতা বা মাশরুম"
+  },
+  {
+    "word_roman": "CAURIYĀ",
+    "word_bangla": "চৌরিয়া",
+    "category": "Adjective",
+    "meaning_english": "Restless, fickle",
+    "meaning_bangla": "অস্থির বা চঞ্চল"
+  },
+  {
+    "word_roman": "CAUHADDĀ",
+    "word_bangla": "চৌহাদ্দা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of caudda",
+    "meaning_bangla": "চৌদ্দা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CAUHĀT",
+    "word_bangla": "চৌহাত",
+    "category": "Noun",
+    "meaning_english": "Alt. form of caukhāt",
+    "meaning_bangla": "চৌখাত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CAUHIDDĀ",
+    "word_bangla": "চৌহিদ্দা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of caudda",
+    "meaning_bangla": "চৌদ্দা-এর বিকল্প রূপ"
   }
 ]
