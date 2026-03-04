@@ -6235,5 +6235,397 @@
     "category": "Noun",
     "meaning_english": "Bringing down or bringing out",
     "meaning_bangla": "নামানো বা বের করা"
+  },
+  {
+    "word_roman": "-ULI",
+    "word_bangla": "-উলি",
+    "category": "Suffix",
+    "meaning_english": "A suf. indicating 'nature' or 'profession'",
+    "meaning_bangla": "'স্বভাব' বা 'পেশা' নির্দেশক suffix"
+  },
+  {
+    "word_roman": "ULU",
+    "word_bangla": "উলু",
+    "category": "Noun",
+    "meaning_english": "White ant",
+    "meaning_bangla": "উপড়ে পিঁপড়া"
+  },
+  {
+    "word_roman": "ULU",
+    "word_bangla": "উলু",
+    "category": "Noun",
+    "meaning_english": "A sound made by women by moving their tongues within the mouth on any festive occasion",
+    "meaning_bangla": "উৎসবের সময় মহিলাদের জিভ ঘুরিয়ে তৈরি শব্দ (উলু ধ্বনি)"
+  },
+  {
+    "word_roman": "ULUBURA",
+    "word_bangla": "উলুবুরা",
+    "category": "Noun",
+    "meaning_english": "Land-monitor",
+    "meaning_bangla": "গোইসাপ (জমির মনিটর সাপ)"
+  },
+  {
+    "word_roman": "ULUM",
+    "word_bangla": "উলুম",
+    "category": "Noun",
+    "meaning_english": "Pendulum",
+    "meaning_bangla": "পেন্ডুলাম"
+  },
+  {
+    "word_roman": "ULURI",
+    "word_bangla": "উলুরি",
+    "category": "Noun",
+    "meaning_english": "Whirl",
+    "meaning_bangla": "ঘূর্ণি"
+  },
+  {
+    "word_roman": "ULT",
+    "word_bangla": "উল্ট",
+    "category": "Verb",
+    "meaning_english": "To be reversed, to turn upside down",
+    "meaning_bangla": "উল্টে যাওয়া"
+  },
+  {
+    "word_roman": "ULTA",
+    "word_bangla": "উল্টা",
+    "category": "Adjective",
+    "meaning_english": "Turned upside down, opposite, reversed",
+    "meaning_bangla": "উল্টো, বিপরীত, উল্টানো"
+  },
+  {
+    "word_roman": "ULTA",
+    "word_bangla": "উল্টা",
+    "category": "Verb",
+    "meaning_english": "To reverse, to cause to turn over",
+    "meaning_bangla": "উল্টানো, উল্টে দেওয়া"
+  },
+  {
+    "word_roman": "ULTANI",
+    "word_bangla": "উল্টানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being reversed (ii) Causing to turn over",
+    "meaning_bangla": "(i) উল্টে যাওয়া (ii) উল্টানো"
+  },
+  {
+    "word_roman": "ULPHALI",
+    "word_bangla": "উলফালি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of urphali",
+    "meaning_bangla": "উরফালি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ULLUK-BHALLUK",
+    "word_bangla": "উল্লুক-ভাল্লুক",
+    "category": "Noun",
+    "meaning_english": "A species of monkey",
+    "meaning_bangla": "এক প্রজাতির বানর"
+  },
+  {
+    "word_roman": "UWA",
+    "word_bangla": "উওয়া",
+    "category": "Suffix",
+    "meaning_english": "Alt. form of uha",
+    "meaning_bangla": "উহা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "-UWA",
+    "word_bangla": "-উওয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or adjs. to indicate 'relation', 'connection', 'likeness' or 'pleonasm'",
+    "meaning_bangla": "সম্পর্ক, সংযোগ, সাদৃশ্য বা pleonasm নির্দেশ করে"
+  },
+  {
+    "word_roman": "-UWA",
+    "word_bangla": "-উওয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. used to form causatives from simple verb-roots",
+    "meaning_bangla": "সরল ক্রিয়ামূল থেকে কারণাত্মক রূপ তৈরি করে"
+  },
+  {
+    "word_roman": "USAL",
+    "word_bangla": "উসাল",
+    "category": "Noun",
+    "meaning_english": "Pine tree",
+    "meaning_bangla": "পাইন গাছ"
+  },
+  {
+    "word_roman": "USAL",
+    "word_bangla": "উসাল",
+    "category": "Noun",
+    "meaning_english": "Realisation (of money)",
+    "meaning_bangla": "টাকা আদায়"
+  },
+  {
+    "word_roman": "USA",
+    "word_bangla": "উসা",
+    "category": "Noun",
+    "meaning_english": "Branch",
+    "meaning_bangla": "ডাল"
+  },
+  {
+    "word_roman": "USAR",
+    "word_bangla": "উসার",
+    "category": "Noun",
+    "meaning_english": "A cover (for pillow, blanket etc.)",
+    "meaning_bangla": "ঢাকনা (বালিশ, কম্বল ইত্যাদির)"
+  },
+  {
+    "word_roman": "USALA",
+    "word_bangla": "উসালা",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of uchhala",
+    "meaning_bangla": "উচ্ছালা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "USIT",
+    "word_bangla": "উসিত",
+    "category": "Noun",
+    "meaning_english": "Care; taking into account",
+    "meaning_bangla": "যত্ন; বিবেচনা করা"
+  },
+  {
+    "word_roman": "USIMUSI",
+    "word_bangla": "উসিমুসি",
+    "category": "Noun",
+    "meaning_english": "The act of wrenching",
+    "meaning_bangla": "মোচড়ানোর কাজ"
+  },
+  {
+    "word_roman": "USIL",
+    "word_bangla": "উসিল",
+    "category": "Noun",
+    "meaning_english": "The act of shifting one's ill fate to some deity or some animal",
+    "meaning_bangla": "অশুভ ভাগ্য কোনো দেবতা বা পশুর উপর স্থানান্তর করা"
+  },
+  {
+    "word_roman": "USIL(M)",
+    "word_bangla": "উসিল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of u chil",
+    "meaning_bangla": "উচিল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "USEI",
+    "word_bangla": "উসেই",
+    "category": "Noun",
+    "meaning_english": "Young bamboo-plant",
+    "meaning_bangla": "তরুণ বাঁশের গাছ"
+  },
+  {
+    "word_roman": "USEN",
+    "word_bangla": "উসেন",
+    "category": "Noun",
+    "meaning_english": "A kind of wood",
+    "meaning_bangla": "এক ধরনের কাঠ"
+  },
+  {
+    "word_roman": "USOL(M)",
+    "word_bangla": "উসোল(ম)",
+    "category": "Verb",
+    "meaning_english": "To pinch",
+    "meaning_bangla": "চিমটি কাটা"
+  },
+  {
+    "word_roman": "UHANI",
+    "word_bangla": "উহানি",
+    "category": "Adverb",
+    "meaning_english": "That much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "UHANI",
+    "word_bangla": "উহানি",
+    "category": "Noun",
+    "meaning_english": "Causing the rubbish of paddy to fly",
+    "meaning_bangla": "ধানের আবর্জনা উড়িয়ে দেওয়া"
+  },
+  {
+    "word_roman": "UHAR",
+    "word_bangla": "উহার",
+    "category": "Noun",
+    "meaning_english": "Belch",
+    "meaning_bangla": "ঢেকুর"
+  },
+  {
+    "word_roman": "UHARA",
+    "word_bangla": "উহারা",
+    "category": "Verb",
+    "meaning_english": "To express",
+    "meaning_bangla": "প্রকাশ করা"
+  },
+  {
+    "word_roman": "UHARANI",
+    "word_bangla": "উহারানি",
+    "category": "Noun",
+    "meaning_english": "Expressing",
+    "meaning_bangla": "প্রকাশ করা"
+  },
+  {
+    "word_roman": "UHUL",
+    "word_bangla": "উহুল",
+    "category": "Verb",
+    "meaning_english": "To uproot, to fly or to pull out",
+    "meaning_bangla": "উপড়ানো, উড়া বা টেনে বের করা"
+  },
+  {
+    "word_roman": "UHULANI",
+    "word_bangla": "উহুলানি",
+    "category": "Noun",
+    "meaning_english": "Uprooting, dragging out",
+    "meaning_bangla": "উপড়ানো, টেনে বের করা"
+  },
+  {
+    "word_roman": "UHEI-NAHEI",
+    "word_bangla": "উহেই-নাহেই",
+    "category": "Adjective",
+    "meaning_english": "Inedible or unwholesome",
+    "meaning_bangla": "অখাদ্য বা অস্বাস্থ্যকর"
+  },
+  {
+    "word_roman": "UNIS",
+    "word_bangla": "উনিশ",
+    "category": "Noun",
+    "meaning_english": "Nineteen",
+    "meaning_bangla": "উনিশ"
+  },
+  {
+    "word_roman": "UHUNI",
+    "word_bangla": "উহুনি",
+    "category": "Noun",
+    "meaning_english": "Louse, flea",
+    "meaning_bangla": "উকুন, মাছি"
+  },
+  {
+    "word_roman": "E",
+    "word_bangla": "এ",
+    "category": "Pronoun",
+    "meaning_english": "This, proximate demonstrative",
+    "meaning_bangla": "এই (নিকটবর্তী নির্দেশক)"
+  },
+  {
+    "word_roman": "ERA",
+    "word_bangla": "এরা",
+    "category": "Noun",
+    "meaning_english": "An offering of fruit",
+    "meaning_bangla": "ফলের উপহার"
+  },
+  {
+    "word_roman": "EIRUK",
+    "word_bangla": "এইরুক",
+    "category": "Noun",
+    "meaning_english": "A dish of fruit",
+    "meaning_bangla": "ফলের পাত্র"
+  },
+  {
+    "word_roman": "EULTA",
+    "word_bangla": "এউল্টা",
+    "category": "Adverb",
+    "meaning_english": "This year",
+    "meaning_bangla": "এই বছর"
+  },
+  {
+    "word_roman": "EK(A)",
+    "word_bangla": "এক(আ)",
+    "category": "Adjective",
+    "meaning_english": "One",
+    "meaning_bangla": "এক"
+  },
+  {
+    "word_roman": "EKATA",
+    "word_bangla": "একাতা",
+    "category": "Noun",
+    "meaning_english": "Unity",
+    "meaning_bangla": "ঐক্য"
+  },
+  {
+    "word_roman": "EKAR(M)",
+    "word_bangla": "একার(ম)",
+    "category": "Verb",
+    "meaning_english": "V. yakar",
+    "meaning_bangla": "যাকার-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "EKARANI",
+    "word_bangla": "একারানি",
+    "category": "Noun",
+    "meaning_english": "V. yakarani",
+    "meaning_bangla": "যাকারানি-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "EKARUWA",
+    "word_bangla": "একারুওয়া",
+    "category": "Verb",
+    "meaning_english": "Caus. fr. ekar",
+    "meaning_bangla": "একার-এর কারণাত্মক রূপ"
+  },
+  {
+    "word_roman": "EKA",
+    "word_bangla": "একা",
+    "category": "Adjective",
+    "meaning_english": "Alone",
+    "meaning_bangla": "একা"
+  },
+  {
+    "word_roman": "EKADES(I)",
+    "word_bangla": "একাদেশ(ই)",
+    "category": "Noun",
+    "meaning_english": "(i) The eleventh day of the lunar fortnight (ii) Fasting observed on this day",
+    "meaning_bangla": "(i) চন্দ্র পক্ষের একাদশী (ii) একাদশী উপবাস"
+  },
+  {
+    "word_roman": "EKANAY",
+    "word_bangla": "একানায়",
+    "category": "Noun",
+    "meaning_english": "Independence (in thought or activity)",
+    "meaning_bangla": "স্বাধীনতা (চিন্তা বা কার্যকলাপে)"
+  },
+  {
+    "word_roman": "EKANI",
+    "word_bangla": "একানি",
+    "category": "Noun",
+    "meaning_english": "Showing pride or arrogance",
+    "meaning_bangla": "অহংকার বা গর্ব প্রদর্শন"
+  },
+  {
+    "word_roman": "EKANTA",
+    "word_bangla": "একান্ত",
+    "category": "Adjective",
+    "meaning_english": "Attentive, solitary",
+    "meaning_bangla": "মনোযোগী, একাকী"
+  },
+  {
+    "word_roman": "EIK",
+    "word_bangla": "এইক",
+    "category": "Noun",
+    "meaning_english": "Fruit",
+    "meaning_bangla": "ফল"
+  },
+  {
+    "word_roman": "EIK(M)",
+    "word_bangla": "এইক(ম)",
+    "category": "Verb",
+    "meaning_english": "V. yak",
+    "meaning_bangla": "যাক-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "EIKANI(M)",
+    "word_bangla": "এইকানি(ম)",
+    "category": "Noun",
+    "meaning_english": "V. yakani",
+    "meaning_bangla": "যাকানি-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "EIGA",
+    "word_bangla": "এইগা",
+    "category": "Noun",
+    "meaning_english": "Address to a Brahmin or a descendant of royal family",
+    "meaning_bangla": "ব্রাহ্মণ বা রাজপরিবারের বংশধরকে সম্বোধন"
+  },
+  {
+    "word_roman": "-EIPA",
+    "word_bangla": "-এইপা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots to form adjs.",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে বিশেষণ তৈরি করে"
   }
 ]
