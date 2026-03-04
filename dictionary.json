@@ -20017,5 +20017,2210 @@
     "category": "Noun",
     "meaning_english": "Citron tree and its fruit",
     "meaning_bangla": "জামির লেবু ও তার গাছ"
+  },
+  {
+    "word_roman": "JAMBURA",
+    "word_bangla": "জাম্বুরা",
+    "category": "Noun",
+    "meaning_english": "Tongs",
+    "meaning_bangla": "চিমটা বা সাঁড়াশি"
+  },
+  {
+    "word_roman": "JAMBURA(M.)",
+    "word_bangla": "জাম্বুরী(ম.)",
+    "category": "Noun",
+    "meaning_english": "A species of lemon",
+    "meaning_bangla": "এক ধরণের লেবু"
+  },
+  {
+    "word_roman": "JAY",
+    "word_bangla": "জয়",
+    "category": "Noun",
+    "meaning_english": "Deep mud (gone)",
+    "meaning_bangla": "গভীর কাদা (যাওয়া)"
+  },
+  {
+    "word_roman": "JAR",
+    "word_bangla": "জার",
+    "category": "Noun",
+    "meaning_english": "(i) Plant, tree (ii) Cluster of plants",
+    "meaning_bangla": "(i) গাছপালা, উদ্ভিদ (ii) গাছপালার গুচ্ছ বা ঝোপ"
+  },
+  {
+    "word_roman": "JAR",
+    "word_bangla": "জার",
+    "category": "Adjective",
+    "meaning_english": "Cold",
+    "meaning_bangla": "ঠান্ডা বা শীতল"
+  },
+  {
+    "word_roman": "JAR-",
+    "word_bangla": "জার-",
+    "category": "Verb",
+    "meaning_english": "To tolerate",
+    "meaning_bangla": "সহ্য করা"
+  },
+  {
+    "word_roman": "JAR-",
+    "word_bangla": "জার-",
+    "category": "Verb",
+    "meaning_english": "(i) To sweep (ii) To cure by occult process (iii) To insult",
+    "meaning_bangla": "(i) ঝাড়া দেওয়া (ii) গুপ্ত প্রক্রিয়ায় সারানো (iii) অপমান করা"
+  },
+  {
+    "word_roman": "JARAK",
+    "word_bangla": "জারক",
+    "category": "Noun",
+    "meaning_english": "Bastard",
+    "meaning_bangla": "জারজ সন্তান"
+  },
+  {
+    "word_roman": "JARAN",
+    "word_bangla": "জারন",
+    "category": "Noun",
+    "meaning_english": "Sweeping, putting to shame",
+    "meaning_bangla": "ঝাড়া, লজ্জা দেওয়া"
+  },
+  {
+    "word_roman": "JARA",
+    "word_bangla": "জারা",
+    "category": "Noun",
+    "meaning_english": "The act of sweeping",
+    "meaning_bangla": "ঝাড়ার কাজ"
+  },
+  {
+    "word_roman": "JARANI",
+    "word_bangla": "জারানি",
+    "category": "Noun",
+    "meaning_english": "1. Tolerating 2. (i) Sweeping (ii) Curing by occult process (iii) Insulting",
+    "meaning_bangla": "১. সহ্য করা ২. (i) ঝাড়া (ii) গুপ্ত প্রক্রিয়ায় সারানো (iii) অপমান করা"
+  },
+  {
+    "word_roman": "JARI",
+    "word_bangla": "জারি",
+    "category": "Noun",
+    "meaning_english": "Announcement",
+    "meaning_bangla": "ঘোষণা"
+  },
+  {
+    "word_roman": "JAL",
+    "word_bangla": "জাল",
+    "category": "Noun",
+    "meaning_english": "1. The act of boiling or applying heat 2. False 3. Husband's brother's wife",
+    "meaning_bangla": "১. ফুটানো বা তাপ দেওয়ার কাজ ২. মিথ্যা ৩. স্বামীর ভাইয়ের স্ত্রী"
+  },
+  {
+    "word_roman": "JALAK",
+    "word_bangla": "জালক",
+    "category": "Adjective",
+    "meaning_english": "Related as husband's brother's wife",
+    "meaning_bangla": "স্বামীর ভাইয়ের স্ত্রীর সাথে সম্পর্কিত"
+  },
+  {
+    "word_roman": "JALAI",
+    "word_bangla": "জালাই",
+    "category": "Noun",
+    "meaning_english": "Application of heat",
+    "meaning_bangla": "তাপ প্রয়োগ"
+  },
+  {
+    "word_roman": "JALAI",
+    "word_bangla": "জালাই",
+    "category": "Noun",
+    "meaning_english": "Lake",
+    "meaning_bangla": "হ্রদ"
+  },
+  {
+    "word_roman": "JALI",
+    "word_bangla": "জালি",
+    "category": "Noun",
+    "meaning_english": "Network",
+    "meaning_bangla": "জাল বা নেটওয়ার্ক"
+  },
+  {
+    "word_roman": "JALIYA",
+    "word_bangla": "জালিয়া",
+    "category": "Noun",
+    "meaning_english": "Fisherman",
+    "meaning_bangla": "জেলে"
+  },
+  {
+    "word_roman": "JALUWA",
+    "word_bangla": "জালুয়া",
+    "category": "Noun",
+    "meaning_english": "Fisherman",
+    "meaning_bangla": "জেলে"
+  },
+  {
+    "word_roman": "JALEI",
+    "word_bangla": "জালেই",
+    "category": "Noun",
+    "meaning_english": "Husbands brothers' wives",
+    "meaning_bangla": "স্বামীর ভাইদের স্ত্রীরা"
+  },
+  {
+    "word_roman": "JALMAL",
+    "word_bangla": "জালমাল",
+    "category": "Adjective",
+    "meaning_english": "Mutually related as husband's wives",
+    "meaning_bangla": "স্বামীর স্ত্রীদের মধ্যে পারস্পরিক সম্পর্কিত"
+  },
+  {
+    "word_roman": "JASTI",
+    "word_bangla": "জাস্তি",
+    "category": "Noun",
+    "meaning_english": "Excess",
+    "meaning_bangla": "অতিরিক্ত"
+  },
+  {
+    "word_roman": "JAH AJ",
+    "word_bangla": "জাহাজ",
+    "category": "Noun",
+    "meaning_english": "Ship",
+    "meaning_bangla": "জাহাজ"
+  },
+  {
+    "word_roman": "JI",
+    "word_bangla": "জি",
+    "category": "Noun",
+    "meaning_english": "Fire",
+    "meaning_bangla": "আগুন"
+  },
+  {
+    "word_roman": "JI-",
+    "word_bangla": "জি-",
+    "category": "Verb",
+    "meaning_english": "To be alive",
+    "meaning_bangla": "জীবিত থাকা"
+  },
+  {
+    "word_roman": "JIK",
+    "word_bangla": "জিক",
+    "category": "Noun",
+    "meaning_english": "Obstinacy, rivalry",
+    "meaning_bangla": "জেদ, প্রতিদ্বন্দ্বিতা"
+  },
+  {
+    "word_roman": "JIKAJIKI",
+    "word_bangla": "জিকাজিকি",
+    "category": "Noun",
+    "meaning_english": "Mutual rivalry",
+    "meaning_bangla": "পারস্পরিক প্রতিদ্বন্দ্বিতা"
+  },
+  {
+    "word_roman": "JIGAS",
+    "word_bangla": "জিগাস",
+    "category": "Noun",
+    "meaning_english": "Inquiry",
+    "meaning_bangla": "জিজ্ঞাসা"
+  },
+  {
+    "word_roman": "JIGAR",
+    "word_bangla": "জিগর",
+    "category": "Noun",
+    "meaning_english": "Power",
+    "meaning_bangla": "শক্তি"
+  },
+  {
+    "word_roman": "JIGA-",
+    "word_bangla": "জিগা-",
+    "category": "Verb",
+    "meaning_english": "To inquire, to ask",
+    "meaning_bangla": "জিজ্ঞাসা করা, প্রশ্ন করা"
+  },
+  {
+    "word_roman": "JIGANI",
+    "word_bangla": "জিগানি",
+    "category": "Noun",
+    "meaning_english": "Inquiring, asking",
+    "meaning_bangla": "জিজ্ঞাসা করা, প্রশ্ন করা"
+  },
+  {
+    "word_roman": "JIN-",
+    "word_bangla": "জিন্-",
+    "category": "Verb",
+    "meaning_english": "To win",
+    "meaning_bangla": "জয় করা"
+  },
+  {
+    "word_roman": "JINANI",
+    "word_bangla": "জিনানি",
+    "category": "Noun",
+    "meaning_english": "Winning",
+    "meaning_bangla": "জয় করা"
+  },
+  {
+    "word_roman": "JINUWA-",
+    "word_bangla": "জিনুয়া-",
+    "category": "Verb",
+    "meaning_english": "Causative of jin-",
+    "meaning_bangla": "জিন্- এর কারণাত্মক রূপ"
+  },
+  {
+    "word_roman": "JINE",
+    "word_bangla": "জিনে",
+    "category": "Noun",
+    "meaning_english": "(i) Superceding (ii) Than",
+    "meaning_bangla": "(i) অতিক্রম করা (ii) থেকে"
+  },
+  {
+    "word_roman": "JINTA",
+    "word_bangla": "জিন্তা",
+    "category": "Adjective",
+    "meaning_english": "Alive",
+    "meaning_bangla": "জীবিত"
+  },
+  {
+    "word_roman": "JINJUNI",
+    "word_bangla": "জিঞ্জুনি",
+    "category": "Noun",
+    "meaning_english": "A cricket",
+    "meaning_bangla": "ঝিঁঝিঁ পোকা"
+  },
+  {
+    "word_roman": "JINJUR",
+    "word_bangla": "জিন্জুর",
+    "category": "Noun",
+    "meaning_english": "Chain, necklace",
+    "meaning_bangla": "শিকল, হার"
+  },
+  {
+    "word_roman": "JIT-",
+    "word_bangla": "জিত্-",
+    "category": "Verb",
+    "meaning_english": "To win",
+    "meaning_bangla": "জয় করা"
+  },
+  {
+    "word_roman": "JITAJITI",
+    "word_bangla": "জিতাজিতি",
+    "category": "Noun",
+    "meaning_english": "Competition",
+    "meaning_bangla": "প্রতিযোগিতা"
+  },
+  {
+    "word_roman": "JITANI",
+    "word_bangla": "জিতানি",
+    "category": "Noun",
+    "meaning_english": "Winning",
+    "meaning_bangla": "জয় করা"
+  },
+  {
+    "word_roman": "JID",
+    "word_bangla": "জিদ",
+    "category": "Noun",
+    "meaning_english": "Importunity",
+    "meaning_bangla": "জিদ বা অনুরোধ"
+  },
+  {
+    "word_roman": "JIN",
+    "word_bangla": "জিন",
+    "category": "Noun",
+    "meaning_english": "Importance",
+    "meaning_bangla": "গুরুত্ব"
+  },
+  {
+    "word_roman": "JINA",
+    "word_bangla": "জিনা",
+    "category": "Noun",
+    "meaning_english": "Jean (property)",
+    "meaning_bangla": "জিন (সম্পত্তি)"
+  },
+  {
+    "word_roman": "JINIS",
+    "word_bangla": "জিনিস",
+    "category": "Noun",
+    "meaning_english": "Thing",
+    "meaning_bangla": "জিনিস"
+  },
+  {
+    "word_roman": "JINKI",
+    "word_bangla": "জিনকি",
+    "category": "Noun",
+    "meaning_english": "Property",
+    "meaning_bangla": "সম্পত্তি"
+  },
+  {
+    "word_roman": "JIP-",
+    "word_bangla": "জিপ্-",
+    "category": "Verb",
+    "meaning_english": "To be closed",
+    "meaning_bangla": "বন্ধ হওয়া"
+  },
+  {
+    "word_roman": "JIPA",
+    "word_bangla": "জিপা",
+    "category": "Adjective",
+    "meaning_english": "Closed",
+    "meaning_bangla": "বন্ধ"
+  },
+  {
+    "word_roman": "JIPA-",
+    "word_bangla": "জিপা-",
+    "category": "Verb",
+    "meaning_english": "To close",
+    "meaning_bangla": "বন্ধ করা"
+  },
+  {
+    "word_roman": "JIPANI",
+    "word_bangla": "জিপানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being closed (ii) Closing",
+    "meaning_bangla": "(i) বন্ধ হওয়া (ii) বন্ধ করা"
+  },
+  {
+    "word_roman": "JIPUT",
+    "word_bangla": "জিপুত",
+    "category": "Noun",
+    "meaning_english": "Children, sons and daughters",
+    "meaning_bangla": "সন্তান, ছেলে-মেয়ে"
+  },
+  {
+    "word_roman": "JIBUT(M.)",
+    "word_bangla": "জিবুত(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jiput",
+    "meaning_bangla": "জিপুত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JIBER",
+    "word_bangla": "জিবের",
+    "category": "Noun",
+    "meaning_english": "Fence",
+    "meaning_bangla": "বেড়া"
+  },
+  {
+    "word_roman": "JIMMA",
+    "word_bangla": "জিম্মা",
+    "category": "Noun",
+    "meaning_english": "Deposition",
+    "meaning_bangla": "জিম্মা বা আমানত"
+  },
+  {
+    "word_roman": "JIYAN",
+    "word_bangla": "জিয়ান",
+    "category": "Noun",
+    "meaning_english": "Being alive",
+    "meaning_bangla": "জীবিত থাকা"
+  },
+  {
+    "word_roman": "JIYAL",
+    "word_bangla": "জিয়াল",
+    "category": "Noun",
+    "meaning_english": "(Fish) that remains alive for a long time without water",
+    "meaning_bangla": "মাছ যা জল ছাড়া দীর্ঘ সময় জীবিত থাকে"
+  },
+  {
+    "word_roman": "JIYA-JIPUT",
+    "word_bangla": "জিয়া-জিপুত",
+    "category": "Noun",
+    "meaning_english": "Children, descendants",
+    "meaning_bangla": "সন্তান, বংশধর"
+  },
+  {
+    "word_roman": "JIYA-",
+    "word_bangla": "জিয়া-",
+    "category": "Verb",
+    "meaning_english": "To enliven (causative of ji-)",
+    "meaning_bangla": "জীবিত করা (জি- এর কারণাত্মক রূপ)"
+  },
+  {
+    "word_roman": "JIYADA",
+    "word_bangla": "জিয়াদা",
+    "category": "Noun",
+    "meaning_english": "Excess",
+    "meaning_bangla": "অতিরিক্ত"
+  },
+  {
+    "word_roman": "JIYANA",
+    "word_bangla": "জিয়ানা",
+    "category": "Noun",
+    "meaning_english": "Planting temporarily for better growth and plants thus planted",
+    "meaning_bangla": "ভালো বৃদ্ধির জন্য অস্থায়ী রোপণ এবং এভাবে রোপিত গাছ"
+  },
+  {
+    "word_roman": "JIYANI",
+    "word_bangla": "জিয়ানি",
+    "category": "Noun",
+    "meaning_english": "Enlivening",
+    "meaning_bangla": "জীবিত করা"
+  },
+  {
+    "word_roman": "JIYAPU(M.)",
+    "word_bangla": "জিয়াপু(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jiput",
+    "meaning_bangla": "জিপুত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JIR",
+    "word_bangla": "জির",
+    "category": "Noun",
+    "meaning_english": "A species of small earth-worm",
+    "meaning_bangla": "ছোট মাটির কীটের এক প্রজাতি"
+  },
+  {
+    "word_roman": "JIRAN",
+    "word_bangla": "জিরন",
+    "category": "Noun",
+    "meaning_english": "Rest",
+    "meaning_bangla": "বিশ্রাম"
+  },
+  {
+    "word_roman": "JIRA",
+    "word_bangla": "জিরা",
+    "category": "Noun",
+    "meaning_english": "Cumin",
+    "meaning_bangla": "জিরা"
+  },
+  {
+    "word_roman": "JIRA",
+    "word_bangla": "জিরা",
+    "category": "Adjective",
+    "meaning_english": "Torn",
+    "meaning_bangla": "ছেঁড়া"
+  },
+  {
+    "word_roman": "JIRA-",
+    "word_bangla": "জিরা-",
+    "category": "Verb",
+    "meaning_english": "To take rest",
+    "meaning_bangla": "বিশ্রাম নেওয়া"
+  },
+  {
+    "word_roman": "JIRANI",
+    "word_bangla": "জিরানি",
+    "category": "Noun",
+    "meaning_english": "Taking rest",
+    "meaning_bangla": "বিশ্রাম নেওয়া"
+  },
+  {
+    "word_roman": "JIRINA(M.)",
+    "word_bangla": "জিরিনা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sirina",
+    "meaning_bangla": "সিরিনা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JIRPURA(M.)",
+    "word_bangla": "জিরপুরা(ম.)",
+    "category": "Noun",
+    "meaning_english": "A species of mushroom",
+    "meaning_bangla": "মাশরুমের এক প্রজাতি"
+  },
+  {
+    "word_roman": "JIRPE PURA",
+    "word_bangla": "জিরপে পুরা",
+    "category": "Noun",
+    "meaning_english": "Variant of above, influenced by pé pura",
+    "meaning_bangla": "উপরের রূপের বিকল্প, pé pura-এর প্রভাবে"
+  },
+  {
+    "word_roman": "JILAK",
+    "word_bangla": "জিলক",
+    "category": "Noun",
+    "meaning_english": "Daughter",
+    "meaning_bangla": "কন্যা"
+  },
+  {
+    "word_roman": "JILLA",
+    "word_bangla": "জিল্লা",
+    "category": "Noun",
+    "meaning_english": "(i) District (ii) Town",
+    "meaning_bangla": "(i) জেলা (ii) শহর"
+  },
+  {
+    "word_roman": "JILLIBI",
+    "word_bangla": "জিল্লিবি",
+    "category": "Noun",
+    "meaning_english": "A wheel shaped sweetmeat",
+    "meaning_bangla": "চাকা আকৃতির মিষ্টি"
+  },
+  {
+    "word_roman": "JIBANI",
+    "word_bangla": "জিবানি",
+    "category": "Noun",
+    "meaning_english": "Biography",
+    "meaning_bangla": "জীবনী"
+  },
+  {
+    "word_roman": "JU",
+    "word_bangla": "জু",
+    "category": "Noun",
+    "meaning_english": "Tongue",
+    "meaning_bangla": "জিভ"
+  },
+  {
+    "word_roman": "JUKA",
+    "word_bangla": "জুকা",
+    "category": "Verb",
+    "meaning_english": "To provoke",
+    "meaning_bangla": "উত্তেজিত করা"
+  },
+  {
+    "word_roman": "JUKANI",
+    "word_bangla": "জুকানি",
+    "category": "Noun",
+    "meaning_english": "Provoking",
+    "meaning_bangla": "উত্তেজিত করা"
+  },
+  {
+    "word_roman": "JUKAR",
+    "word_bangla": "জুকার",
+    "category": "Noun",
+    "meaning_english": "Shout, uproar",
+    "meaning_bangla": "চিৎকার, হৈচৈ"
+  },
+  {
+    "word_roman": "JUGAT",
+    "word_bangla": "জুগত",
+    "category": "Adjective",
+    "meaning_english": "Prepared, ready",
+    "meaning_bangla": "প্রস্তুত, তৈরি"
+  },
+  {
+    "word_roman": "JUGA",
+    "word_bangla": "জুগা",
+    "category": "Noun",
+    "meaning_english": "Nature, habit",
+    "meaning_bangla": "প্রকৃতি, অভ্যাস"
+  },
+  {
+    "word_roman": "JUGA-",
+    "word_bangla": "জুগা-",
+    "category": "Verb",
+    "meaning_english": "To supply",
+    "meaning_bangla": "সরবরাহ করা"
+  },
+  {
+    "word_roman": "JUGANI",
+    "word_bangla": "জুগানি",
+    "category": "Noun",
+    "meaning_english": "Supplying",
+    "meaning_bangla": "সরবরাহ করা"
+  },
+  {
+    "word_roman": "JUGALI",
+    "word_bangla": "জুগালি",
+    "category": "Noun",
+    "meaning_english": "Helper",
+    "meaning_bangla": "সাহায্যকারী"
+  },
+  {
+    "word_roman": "JUGINI",
+    "word_bangla": "জুগিনি",
+    "category": "Noun",
+    "meaning_english": "Tree-snake, dondorophis pictus",
+    "meaning_bangla": "গাছের সাপ (এক প্রজাতি)"
+  },
+  {
+    "word_roman": "JUGIRBHAT",
+    "word_bangla": "জুগিরভাত",
+    "category": "Noun",
+    "meaning_english": "Maize",
+    "meaning_bangla": "ভুট্টা"
+  },
+  {
+    "word_roman": "JUGURIBHAT(M.)",
+    "word_bangla": "জুগুরিভাত(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jugirbhat",
+    "meaning_bangla": "জুগিরভাত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JUGI",
+    "word_bangla": "জুগি",
+    "category": "Noun",
+    "meaning_english": "A wicker basket",
+    "meaning_bangla": "বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "JUT",
+    "word_bangla": "জুত",
+    "category": "Noun",
+    "meaning_english": "Party",
+    "meaning_bangla": "দল বা পার্টি"
+  },
+  {
+    "word_roman": "JUT-",
+    "word_bangla": "জুত্-",
+    "category": "Verb",
+    "meaning_english": "To assemble, to be arranged",
+    "meaning_bangla": "জড়ো করা, সাজানো"
+  },
+  {
+    "word_roman": "JUTA-",
+    "word_bangla": "জুতা-",
+    "category": "Verb",
+    "meaning_english": "(i) To collect (ii) To arrange",
+    "meaning_bangla": "(i) সংগ্রহ করা (ii) সাজানো"
+  },
+  {
+    "word_roman": "JUTANI",
+    "word_bangla": "জুতানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being assembled/arranged (ii) Collecting, arranging",
+    "meaning_bangla": "(i) জড়ো/সাজানো হওয়া (ii) সংগ্রহ করা, সাজানো"
+  },
+  {
+    "word_roman": "JUTTA",
+    "word_bangla": "জুত্তা",
+    "category": "Noun",
+    "meaning_english": "Rope made of cane-pieces",
+    "meaning_bangla": "বেতের টুকরো দিয়ে তৈরি দড়ি"
+  },
+  {
+    "word_roman": "JUT",
+    "word_bangla": "জুত",
+    "category": "Noun",
+    "meaning_english": "Tenure",
+    "meaning_bangla": "ভোগদখল বা মেয়াদ"
+  },
+  {
+    "word_roman": "THEKA-",
+    "word_bangla": "থেকা-",
+    "category": "Verb",
+    "meaning_english": "To bring to difficulty",
+    "meaning_bangla": "কষ্টে ফেলা"
+  },
+  {
+    "word_roman": "THEKANI",
+    "word_bangla": "থেকানি",
+    "category": "Noun",
+    "meaning_english": "Taking shelter",
+    "meaning_bangla": "আশ্রয় নেওয়া"
+  },
+  {
+    "word_roman": "THEKANI",
+    "word_bangla": "থেকানি",
+    "category": "Noun",
+    "meaning_english": "Falling in difficulty / Bringing to difficulty",
+    "meaning_bangla": "কষ্টে পড়া / কষ্টে ফেলা"
+  },
+  {
+    "word_roman": "THEN",
+    "word_bangla": "থেন",
+    "category": "Noun",
+    "meaning_english": "Leg",
+    "meaning_bangla": "পা"
+  },
+  {
+    "word_roman": "THENGA",
+    "word_bangla": "থেঙ্গা",
+    "category": "Noun",
+    "meaning_english": "Stout stick",
+    "meaning_bangla": "মোটা লাঠি"
+  },
+  {
+    "word_roman": "THENGA-",
+    "word_bangla": "থেঙ্গা-",
+    "category": "Verb",
+    "meaning_english": "To belabour with a stout stick",
+    "meaning_bangla": "মোটা লাঠি দিয়ে মারা"
+  },
+  {
+    "word_roman": "THENGANI",
+    "word_bangla": "থেঙ্গানি",
+    "category": "Noun",
+    "meaning_english": "Belabouring with a stout stick",
+    "meaning_bangla": "মোটা লাঠি দিয়ে মারা"
+  },
+  {
+    "word_roman": "THENGI",
+    "word_bangla": "থেঙ্গি",
+    "category": "Adjective",
+    "meaning_english": "Having leg or stand",
+    "meaning_bangla": "পা বা স্ট্যান্ডযুক্ত"
+  },
+  {
+    "word_roman": "THECA, THECA-, THECANI",
+    "word_bangla": "থেচা, থেচা-, থেচানি",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of thācā, thācā-, thācāni",
+    "meaning_bangla": "থাচা, থাচা-, থাচানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "THETU",
+    "word_bangla": "থেটু",
+    "category": "Noun",
+    "meaning_english": "Limbs, knees",
+    "meaning_bangla": "অঙ্গপ্রত্যঙ্গ, হাঁটু"
+  },
+  {
+    "word_roman": "THEM",
+    "word_bangla": "থেম",
+    "category": "Noun",
+    "meaning_english": "The act of soothing",
+    "meaning_bangla": "শান্ত করার কাজ"
+  },
+  {
+    "word_roman": "THELA",
+    "word_bangla": "থেলা",
+    "category": "Noun",
+    "meaning_english": "Push, difficulty",
+    "meaning_bangla": "ধাক্কা, অসুবিধা"
+  },
+  {
+    "word_roman": "THELA-",
+    "word_bangla": "থেলা-",
+    "category": "Verb",
+    "meaning_english": "To push, to proceed",
+    "meaning_bangla": "ধাক্কা দেওয়া, এগিয়ে যাওয়া"
+  },
+  {
+    "word_roman": "THELANI",
+    "word_bangla": "থেলানি",
+    "category": "Noun",
+    "meaning_english": "Pushing, proceeding",
+    "meaning_bangla": "ধাক্কা দেওয়া, এগিয়ে যাওয়া"
+  },
+  {
+    "word_roman": "THELUNI",
+    "word_bangla": "থেলুনি",
+    "category": "Noun",
+    "meaning_english": "An instrument for pushing",
+    "meaning_bangla": "ধাক্কা দেওয়ার যন্ত্র"
+  },
+  {
+    "word_roman": "THAU",
+    "word_bangla": "থাউ",
+    "category": "Noun",
+    "meaning_english": "Courageous, smart",
+    "meaning_bangla": "সাহসী, চতুর"
+  },
+  {
+    "word_roman": "THAUNA",
+    "word_bangla": "থাউনা",
+    "category": "Noun",
+    "meaning_english": "Courage, enthusiasm",
+    "meaning_bangla": "সাহস, উৎসাহ"
+  },
+  {
+    "word_roman": "THAUPA",
+    "word_bangla": "থাউপা",
+    "category": "Adjective",
+    "meaning_english": "Courageous, enthusiastic",
+    "meaning_bangla": "সাহসী, উৎসাহী"
+  },
+  {
+    "word_roman": "THAUWEI",
+    "word_bangla": "থাউৱেই",
+    "category": "Noun",
+    "meaning_english": "Care",
+    "meaning_bangla": "যত্ন"
+  },
+  {
+    "word_roman": "THAURAN",
+    "word_bangla": "থাউরান",
+    "category": "Noun",
+    "meaning_english": "Arrangement",
+    "meaning_bangla": "ব্যবস্থা"
+  },
+  {
+    "word_roman": "DAK",
+    "word_bangla": "ডাক",
+    "category": "Noun",
+    "meaning_english": "Thirst",
+    "meaning_bangla": "তৃষ্ণা"
+  },
+  {
+    "word_roman": "DAGA",
+    "word_bangla": "ডাগা",
+    "category": "Adjective",
+    "meaning_english": "(i) Tender (ii) Tender sprout",
+    "meaning_bangla": "(i) কোমল (ii) কচি পাতা"
+  },
+  {
+    "word_roman": "DANAR",
+    "word_bangla": "ডানর",
+    "category": "Noun",
+    "meaning_english": "Whirl-pool",
+    "meaning_bangla": "ঘূর্ণি"
+  },
+  {
+    "word_roman": "DANGA",
+    "word_bangla": "ডাঙ্গা",
+    "category": "Noun",
+    "meaning_english": "(i) Circulation (ii) Circulated",
+    "meaning_bangla": "(i) সঞ্চালন (ii) সঞ্চালিত"
+  },
+  {
+    "word_roman": "DANDANA-",
+    "word_bangla": "ডান্ডানা-",
+    "category": "Verb",
+    "meaning_english": "To speak frankly",
+    "meaning_bangla": "স্পষ্টভাবে কথা বলা"
+  },
+  {
+    "word_roman": "DANDA",
+    "word_bangla": "ডান্ডা",
+    "category": "Noun",
+    "meaning_english": "1. Staff 2. Moment",
+    "meaning_bangla": "১. লাঠি ২. মুহূর্ত"
+  },
+  {
+    "word_roman": "DANDABAT",
+    "word_bangla": "ডান্ডাবত",
+    "category": "Noun",
+    "meaning_english": "Saluting by falling flat and straight on the ground",
+    "meaning_bangla": "মাটিতে লম্বা হয়ে পড়ে প্রণাম করা"
+  },
+  {
+    "word_roman": "DAN",
+    "word_bangla": "ডান",
+    "category": "Noun",
+    "meaning_english": "Exercise",
+    "meaning_bangla": "ব্যায়াম"
+  },
+  {
+    "word_roman": "DANA",
+    "word_bangla": "ডানা",
+    "category": "Noun",
+    "meaning_english": "Spoon of leaf or paper",
+    "meaning_bangla": "পাতা বা কাগজের চামচ"
+  },
+  {
+    "word_roman": "DAPHARA",
+    "word_bangla": "ডাফারা",
+    "category": "Adjective",
+    "meaning_english": "Hollow, essenceless",
+    "meaning_bangla": "ফাঁপা, নির্জীব"
+  },
+  {
+    "word_roman": "DAMURI",
+    "word_bangla": "ডামুরি",
+    "category": "Noun",
+    "meaning_english": "(i) Fig tree (ii) The state of being swollen",
+    "meaning_bangla": "(i) ডুমুর গাছ (ii) ফোলা অবস্থা"
+  },
+  {
+    "word_roman": "DAR",
+    "word_bangla": "ডর",
+    "category": "Noun",
+    "meaning_english": "Fear",
+    "meaning_bangla": "ভয়"
+  },
+  {
+    "word_roman": "DARA-",
+    "word_bangla": "ডরা-",
+    "category": "Verb",
+    "meaning_english": "To be afraid",
+    "meaning_bangla": "ভয় পাওয়া"
+  },
+  {
+    "word_roman": "DARANI",
+    "word_bangla": "ডরানি",
+    "category": "Noun",
+    "meaning_english": "Being afraid",
+    "meaning_bangla": "ভয় পাওয়া"
+  },
+  {
+    "word_roman": "DARUWA",
+    "word_bangla": "ডারুৱা",
+    "category": "Adjective",
+    "meaning_english": "Timid",
+    "meaning_bangla": "ভীতু"
+  },
+  {
+    "word_roman": "DALA",
+    "word_bangla": "ডালা",
+    "category": "Noun",
+    "meaning_english": "Lump of earth, clod",
+    "meaning_bangla": "মাটির ডেলা"
+  },
+  {
+    "word_roman": "DALA-",
+    "word_bangla": "ডালা-",
+    "category": "Verb",
+    "meaning_english": "To knead",
+    "meaning_bangla": "মাখা"
+  },
+  {
+    "word_roman": "DALANI",
+    "word_bangla": "ডালানি",
+    "category": "Noun",
+    "meaning_english": "Kneading",
+    "meaning_bangla": "মাখা"
+  },
+  {
+    "word_roman": "DAH-",
+    "word_bangla": "দাহ্-",
+    "category": "Verb",
+    "meaning_english": "To be burnt to ashes",
+    "meaning_bangla": "পুড়ে ছাই হওয়া"
+  },
+  {
+    "word_roman": "DAHA-",
+    "word_bangla": "দাহা-",
+    "category": "Verb",
+    "meaning_english": "To cross over",
+    "meaning_bangla": "পার হওয়া"
+  },
+  {
+    "word_roman": "DAHA",
+    "word_bangla": "দাহা",
+    "category": "Adjective",
+    "meaning_english": "Burnt to ashes",
+    "meaning_bangla": "পুড়ে ছাই হওয়া"
+  },
+  {
+    "word_roman": "DAHANI",
+    "word_bangla": "দাহানি",
+    "category": "Noun",
+    "meaning_english": "Being burnt or tormented",
+    "meaning_bangla": "পোড়া বা যন্ত্রণা পাওয়া"
+  },
+  {
+    "word_roman": "JETHHO(M.)",
+    "word_bangla": "জেঠহো(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jethā",
+    "meaning_bangla": "জেঠা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JED",
+    "word_bangla": "জেদ",
+    "category": "Noun",
+    "meaning_english": "Importunity",
+    "meaning_bangla": "জিদ বা অনুরোধ"
+  },
+  {
+    "word_roman": "JEDI",
+    "word_bangla": "জেদি",
+    "category": "Noun",
+    "meaning_english": "Importance",
+    "meaning_bangla": "গুরুত্ব"
+  },
+  {
+    "word_roman": "JEP, JEB",
+    "word_bangla": "জেপ, জেব",
+    "category": "Noun",
+    "meaning_english": "Pocket",
+    "meaning_bangla": "পকেট"
+  },
+  {
+    "word_roman": "JER",
+    "word_bangla": "জের",
+    "category": "Noun",
+    "meaning_english": "(i) Shore of a lake (ii) End, prolongation, continuation",
+    "meaning_bangla": "(i) হ্রদের তীর (ii) শেষ, প্রসারণ, ধারাবাহিকতা"
+  },
+  {
+    "word_roman": "JERA",
+    "word_bangla": "জেরা",
+    "category": "Noun",
+    "meaning_english": "Cross-examination",
+    "meaning_bangla": "জেরা বা জিজ্ঞাসাবাদ"
+  },
+  {
+    "word_roman": "JERA-",
+    "word_bangla": "জেরা-",
+    "category": "Verb",
+    "meaning_english": "To cross-examine",
+    "meaning_bangla": "জেরা করা"
+  },
+  {
+    "word_roman": "JERANI",
+    "word_bangla": "জেরানি",
+    "category": "Noun",
+    "meaning_english": "Cross-examining",
+    "meaning_bangla": "জেরা করা"
+  },
+  {
+    "word_roman": "JERTAK",
+    "word_bangla": "জেরতাক",
+    "category": "Noun",
+    "meaning_english": "Father's elder brother",
+    "meaning_bangla": "বাবার বড় ভাই"
+  },
+  {
+    "word_roman": "JERTANAK",
+    "word_bangla": "জেরতানক",
+    "category": "Noun",
+    "meaning_english": "Father's elder brother's wife",
+    "meaning_bangla": "বাবার বড় ভাইয়ের স্ত্রী"
+  },
+  {
+    "word_roman": "JHAT",
+    "word_bangla": "ঝাত",
+    "category": "Adverb",
+    "meaning_english": "A word denoting quickness",
+    "meaning_bangla": "দ্রুততা বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "JHALAK",
+    "word_bangla": "ঝালক",
+    "category": "Noun",
+    "meaning_english": "A word denoting sudden appearance of brightness",
+    "meaning_bangla": "আকস্মিক উজ্জ্বলতার আবির্ভাব বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "JHALK-",
+    "word_bangla": "ঝালক্-",
+    "category": "Verb",
+    "meaning_english": "To flash",
+    "meaning_bangla": "ঝলকানো"
+  },
+  {
+    "word_roman": "JHALKA",
+    "word_bangla": "ঝালকা",
+    "category": "Noun",
+    "meaning_english": "(i) Violent and sudden flow of some liquid (ii) Sudden appearance of light",
+    "meaning_bangla": "(i) তরলের আকস্মিক প্রবাহ (ii) আলোর আকস্মিক আবির্ভাব"
+  },
+  {
+    "word_roman": "JHALKAK-",
+    "word_bangla": "ঝালকাক্-",
+    "category": "Verb",
+    "meaning_english": "To flash",
+    "meaning_bangla": "ঝলকানো"
+  },
+  {
+    "word_roman": "JHALKANI",
+    "word_bangla": "ঝালকানি",
+    "category": "Noun",
+    "meaning_english": "Flashing",
+    "meaning_bangla": "ঝলকানো"
+  },
+  {
+    "word_roman": "JHAMALMAL",
+    "word_bangla": "ঝামালমাল",
+    "category": "Noun",
+    "meaning_english": "A word denoting glittering or gleaming",
+    "meaning_bangla": "চকচকানি বা ঝকঝকে বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "JHANU",
+    "word_bangla": "ঝানু",
+    "category": "Noun",
+    "meaning_english": "Expert",
+    "meaning_bangla": "বিশেষজ্ঞ"
+  },
+  {
+    "word_roman": "JHAPSA",
+    "word_bangla": "ঝাপসা",
+    "category": "Adjective",
+    "meaning_english": "Indistinct",
+    "meaning_bangla": "অস্পষ্ট"
+  },
+  {
+    "word_roman": "JHAMELA",
+    "word_bangla": "ঝামেলা",
+    "category": "Noun",
+    "meaning_english": "Troubles",
+    "meaning_bangla": "ঝামেলা"
+  },
+  {
+    "word_roman": "JHARI",
+    "word_bangla": "ঝারি",
+    "category": "Noun",
+    "meaning_english": "A water-can with a porous spout",
+    "meaning_bangla": "ছিদ্রযুক্ত মুখের জলের পাত্র"
+  },
+  {
+    "word_roman": "JHAL",
+    "word_bangla": "ঝাল",
+    "category": "Noun",
+    "meaning_english": "A big cymbal",
+    "meaning_bangla": "বড় জয়ঢ়া"
+  },
+  {
+    "word_roman": "JELA",
+    "word_bangla": "জেলা",
+    "category": "Noun",
+    "meaning_english": "Woman",
+    "meaning_bangla": "মহিলা"
+  },
+  {
+    "word_roman": "JELEI",
+    "word_bangla": "জেলেই",
+    "category": "Noun",
+    "meaning_english": "Women",
+    "meaning_bangla": "মহিলারা"
+  },
+  {
+    "word_roman": "JVALA",
+    "word_bangla": "জ্বালা",
+    "category": "Noun",
+    "meaning_english": "(i) Burnt (ii) Burning sensation",
+    "meaning_bangla": "(i) পোড়া (ii) জ্বালা বা জ্বালাপোড়া"
+  },
+  {
+    "word_roman": "JVALA-",
+    "word_bangla": "জ্বালা-",
+    "category": "Verb",
+    "meaning_english": "(i) To burn (ii) To enkindle, to light",
+    "meaning_bangla": "(i) পোড়ানো (ii) জ্বালানো, আগুন ধরানো"
+  },
+  {
+    "word_roman": "JVALANI",
+    "word_bangla": "জ্বালানি",
+    "category": "Noun",
+    "meaning_english": "Burning, lighting",
+    "meaning_bangla": "জ্বালানো, আলো জ্বালানো"
+  },
+  {
+    "word_roman": "JVALA-",
+    "word_bangla": "জ্বালা-",
+    "category": "Verb",
+    "meaning_english": "(i) To burn (ii) To oppress",
+    "meaning_bangla": "(i) পোড়ানো (ii) অত্যাচার করা"
+  },
+  {
+    "word_roman": "JVALANI",
+    "word_bangla": "জ্বালানি",
+    "category": "Noun",
+    "meaning_english": "(i) Burning (ii) Oppressing",
+    "meaning_bangla": "(i) জ্বালানো (ii) অত্যাচার করা"
+  },
+  {
+    "word_roman": "TAKKARANI",
+    "word_bangla": "টক্করানি",
+    "category": "Noun",
+    "meaning_english": "Collision, blow",
+    "meaning_bangla": "ধাক্কা, আঘাত"
+  },
+  {
+    "word_roman": "TAGAR",
+    "word_bangla": "টগর",
+    "category": "Noun",
+    "meaning_english": "A species of flower",
+    "meaning_bangla": "এক ধরণের ফুল"
+  },
+  {
+    "word_roman": "TAN",
+    "word_bangla": "টান",
+    "category": "Noun",
+    "meaning_english": "(i) High place (ii) Small shed with a high platform of bamboo or wood",
+    "meaning_bangla": "(i) উঁচু স্থান (ii) বাঁশ বা কাঠের উঁচু মঞ্চযুক্ত ছোট ছাউনি"
+  },
+  {
+    "word_roman": "TANAR",
+    "word_bangla": "টানর",
+    "category": "Adjective",
+    "meaning_english": "Fleshy",
+    "meaning_bangla": "মাংসল"
+  },
+  {
+    "word_roman": "TANGI",
+    "word_bangla": "টাঙ্গি",
+    "category": "Noun",
+    "meaning_english": "An open shed",
+    "meaning_bangla": "খোলা ছাউনি"
+  },
+  {
+    "word_roman": "TATAR-",
+    "word_bangla": "টাটার্-",
+    "category": "Verb",
+    "meaning_english": "To speak",
+    "meaning_bangla": "কথা বলা"
+  },
+  {
+    "word_roman": "TATARANI",
+    "word_bangla": "টাটারানি",
+    "category": "Noun",
+    "meaning_english": "Speaking",
+    "meaning_bangla": "কথা বলা"
+  },
+  {
+    "word_roman": "TATARUWA-",
+    "word_bangla": "টাটারুৱা-",
+    "category": "Verb",
+    "meaning_english": "To cause to speak (causative)",
+    "meaning_bangla": "কথা বলানো (কারণাত্মক)"
+  },
+  {
+    "word_roman": "TARATU",
+    "word_bangla": "টারাতু",
+    "category": "Adjective",
+    "meaning_english": "Totally cut down, destroyed",
+    "meaning_bangla": "সম্পূর্ণ কাটা, ধ্বংসপ্রাপ্ত"
+  },
+  {
+    "word_roman": "TAL-",
+    "word_bangla": "টাল্-",
+    "category": "Verb",
+    "meaning_english": "To move",
+    "meaning_bangla": "নড়ানো"
+  },
+  {
+    "word_roman": "TALA",
+    "word_bangla": "টালা",
+    "category": "Noun",
+    "meaning_english": "A wild cat",
+    "meaning_bangla": "বন্য বিড়াল"
+  },
+  {
+    "word_roman": "TALA-",
+    "word_bangla": "টালা-",
+    "category": "Verb",
+    "meaning_english": "To cause to move",
+    "meaning_bangla": "নড়ানোর কারণ হওয়া"
+  },
+  {
+    "word_roman": "TALANI",
+    "word_bangla": "টালানি",
+    "category": "Noun",
+    "meaning_english": "(i) Tottering (ii) Causing to totter",
+    "meaning_bangla": "(i) টলমল করা (ii) টলমল করানো"
+  },
+  {
+    "word_roman": "TALMAL",
+    "word_bangla": "টালমাল",
+    "category": "Noun",
+    "meaning_english": "A word denoting unsteadiness",
+    "meaning_bangla": "অস্থিরতা বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "TAHAL",
+    "word_bangla": "টহল",
+    "category": "Noun",
+    "meaning_english": "Patrol",
+    "meaning_bangla": "টহলদারি"
+  },
+  {
+    "word_roman": "TA",
+    "word_bangla": "টা",
+    "category": "Suffix",
+    "meaning_english": "Decrease, abate (used to indicate excessiveness or likeness or pleonasm)",
+    "meaning_bangla": "কমানো, হ্রাস (অতিরিক্ততা বা সাদৃশ্য বোঝাতে ব্যবহৃত)"
+  },
+  {
+    "word_roman": "TAK",
+    "word_bangla": "টক",
+    "category": "Noun",
+    "meaning_english": "1. A shelf made of bamboo-pieces 2. A clicking sound made by the tongue",
+    "meaning_bangla": "১. বাঁশের টুকরো দিয়ে তৈরি তাক ২. জিভের টক্ টক্ শব্দ"
+  },
+  {
+    "word_roman": "TAKA",
+    "word_bangla": "টকা",
+    "category": "Noun",
+    "meaning_english": "Money, rupee",
+    "meaning_bangla": "টাকা"
+  },
+  {
+    "word_roman": "TAKA-",
+    "word_bangla": "টকা-",
+    "category": "Verb",
+    "meaning_english": "To tack",
+    "meaning_bangla": "টাকানো"
+  },
+  {
+    "word_roman": "TAKANI",
+    "word_bangla": "টকানি",
+    "category": "Noun",
+    "meaning_english": "Tacking",
+    "meaning_bangla": "টাকানো"
+  },
+  {
+    "word_roman": "TAN",
+    "word_bangla": "টান",
+    "category": "Adjective",
+    "meaning_english": "Clear",
+    "meaning_bangla": "পরিষ্কার"
+  },
+  {
+    "word_roman": "TAN",
+    "word_bangla": "টান",
+    "category": "Noun",
+    "meaning_english": "(i) Interior part of a jute plant (ii) Stalk of the flower of thatch",
+    "meaning_bangla": "(i) পাট গাছের ভিতরের অংশ (ii) খড়ের ফুলের ডাঁটা"
+  },
+  {
+    "word_roman": "TANGI",
+    "word_bangla": "টাঙ্গি",
+    "category": "Noun",
+    "meaning_english": "Hanger",
+    "meaning_bangla": "টাঙ্গানোর জিনিস"
+  },
+  {
+    "word_roman": "TANKHEISEN",
+    "word_bangla": "টাঙ্খেইসেন",
+    "category": "Adjective",
+    "meaning_english": "Clear, certain",
+    "meaning_bangla": "পরিষ্কার, নিশ্চিত"
+  },
+  {
+    "word_roman": "TANG-",
+    "word_bangla": "টাঙ্গ্-",
+    "category": "Verb",
+    "meaning_english": "To remain suspended",
+    "meaning_bangla": "ঝুলে থাকা"
+  },
+  {
+    "word_roman": "TANGA-",
+    "word_bangla": "টাঙ্গা-",
+    "category": "Verb",
+    "meaning_english": "(i) To hang (ii) To suspend",
+    "meaning_bangla": "(i) ঝোলানো (ii) স্থগিত করা"
+  },
+  {
+    "word_roman": "TANGANI",
+    "word_bangla": "টাঙ্গানি",
+    "category": "Noun",
+    "meaning_english": "(i) Hanging (ii) Suspending",
+    "meaning_bangla": "(i) ঝোলানো (ii) স্থগিত করা"
+  },
+  {
+    "word_roman": "TANGI",
+    "word_bangla": "টাঙ্গি",
+    "category": "Noun",
+    "meaning_english": "A light two-wheeled carriage",
+    "meaning_bangla": "হালকা দুই চাকার গাড়ি"
+  },
+  {
+    "word_roman": "TANTANA-",
+    "word_bangla": "টান্তানা-",
+    "category": "Verb",
+    "meaning_english": "To appear clear",
+    "meaning_bangla": "পরিষ্কার দেখা যাওয়া"
+  },
+  {
+    "word_roman": "TANTANANI",
+    "word_bangla": "টান্তানানি",
+    "category": "Noun",
+    "meaning_english": "Appearing clear",
+    "meaning_bangla": "পরিষ্কার হওয়া"
+  },
+  {
+    "word_roman": "TANLEI",
+    "word_bangla": "টানলেই",
+    "category": "Noun",
+    "meaning_english": "A kind of snake",
+    "meaning_bangla": "এক ধরণের সাপ"
+  },
+  {
+    "word_roman": "TAT",
+    "word_bangla": "টাত",
+    "category": "Adjective",
+    "meaning_english": "Devoid of fertility",
+    "meaning_bangla": "উর্বরতাহীন"
+  },
+  {
+    "word_roman": "TAII",
+    "word_bangla": "টাই",
+    "category": "Noun",
+    "meaning_english": "Thirst",
+    "meaning_bangla": "তৃষ্ণা"
+  },
+  {
+    "word_roman": "TAIYA",
+    "word_bangla": "টাইয়া",
+    "category": "Adjective",
+    "meaning_english": "Devoid of fertility",
+    "meaning_bangla": "উর্বরতাহীন"
+  },
+  {
+    "word_roman": "TATUWA",
+    "word_bangla": "টাতুৱা",
+    "category": "Noun",
+    "meaning_english": "A kind of hard grass growing in water",
+    "meaning_bangla": "জলে জন্মানো এক ধরণের শক্ত ঘাস"
+  },
+  {
+    "word_roman": "TATKA",
+    "word_bangla": "টাটকা",
+    "category": "Adjective",
+    "meaning_english": "Fresh",
+    "meaning_bangla": "তাজা"
+  },
+  {
+    "word_roman": "TATTI",
+    "word_bangla": "টাট্টি",
+    "category": "Noun",
+    "meaning_english": "A screen of mat made of bamboo strips",
+    "meaning_bangla": "বাঁশের স্ট্রিপ দিয়ে তৈরি মাদুরের পর্দা"
+  },
+  {
+    "word_roman": "TAN",
+    "word_bangla": "টান",
+    "category": "Noun",
+    "meaning_english": "(i) Pull, attraction (ii) Scarcity, shortage (iii) Harsh, stern (iv) Pitiable death",
+    "meaning_bangla": "(i) টান, আকর্ষণ (ii) অভাব (iii) কঠোর (iv) করুণ মৃত্যু"
+  },
+  {
+    "word_roman": "TAN-",
+    "word_bangla": "টান্-",
+    "category": "Verb",
+    "meaning_english": "To pull, to attract",
+    "meaning_bangla": "টানা, আকর্ষণ করা"
+  },
+  {
+    "word_roman": "TANLEI",
+    "word_bangla": "টানলেই",
+    "category": "Noun",
+    "meaning_english": "Kind of snake",
+    "meaning_bangla": "এক ধরণের সাপ"
+  },
+  {
+    "word_roman": "TANA",
+    "word_bangla": "টানা",
+    "category": "Noun",
+    "meaning_english": "1. Consultation 2. Continuous",
+    "meaning_bangla": "১. পরামর্শ ২. অবিরত"
+  },
+  {
+    "word_roman": "TANA-",
+    "word_bangla": "টানা-",
+    "category": "Verb",
+    "meaning_english": "(i) To tighten (ii) To draw a line",
+    "meaning_bangla": "(i) টানটান করা (ii) রেখা টানা"
+  },
+  {
+    "word_roman": "TANANI",
+    "word_bangla": "টানানি",
+    "category": "Noun",
+    "meaning_english": "(i) Pulling, attracting, drawing (ii) Tightening",
+    "meaning_bangla": "(i) টানা, আকর্ষণ করা, আঁকা (ii) টানটান করা"
+  },
+  {
+    "word_roman": "TANUWA",
+    "word_bangla": "টানুৱা",
+    "category": "Adjective",
+    "meaning_english": "Unfertile",
+    "meaning_bangla": "অনুর্বর"
+  },
+  {
+    "word_roman": "TALA",
+    "word_bangla": "টালা",
+    "category": "Noun",
+    "meaning_english": "An umbrella made of leaves",
+    "meaning_bangla": "পাতা দিয়ে তৈরি ছাতা"
+  },
+  {
+    "word_roman": "TALI",
+    "word_bangla": "টালি",
+    "category": "Noun",
+    "meaning_english": "A big wicker-basket",
+    "meaning_bangla": "বড় বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "TI",
+    "word_bangla": "টি",
+    "category": "Suffix",
+    "meaning_english": "Suffix used to form adjectives and nouns (in pleonastic sense)",
+    "meaning_bangla": "বিশেষণ ও বিশেষ্য গঠনে ব্যবহৃত প্রত্যয় (অতিরিক্ত অর্থে)"
+  },
+  {
+    "word_roman": "TIK",
+    "word_bangla": "টিক",
+    "category": "Noun",
+    "meaning_english": "(i) Top (ii) Top of the head",
+    "meaning_bangla": "(i) উপরের অংশ (ii) মাথার উপরের অংশ"
+  },
+  {
+    "word_roman": "TIK-",
+    "word_bangla": "টিক্-",
+    "category": "Verb",
+    "meaning_english": "(i) To stay, to survive (ii) To care",
+    "meaning_bangla": "(i) থাকা, বেঁচে থাকা (ii) যত্ন নেওয়া"
+  },
+  {
+    "word_roman": "TIKA",
+    "word_bangla": "টিকা",
+    "category": "Noun",
+    "meaning_english": "Vaccination, inoculation",
+    "meaning_bangla": "টিকা দেওয়া"
+  },
+  {
+    "word_roman": "TIKA-",
+    "word_bangla": "টিকা-",
+    "category": "Verb",
+    "meaning_english": "(i) To cause to continue or survive (ii) To keep alive (causative of tik-)",
+    "meaning_bangla": "(i) চালিয়ে যাওয়া বা বাঁচিয়ে রাখা (ii) জীবিত রাখা (টিক্-এর কারণাত্মক)"
+  },
+  {
+    "word_roman": "TIKANI",
+    "word_bangla": "টিকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Surviving, lasting, caring (ii) Causing to stay/survive/keeping alive",
+    "meaning_bangla": "(i) টিকে থাকা, স্থায়ী হওয়া, যত্ন নেওয়া (ii) টিকিয়ে রাখা"
+  },
+  {
+    "word_roman": "TIKI",
+    "word_bangla": "টিকি",
+    "category": "Noun",
+    "meaning_english": "A small thing burnt for smoking in a hooka",
+    "meaning_bangla": "হুক্কায় ধূমপানের জন্য ছোট জ্বলন্ত জিনিস"
+  },
+  {
+    "word_roman": "TIKILI",
+    "word_bangla": "টিকিলি",
+    "category": "Noun",
+    "meaning_english": "Variant of above",
+    "meaning_bangla": "উপরের রূপের বিকল্প"
+  },
+  {
+    "word_roman": "TIN",
+    "word_bangla": "টিন",
+    "category": "Noun",
+    "meaning_english": "1. The act of pulling, spreading or straightening 2. (i) Loss (ii) Emptied, spent",
+    "meaning_bangla": "১. টানা, ছড়ানো বা সোজা করা ২. (i) ক্ষতি (ii) খালি, খরচ হয়ে যাওয়া"
+  },
+  {
+    "word_roman": "TINGA",
+    "word_bangla": "টিঙ্গা",
+    "category": "Adjective",
+    "meaning_english": "Swollen",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "TINGIRI",
+    "word_bangla": "টিঙ্গিরি",
+    "category": "Adjective",
+    "meaning_english": "Swollen",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "TINTIN",
+    "word_bangla": "টিনটিন",
+    "category": "Noun",
+    "meaning_english": "A word denoting swollenness or tightened position of a string",
+    "meaning_bangla": "ফোলা বা তারের টানটান অবস্থা বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "TINLA",
+    "word_bangla": "টিনলা",
+    "category": "Noun",
+    "meaning_english": "A plant the leaves of which are used for making leaf-umbrellas",
+    "meaning_bangla": "পাতার ছাতা তৈরির জন্য পাতা ব্যবহৃত গাছ"
+  },
+  {
+    "word_roman": "TIKARI",
+    "word_bangla": "টিকারি",
+    "category": "Noun",
+    "meaning_english": "Taunt",
+    "meaning_bangla": "বিদ্রূপ"
+  },
+  {
+    "word_roman": "TIP",
+    "word_bangla": "টিপ",
+    "category": "Noun",
+    "meaning_english": "(i) Edge, brim (ii) A finger-mark",
+    "meaning_bangla": "(i) কিনারা, প্রান্ত (ii) আঙুলের ছাপ"
+  },
+  {
+    "word_roman": "TIPAN",
+    "word_bangla": "টিপন",
+    "category": "Noun",
+    "meaning_english": "Pressure, wink",
+    "meaning_bangla": "চাপ, চোখ মারা"
+  },
+  {
+    "word_roman": "TIPA-",
+    "word_bangla": "টিপা-",
+    "category": "Verb",
+    "meaning_english": "To massage, to press",
+    "meaning_bangla": "মালিশ করা, চাপ দেওয়া"
+  },
+  {
+    "word_roman": "TIPANI",
+    "word_bangla": "টিপানি",
+    "category": "Noun",
+    "meaning_english": "Massaging, pressing, winking",
+    "meaning_bangla": "মালিশ করা, চাপ দেওয়া, চোখ মারা"
+  },
+  {
+    "word_roman": "TIPUWA-",
+    "word_bangla": "টিপুৱা-",
+    "category": "Verb",
+    "meaning_english": "To cause to press or massage (causative of tipa-)",
+    "meaning_bangla": "চাপ দেওয়া বা মালিশ করানো (টিপা-এর কারণাত্মক)"
+  },
+  {
+    "word_roman": "TILLA",
+    "word_bangla": "টিল্লা",
+    "category": "Noun",
+    "meaning_english": "1. Alt. form of tilā 2. Hillock",
+    "meaning_bangla": "১. টিলা-এর বিকল্প রূপ ২. ছোট পাহাড়"
+  },
+  {
+    "word_roman": "TU",
+    "word_bangla": "টু",
+    "category": "Noun",
+    "meaning_english": "The act of cutting down totally",
+    "meaning_bangla": "সম্পূর্ণ কেটে ফেলার কাজ"
+  },
+  {
+    "word_roman": "TUK",
+    "word_bangla": "টুক",
+    "category": "Adjective",
+    "meaning_english": "Contracted form of tuchek",
+    "meaning_bangla": "টুচেক-এর সংক্ষিপ্ত রূপ"
+  },
+  {
+    "word_roman": "TUK-",
+    "word_bangla": "টুক্-",
+    "category": "Verb",
+    "meaning_english": "To copy",
+    "meaning_bangla": "কপি করা"
+  },
+  {
+    "word_roman": "TUKAN",
+    "word_bangla": "টুকন",
+    "category": "Noun",
+    "meaning_english": "Amorous hint or sign",
+    "meaning_bangla": "প্রেমালাপের ইঙ্গিত বা চিহ্ন"
+  },
+  {
+    "word_roman": "TUKA",
+    "word_bangla": "টুকা",
+    "category": "Noun",
+    "meaning_english": "Written copy",
+    "meaning_bangla": "লিখিত কপি"
+  },
+  {
+    "word_roman": "TUKA",
+    "word_bangla": "টুকা",
+    "category": "Noun",
+    "meaning_english": "A peculiar sound of the smaller side of a m:daṅga",
+    "meaning_bangla": "মৃদঙ্গের ছোট দিকের বিশেষ শব্দ"
+  },
+  {
+    "word_roman": "TUKA-",
+    "word_bangla": "টুকা-",
+    "category": "Verb",
+    "meaning_english": "To hint amorously",
+    "meaning_bangla": "প্রেমালাপের ইঙ্গিত দেওয়া"
+  },
+  {
+    "word_roman": "TUKANI",
+    "word_bangla": "টুকানি",
+    "category": "Noun",
+    "meaning_english": "Copying",
+    "meaning_bangla": "কপি করা"
+  },
+  {
+    "word_roman": "TUKARA",
+    "word_bangla": "টুকরা",
+    "category": "Noun",
+    "meaning_english": "Piece",
+    "meaning_bangla": "টুকরো"
+  },
+  {
+    "word_roman": "TUKTAK",
+    "word_bangla": "টুকটাক",
+    "category": "Adjective",
+    "meaning_english": "Of bits, this and that",
+    "meaning_bangla": "টুকটাক, এটা-ওটা"
+  },
+  {
+    "word_roman": "TUTA",
+    "word_bangla": "টুতা",
+    "category": "Noun",
+    "meaning_english": "Stem of a tree with all the branches cut off",
+    "meaning_bangla": "সব ডাল কাটা গাছের কাণ্ড"
+  },
+  {
+    "word_roman": "TUTKA",
+    "word_bangla": "টুতকা",
+    "category": "Adjective",
+    "meaning_english": "Ordinary, trifle",
+    "meaning_bangla": "সাধারণ, তুচ্ছ"
+  },
+  {
+    "word_roman": "TUTHEK",
+    "word_bangla": "টুথেক",
+    "category": "Noun",
+    "meaning_english": "River-bend",
+    "meaning_bangla": "নদীর বাঁক"
+  },
+  {
+    "word_roman": "TUNDA",
+    "word_bangla": "টুন্ডা",
+    "category": "Noun",
+    "meaning_english": "A tree with all the branches mutilated",
+    "meaning_bangla": "সব ডাল ছাঁটা গাছ"
+  },
+  {
+    "word_roman": "TUP",
+    "word_bangla": "টুপ",
+    "category": "Noun",
+    "meaning_english": "Hat or cap",
+    "meaning_bangla": "টুপি বা ক্যাপ"
+  },
+  {
+    "word_roman": "TUPI",
+    "word_bangla": "টুপি",
+    "category": "Noun",
+    "meaning_english": "Hat or cap",
+    "meaning_bangla": "টুপি"
+  },
+  {
+    "word_roman": "TUPURI",
+    "word_bangla": "টুপুরি",
+    "category": "Noun",
+    "meaning_english": "Earthen vessel",
+    "meaning_bangla": "মাটির পাত্র"
+  },
+  {
+    "word_roman": "TUM",
+    "word_bangla": "টুম",
+    "category": "Adjective/Noun",
+    "meaning_english": "(i) Destroyed (ii) Destruction",
+    "meaning_bangla": "(i) ধ্বংসপ্রাপ্ত (ii) ধ্বংস"
+  },
+  {
+    "word_roman": "TUMA",
+    "word_bangla": "টুমা",
+    "category": "Noun",
+    "meaning_english": "Piece",
+    "meaning_bangla": "টুকরো"
+  },
+  {
+    "word_roman": "TUL",
+    "word_bangla": "টুল",
+    "category": "Noun",
+    "meaning_english": "Sanskrit-school",
+    "meaning_bangla": "সংস্কৃত বিদ্যালয়"
+  },
+  {
+    "word_roman": "TULLI",
+    "word_bangla": "টুল্লি",
+    "category": "Noun",
+    "meaning_english": "The top of the roof of a house-stead",
+    "meaning_bangla": "ঘরের ছাদের উপরের অংশ"
+  },
+  {
+    "word_roman": "TEPAN",
+    "word_bangla": "টেপন",
+    "category": "Noun",
+    "meaning_english": "The earth",
+    "meaning_bangla": "পৃথিবী"
+  },
+  {
+    "word_roman": "TEK-",
+    "word_bangla": "টেক্-",
+    "category": "Verb",
+    "meaning_english": "To separate small and big particles of something by moving a winnowing fan",
+    "meaning_bangla": "কুলো নাড়িয়ে ছোট-বড় কণা আলাদা করা"
+  },
+  {
+    "word_roman": "TEKA",
+    "word_bangla": "টেকা",
+    "category": "Noun",
+    "meaning_english": "High place",
+    "meaning_bangla": "উঁচু স্থান"
+  },
+  {
+    "word_roman": "TEKPA",
+    "word_bangla": "টেকপা",
+    "category": "Noun",
+    "meaning_english": "The act of separating small and big particles by moving a winnowing fan",
+    "meaning_bangla": "কুলো নাড়িয়ে ছোট-বড় কণা আলাদা করার কাজ"
+  },
+  {
+    "word_roman": "TEKANI",
+    "word_bangla": "টেকানি",
+    "category": "Noun",
+    "meaning_english": "Separating small and big particles by moving a winnowing fan",
+    "meaning_bangla": "কুলো নাড়িয়ে ছোট-বড় কণা আলাদা করা"
+  },
+  {
+    "word_roman": "TEKARA-",
+    "word_bangla": "টেকরা-",
+    "category": "Verb",
+    "meaning_english": "To blow on the head with the knuckles",
+    "meaning_bangla": "মুষ্টি দিয়ে মাথায় আঘাত করা"
+  },
+  {
+    "word_roman": "TEKANI",
+    "word_bangla": "টেকানি",
+    "category": "Noun",
+    "meaning_english": "Blowing on the head with the knuckles",
+    "meaning_bangla": "মুষ্টি দিয়ে মাথায় আঘাত করা"
+  },
+  {
+    "word_roman": "TEKKAR",
+    "word_bangla": "টেক্কর",
+    "category": "Noun",
+    "meaning_english": "Blow on the head with the knuckles",
+    "meaning_bangla": "মুষ্টি দিয়ে মাথায় আঘাত"
+  },
+  {
+    "word_roman": "TEKTEK",
+    "word_bangla": "টেকটেক",
+    "category": "Noun",
+    "meaning_english": "A word indicating excessive cough",
+    "meaning_bangla": "অতিরিক্ত কাশি বোঝানোর শব্দ"
+  },
+  {
+    "word_roman": "TEKHHA",
+    "word_bangla": "টেখা",
+    "category": "Adjective",
+    "meaning_english": "Drooping",
+    "meaning_bangla": "ঝুলে পড়া"
+  },
+  {
+    "word_roman": "TEKTHARA",
+    "word_bangla": "টেকথারা",
+    "category": "Adjective",
+    "meaning_english": "Drooping",
+    "meaning_bangla": "ঝুলে পড়া"
+  },
+  {
+    "word_roman": "TENARA",
+    "word_bangla": "টেনরা",
+    "category": "Noun",
+    "meaning_english": "Hill",
+    "meaning_bangla": "পাহাড়"
+  },
+  {
+    "word_roman": "TENGARA",
+    "word_bangla": "টেঙ্গরা",
+    "category": "Adjective",
+    "meaning_english": "Restless",
+    "meaning_bangla": "অস্থির"
+  },
+  {
+    "word_roman": "TENGARAMI",
+    "word_bangla": "টেঙ্গরামি",
+    "category": "Noun",
+    "meaning_english": "Restlessness",
+    "meaning_bangla": "অস্থিরতা"
+  },
+  {
+    "word_roman": "TENTENA-",
+    "word_bangla": "টেন্টেনা-",
+    "category": "Verb",
+    "meaning_english": "To create a sensation of acute pain",
+    "meaning_bangla": "তীব্র ব্যথার অনুভূতি সৃষ্টি করা"
+  },
+  {
+    "word_roman": "TENTENANI",
+    "word_bangla": "টেন্টেনানি",
+    "category": "Noun",
+    "meaning_english": "Creating a sensation of acute pain",
+    "meaning_bangla": "তীব্র ব্যথার অনুভূতি সৃষ্টি করা"
+  },
+  {
+    "word_roman": "TENTHA",
+    "word_bangla": "টেন্থা",
+    "category": "Noun",
+    "meaning_english": "Posture, gesture",
+    "meaning_bangla": "ভঙ্গি, অঙ্গভঙ্গি"
+  },
+  {
+    "word_roman": "TENTANIYA",
+    "word_bangla": "টেন্তানিয়া",
+    "category": "Adjective",
+    "meaning_english": "Restless",
+    "meaning_bangla": "অস্থির"
+  },
+  {
+    "word_roman": "TENTULIYA",
+    "word_bangla": "টেন্তুলিয়া",
+    "category": "Noun",
+    "meaning_english": "Alt. form of above",
+    "meaning_bangla": "উপরের রূপের বিকল্প"
+  },
+  {
+    "word_roman": "TEP",
+    "word_bangla": "টেপ",
+    "category": "Noun",
+    "meaning_english": "1. Pent roof 2. Earth exposed by earth-worm 3. Rubbish within the belly of a fish",
+    "meaning_bangla": "১. ঢালু ছাদ ২. কেঁচো দিয়ে উন্মুক্ত মাটি ৩. মাছের পেটের ভিতরের আবর্জনা"
+  },
+  {
+    "word_roman": "TEPA",
+    "word_bangla": "টেপা",
+    "category": "Adjective",
+    "meaning_english": "Slender",
+    "meaning_bangla": "সরু"
+  },
+  {
+    "word_roman": "TEPA-",
+    "word_bangla": "টেপা-",
+    "category": "Verb",
+    "meaning_english": "To press out the rubbish from the belly of a fish",
+    "meaning_bangla": "মাছের পেট থেকে আবর্জনা চেপে বের করা"
+  },
+  {
+    "word_roman": "TEPANA",
+    "word_bangla": "টেপানা",
+    "category": "Adjective",
+    "meaning_english": "Under-aged, immature",
+    "meaning_bangla": "অপরিণত, অপরিণামদর্শী"
+  },
+  {
+    "word_roman": "TEPANI",
+    "word_bangla": "টেপানি",
+    "category": "Noun",
+    "meaning_english": "Pressing out the rubbish from the belly of a fish",
+    "meaning_bangla": "মাছের পেট থেকে আবর্জনা চেপে বের করা"
+  },
+  {
+    "word_roman": "TEPI",
+    "word_bangla": "টেপি",
+    "category": "Noun",
+    "meaning_english": "Variant of tep and tepa",
+    "meaning_bangla": "টেপ ও টেপা-এর রূপান্তর"
+  },
+  {
+    "word_roman": "TEPUNI",
+    "word_bangla": "টেপুনি",
+    "category": "Noun",
+    "meaning_english": "Under-aged, immature (girl)",
+    "meaning_bangla": "অপরিণত মেয়ে"
+  },
+  {
+    "word_roman": "TEMPHAK",
+    "word_bangla": "টেম্ফাক",
+    "category": "Noun",
+    "meaning_english": "Lump of clay",
+    "meaning_bangla": "মাটির ডেলা"
+  },
+  {
+    "word_roman": "TER",
+    "word_bangla": "টের",
+    "category": "Noun",
+    "meaning_english": "Feeling, sense",
+    "meaning_bangla": "অনুভূতি, জ্ঞান"
+  },
+  {
+    "word_roman": "TAU",
+    "word_bangla": "টাউ",
+    "category": "Noun",
+    "meaning_english": "The act of heaping",
+    "meaning_bangla": "স্তূপ করার কাজ"
+  },
+  {
+    "word_roman": "TAU",
+    "word_bangla": "টাউ",
+    "category": "Noun",
+    "meaning_english": "Ownership, charge, duty",
+    "meaning_bangla": "মালিকানা, দায়িত্ব, কর্তব্য"
+  },
+  {
+    "word_roman": "TAUTHARA",
+    "word_bangla": "টাউথারা",
+    "category": "Noun",
+    "meaning_english": "Heap",
+    "meaning_bangla": "স্তূপ"
+  },
+  {
+    "word_roman": "THAI",
+    "word_bangla": "থাই",
+    "category": "Noun",
+    "meaning_english": "1. Self 2. Excess",
+    "meaning_bangla": "১. নিজে ২. অতিরিক্ত"
+  },
+  {
+    "word_roman": "THAICEK",
+    "word_bangla": "থাইচেক",
+    "category": "Verb",
+    "meaning_english": "Variant form (below)",
+    "meaning_bangla": "নিচের রূপের বিকল্প"
+  },
+  {
+    "word_roman": "THAICET",
+    "word_bangla": "থাইচেত",
+    "category": "Noun",
+    "meaning_english": "(i) Pride (ii) Proud",
+    "meaning_bangla": "(i) গর্ব (ii) গর্বিত"
+  },
+  {
+    "word_roman": "THAITHHEK",
+    "word_bangla": "থাইথেক",
+    "category": "Noun",
+    "meaning_english": "Pride",
+    "meaning_bangla": "গর্ব"
+  },
+  {
+    "word_roman": "THAIMAMI",
+    "word_bangla": "থাইমামি",
+    "category": "Noun",
+    "meaning_english": "(i) Spirit (ii) Pulse",
+    "meaning_bangla": "(i) আত্মা (ii) নাড়ী"
+  },
+  {
+    "word_roman": "THAK",
+    "word_bangla": "থাক",
+    "category": "Noun",
+    "meaning_english": "1. Nature 2. (i) Untrue (ii) Cheat, knave",
+    "meaning_bangla": "১. প্রকৃতি ২. (i) মিথ্যা (ii) প্রতারক"
+  },
+  {
+    "word_roman": "THAK-",
+    "word_bangla": "থাক্-",
+    "category": "Verb",
+    "meaning_english": "To be cheated",
+    "meaning_bangla": "প্রতারিত হওয়া"
+  },
+  {
+    "word_roman": "THAKAKAR",
+    "word_bangla": "থাকাকার",
+    "category": "Noun",
+    "meaning_english": "Stumble",
+    "meaning_bangla": "হোঁচট খাওয়া"
+  },
+  {
+    "word_roman": "THAKA",
+    "word_bangla": "থাকা",
+    "category": "Adjective",
+    "meaning_english": "Untrue, false",
+    "meaning_bangla": "মিথ্যা"
+  },
+  {
+    "word_roman": "THAKA-",
+    "word_bangla": "থাকা-",
+    "category": "Verb",
+    "meaning_english": "To cheat",
+    "meaning_bangla": "প্রতারণা করা"
+  },
+  {
+    "word_roman": "THAKANI",
+    "word_bangla": "থাকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being deceived (ii) Deceiving",
+    "meaning_bangla": "(i) প্রতারিত হওয়া (ii) প্রতারণা করা"
+  },
+  {
+    "word_roman": "THAKUWA",
+    "word_bangla": "থাকুৱা",
+    "category": "Adjective",
+    "meaning_english": "(i) False (ii) Cheat",
+    "meaning_bangla": "(i) মিথ্যা (ii) প্রতারক"
+  },
+  {
+    "word_roman": "THAT",
+    "word_bangla": "থাত",
+    "category": "Noun",
+    "meaning_english": "The beak of a bird",
+    "meaning_bangla": "পাখির ঠোঁট"
+  },
+  {
+    "word_roman": "THANA",
+    "word_bangla": "থানা",
+    "category": "Noun",
+    "meaning_english": "Leaf-vessel, paper-bag",
+    "meaning_bangla": "পাতার পাত্র, কাগজের ব্যাগ"
+  },
+  {
+    "word_roman": "THANKA",
+    "word_bangla": "থাঙ্কা",
+    "category": "Noun",
+    "meaning_english": "Style, frolic, joke",
+    "meaning_bangla": "স্টাইল, মজা, ঠাট্টা"
+  },
+  {
+    "word_roman": "THAP",
+    "word_bangla": "থাপ",
+    "category": "Noun",
+    "meaning_english": "A small wicker-basket",
+    "meaning_bangla": "ছোট বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "THAMAK",
+    "word_bangla": "থামক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of thamak",
+    "meaning_bangla": "থামক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "THAI",
+    "word_bangla": "থাই",
+    "category": "Noun",
+    "meaning_english": "(i) Certainty (ii) Resort",
+    "meaning_bangla": "(i) নিশ্চয়তা (ii) আশ্রয়"
+  },
+  {
+    "word_roman": "THAI",
+    "word_bangla": "থাই",
+    "category": "Noun",
+    "meaning_english": "Place under water within head-depth",
+    "meaning_bangla": "মাথা ডোবানোর মতো জলের নিচের স্থান"
+  },
+  {
+    "word_roman": "THAK",
+    "word_bangla": "থাক",
+    "category": "Noun",
+    "meaning_english": "Fickle",
+    "meaning_bangla": "চঞ্চল"
+  },
+  {
+    "word_roman": "THAK",
+    "word_bangla": "থাক",
+    "category": "Noun",
+    "meaning_english": "The act of feeding",
+    "meaning_bangla": "খাওয়ানোর কাজ"
+  },
+  {
+    "word_roman": "THAKUR",
+    "word_bangla": "থাকুর",
+    "category": "Noun",
+    "meaning_english": "Brahmin (address to Brahmin)",
+    "meaning_bangla": "ব্রাহ্মণ (ব্রাহ্মণকে সম্বোধন)"
+  },
+  {
+    "word_roman": "THAGURANI",
+    "word_bangla": "থাগুরানি",
+    "category": "Noun",
+    "meaning_english": "Brahmin lady",
+    "meaning_bangla": "ব্রাহ্মণী"
+  },
+  {
+    "word_roman": "THAN",
+    "word_bangla": "থান",
+    "category": "Noun",
+    "meaning_english": "1. Care 2. Paddy-plant grown on an even place",
+    "meaning_bangla": "১. যত্ন ২. সমতল জমিতে জন্মানো ধান গাছ"
+  },
+  {
+    "word_roman": "THANCA",
+    "word_bangla": "থানচা",
+    "category": "Noun",
+    "meaning_english": "Saturday",
+    "meaning_bangla": "শনিবার"
+  },
+  {
+    "word_roman": "THANCI",
+    "word_bangla": "থানচি",
+    "category": "Noun",
+    "meaning_english": "Piece of dry fish",
+    "meaning_bangla": "শুকনো মাছের টুকরো"
+  },
+  {
+    "word_roman": "THANTHAN",
+    "word_bangla": "থানথান",
+    "category": "Adjective",
+    "meaning_english": "Divided",
+    "meaning_bangla": "বিভক্ত"
+  },
+  {
+    "word_roman": "THANBEI",
+    "word_bangla": "থানবেই",
+    "category": "Noun",
+    "meaning_english": "Big piece of split wood",
+    "meaning_bangla": "বড় কাটা কাঠের টুকরো"
+  },
+  {
+    "word_roman": "THACA",
+    "word_bangla": "থাচা",
+    "category": "Noun",
+    "meaning_english": "Belief",
+    "meaning_bangla": "বিশ্বাস"
+  },
+  {
+    "word_roman": "THACA-",
+    "word_bangla": "থাচা-",
+    "category": "Verb",
+    "meaning_english": "The act of bethrothing",
+    "meaning_bangla": "বাগদানের কাজ"
+  },
+  {
+    "word_roman": "THACAKA",
+    "word_bangla": "থাচাকা",
+    "category": "Adjective",
+    "meaning_english": "Compressed, over-loaded (smearing the body with unguents)",
+    "meaning_bangla": "চাপা, অতিরিক্ত লোড করা (শরীরে তেল মাখা)"
+  },
+  {
+    "word_roman": "THACA-",
+    "word_bangla": "থাচা-",
+    "category": "Verb",
+    "meaning_english": "To push, to compress, to over-load",
+    "meaning_bangla": "ধাক্কা দেওয়া, চাপা, অতিরিক্ত লোড করা"
   }
 ]
