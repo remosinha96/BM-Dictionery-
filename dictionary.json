@@ -6627,5 +6627,978 @@
     "category": "Suffix",
     "meaning_english": "A suf. added to roots to form adjs.",
     "meaning_bangla": "ক্রিয়ামূলে যোগ করে বিশেষণ তৈরি করে"
+  },
+  {
+    "word_roman": "EKABALI",
+    "word_bangla": "একাবলি",
+    "category": "Noun",
+    "meaning_english": "A kind of one-stringed necklace",
+    "meaning_bangla": "এক সুতোর গলার হার"
+  },
+  {
+    "word_roman": "EKALA",
+    "word_bangla": "একালা",
+    "category": "Adjective",
+    "meaning_english": "Alone",
+    "meaning_bangla": "একা"
+  },
+  {
+    "word_roman": "EKIN",
+    "word_bangla": "একিন",
+    "category": "Adjective",
+    "meaning_english": "Attentive, single-minded",
+    "meaning_bangla": "মনোযোগী, একাগ্রচিত্ত"
+  },
+  {
+    "word_roman": "EKUCH",
+    "word_bangla": "একুচ",
+    "category": "Adverb",
+    "meaning_english": "This much, so much",
+    "meaning_bangla": "এতটা, এতখানি"
+  },
+  {
+    "word_roman": "-EKURA",
+    "word_bangla": "-একুরা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots to indicate agency or nature of the agent",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে কর্তার স্বভাব বা কার্যকারিতা নির্দেশ করে"
+  },
+  {
+    "word_roman": "EKUL",
+    "word_bangla": "একুল",
+    "category": "Adverb",
+    "meaning_english": "This side",
+    "meaning_bangla": "এই দিক"
+  },
+  {
+    "word_roman": "EKENAY",
+    "word_bangla": "একেনায়",
+    "category": "Adverb",
+    "meaning_english": "So much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "EKENEBE",
+    "word_bangla": "একেনেবে",
+    "category": "Adverb",
+    "meaning_english": "Including everything, thoroughly",
+    "meaning_bangla": "সবকিছুসহ, পুরোপুরি"
+  },
+  {
+    "word_roman": "EKEBARE",
+    "word_bangla": "একেবারে",
+    "category": "Adverb",
+    "meaning_english": "Totally",
+    "meaning_bangla": "পুরোপুরি"
+  },
+  {
+    "word_roman": "EKHAN(M)",
+    "word_bangla": "এখান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ehan",
+    "meaning_bangla": "এহান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "EKHURUM",
+    "word_bangla": "এখুরুম",
+    "category": "Adverb",
+    "meaning_english": "This time, this turn",
+    "meaning_bangla": "এই সময়, এই বার"
+  },
+  {
+    "word_roman": "EGA",
+    "word_bangla": "এগা",
+    "category": "Pronoun",
+    "meaning_english": "This one",
+    "meaning_bangla": "এইটা"
+  },
+  {
+    "word_roman": "EGULI",
+    "word_bangla": "এগুলি",
+    "category": "Pronoun",
+    "meaning_english": "This one (with reference to a small or negligible thing or person)",
+    "meaning_bangla": "এইটা (ছোট বা তুচ্ছ জিনিস/ব্যক্তির প্রসঙ্গে)"
+  },
+  {
+    "word_roman": "EGULTA",
+    "word_bangla": "এগুল্টা",
+    "category": "Adverb",
+    "meaning_english": "This year",
+    "meaning_bangla": "এই বছর"
+  },
+  {
+    "word_roman": "ENGEREJI",
+    "word_bangla": "এঙ্গেরেজি",
+    "category": "Noun",
+    "meaning_english": "English",
+    "meaning_bangla": "ইংরেজি"
+  },
+  {
+    "word_roman": "ECU(M)",
+    "word_bangla": "এচু(ম)",
+    "category": "Verb",
+    "meaning_english": "V. icu",
+    "meaning_bangla": "ইচু-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "ECUT",
+    "word_bangla": "এচুত",
+    "category": "Adverb",
+    "meaning_english": "This much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "ECKA",
+    "word_bangla": "এচকা",
+    "category": "Noun",
+    "meaning_english": "(i) A sudden tug, push (ii) The act of moving a little",
+    "meaning_bangla": "(i) হঠাৎ টানা বা ধাক্কা (ii) সামান্য নড়াচড়া"
+  },
+  {
+    "word_roman": "ECKA",
+    "word_bangla": "এচকা",
+    "category": "Verb",
+    "meaning_english": "To move a little",
+    "meaning_bangla": "সামান্য নড়ানো"
+  },
+  {
+    "word_roman": "ECKANI",
+    "word_bangla": "এচকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Pushing (ii) Moving a little",
+    "meaning_bangla": "(i) ধাক্কা দেওয়া (ii) সামান্য নড়াচড়া"
+  },
+  {
+    "word_roman": "ECHIL",
+    "word_bangla": "এচিল",
+    "category": "Suffix",
+    "meaning_english": "The base of the past perfect tense endings",
+    "meaning_bangla": "পূর্ণ অতীত কালের ending-এর ভিত্তি"
+  },
+  {
+    "word_roman": "EJMALI",
+    "word_bangla": "এজমালি",
+    "category": "Adjective",
+    "meaning_english": "Jointly possessed",
+    "meaning_bangla": "যৌথভাবে অধিকৃত"
+  },
+  {
+    "word_roman": "ETHUNA",
+    "word_bangla": "এথুনা",
+    "category": "Adverb",
+    "meaning_english": "In this way",
+    "meaning_bangla": "এইভাবে"
+  },
+  {
+    "word_roman": "ETA",
+    "word_bangla": "এটা",
+    "category": "Adverb",
+    "meaning_english": "So much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "ETAPARA",
+    "word_bangla": "এতাপারা",
+    "category": "Adverb",
+    "meaning_english": "(i) Of this amount (ii) So much",
+    "meaning_bangla": "(i) এই পরিমাণের (ii) এতটা"
+  },
+  {
+    "word_roman": "ETU(M)",
+    "word_bangla": "এতু(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of itu",
+    "meaning_bangla": "ইতু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ETUTANTU(M)",
+    "word_bangla": "এতুতান্তু(ম)",
+    "category": "Noun",
+    "meaning_english": "Setting in due order, arranging properly",
+    "meaning_bangla": "যথাযথভাবে সাজানো"
+  },
+  {
+    "word_roman": "ETUN(M)",
+    "word_bangla": "এতুন(ম)",
+    "category": "Adverb",
+    "meaning_english": "This much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "-E(T)TA",
+    "word_bangla": "-এ(ট)টা",
+    "category": "Suffix",
+    "meaning_english": "An ending for the ablative",
+    "meaning_bangla": "অপাদান কারকের ending"
+  },
+  {
+    "word_roman": "EKUTA(M)",
+    "word_bangla": "একুতা(ম)",
+    "category": "Noun",
+    "meaning_english": "V. ikuta",
+    "meaning_bangla": "ইকুতা-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "EDUBEDU(M)",
+    "word_bangla": "এদুবেদু(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of edubudu",
+    "meaning_bangla": "এদুবুদু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ENU",
+    "word_bangla": "এনু",
+    "category": "Pronoun",
+    "meaning_english": "It is this",
+    "meaning_bangla": "এটাই"
+  },
+  {
+    "word_roman": "EPEY",
+    "word_bangla": "এপেয়",
+    "category": "Adverb",
+    "meaning_english": "Here, in this place",
+    "meaning_bangla": "এখানে"
+  },
+  {
+    "word_roman": "EPPAKA(M)",
+    "word_bangla": "এপ্পাকা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ebaka",
+    "meaning_bangla": "এবাকা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "EPHIRUN",
+    "word_bangla": "এফিরুন",
+    "category": "Adverb",
+    "meaning_english": "This turn, this time",
+    "meaning_bangla": "এই বার, এই সময়"
+  },
+  {
+    "word_roman": "EBAN",
+    "word_bangla": "এবান",
+    "category": "Conjunction",
+    "meaning_english": "And",
+    "meaning_bangla": "এবং"
+  },
+  {
+    "word_roman": "EBAKA",
+    "word_bangla": "এবাকা",
+    "category": "Adverb",
+    "meaning_english": "Now",
+    "meaning_bangla": "এখন"
+  },
+  {
+    "word_roman": "EBARA",
+    "word_bangla": "এবারা",
+    "category": "Adverb",
+    "meaning_english": "This side",
+    "meaning_bangla": "এই দিক"
+  },
+  {
+    "word_roman": "EBIL",
+    "word_bangla": "এবিল",
+    "category": "Adverb",
+    "meaning_english": "This time, this turn",
+    "meaning_bangla": "এই সময়, এই বার"
+  },
+  {
+    "word_roman": "EBUJA",
+    "word_bangla": "এবুজা",
+    "category": "Adverb",
+    "meaning_english": "Even now, till now",
+    "meaning_bangla": "এখনও পর্যন্ত"
+  },
+  {
+    "word_roman": "EBO",
+    "word_bangla": "এবো",
+    "category": "Adverb",
+    "meaning_english": "Even now, till now",
+    "meaning_bangla": "এখনও পর্যন্ত"
+  },
+  {
+    "word_roman": "EMAN",
+    "word_bangla": "এমান",
+    "category": "Adjective",
+    "meaning_english": "Such, of this kind",
+    "meaning_bangla": "এমন, এই ধরনের"
+  },
+  {
+    "word_roman": "EMAO(M)",
+    "word_bangla": "এমাও(ম)",
+    "category": "Adverb",
+    "meaning_english": "This time",
+    "meaning_bangla": "এই সময়"
+  },
+  {
+    "word_roman": "EMATIK",
+    "word_bangla": "এমাতিক",
+    "category": "Adverb",
+    "meaning_english": "To this extent, so much",
+    "meaning_bangla": "এতটা, এই পরিমাণে"
+  },
+  {
+    "word_roman": "EMARI",
+    "word_bangla": "এমারি",
+    "category": "Adverb",
+    "meaning_english": "This year",
+    "meaning_bangla": "এই বছর"
+  },
+  {
+    "word_roman": "EMUR",
+    "word_bangla": "এমুর",
+    "category": "Adverb",
+    "meaning_english": "This end, this time, this turn",
+    "meaning_bangla": "এই শেষ, এই সময়, এই বার"
+  },
+  {
+    "word_roman": "ER",
+    "word_bangla": "এর",
+    "category": "Verb",
+    "meaning_english": "To stop",
+    "meaning_bangla": "থামা"
+  },
+  {
+    "word_roman": "ERA",
+    "word_bangla": "এরা",
+    "category": "Adjective",
+    "meaning_english": "Discarded, quitted",
+    "meaning_bangla": "পরিত্যক্ত, ছেড়ে দেওয়া"
+  },
+  {
+    "word_roman": "ERE",
+    "word_bangla": "এরে",
+    "category": "Pronoun",
+    "meaning_english": "This",
+    "meaning_bangla": "এই"
+  },
+  {
+    "word_roman": "ERE-DENA",
+    "word_bangla": "এরে-দেনা",
+    "category": "Noun",
+    "meaning_english": "Quitting, abandoning",
+    "meaning_bangla": "ছেড়ে দেওয়া, পরিত্যাগ"
+  },
+  {
+    "word_roman": "ERANI",
+    "word_bangla": "এরানি",
+    "category": "Noun",
+    "meaning_english": "Giving up",
+    "meaning_bangla": "ছেড়ে দেওয়া"
+  },
+  {
+    "word_roman": "EL",
+    "word_bangla": "এল",
+    "category": "Noun",
+    "meaning_english": "Surpassed, avoided",
+    "meaning_bangla": "অতিক্রম করা, এড়ানো"
+  },
+  {
+    "word_roman": "ELANI",
+    "word_bangla": "এলানি",
+    "category": "Noun",
+    "meaning_english": "Surpassing, avoiding",
+    "meaning_bangla": "অতিক্রম, এড়ানো"
+  },
+  {
+    "word_roman": "ELA",
+    "word_bangla": "এলা",
+    "category": "Noun",
+    "meaning_english": "Song",
+    "meaning_bangla": "গান"
+  },
+  {
+    "word_roman": "ELA",
+    "word_bangla": "এলা",
+    "category": "Verb",
+    "meaning_english": "To shift a burden to another",
+    "meaning_bangla": "ভার অন্যের উপর স্থানান্তর করা"
+  },
+  {
+    "word_roman": "ELAKA",
+    "word_bangla": "এলাকা",
+    "category": "Noun",
+    "meaning_english": "(i) Area (ii) Scope, jurisdiction, connection",
+    "meaning_bangla": "(i) এলাকা (ii) পরিধি, এখতিয়ার, সংযোগ"
+  },
+  {
+    "word_roman": "ELACI",
+    "word_bangla": "এলাচি",
+    "category": "Noun",
+    "meaning_english": "Cardamom",
+    "meaning_bangla": "এলাচ"
+  },
+  {
+    "word_roman": "ELANI",
+    "word_bangla": "এলানি",
+    "category": "Noun",
+    "meaning_english": "Accusing",
+    "meaning_bangla": "অভিযোগ করা"
+  },
+  {
+    "word_roman": "ELEKA",
+    "word_bangla": "এলেকা",
+    "category": "Noun",
+    "meaning_english": "Scope",
+    "meaning_bangla": "পরিধি"
+  },
+  {
+    "word_roman": "ELKA",
+    "word_bangla": "এলকা",
+    "category": "Noun",
+    "meaning_english": "The act of moving or stirring (such as water)",
+    "meaning_bangla": "নড়ানো বা হিলানোর কাজ (জলের মতো)"
+  },
+  {
+    "word_roman": "ELKA",
+    "word_bangla": "এলকা",
+    "category": "Verb",
+    "meaning_english": "To move or stir (such as water)",
+    "meaning_bangla": "নড়ানো বা হিলানো (জলের মতো)"
+  },
+  {
+    "word_roman": "ELKANI",
+    "word_bangla": "এলকানি",
+    "category": "Noun",
+    "meaning_english": "Moving, stirring",
+    "meaning_bangla": "নড়াচড়া, হিলানো"
+  },
+  {
+    "word_roman": "ELKUNI",
+    "word_bangla": "এলকুনি",
+    "category": "Noun",
+    "meaning_english": "An instrument for moving or stirring (such as fried rice)",
+    "meaning_bangla": "নাড়ার যন্ত্র (ভাজা চালের মতো)"
+  },
+  {
+    "word_roman": "ELTHAK",
+    "word_bangla": "এলথাক",
+    "category": "Adverb",
+    "meaning_english": "Exceeding this way, thus",
+    "meaning_bangla": "এইভাবে অতিক্রম করে"
+  },
+  {
+    "word_roman": "ESUN",
+    "word_bangla": "এসুন",
+    "category": "Adverb",
+    "meaning_english": "Thus, like this",
+    "meaning_bangla": "এইভাবে"
+  },
+  {
+    "word_roman": "ESRAJ",
+    "word_bangla": "এস্রাজ",
+    "category": "Noun",
+    "meaning_english": "A stringed lute",
+    "meaning_bangla": "এক প্রকার তারযুক্ত বাদ্যযন্ত্র"
+  },
+  {
+    "word_roman": "EHAT(M)",
+    "word_bangla": "এহাত(ম)",
+    "category": "Adverb",
+    "meaning_english": "Here",
+    "meaning_bangla": "এখানে"
+  },
+  {
+    "word_roman": "EHANAT",
+    "word_bangla": "এহানাত",
+    "category": "Adverb",
+    "meaning_english": "Here, in this",
+    "meaning_bangla": "এখানে, এইতে"
+  },
+  {
+    "word_roman": "EHANI",
+    "word_bangla": "এহানি",
+    "category": "Adverb",
+    "meaning_english": "This much",
+    "meaning_bangla": "এতটা"
+  },
+  {
+    "word_roman": "AICA",
+    "word_bangla": "ঐচা",
+    "category": "Verb",
+    "meaning_english": "V. aica",
+    "meaning_bangla": "ঐচা-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "AISURJA",
+    "word_bangla": "ঐসুর্জা",
+    "category": "Noun",
+    "meaning_english": "Vanity",
+    "meaning_bangla": "অহংকার"
+  },
+  {
+    "word_roman": "O",
+    "word_bangla": "ও",
+    "category": "Particle",
+    "meaning_english": "That, yonder",
+    "meaning_bangla": "ওই, সেখানকার"
+  },
+  {
+    "word_roman": "O",
+    "word_bangla": "ও",
+    "category": "Particle",
+    "meaning_english": "A vocative particle",
+    "meaning_bangla": "সম্বোধনসূচক কণিকা"
+  },
+  {
+    "word_roman": "O",
+    "word_bangla": "ও",
+    "category": "Interjection",
+    "meaning_english": "An interjection expressing recollection, amazement, pity etc.",
+    "meaning_bangla": "স্মৃতি, আশ্চর্য, করুণা ইত্যাদি প্রকাশক আবেগসূচক শব্দ"
+  },
+  {
+    "word_roman": "OGA",
+    "word_bangla": "ওগা",
+    "category": "Pronoun",
+    "meaning_english": "That one",
+    "meaning_bangla": "ওইটা"
+  },
+  {
+    "word_roman": "OJA",
+    "word_bangla": "ওজা",
+    "category": "Noun",
+    "meaning_english": "Teacher, address to a teacher",
+    "meaning_bangla": "শিক্ষক, শিক্ষককে সম্বোধন"
+  },
+  {
+    "word_roman": "OT(M)",
+    "word_bangla": "ওত(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ut",
+    "meaning_bangla": "উত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "OTAN-PATAN(M)",
+    "word_bangla": "ওতান-পাতান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of utan-patan",
+    "meaning_bangla": "উতান-পাতান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "OTARANI",
+    "word_bangla": "ওতারানি",
+    "category": "Noun",
+    "meaning_english": "Speaking",
+    "meaning_bangla": "কথা বলা"
+  },
+  {
+    "word_roman": "OMAR(M)",
+    "word_bangla": "ওমার(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of umar",
+    "meaning_bangla": "উমর-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ORE",
+    "word_bangla": "ওরে",
+    "category": "Particle",
+    "meaning_english": "It is that or there",
+    "meaning_bangla": "ওইটা বা ওখানে"
+  },
+  {
+    "word_roman": "OLAT-PALAT(M)",
+    "word_bangla": "ওলাত-পালাত(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ulat-palat",
+    "meaning_bangla": "উলট-পালট-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "OSAR(M)",
+    "word_bangla": "ওসার(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of usar",
+    "meaning_bangla": "উসার-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "OSTAD(M)",
+    "word_bangla": "ওস্তাদ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ustad",
+    "meaning_bangla": "উস্তাদ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "OHAT(M)",
+    "word_bangla": "ওহাত(ম)",
+    "category": "Adverb",
+    "meaning_english": "There, in that",
+    "meaning_bangla": "ওখানে, ওইতে"
+  },
+  {
+    "word_roman": "OHAN",
+    "word_bangla": "ওহান",
+    "category": "Pronoun",
+    "meaning_english": "That one",
+    "meaning_bangla": "ওইটা"
+  },
+  {
+    "word_roman": "OHANI",
+    "word_bangla": "ওহানি",
+    "category": "Adverb",
+    "meaning_english": "That much",
+    "meaning_bangla": "ওতটা"
+  },
+  {
+    "word_roman": "AU",
+    "word_bangla": "ঔ",
+    "category": "Pronoun",
+    "meaning_english": "That, remote demonstrative",
+    "meaning_bangla": "ওই (দূরবর্তী নির্দেশক)"
+  },
+  {
+    "word_roman": "AUKAS-BAUKAS",
+    "word_bangla": "ঔকাস-বৌকাস",
+    "category": "Noun",
+    "meaning_english": "Disturbance",
+    "meaning_bangla": "অশান্তি"
+  },
+  {
+    "word_roman": "AUGA",
+    "word_bangla": "ঔগা",
+    "category": "Pronoun",
+    "meaning_english": "That one",
+    "meaning_bangla": "ওইটা"
+  },
+  {
+    "word_roman": "AUCA(M)",
+    "word_bangla": "ঔচা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of auca",
+    "meaning_bangla": "ঔচা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "AUCA(M)",
+    "word_bangla": "ঔচা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of aucil",
+    "meaning_bangla": "ঔচিল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "AUTA",
+    "word_bangla": "ঔতা",
+    "category": "Pronoun",
+    "meaning_english": "Those ones",
+    "meaning_bangla": "ওগুলো"
+  },
+  {
+    "word_roman": "AUNA",
+    "word_bangla": "ঔনা",
+    "category": "Adverb",
+    "meaning_english": "It is there",
+    "meaning_bangla": "ওখানে আছে"
+  },
+  {
+    "word_roman": "AUNA",
+    "word_bangla": "ঔনা",
+    "category": "Adjective",
+    "meaning_english": "Proper",
+    "meaning_bangla": "যথাযথ"
+  },
+  {
+    "word_roman": "AUNAPA",
+    "word_bangla": "ঔনাপা",
+    "category": "Adjective",
+    "meaning_english": "Proper",
+    "meaning_bangla": "যথাযথ"
+  },
+  {
+    "word_roman": "AUNI",
+    "word_bangla": "ঔনি",
+    "category": "Verb",
+    "meaning_english": "It seems",
+    "meaning_bangla": "মনে হয়"
+  },
+  {
+    "word_roman": "AUPEY",
+    "word_bangla": "ঔপেয়",
+    "category": "Adverb",
+    "meaning_english": "There",
+    "meaning_bangla": "ওখানে"
+  },
+  {
+    "word_roman": "AUWA",
+    "word_bangla": "ঔওয়া",
+    "category": "Noun",
+    "meaning_english": "The Burmese",
+    "meaning_bangla": "বর্মী"
+  },
+  {
+    "word_roman": "KAI",
+    "word_bangla": "কাই",
+    "category": "Adverb",
+    "meaning_english": "Where?",
+    "meaning_bangla": "কোথায়?"
+  },
+  {
+    "word_roman": "KAI",
+    "word_bangla": "কাই",
+    "category": "Noun",
+    "meaning_english": "Moustache",
+    "meaning_bangla": "গোঁফ"
+  },
+  {
+    "word_roman": "KAI",
+    "word_bangla": "কাই",
+    "category": "Adverb",
+    "meaning_english": "How much?",
+    "meaning_bangla": "কতটা?"
+  },
+  {
+    "word_roman": "KAI",
+    "word_bangla": "কাই",
+    "category": "Adjective",
+    "meaning_english": "Round",
+    "meaning_bangla": "গোলাকার"
+  },
+  {
+    "word_roman": "KAICAMPA",
+    "word_bangla": "কাইচম্পা",
+    "category": "Noun",
+    "meaning_english": "A person growing moustache",
+    "meaning_bangla": "গোঁফ গজানো ব্যক্তি"
+  },
+  {
+    "word_roman": "KAICANNA",
+    "word_bangla": "কাইচান্না",
+    "category": "Noun",
+    "meaning_english": "Trouble",
+    "meaning_bangla": "ঝামেলা"
+  },
+  {
+    "word_roman": "KAICU",
+    "word_bangla": "কাইচু",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kacu",
+    "meaning_bangla": "কচু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAITHEK",
+    "word_bangla": "কাইথেক",
+    "category": "Adjective",
+    "meaning_english": "Zigzag",
+    "meaning_bangla": "আঁকাবাঁকা"
+  },
+  {
+    "word_roman": "KAINA",
+    "word_bangla": "কাইনা",
+    "category": "Noun",
+    "meaning_english": "Bride",
+    "meaning_bangla": "কন্যা"
+  },
+  {
+    "word_roman": "KAK",
+    "word_bangla": "কাক",
+    "category": "Noun",
+    "meaning_english": "Removal, the act of wiping",
+    "meaning_bangla": "অপসারণ, মোছার কাজ"
+  },
+  {
+    "word_roman": "KAK",
+    "word_bangla": "কাক",
+    "category": "Noun",
+    "meaning_english": "(i) Abdomen (ii) A holder made by wearing cloth",
+    "meaning_bangla": "(i) পেট (ii) কাপড় পরে তৈরি ধারক"
+  },
+  {
+    "word_roman": "KAKARA",
+    "word_bangla": "কাকারা",
+    "category": "Adjective",
+    "meaning_english": "Bent, curved, shrunk",
+    "meaning_bangla": "বাঁকা, কুঞ্চিত, সঙ্কুচিত"
+  },
+  {
+    "word_roman": "KAKTA",
+    "word_bangla": "কাক্তা",
+    "category": "Noun",
+    "meaning_english": "Shape of the head (especially of the binder part)",
+    "meaning_bangla": "মাথার আকৃতি (বিশেষ করে বাঁধার অংশের)"
+  },
+  {
+    "word_roman": "KAKNAM",
+    "word_bangla": "কাকনাম",
+    "category": "Noun",
+    "meaning_english": "An ornament used by dancers on the head",
+    "meaning_bangla": "নৃত্যশিল্পীদের মাথায় ব্যবহৃত অলংকার"
+  },
+  {
+    "word_roman": "KAKPHEI",
+    "word_bangla": "কাকফেই",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kukphei",
+    "meaning_bangla": "কুকফেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAKSI(M)",
+    "word_bangla": "কাকসি(ম)",
+    "category": "Noun",
+    "meaning_english": "A blow on the head with the knuckles",
+    "meaning_bangla": "মুষ্টি দিয়ে মাথায় আঘাত"
+  },
+  {
+    "word_roman": "KAKSEI",
+    "word_bangla": "কাকসেই",
+    "category": "Verb",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "KAKHANI(M)",
+    "word_bangla": "কাখানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kahani",
+    "meaning_bangla": "কাহানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KANALA",
+    "word_bangla": "কানালা",
+    "category": "Adjective",
+    "meaning_english": "Soft, tender",
+    "meaning_bangla": "নরম, কোমল"
+  },
+  {
+    "word_roman": "KANULI",
+    "word_bangla": "কানুলি",
+    "category": "Adjective",
+    "meaning_english": "Tender (of a female)",
+    "meaning_bangla": "কোমল (মহিলার)"
+  },
+  {
+    "word_roman": "KANKA",
+    "word_bangla": "কাঙ্কা",
+    "category": "Verb",
+    "meaning_english": "V. kankei",
+    "meaning_bangla": "কাঙ্কেই-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "KANKAY",
+    "word_bangla": "কাঙ্কায়",
+    "category": "Adjective",
+    "meaning_english": "Much, many",
+    "meaning_bangla": "অনেক"
+  },
+  {
+    "word_roman": "KANKBEI",
+    "word_bangla": "কাঙ্কবেই",
+    "category": "Noun",
+    "meaning_english": "A knot that can be unfastened easily",
+    "meaning_bangla": "সহজে খোলা যায় এমন গিঁট"
+  },
+  {
+    "word_roman": "KANGRAU",
+    "word_bangla": "কাঙ্গরাউ",
+    "category": "Noun",
+    "meaning_english": "An edible plant",
+    "meaning_bangla": "খাদ্যযোগ্য উদ্ভিদ"
+  },
+  {
+    "word_roman": "KACALA",
+    "word_bangla": "কচালা",
+    "category": "Verb",
+    "meaning_english": "(i) To rub (ii) To massage",
+    "meaning_bangla": "(i) ঘষা (ii) মালিশ করা"
+  },
+  {
+    "word_roman": "KACALANI(M)",
+    "word_bangla": "কচালানি(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Rubbing (ii) Massaging",
+    "meaning_bangla": "(i) ঘষা (ii) মালিশ করা"
+  },
+  {
+    "word_roman": "KACIT(M)",
+    "word_bangla": "কচিত(ম)",
+    "category": "Noun",
+    "meaning_english": "A pole used to stir straw",
+    "meaning_bangla": "খড় নাড়ার খুঁটি"
+  },
+  {
+    "word_roman": "KACI",
+    "word_bangla": "কচি",
+    "category": "Adjective",
+    "meaning_english": "Tender",
+    "meaning_bangla": "কচি"
+  },
+  {
+    "word_roman": "KACU",
+    "word_bangla": "কচু",
+    "category": "Noun",
+    "meaning_english": "The arum plant",
+    "meaning_bangla": "কচু গাছ"
+  },
+  {
+    "word_roman": "KACU-PATI",
+    "word_bangla": "কচু-পাতি",
+    "category": "Adjective",
+    "meaning_english": "Green, complexion",
+    "meaning_bangla": "সবুজ, বর্ণ"
+  },
+  {
+    "word_roman": "KACUPI",
+    "word_bangla": "কচুপি",
+    "category": "Noun",
+    "meaning_english": "Prostitute",
+    "meaning_bangla": "বেশ্যা"
+  },
+  {
+    "word_roman": "KACCI",
+    "word_bangla": "কচ্চি",
+    "category": "Noun",
+    "meaning_english": "Mentality, crookedness",
+    "meaning_bangla": "মানসিকতা, কুটিলতা"
+  },
+  {
+    "word_roman": "KACCIT",
+    "word_bangla": "কচ্চিত",
+    "category": "Adjective",
+    "meaning_english": "Seldom, rarely",
+    "meaning_bangla": "কদাচিৎ, খুব কম"
+  },
+  {
+    "word_roman": "KAJA",
+    "word_bangla": "কাজা",
+    "category": "Noun",
+    "meaning_english": "Mishap, accident",
+    "meaning_bangla": "দুর্ঘটনা"
+  },
+  {
+    "word_roman": "KAKC",
+    "word_bangla": "কাকচ",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kalcak",
+    "meaning_bangla": "কলচক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAT",
+    "word_bangla": "কাত",
+    "category": "Noun",
+    "meaning_english": "(i) A blow on the head with the knuckles (ii) Hard seed of a tree or fruit",
+    "meaning_bangla": "(i) মুষ্টি দিয়ে মাথায় আঘাত (ii) গাছ বা ফলের শক্ত বীজ"
+  },
+  {
+    "word_roman": "KAT",
+    "word_bangla": "কাত",
+    "category": "Noun",
+    "meaning_english": "A deed of fixing sale into a hole",
+    "meaning_bangla": "গর্তে খুঁটি বসানোর কাজ"
+  },
+  {
+    "word_roman": "KATA",
+    "word_bangla": "কাতা",
+    "category": "Noun",
+    "meaning_english": "The handle (of a plough)",
+    "meaning_bangla": "লাঙ্গলের হাতল"
+  },
+  {
+    "word_roman": "KATA",
+    "word_bangla": "কাতা",
+    "category": "Noun",
+    "meaning_english": "Buttock",
+    "meaning_bangla": "পাছা"
+  },
+  {
+    "word_roman": "KATA",
+    "word_bangla": "কাতা",
+    "category": "Noun",
+    "meaning_english": "An animal-species of the mongoose-type moving on trees",
+    "meaning_bangla": "গাছে চলাফেরা করা বেজি-জাতীয় প্রাণী"
   }
 ]
