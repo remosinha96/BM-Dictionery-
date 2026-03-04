@@ -9084,5 +9084,872 @@
     "category": "Noun",
     "meaning_english": "A plant used as green spices",
     "meaning_bangla": "সবুজ মশলা হিসেবে ব্যবহৃত উদ্ভিদ"
+  },
+  {
+    "word_roman": "KAPAKLEI",
+    "word_bangla": "কাপাকলেই",
+    "category": "Noun",
+    "meaning_english": "A kind of flower, gardenia",
+    "meaning_bangla": "এক ধরনের ফুল, গার্ডেনিয়া"
+  },
+  {
+    "word_roman": "KAPA",
+    "word_bangla": "কাপা",
+    "category": "Noun",
+    "meaning_english": "(i) The act of cutting, striking off (ii) A cut",
+    "meaning_bangla": "(i) কাটা, আঘাত করা (ii) কাটা"
+  },
+  {
+    "word_roman": "KAPANI",
+    "word_bangla": "কাপানি",
+    "category": "Noun",
+    "meaning_english": "Cutting, chopping, striking off",
+    "meaning_bangla": "কাটা, চপ করা, আঘাত করা"
+  },
+  {
+    "word_roman": "KAPANNA",
+    "word_bangla": "কাপান্না",
+    "category": "Adjective",
+    "meaning_english": "Dry, tasteless",
+    "meaning_bangla": "শুকনো, স্বাদহীন"
+  },
+  {
+    "word_roman": "KAPAKAPI",
+    "word_bangla": "কাপাকাপি",
+    "category": "Noun",
+    "meaning_english": "(i) The act of cutting one another (ii) The act of disfiguring by corrections",
+    "meaning_bangla": "(i) একে অপরকে কাটা (ii) সংশোধন করে বিকৃত করা"
+  },
+  {
+    "word_roman": "KAPURA",
+    "word_bangla": "কাপুরা",
+    "category": "Noun",
+    "meaning_english": "One who cuts",
+    "meaning_bangla": "যে কাটে"
+  },
+  {
+    "word_roman": "KAPURA(M)",
+    "word_bangla": "কাপুরা(ম)",
+    "category": "Adjective",
+    "meaning_english": "Small, short",
+    "meaning_bangla": "ছোট, খাটো"
+  },
+  {
+    "word_roman": "KAPKARA",
+    "word_bangla": "কাপকারা",
+    "category": "Noun",
+    "meaning_english": "A sudden cholic pain",
+    "meaning_bangla": "হঠাৎ পেটের ব্যথা"
+  },
+  {
+    "word_roman": "KAPHAM",
+    "word_bangla": "কাফাম",
+    "category": "Noun",
+    "meaning_english": "Circumstances",
+    "meaning_bangla": "পরিস্থিতি"
+  },
+  {
+    "word_roman": "KABAK(M)",
+    "word_bangla": "কাবাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of kabak",
+    "meaning_bangla": "কাবাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KABAKI(M)",
+    "word_bangla": "কাবাকি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of kabak",
+    "meaning_bangla": "কাবাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KABAK-SABAK",
+    "word_bangla": "কাবাক-সাবাক",
+    "category": "Adjective",
+    "meaning_english": "(i) Incomplete, imperfect (ii) Incompletely, imperfect
+  },
+  {
+    "word_roman": "KAR",
+    "word_bangla": "কার",
+    "category": "Noun",
+    "meaning_english": "A sediment on the skin",
+    "meaning_bangla": "চামড়ায় জমা ময়লা"
+  },
+  {
+    "word_roman": "KARA",
+    "word_bangla": "কারা",
+    "category": "Noun",
+    "meaning_english": "Metal ring",
+    "meaning_bangla": "ধাতুর আংটি"
+  },
+  {
+    "word_roman": "KARA",
+    "word_bangla": "কারা",
+    "category": "Adjective",
+    "meaning_english": "(i) Stern, harsh (ii) Niggardly",
+    "meaning_bangla": "(i) কঠোর (ii) কৃপণ"
+  },
+  {
+    "word_roman": "KARAKARI",
+    "word_bangla": "কারাকারি",
+    "category": "Noun",
+    "meaning_english": "Strictness",
+    "meaning_bangla": "কঠোরতা"
+  },
+  {
+    "word_roman": "KARI",
+    "word_bangla": "কারি",
+    "category": "Noun",
+    "meaning_english": "Eighteenth part of an anna",
+    "meaning_bangla": "আনার অষ্টাদশ ভাগ"
+  },
+  {
+    "word_roman": "KARI(M)",
+    "word_bangla": "কারি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kuri",
+    "meaning_bangla": "কুড়ি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KARIATI(M)",
+    "word_bangla": "কারিয়াতি(ম)",
+    "category": "Noun",
+    "meaning_english": "Dry dirt in the form of a crust on the face",
+    "meaning_bangla": "মুখে শুকনো ময়লার খোলস"
+  },
+  {
+    "word_roman": "KARMAN",
+    "word_bangla": "কারমান",
+    "category": "Noun",
+    "meaning_english": "A dirty sediment on the skin",
+    "meaning_bangla": "চামড়ায় নোংরা জমা"
+  },
+  {
+    "word_roman": "KARMANPA",
+    "word_bangla": "কারমানপা",
+    "category": "Adjective",
+    "meaning_english": "Having a dirty sediment on the skin",
+    "meaning_bangla": "চামড়ায় নোংরা জমা থাকা"
+  },
+  {
+    "word_roman": "KARMANIYA",
+    "word_bangla": "কারমানিয়া",
+    "category": "Noun",
+    "meaning_english": "One having a dirty sediment on the skin",
+    "meaning_bangla": "চামড়ায় নোংরা জমা থাকা ব্যক্তি"
+  },
+  {
+    "word_roman": "KARMANI",
+    "word_bangla": "কারমানি",
+    "category": "Noun",
+    "meaning_english": "Fem. fr. above",
+    "meaning_bangla": "উপরের স্ত্রীলিঙ্গ রূপ"
+  },
+  {
+    "word_roman": "KAL",
+    "word_bangla": "কাল",
+    "category": "Noun",
+    "meaning_english": "(i) Machine (ii) Intelligence, tricks",
+    "meaning_bangla": "(i) যন্ত্র (ii) বুদ্ধি, চালাকি"
+  },
+  {
+    "word_roman": "KAL",
+    "word_bangla": "কাল",
+    "category": "Noun",
+    "meaning_english": "Embrace, protection",
+    "meaning_bangla": "আলিঙ্গন, সুরক্ষা"
+  },
+  {
+    "word_roman": "KAL",
+    "word_bangla": "কাল",
+    "category": "Noun",
+    "meaning_english": "Shed",
+    "meaning_bangla": "ছাউনি"
+  },
+  {
+    "word_roman": "KALAL",
+    "word_bangla": "কালাল",
+    "category": "Noun",
+    "meaning_english": "Utensils",
+    "meaning_bangla": "পাত্র-প্যালা"
+  },
+  {
+    "word_roman": "KALAL",
+    "word_bangla": "কালাল",
+    "category": "Noun",
+    "meaning_english": "(i) Curve, circle, ring (ii) Subjugation",
+    "meaning_bangla": "(i) বাঁকা, বৃত্ত, আংটি (ii) অধীনতা"
+  },
+  {
+    "word_roman": "KALAM",
+    "word_bangla": "কালাম",
+    "category": "Noun",
+    "meaning_english": "Pen",
+    "meaning_bangla": "কলম"
+  },
+  {
+    "word_roman": "KALAM",
+    "word_bangla": "কালাম",
+    "category": "Noun",
+    "meaning_english": "Cropping",
+    "meaning_bangla": "ফসল কাটা"
+  },
+  {
+    "word_roman": "KALAM-TRAS",
+    "word_bangla": "কালাম-ত্রাস",
+    "category": "Noun",
+    "meaning_english": "Knife",
+    "meaning_bangla": "ছুরি"
+  },
+  {
+    "word_roman": "KALAL",
+    "word_bangla": "কালাল",
+    "category": "Noun",
+    "meaning_english": "A kind of one-stringed necklace",
+    "meaning_bangla": "এক সুতোর গলার হার"
+  },
+  {
+    "word_roman": "KALAPA",
+    "word_bangla": "কালাপা",
+    "category": "Adjective",
+    "meaning_english": "Half-ripe",
+    "meaning_bangla": "আধপাকা"
+  },
+  {
+    "word_roman": "KALI",
+    "word_bangla": "কালি",
+    "category": "Adjective",
+    "meaning_english": "Short",
+    "meaning_bangla": "খাটো"
+  },
+  {
+    "word_roman": "KALIK(M)",
+    "word_bangla": "কালিক(ম)",
+    "category": "Noun",
+    "meaning_english": "Utensils",
+    "meaning_bangla": "পাত্র-প্যালা"
+  },
+  {
+    "word_roman": "KALIYA",
+    "word_bangla": "কালিয়া",
+    "category": "Adjective",
+    "meaning_english": "Short-statured",
+    "meaning_bangla": "খাটো"
+  },
+  {
+    "word_roman": "KALU",
+    "word_bangla": "কালু",
+    "category": "Noun",
+    "meaning_english": "Hole",
+    "meaning_bangla": "গর্ত"
+  },
+  {
+    "word_roman": "KALU(M)",
+    "word_bangla": "কালু(ম)",
+    "category": "Noun",
+    "meaning_english": "An oil-presser",
+    "meaning_bangla": "তেল প্রেসার"
+  },
+  {
+    "word_roman": "KALE",
+    "word_bangla": "কালে",
+    "category": "Adverb",
+    "meaning_english": "(i) Slowly (ii) Afterwards",
+    "meaning_bangla": "(i) ধীরে (ii) পরে"
+  },
+  {
+    "word_roman": "KALO",
+    "word_bangla": "কালো",
+    "category": "Noun",
+    "meaning_english": "Pitcher",
+    "meaning_bangla": "কলসি"
+  },
+  {
+    "word_roman": "KALKAU",
+    "word_bangla": "কালকাউ",
+    "category": "Adjective",
+    "meaning_english": "Bent",
+    "meaning_bangla": "বাঁকা"
+  },
+  {
+    "word_roman": "KALKHA(M)",
+    "word_bangla": "কালখা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kaltha",
+    "meaning_bangla": "কাল্থা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KALCAK",
+    "word_bangla": "কালচাক",
+    "category": "Noun",
+    "meaning_english": "Broken pieces of utensils",
+    "meaning_bangla": "পাত্রের ভাঙা টুকরো"
+  },
+  {
+    "word_roman": "KALTUM",
+    "word_bangla": "কালতুম",
+    "category": "Noun",
+    "meaning_english": "A kind of heavy utensil",
+    "meaning_bangla": "ভারী পাত্র"
+  },
+  {
+    "word_roman": "KALPUK",
+    "word_bangla": "কালপুক",
+    "category": "Noun",
+    "meaning_english": "Foam",
+    "meaning_bangla": "ফেনা"
+  },
+  {
+    "word_roman": "KALBAT(M)",
+    "word_bangla": "কালবাত(ম)",
+    "category": "Verb",
+    "meaning_english": "V. kulpit",
+    "meaning_bangla": "কুলপিত-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "KAHAM",
+    "word_bangla": "কাহাম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kapham",
+    "meaning_bangla": "কাফাম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAHI",
+    "word_bangla": "কাহি",
+    "category": "Noun",
+    "meaning_english": "Cough",
+    "meaning_bangla": "কাশি"
+  },
+  {
+    "word_roman": "KAHURA",
+    "word_bangla": "কাহুরা",
+    "category": "Noun",
+    "meaning_english": "(i) Asthma (ii) One attacked with asthma",
+    "meaning_bangla": "(i) হাঁপানি (ii) হাঁপানি আক্রান্ত ব্যক্তি"
+  },
+  {
+    "word_roman": "KA-HENCIL",
+    "word_bangla": "কা-হেনচিল",
+    "category": "Noun",
+    "meaning_english": "(i) The act of going beyond one's own capacity or status (ii) Arrogant",
+    "meaning_bangla": "(i) নিজের ক্ষমতা বা অবস্থান অতিক্রম করা (ii) অহংকারী"
+  },
+  {
+    "word_roman": "KAHEL",
+    "word_bangla": "কাহেল",
+    "category": "Adjective",
+    "meaning_english": "Arrogant",
+    "meaning_bangla": "অহংকারী"
+  },
+  {
+    "word_roman": "-KI",
+    "word_bangla": "-কি",
+    "category": "Suffix",
+    "meaning_english": "A suf. indicating relation",
+    "meaning_bangla": "সম্পর্ক নির্দেশক suffix"
+  },
+  {
+    "word_roman": "KIR",
+    "word_bangla": "কির",
+    "category": "Noun",
+    "meaning_english": "Importunity",
+    "meaning_bangla": "জিদ"
+  },
+  {
+    "word_roman": "KARI",
+    "word_bangla": "কারি",
+    "category": "Noun",
+    "meaning_english": "A bowlful (of tobacco)",
+    "meaning_bangla": "তামাকের এক বাটি"
+  },
+  {
+    "word_roman": "KARIKARI",
+    "word_bangla": "কারিকারি",
+    "category": "Noun",
+    "meaning_english": "Artisanship, style",
+    "meaning_bangla": "কারিগরি, শৈলী"
+  },
+  {
+    "word_roman": "KARIKAPHAM",
+    "word_bangla": "কারিকাফাম",
+    "category": "Noun",
+    "meaning_english": "Circumstance, matter",
+    "meaning_bangla": "পরিস্থিতি, বিষয়"
+  },
+  {
+    "word_roman": "KARIGAR",
+    "word_bangla": "কারিগর",
+    "category": "Noun",
+    "meaning_english": "Artisan",
+    "meaning_bangla": "কারিগর"
+  },
+  {
+    "word_roman": "KARIGARI",
+    "word_bangla": "কারিগরি",
+    "category": "Noun",
+    "meaning_english": "Artisanship",
+    "meaning_bangla": "কারিগরি"
+  },
+  {
+    "word_roman": "KARUNANI(M)",
+    "word_bangla": "কারুনানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kapalani",
+    "meaning_bangla": "কপালানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAREM",
+    "word_bangla": "কারেম",
+    "category": "Noun",
+    "meaning_english": "Greed",
+    "meaning_bangla": "লোভ"
+  },
+  {
+    "word_roman": "KAREMNA",
+    "word_bangla": "কারেম্না",
+    "category": "Noun",
+    "meaning_english": "Greed",
+    "meaning_bangla": "লোভ"
+  },
+  {
+    "word_roman": "KARKHANA",
+    "word_bangla": "কারখানা",
+    "category": "Noun",
+    "meaning_english": "(i) Workshop (ii) Affair",
+    "meaning_bangla": "(i) কর্মশালা (ii) বিষয়"
+  },
+  {
+    "word_roman": "KARTUJ",
+    "word_bangla": "কার্তুজ",
+    "category": "Noun",
+    "meaning_english": "Cartridge",
+    "meaning_bangla": "কার্তুজ"
+  },
+  {
+    "word_roman": "KARBAR",
+    "word_bangla": "কারবার",
+    "category": "Noun",
+    "meaning_english": "Business",
+    "meaning_bangla": "ব্যবসা"
+  },
+  {
+    "word_roman": "KARBAR",
+    "word_bangla": "কারবার",
+    "category": "Noun",
+    "meaning_english": "Businessman",
+    "meaning_bangla": "ব্যবসায়ী"
+  },
+  {
+    "word_roman": "KAR",
+    "word_bangla": "কার",
+    "category": "Verb",
+    "meaning_english": "(i) To snatch (ii) To husk",
+    "meaning_bangla": "(i) ছিনিয়ে নেওয়া (ii) খোসা ছাড়ানো"
+  },
+  {
+    "word_roman": "KARALA",
+    "word_bangla": "কারালা",
+    "category": "Verb",
+    "meaning_english": "To snatch",
+    "meaning_bangla": "ছিনিয়ে নেওয়া"
+  },
+  {
+    "word_roman": "KARALANI",
+    "word_bangla": "কারালানি",
+    "category": "Noun",
+    "meaning_english": "Snatching",
+    "meaning_bangla": "ছিনিয়ে নেওয়া"
+  },
+  {
+    "word_roman": "KARA",
+    "word_bangla": "কারা",
+    "category": "Noun",
+    "meaning_english": "One who snatches",
+    "meaning_bangla": "যে ছিনিয়ে নেয়"
+  },
+  {
+    "word_roman": "KARA",
+    "word_bangla": "কারা",
+    "category": "Adjective",
+    "meaning_english": "Cleaned, husked",
+    "meaning_bangla": "পরিষ্কার করা, খোসা ছাড়ানো"
+  },
+  {
+    "word_roman": "KARA",
+    "word_bangla": "কারা",
+    "category": "Noun",
+    "meaning_english": "Man-made channel",
+    "meaning_bangla": "মানুষের তৈরি খাল"
+  },
+  {
+    "word_roman": "KARAKARI",
+    "word_bangla": "কারাকারি",
+    "category": "Noun",
+    "meaning_english": "Attempt to snatch away something from one another",
+    "meaning_bangla": "একে অপরের কাছ থেকে কিছু ছিনিয়ে নেওয়ার চেষ্টা"
+  },
+  {
+    "word_roman": "KARANI",
+    "word_bangla": "কারানি",
+    "category": "Noun",
+    "meaning_english": "(i) Snatching (ii) Husking (iii) Uprooting",
+    "meaning_bangla": "(i) ছিনিয়ে নেওয়া (ii) খোসা ছাড়ানো (iii) উপড়ানো"
+  },
+  {
+    "word_roman": "KARALI",
+    "word_bangla": "কারালি",
+    "category": "Noun",
+    "meaning_english": "Protection",
+    "meaning_bangla": "সুরক্ষা"
+  },
+  {
+    "word_roman": "KAL",
+    "word_bangla": "কাল",
+    "category": "Noun",
+    "meaning_english": "Protection",
+    "meaning_bangla": "সুরক্ষা"
+  },
+  {
+    "word_roman": "KALA",
+    "word_bangla": "কালা",
+    "category": "Adjective",
+    "meaning_english": "Black",
+    "meaning_bangla": "কালো"
+  },
+  {
+    "word_roman": "KALAK",
+    "word_bangla": "কালাক",
+    "category": "Noun",
+    "meaning_english": "Malice, grudge",
+    "meaning_bangla": "শত্রুতা, ক্ষোভ"
+  },
+  {
+    "word_roman": "KALACINKHEI",
+    "word_bangla": "কালাচিনখেই",
+    "category": "Noun",
+    "meaning_english": "Time before dawn (lit. time when the north-east direction remains dark)",
+    "meaning_bangla": "ভোরের আগের সময় (অক্ষরে উত্তর-পূর্ব দিক অন্ধকার থাকার সময়)"
+  },
+  {
+    "word_roman": "KALAHA(M)",
+    "word_bangla": "কালাহা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kanaha",
+    "meaning_bangla": "কানাহা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KALI",
+    "word_bangla": "কালি",
+    "category": "Noun",
+    "meaning_english": "(i) Ink (ii) Black dirt",
+    "meaning_bangla": "(i) কালি (ii) কালো ময়লা"
+  },
+  {
+    "word_roman": "KALIKAR",
+    "word_bangla": "কালিকার",
+    "category": "Adjective",
+    "meaning_english": "Of tomorrow",
+    "meaning_bangla": "আগামীকালের"
+  },
+  {
+    "word_roman": "KALIPHU(M)",
+    "word_bangla": "কালিফু(ম)",
+    "category": "Noun",
+    "meaning_english": "Inkpot",
+    "meaning_bangla": "কালির দোয়াত"
+  },
+  {
+    "word_roman": "KALIRA",
+    "word_bangla": "কালিরা",
+    "category": "Adjective",
+    "meaning_english": "(i) Blackish (ii) A kind of fish",
+    "meaning_bangla": "(i) কালচে (ii) এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "KALUWA",
+    "word_bangla": "কালুওয়া",
+    "category": "Adjective",
+    "meaning_english": "(i) Deaf (ii) Senseless",
+    "meaning_bangla": "(i) কানে কম শোনা (ii) অচেতন"
+  },
+  {
+    "word_roman": "KALEN",
+    "word_bangla": "কালেন",
+    "category": "Noun",
+    "meaning_english": "The month of Jyaishtha",
+    "meaning_bangla": "জ্যৈষ্ঠ মাস"
+  },
+  {
+    "word_roman": "KAS(A)",
+    "word_bangla": "কাস(আ)",
+    "category": "Noun",
+    "meaning_english": "Phlegm",
+    "meaning_bangla": "কফ"
+  },
+  {
+    "word_roman": "KASMIRA",
+    "word_bangla": "কাশ্মীরা",
+    "category": "Noun",
+    "meaning_english": "A design of cloth",
+    "meaning_bangla": "কাপড়ের ডিজাইন"
+  },
+  {
+    "word_roman": "KASUBI(M)",
+    "word_bangla": "কাসুবি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kacupi",
+    "meaning_bangla": "কচুপি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KAH",
+    "word_bangla": "কাহ",
+    "category": "Verb",
+    "meaning_english": "To cough",
+    "meaning_bangla": "কাশি দেওয়া"
+  },
+  {
+    "word_roman": "KAHA(M)",
+    "word_bangla": "কাহা(ম)",
+    "category": "Verb",
+    "meaning_english": "To ascend",
+    "meaning_bangla": "উঠা"
+  },
+  {
+    "word_roman": "KAHANA(M)",
+    "word_bangla": "কাহানা(ম)",
+    "category": "Adjective",
+    "meaning_english": "Leaky",
+    "meaning_bangla": "ফুটো"
+  },
+  {
+    "word_roman": "KAHANI",
+    "word_bangla": "কাহানি",
+    "category": "Noun",
+    "meaning_english": "Coughing",
+    "meaning_bangla": "কাশি দেওয়া"
+  },
+  {
+    "word_roman": "KIRTAN(A)",
+    "word_bangla": "কীর্তন(আ)",
+    "category": "Noun",
+    "meaning_english": "The act of singing in praise of or about the sport of the Lord",
+    "meaning_bangla": "প্রভুর খেলা বা প্রশংসায় গান করা"
+  },
+  {
+    "word_roman": "KU",
+    "word_bangla": "কু",
+    "category": "Prefix",
+    "meaning_english": "A pref. used in the sense of 'bad'",
+    "meaning_bangla": "'খারাপ' অর্থে ব্যবহৃত উপসর্গ"
+  },
+  {
+    "word_roman": "KU",
+    "word_bangla": "কু",
+    "category": "Adjective",
+    "meaning_english": "Vacant, uncultivated (as a field)",
+    "meaning_bangla": "খালি, অচাষিত (ক্ষেত্রের মতো)"
+  },
+  {
+    "word_roman": "KU",
+    "word_bangla": "কু",
+    "category": "Noun",
+    "meaning_english": "A hole dug below a funeral pyre",
+    "meaning_bangla": "চিতার নিচে খোঁড়া গর্ত"
+  },
+  {
+    "word_roman": "KUI",
+    "word_bangla": "কুই",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of kui",
+    "meaning_bangla": "কুই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KUKAM",
+    "word_bangla": "কুকাম",
+    "category": "Noun",
+    "meaning_english": "Bad work",
+    "meaning_bangla": "খারাপ কাজ"
+  },
+  {
+    "word_roman": "KUKARA",
+    "word_bangla": "কুকারা",
+    "category": "Noun",
+    "meaning_english": "The cock",
+    "meaning_bangla": "মোরগ"
+  },
+  {
+    "word_roman": "KUKALA",
+    "word_bangla": "কুকালা",
+    "category": "Noun",
+    "meaning_english": "Gurgling",
+    "meaning_bangla": "গড়গড় শব্দ"
+  },
+  {
+    "word_roman": "KUKUR",
+    "word_bangla": "কুকুর",
+    "category": "Noun",
+    "meaning_english": "Dog",
+    "meaning_bangla": "কুকুর"
+  },
+  {
+    "word_roman": "KUKURI",
+    "word_bangla": "কুকুরি",
+    "category": "Noun",
+    "meaning_english": "Bitch",
+    "meaning_bangla": "কুকুরী"
+  },
+  {
+    "word_roman": "KUKPHEI",
+    "word_bangla": "কুকফেই",
+    "category": "Noun",
+    "meaning_english": "Mould, mildew",
+    "meaning_bangla": "ছাঁচ, ছত্রাক"
+  },
+  {
+    "word_roman": "KUN",
+    "word_bangla": "কুন",
+    "category": "Pronoun",
+    "meaning_english": "Which?",
+    "meaning_bangla": "কোনটা?"
+  },
+  {
+    "word_roman": "KUNGA",
+    "word_bangla": "কুঙ্গা",
+    "category": "Pronoun",
+    "meaning_english": "Which one?",
+    "meaning_bangla": "কোনটা?"
+  },
+  {
+    "word_roman": "KUNTA",
+    "word_bangla": "কুন্তা",
+    "category": "Pronoun",
+    "meaning_english": "Which?",
+    "meaning_bangla": "কোনটা?"
+  },
+  {
+    "word_roman": "KUC",
+    "word_bangla": "কুচ",
+    "category": "Noun",
+    "meaning_english": "Mass, multitude",
+    "meaning_bangla": "ভিড়, জনতা"
+  },
+  {
+    "word_roman": "KUC",
+    "word_bangla": "কুচ",
+    "category": "Adjective",
+    "meaning_english": "Wrinkled, contracted",
+    "meaning_bangla": "কুঞ্চিত, সঙ্কুচিত"
+  },
+  {
+    "word_roman": "KUC",
+    "word_bangla": "কুচ",
+    "category": "Noun",
+    "meaning_english": "Pod of fruit",
+    "meaning_bangla": "ফলের খোসা"
+  },
+  {
+    "word_roman": "KUCA",
+    "word_bangla": "কুচা",
+    "category": "Noun",
+    "meaning_english": "Harpoon",
+    "meaning_bangla": "হার্পুন"
+  },
+  {
+    "word_roman": "KUCARA",
+    "word_bangla": "কুচারা",
+    "category": "Noun",
+    "meaning_english": "Handful (as of paddy-plant)",
+    "meaning_bangla": "মুঠো (ধান গাছের মতো)"
+  },
+  {
+    "word_roman": "KUCUCI",
+    "word_bangla": "কুচুচি",
+    "category": "Noun",
+    "meaning_english": "A small ladle",
+    "meaning_bangla": "ছোট হাতা"
+  },
+  {
+    "word_roman": "KUCUCI",
+    "word_bangla": "কুচুচি",
+    "category": "Noun",
+    "meaning_english": "Chip",
+    "meaning_bangla": "টুকরো"
+  },
+  {
+    "word_roman": "KUCICKATA",
+    "word_bangla": "কুচিকাতা",
+    "category": "Noun",
+    "meaning_english": "A small rod with a pointed end used in embroidery",
+    "meaning_bangla": "সূচিকর্মে ব্যবহৃত ছোট ডগা লাঠি"
+  },
+  {
+    "word_roman": "KUCIYA",
+    "word_bangla": "কুচিয়া",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kacu",
+    "meaning_bangla": "কচু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KUCU(M)",
+    "word_bangla": "কুচু(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kacu",
+    "meaning_bangla": "কচু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KUN",
+    "word_bangla": "কুন",
+    "category": "Noun",
+    "meaning_english": "Corner",
+    "meaning_bangla": "কোণ"
+  },
+  {
+    "word_roman": "KUNGAKUNI",
+    "word_bangla": "কুঙ্গাকুনি",
+    "category": "Adverb",
+    "meaning_english": "(i) Diagonally, slantwise (ii) Diagonal",
+    "meaning_bangla": "(i) তির্যকভাবে (ii) তির্যক"
+  },
+  {
+    "word_roman": "KUNDALEI",
+    "word_bangla": "কুন্দলেই",
+    "category": "Noun",
+    "meaning_english": "A kind of flower",
+    "meaning_bangla": "এক ধরনের ফুল"
+  },
+  {
+    "word_roman": "KUTTA",
+    "word_bangla": "কুত্তা",
+    "category": "Noun",
+    "meaning_english": "Dog",
+    "meaning_bangla": "কুকুর"
+  },
+  {
+    "word_roman": "KUTTIRAN",
+    "word_bangla": "কুত্তিরান",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kutiran",
+    "meaning_bangla": "কুতিরান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KUTTI",
+    "word_bangla": "কুত্তি",
+    "category": "Noun",
+    "meaning_english": "Bitch",
+    "meaning_bangla": "কুকুরী"
+  },
+  {
+    "word_roman": "KUDA",
+    "word_bangla": "কুদা",
+    "category": "Verb",
+    "meaning_english": "To abuse",
+    "meaning_bangla": "গালি দেওয়া"
+  },
+  {
+    "word_roman": "KUDANI",
+    "word_bangla": "কুদানি",
+    "category": "Noun",
+    "meaning_english": "Abusing",
+    "meaning_bangla": "গালি দেওয়া"
   }
 ]
