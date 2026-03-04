@@ -2392,5 +2392,656 @@
   "category": "Noun",
   "meaning_english": "Anna (currency/unit)",
   "meaning_bangla": "আনা (মুদ্রা/একক)"
-}
+},
+  {
+    "word_roman": "ĀNANI",
+    "word_bangla": "আনানি",
+    "category": "Verb",
+    "meaning_english": "Bringing",
+    "meaning_bangla": "আনা, নিয়ে আসা"
+  },
+  {
+    "word_roman": "ĀNDIRA",
+    "word_bangla": "আন্দিরা",
+    "category": "Adjective",
+    "meaning_english": "Yellowish",
+    "meaning_bangla": "হলুদাভ"
+  },
+  {
+    "word_roman": "ĀNĀM",
+    "word_bangla": "আনাম",
+    "category": "Pronoun",
+    "meaning_english": "All",
+    "meaning_bangla": "সব, সমস্ত"
+  },
+  {
+    "word_roman": "ĀNĀMPĀ(M)",
+    "word_bangla": "আনাম্পা(ম)",
+    "category": "Adjective",
+    "meaning_english": "(i) Unenthusiastic, lazy (ii) Laziness",
+    "meaning_bangla": "(i) উৎসাহহীন, অলস (ii) অলসতা"
+  },
+  {
+    "word_roman": "ĀNĀRAS",
+    "word_bangla": "আনারস",
+    "category": "Noun",
+    "meaning_english": "Pine apple",
+    "meaning_bangla": "আনারস"
+  },
+  {
+    "word_roman": "ĀNI",
+    "word_bangla": "আনি",
+    "category": "Verb",
+    "meaning_english": "Coming",
+    "meaning_bangla": "আসা"
+  },
+  {
+    "word_roman": "ĀNI",
+    "word_bangla": "আনি",
+    "category": "Noun",
+    "meaning_english": "Partisanship",
+    "meaning_bangla": "পক্ষপাতিত্ব"
+  },
+  {
+    "word_roman": "ĀNI",
+    "word_bangla": "আনি",
+    "category": "Noun",
+    "meaning_english": "Anna-coin",
+    "meaning_bangla": "আনা (মুদ্রা)"
+  },
+  {
+    "word_roman": "-ĀNI",
+    "word_bangla": "-আনি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to verb-roots to form (i) verbal nouns (ii) instrumental nouns or (iii) adjectives",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে verbal nouns, instrumental nouns বা adjectives তৈরি করে"
+  },
+  {
+    "word_roman": "-ĀNI",
+    "word_bangla": "-আনি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns in the sense of 'having the manner of'",
+    "meaning_bangla": "বিশেষ্যে যোগ করে 'এর মতো আচরণ করা' অর্থে"
+  },
+  {
+    "word_roman": "ĀNIKĀ",
+    "word_bangla": "আনিকা",
+    "category": "Adjective",
+    "meaning_english": "Unclean, filthy",
+    "meaning_bangla": "অপরিষ্কার, নোংরা"
+  },
+  {
+    "word_roman": "ĀNĪNSĀNĪN",
+    "word_bangla": "আনীনসানীন",
+    "category": "Noun",
+    "meaning_english": "Discomfort, drowsiness",
+    "meaning_bangla": "অস্বস্তি, তন্দ্রা"
+  },
+  {
+    "word_roman": "Ā'NUWĀ-",
+    "word_bangla": "আ'নুয়া-",
+    "category": "Verb",
+    "meaning_english": "Caus. form",
+    "meaning_bangla": "কারণাত্মক রূপ"
+  },
+  {
+    "word_roman": "ĀNUWĀ",
+    "word_bangla": "আনুয়া",
+    "category": "Noun",
+    "meaning_english": "(i) Lake (ii) Uncultivated land",
+    "meaning_bangla": "(i) হ্রদ (ii) অনাবাদী জমি"
+  },
+  {
+    "word_roman": "Ā'NUWĀNI",
+    "word_bangla": "আ'নুয়ানি",
+    "category": "Verb",
+    "meaning_english": "Causing to bring",
+    "meaning_bangla": "আনতে বাধ্য করা"
+  },
+  {
+    "word_roman": "ĀNAUGO",
+    "word_bangla": "আনাউগো",
+    "category": "Noun",
+    "meaning_english": "Step-(mother, brother etc.), related through another brother etc.",
+    "meaning_bangla": "সৎ- (মা, ভাই ইত্যাদি), অন্য ভাইয়ের মাধ্যমে সম্পর্কিত"
+  },
+  {
+    "word_roman": "Ā'NAUBĀM",
+    "word_bangla": "আ'নৌবাম",
+    "category": "Noun",
+    "meaning_english": "New (royal) clan, name of a Manipuri clan",
+    "meaning_bangla": "নতুন (রাজকীয়) বংশ, একটি মণিপুরী বংশের নাম"
+  },
+  {
+    "word_roman": "Ā'NTHAK",
+    "word_bangla": "আ'নথাক",
+    "category": "Noun",
+    "meaning_english": "Return",
+    "meaning_bangla": "ফেরত"
+  },
+  {
+    "word_roman": "Ā'NTHĀ",
+    "word_bangla": "আ'নথা",
+    "category": "Adjective",
+    "meaning_english": "(i) Turned (ii) Aged",
+    "meaning_bangla": "(i) ঘুরানো (ii) বয়স্ক"
+  },
+  {
+    "word_roman": "ĀNDĀJ",
+    "word_bangla": "আন্দাজ",
+    "category": "Noun",
+    "meaning_english": "(i) Conjecture, guess (ii) About, nearly (iii) Mediocre",
+    "meaning_bangla": "(i) অনুমান (ii) প্রায় (iii) মাঝারি"
+  },
+  {
+    "word_roman": "ĀNDĀJI",
+    "word_bangla": "আন্দাজি",
+    "category": "Adjective",
+    "meaning_english": "(i) Guessed, unthought-of (ii) Mediocre",
+    "meaning_bangla": "(i) অনুমিত (ii) মাঝারি"
+  },
+  {
+    "word_roman": "Ā'NDI",
+    "word_bangla": "আ'ন্দি",
+    "category": "Noun",
+    "meaning_english": "(i) Turmeric (ii) Yellow",
+    "meaning_bangla": "(i) হলুদ (ii) হলুদ রং"
+  },
+  {
+    "word_roman": "Ā'NDIYĀ",
+    "word_bangla": "আ'ন্দিয়া",
+    "category": "Adjective",
+    "meaning_english": "Yellowish",
+    "meaning_bangla": "হলুদাভ"
+  },
+  {
+    "word_roman": "Ā'NDIRA",
+    "word_bangla": "আ'ন্দিরা",
+    "category": "Adjective",
+    "meaning_english": "Yellowish",
+    "meaning_bangla": "হলুদাভ"
+  },
+  {
+    "word_roman": "ĀNDU",
+    "word_bangla": "আন্দু",
+    "category": "Adjective",
+    "meaning_english": "Meaningless, aimless",
+    "meaning_bangla": "অর্থহীন, উদ্দেশ্যহীন"
+  },
+  {
+    "word_roman": "ĀNDUKA",
+    "word_bangla": "আন্দুকা",
+    "category": "Noun",
+    "meaning_english": "Yellow",
+    "meaning_bangla": "হলুদ"
+  },
+  {
+    "word_roman": "ĀNMĀNĀ",
+    "word_bangla": "আন্মানা",
+    "category": "Adjective",
+    "meaning_english": "Yellow, unmindful",
+    "meaning_bangla": "হলুদ, অমনোযোগী"
+  },
+  {
+    "word_roman": "ĀNMĀN",
+    "word_bangla": "আন্মান",
+    "category": "Noun",
+    "meaning_english": "In proportion to",
+    "meaning_bangla": "অনুপাতে"
+  },
+  {
+    "word_roman": "ĀPĀ",
+    "word_bangla": "আপা",
+    "category": "Noun",
+    "meaning_english": "Forefather",
+    "meaning_bangla": "পূর্বপুরুষ"
+  },
+  {
+    "word_roman": "ĀPĀI(M)",
+    "word_bangla": "আপাই(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of āphāi",
+    "meaning_bangla": "আফাই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀPĀN",
+    "word_bangla": "আপান",
+    "category": "Noun",
+    "meaning_english": "Fool",
+    "meaning_bangla": "বোকা"
+  },
+  {
+    "word_roman": "ĀPĀNPA",
+    "word_bangla": "আপানপা",
+    "category": "Noun",
+    "meaning_english": "Fool (fem. form)",
+    "meaning_bangla": "বোকা (স্ত্রীলিঙ্গ)"
+  },
+  {
+    "word_roman": "ĀPĀR",
+    "word_bangla": "আপার",
+    "category": "Adjective",
+    "meaning_english": "Endless",
+    "meaning_bangla": "অন্তহীন"
+  },
+  {
+    "word_roman": "Ā'PU",
+    "word_bangla": "আ'পু",
+    "category": "Noun",
+    "meaning_english": "Grand-father",
+    "meaning_bangla": "দাদা"
+  },
+  {
+    "word_roman": "ĀPUS",
+    "word_bangla": "আপুস",
+    "category": "Noun",
+    "meaning_english": "Compromise",
+    "meaning_bangla": "আপস"
+  },
+  {
+    "word_roman": "ĀPETPĀ",
+    "word_bangla": "আপেত্পা",
+    "category": "Adjective",
+    "meaning_english": "Soft, having infantile insistence",
+    "meaning_bangla": "নরম, শিশুসুলভ জিদ"
+  },
+  {
+    "word_roman": "ĀPOKPĀ",
+    "word_bangla": "আপোক্পা",
+    "category": "Noun",
+    "meaning_english": "The guiding god of a clan (lit. generator, father)",
+    "meaning_bangla": "বংশের পথপ্রদর্শক দেবতা (অক্ষরে জেনারেটর, পিতা)"
+  },
+  {
+    "word_roman": "ĀPNE",
+    "word_bangla": "আপনে",
+    "category": "Pronoun",
+    "meaning_english": "You (honorific)",
+    "meaning_bangla": "আপনি (সম্মানসূচক)"
+  },
+  {
+    "word_roman": "ĀPPĀNE",
+    "word_bangla": "আপ্পানে",
+    "category": "Adverb",
+    "meaning_english": "For nothing",
+    "meaning_bangla": "কোনো কারণ ছাড়াই"
+  },
+  {
+    "word_roman": "ĀPSOS",
+    "word_bangla": "আপসোস",
+    "category": "Noun",
+    "meaning_english": "Repentance, remorse",
+    "meaning_bangla": "অনুতাপ, অনুশোচনা"
+  },
+  {
+    "word_roman": "ĀPHARKE",
+    "word_bangla": "আফারকে",
+    "category": "Adjective",
+    "meaning_english": "Beyond knowledge",
+    "meaning_bangla": "জ্ঞানের বাইরে"
+  },
+  {
+    "word_roman": "ĀPHĀI",
+    "word_bangla": "আফাই",
+    "category": "Noun",
+    "meaning_english": "Flood",
+    "meaning_bangla": "বন্যা"
+  },
+  {
+    "word_roman": "ĀPHĀL",
+    "word_bangla": "আফাল",
+    "category": "Noun",
+    "meaning_english": "Wave",
+    "meaning_bangla": "ঢেউ"
+  },
+  {
+    "word_roman": "ĀPHIHĪN",
+    "word_bangla": "আফিহীন",
+    "category": "Noun",
+    "meaning_english": "Opium",
+    "meaning_bangla": "আফিম"
+  },
+  {
+    "word_roman": "ĀPHIHĪN-PĀ",
+    "word_bangla": "আফিহীন-পা",
+    "category": "Adjective",
+    "meaning_english": "Hot-headed",
+    "meaning_bangla": "গরম মাথার"
+  },
+  {
+    "word_roman": "ĀPHIR",
+    "word_bangla": "আফির",
+    "category": "Noun",
+    "meaning_english": "Powder used in Holi festival",
+    "meaning_bangla": "হোলি উৎসবে ব্যবহৃত গুঁড়ো"
+  },
+  {
+    "word_roman": "ĀPHIL",
+    "word_bangla": "আফিল",
+    "category": "Noun",
+    "meaning_english": "Appeal",
+    "meaning_bangla": "আবেদন"
+  },
+  {
+    "word_roman": "ĀBĀ-JABĀ",
+    "word_bangla": "আবা-জাবা",
+    "category": "Adjective",
+    "meaning_english": "Rough, incomplete",
+    "meaning_bangla": "খসখসে, অসম্পূর্ণ"
+  },
+  {
+    "word_roman": "ĀBĀD",
+    "word_bangla": "আবাদ",
+    "category": "Noun",
+    "meaning_english": "Cultivation, tillage",
+    "meaning_bangla": "চাষাবাদ, কর্ষণ"
+  },
+  {
+    "word_roman": "ĀBIJABI",
+    "word_bangla": "আবিজাবি",
+    "category": "Noun",
+    "meaning_english": "Disturbance",
+    "meaning_bangla": "অশান্তি, বিঘ্ন"
+  },
+  {
+    "word_roman": "ĀBUL-TĀBUL",
+    "word_bangla": "আবুল-তাবুল",
+    "category": "Adjective",
+    "meaning_english": "Incoherent, irrelevant",
+    "meaning_bangla": "অসংলগ্ন, অপ্রাসঙ্গিক"
+  },
+  {
+    "word_roman": "ĀBERA",
+    "word_bangla": "আবেরা",
+    "category": "Adjective",
+    "meaning_english": "Stupid, foolish",
+    "meaning_bangla": "মূর্খ, বোকা"
+  },
+  {
+    "word_roman": "ĀBO",
+    "word_bangla": "আবো",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ebo",
+    "meaning_bangla": "এবো-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀBOK",
+    "word_bangla": "আবোক",
+    "category": "Noun",
+    "meaning_english": "Grand-mother",
+    "meaning_bangla": "দাদি"
+  },
+  {
+    "word_roman": "ĀBOKCA(M)",
+    "word_bangla": "আবোকচা(ম)",
+    "category": "Adjective",
+    "meaning_english": "Much, many",
+    "meaning_bangla": "অনেক, প্রচুর"
+  },
+  {
+    "word_roman": "ĀBKĀRI",
+    "word_bangla": "আবকারি",
+    "category": "Noun",
+    "meaning_english": "Of excise",
+    "meaning_bangla": "আবগারি সম্পর্কিত"
+  },
+  {
+    "word_roman": "ĀBDĀR",
+    "word_bangla": "আবদার",
+    "category": "Noun",
+    "meaning_english": "Childish whim, undue demand",
+    "meaning_bangla": "শিশুসুলভ খেয়াল, অযৌক্তিক দাবি"
+  },
+  {
+    "word_roman": "ĀB-HĀWĀ",
+    "word_bangla": "আব-হাওয়া",
+    "category": "Noun",
+    "meaning_english": "Atmosphere, climate",
+    "meaning_bangla": "পরিবেশ, জলবায়ু"
+  },
+  {
+    "word_roman": "ĀBHĀNGĀ",
+    "word_bangla": "আভাঙ্গা",
+    "category": "Adjective",
+    "meaning_english": "Having a bad shape, ugly",
+    "meaning_bangla": "খারাপ আকৃতির, কুৎসিত"
+  },
+  {
+    "word_roman": "ĀBHYĀS",
+    "word_bangla": "আভ্যাস",
+    "category": "Noun",
+    "meaning_english": "Practice, nature",
+    "meaning_bangla": "অভ্যাস, স্বভাব"
+  },
+  {
+    "word_roman": "ĀMAL",
+    "word_bangla": "আমল",
+    "category": "Noun",
+    "meaning_english": "Reign",
+    "meaning_bangla": "শাসনকাল"
+  },
+  {
+    "word_roman": "ĀMĀN-ĀCHAK",
+    "word_bangla": "আমান-আচক",
+    "category": "Adjective",
+    "meaning_english": "Impure and untouchable",
+    "meaning_bangla": "অপবিত্র এবং অস্পৃশ্য"
+  },
+  {
+    "word_roman": "ĀMĀNPA",
+    "word_bangla": "আমানপা",
+    "category": "Adjective",
+    "meaning_english": "(i) Impure (ii) Dense",
+    "meaning_bangla": "(i) অপবিত্র (ii) ঘন"
+  },
+  {
+    "word_roman": "ĀMANĀ",
+    "word_bangla": "আমানা",
+    "category": "Adjective",
+    "meaning_english": "Having less growth",
+    "meaning_bangla": "কম বৃদ্ধি সম্পন্ন"
+  },
+  {
+    "word_roman": "ĀMABĀSYĀ",
+    "word_bangla": "আমাবস্যা",
+    "category": "Noun",
+    "meaning_english": "New-moon day",
+    "meaning_bangla": "অমাবস্যা"
+  },
+  {
+    "word_roman": "Ā'MĀRĀK",
+    "word_bangla": "আ'মারাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of haumurāk",
+    "meaning_bangla": "হৌমুরাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀMI",
+    "word_bangla": "আমি",
+    "category": "Pronoun",
+    "meaning_english": "We",
+    "meaning_bangla": "আমরা"
+  },
+  {
+    "word_roman": "-ĀMI",
+    "word_bangla": "-আমি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or adjectives to indicate some characteristic",
+    "meaning_bangla": "বিশেষ্য বা বিশেষণে যোগ করে কোনো বৈশিষ্ট্য নির্দেশ করে"
+  },
+  {
+    "word_roman": "ĀMIN",
+    "word_bangla": "আমিন",
+    "category": "Noun",
+    "meaning_english": "Surveyor",
+    "meaning_bangla": "জরিপকারী"
+  },
+  {
+    "word_roman": "ĀMETPĀ",
+    "word_bangla": "আমেত্পা",
+    "category": "Noun",
+    "meaning_english": "A preparation of kneaded vegetables",
+    "meaning_bangla": "মাখানো সবজির প্রস্তুতি"
+  },
+  {
+    "word_roman": "ĀMKURI",
+    "word_bangla": "আমকুরি",
+    "category": "Noun",
+    "meaning_english": "Crawling",
+    "meaning_bangla": "হামাগুড়ি দেওয়া"
+  },
+  {
+    "word_roman": "ĀMUNI(M)",
+    "word_bangla": "আমুনি(ম)",
+    "category": "Noun",
+    "meaning_english": "Female beast",
+    "meaning_bangla": "মাদি পশু"
+  },
+  {
+    "word_roman": "Ā'MULI",
+    "word_bangla": "আ'মুলি",
+    "category": "Noun",
+    "meaning_english": "A kind of sour edible plant",
+    "meaning_bangla": "এক ধরনের টক খাদ্যযোগ্য উদ্ভিদ"
+  },
+  {
+    "word_roman": "Ā'MIYĀ-",
+    "word_bangla": "আ'মিয়া-",
+    "category": "Verb",
+    "meaning_english": "To yawn",
+    "meaning_bangla": "হাই তোলা"
+  },
+  {
+    "word_roman": "Ā'MIYĀNI",
+    "word_bangla": "আ'মিয়ানি",
+    "category": "Noun",
+    "meaning_english": "Yawning",
+    "meaning_bangla": "হাই তোলা"
+  },
+  {
+    "word_roman": "ĀMUKURI",
+    "word_bangla": "আমুকুরি",
+    "category": "Noun",
+    "meaning_english": "Import",
+    "meaning_bangla": "আমদানি"
+  },
+  {
+    "word_roman": "ĀMPUR",
+    "word_bangla": "আম্পুর",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ā'mkuri",
+    "meaning_bangla": "আ'মকুরি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀMBAL",
+    "word_bangla": "আম্বল",
+    "category": "Noun",
+    "meaning_english": "Condiment",
+    "meaning_bangla": "মশলা"
+  },
+  {
+    "word_roman": "ĀMBĀR",
+    "word_bangla": "আম্বার",
+    "category": "Noun",
+    "meaning_english": "Heap, a big amount",
+    "meaning_bangla": "স্তূপ, প্রচুর পরিমাণ"
+  },
+  {
+    "word_roman": "ĀMMAK",
+    "word_bangla": "আম্মাক",
+    "category": "Adjective",
+    "meaning_english": "Foolish, stupid",
+    "meaning_bangla": "মূর্খ, বোকা"
+  },
+  {
+    "word_roman": "ĀWAIĀPĀ",
+    "word_bangla": "আওয়াইপা",
+    "category": "Adjective",
+    "meaning_english": "True",
+    "meaning_bangla": "সত্য"
+  },
+  {
+    "word_roman": "ĀWĀN-JĀWĀN",
+    "word_bangla": "আওয়ান-জাওয়ান",
+    "category": "Verb",
+    "meaning_english": "Coming and going",
+    "meaning_bangla": "আসা-যাওয়া"
+  },
+  {
+    "word_roman": "ĀWĀ",
+    "word_bangla": "আওয়া",
+    "category": "Noun",
+    "meaning_english": "Fool, stupid",
+    "meaning_bangla": "বোকা, মূর্খ"
+  },
+  {
+    "word_roman": "ĀWAJ",
+    "word_bangla": "আওয়াজ",
+    "category": "Noun",
+    "meaning_english": "Voice, sound",
+    "meaning_bangla": "কণ্ঠস্বর, শব্দ"
+  },
+  {
+    "word_roman": "ĀR",
+    "word_bangla": "আর",
+    "category": "Adjective",
+    "meaning_english": "Other, different",
+    "meaning_bangla": "অন্য, ভিন্ন"
+  },
+  {
+    "word_roman": "-ĀR",
+    "word_bangla": "-আর",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns to indicate profession",
+    "meaning_bangla": "বিশেষ্যে যোগ করে পেশা নির্দেশ করে"
+  },
+  {
+    "word_roman": "ĀR",
+    "word_bangla": "আর",
+    "category": "Noun",
+    "meaning_english": "Bundle",
+    "meaning_bangla": "বান্ডিল"
+  },
+  {
+    "word_roman": "ĀRĀN",
+    "word_bangla": "আরান",
+    "category": "Noun",
+    "meaning_english": "Condition",
+    "meaning_bangla": "অবস্থা"
+  },
+  {
+    "word_roman": "ĀRĀ-ĀRI",
+    "word_bangla": "আরা-আরি",
+    "category": "Noun",
+    "meaning_english": "Enmity, emulation",
+    "meaning_bangla": "শত্রুতা, প্রতিযোগিতা"
+  },
+  {
+    "word_roman": "ĀRĀK",
+    "word_bangla": "আরাক",
+    "category": "Pronoun",
+    "meaning_english": "Another",
+    "meaning_bangla": "আরেকজন"
+  },
+  {
+    "word_roman": "ĀRĀN",
+    "word_bangla": "আরান",
+    "category": "Noun",
+    "meaning_english": "Gate",
+    "meaning_bangla": "দরজা"
+  },
+  {
+    "word_roman": "ĀRĀNPĀ",
+    "word_bangla": "আরানপা",
+    "category": "Noun",
+    "meaning_english": "Gateman, receptionist",
+    "meaning_bangla": "দ্বাররক্ষক, অভ্যর্থনাকারী"
+  },
+  {
+    "word_roman": "ĀRĀNI",
+    "word_bangla": "আরানি",
+    "category": "Noun",
+    "meaning_english": "Finishing",
+    "meaning_bangla": "সমাপ্তি"
+  }
 ]
