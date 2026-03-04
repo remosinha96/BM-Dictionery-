@@ -3043,5 +3043,691 @@
     "category": "Noun",
     "meaning_english": "Finishing",
     "meaning_bangla": "সমাপ্তি"
+  },
+  {
+    "word_roman": "-ĀRI",
+    "word_bangla": "-আরি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns to indicate profession",
+    "meaning_bangla": "বিশেষ্যে যোগ করে পেশা নির্দেশ করে"
+  },
+  {
+    "word_roman": "-ĀRI",
+    "word_bangla": "-আরি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns to indicate a 'position'",
+    "meaning_bangla": "বিশেষ্যে যোগ করে 'পদ' বা অবস্থান নির্দেশ করে"
+  },
+  {
+    "word_roman": "ĀRIKĀL(M)",
+    "word_bangla": "আরিকাল(ম)",
+    "category": "Adjective",
+    "meaning_english": "Obstinate",
+    "meaning_bangla": "জেদি, একগুঁয়ে"
+  },
+  {
+    "word_roman": "ĀRIKPĀ",
+    "word_bangla": "আরিক্পা",
+    "category": "Adverb",
+    "meaning_english": "Niggardly",
+    "meaning_bangla": "কৃপণভাবে"
+  },
+  {
+    "word_roman": "ĀRIPĀ",
+    "word_bangla": "আরিপা",
+    "category": "Adjective",
+    "meaning_english": "(i) Old (ii) Neighbour",
+    "meaning_bangla": "(i) বুড়ো (ii) প্রতিবেশী"
+  },
+  {
+    "word_roman": "ĀRIBĀM",
+    "word_bangla": "আরিবাম",
+    "category": "Noun",
+    "meaning_english": "Name of a clan (lit. old clan)",
+    "meaning_bangla": "একটি বংশের নাম (অক্ষরে পুরনো বংশ)"
+  },
+  {
+    "word_roman": "ĀRUCA",
+    "word_bangla": "আরুচা",
+    "category": "Noun",
+    "meaning_english": "Loss of appetite",
+    "meaning_bangla": "ক্ষুধামন্দা"
+  },
+  {
+    "word_roman": "ĀRUPĀ",
+    "word_bangla": "আরুপা",
+    "category": "Adjective",
+    "meaning_english": "Secret, delicate",
+    "meaning_bangla": "গোপন, সূক্ষ্ম"
+  },
+  {
+    "word_roman": "ĀRUPĪ",
+    "word_bangla": "আরুপী",
+    "category": "Verb",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "ĀRUM",
+    "word_bangla": "আরুম",
+    "category": "Noun",
+    "meaning_english": "Shade, dark; screened",
+    "meaning_bangla": "ছায়া, অন্ধকার; আড়াল করা"
+  },
+  {
+    "word_roman": "ĀRUM",
+    "word_bangla": "আরুম",
+    "category": "Noun",
+    "meaning_english": "Warmth (of fever)",
+    "meaning_bangla": "জ্বরের উত্তাপ"
+  },
+  {
+    "word_roman": "ĀRO",
+    "word_bangla": "আরো",
+    "category": "Adverb",
+    "meaning_english": "On account of",
+    "meaning_bangla": "কারণে"
+  },
+  {
+    "word_roman": "ĀRJI",
+    "word_bangla": "আর্জি",
+    "category": "Noun",
+    "meaning_english": "Petition",
+    "meaning_bangla": "আবেদনপত্র"
+  },
+  {
+    "word_roman": "ĀR(A)TI",
+    "word_bangla": "আর(আ)তি",
+    "category": "Noun",
+    "meaning_english": "Waving of light before an image",
+    "meaning_bangla": "আরতি (দেবমূর্তির সামনে আলো ঘোরানো)"
+  },
+  {
+    "word_roman": "ĀRDĀLI",
+    "word_bangla": "আর্দালি",
+    "category": "Noun",
+    "meaning_english": "Orderly",
+    "meaning_bangla": "আর্দালি, চাকর"
+  },
+  {
+    "word_roman": "ĀṚ",
+    "word_bangla": "আড়",
+    "category": "Noun",
+    "meaning_english": "Bone",
+    "meaning_bangla": "হাড়"
+  },
+  {
+    "word_roman": "ĀRĀI",
+    "word_bangla": "আরাই",
+    "category": "Adjective",
+    "meaning_english": "Two and a half",
+    "meaning_bangla": "আড়াই"
+  },
+  {
+    "word_roman": "ĀRĀL",
+    "word_bangla": "আরাল",
+    "category": "Noun",
+    "meaning_english": "Concealment, screen",
+    "meaning_bangla": "আড়াল, পর্দা"
+  },
+  {
+    "word_roman": "Ā'ṚI",
+    "word_bangla": "আ'ড়ি",
+    "category": "Noun",
+    "meaning_english": "Cooking pots and vessels",
+    "meaning_bangla": "রান্নার হাঁড়ি-পাতিল"
+  },
+  {
+    "word_roman": "Ā'ṚI",
+    "word_bangla": "আ'ড়ি",
+    "category": "Noun",
+    "meaning_english": "Huble-buble",
+    "meaning_bangla": "হুক্কা"
+  },
+  {
+    "word_roman": "ĀṚIYĀ",
+    "word_bangla": "আড়িয়া",
+    "category": "Noun",
+    "meaning_english": "Alt. form of aṛeyā",
+    "meaning_bangla": "আড়েয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀṚIYĀ",
+    "word_bangla": "আড়িয়া",
+    "category": "Adjective",
+    "meaning_english": "Having less growth",
+    "meaning_bangla": "কম বৃদ্ধি সম্পন্ন"
+  },
+  {
+    "word_roman": "ĀṚUWĀ",
+    "word_bangla": "আড়ুয়া",
+    "category": "Adjective",
+    "meaning_english": "Lean and thin",
+    "meaning_bangla": "রোগা ও পাতলা"
+  },
+  {
+    "word_roman": "ĀREYĀ",
+    "word_bangla": "আরেয়া",
+    "category": "Adjective",
+    "meaning_english": "Blunt",
+    "meaning_bangla": "ভোঁতা"
+  },
+  {
+    "word_roman": "ĀREYUWĀ",
+    "word_bangla": "আরেয়ুয়া",
+    "category": "Noun",
+    "meaning_english": "A kind of paddy yielding crops in two months and a half",
+    "meaning_bangla": "আড়াই মাসে ফসল দেয় এমন ধানের জাত"
+  },
+  {
+    "word_roman": "ĀL",
+    "word_bangla": "আল",
+    "category": "Noun",
+    "meaning_english": "A cut in something for the purpose of joining",
+    "meaning_bangla": "জোড়া দেওয়ার জন্য কাটা"
+  },
+  {
+    "word_roman": "-ĀL",
+    "word_bangla": "-আল",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns in the sense of 'possessing' or 'pertaining to'",
+    "meaning_bangla": "বিশেষ্যে যোগ করে 'সম্পর্কিত' বা 'অধিকারী' অর্থে"
+  },
+  {
+    "word_roman": "ĀL",
+    "word_bangla": "আল",
+    "category": "Noun",
+    "meaning_english": "(i) Cultivation (ii) A bullock or buffalo used for ploughing",
+    "meaning_bangla": "(i) চাষ (ii) হল চষার জন্য বলদ বা মহিষ"
+  },
+  {
+    "word_roman": "ĀL",
+    "word_bangla": "আল",
+    "category": "Noun",
+    "meaning_english": "Return",
+    "meaning_bangla": "ফেরত"
+  },
+  {
+    "word_roman": "ĀLĀN",
+    "word_bangla": "আলান",
+    "category": "Noun",
+    "meaning_english": "A confined place, jail",
+    "meaning_bangla": "বন্দী জায়গা, জেল"
+  },
+  {
+    "word_roman": "Ā'LAT",
+    "word_bangla": "আ'লাত",
+    "category": "Noun",
+    "meaning_english": "Path meant for cows or buffaloes",
+    "meaning_bangla": "গরু বা মহিষের পথ"
+  },
+  {
+    "word_roman": "ĀLAT",
+    "word_bangla": "আলাত",
+    "category": "Noun",
+    "meaning_english": "A kind of cobra",
+    "meaning_bangla": "এক ধরনের কোবরা সাপ"
+  },
+  {
+    "word_roman": "ĀLĀ",
+    "word_bangla": "আলা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or pronouns to denote connection or similarity",
+    "meaning_bangla": "বিশেষ্য বা সর্বনামে যোগ করে সম্পর্ক বা সাদৃশ্য নির্দেশ করে"
+  },
+  {
+    "word_roman": "ĀLĀ",
+    "word_bangla": "আলা",
+    "category": "Noun",
+    "meaning_english": "Ring",
+    "meaning_bangla": "আংটি"
+  },
+  {
+    "word_roman": "Ā'LĀ",
+    "word_bangla": "আ'লা",
+    "category": "Noun",
+    "meaning_english": "A bundle or handful (of fuel)",
+    "meaning_bangla": "জ্বালানির বান্ডিল বা মুঠো"
+  },
+  {
+    "word_roman": "Ā'LĀ(M)",
+    "word_bangla": "আ'লা(ম)",
+    "category": "Verb",
+    "meaning_english": "To throw",
+    "meaning_bangla": "ছুড়ে ফেলা"
+  },
+  {
+    "word_roman": "ĀLĀ-",
+    "word_bangla": "আলা-",
+    "category": "Verb",
+    "meaning_english": "To bind into small bundles",
+    "meaning_bangla": "ছোট বান্ডিলে বাঁধা"
+  },
+  {
+    "word_roman": "ĀLĀ-",
+    "word_bangla": "আলা-",
+    "category": "Verb",
+    "meaning_english": "To change",
+    "meaning_bangla": "বদল করা"
+  },
+  {
+    "word_roman": "ĀLĀN-NUWĀN",
+    "word_bangla": "আলান-নুয়ান",
+    "category": "Noun",
+    "meaning_english": "Fondlings, amorous caresses",
+    "meaning_bangla": "আদর, প্রেমময় স্পর্শ"
+  },
+  {
+    "word_roman": "ĀLĀ-JĀLĀ",
+    "word_bangla": "আলা-জালা",
+    "category": "Adjective",
+    "meaning_english": "(i) Unpolished, incomplete (ii) Incompletely, in an unpolished way",
+    "meaning_bangla": "(i) অমসৃণ, অসম্পূর্ণ (ii) অসম্পূর্ণভাবে"
+  },
+  {
+    "word_roman": "Ā'LĀDULĀ",
+    "word_bangla": "আ'লাদুলা",
+    "category": "Noun",
+    "meaning_english": "Alteration, vacillation",
+    "meaning_bangla": "পরিবর্তন, দোদুল্যমানতা"
+  },
+  {
+    "word_roman": "ĀLĀ(D)DĀ",
+    "word_bangla": "আলা(দ)দা",
+    "category": "Adjective",
+    "meaning_english": "Different, separate",
+    "meaning_bangla": "ভিন্ন, আলাদা"
+  },
+  {
+    "word_roman": "Ā'LANI(M)",
+    "word_bangla": "আ'লানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Throwing",
+    "meaning_bangla": "ছুড়ে ফেলা"
+  },
+  {
+    "word_roman": "ĀLĀNI",
+    "word_bangla": "আলানি",
+    "category": "Noun",
+    "meaning_english": "Making small bundles",
+    "meaning_bangla": "ছোট বান্ডিল তৈরি করা"
+  },
+  {
+    "word_roman": "ĀṚKĀN",
+    "word_bangla": "আড়কান",
+    "category": "Adjective",
+    "meaning_english": "Lean and thin",
+    "meaning_bangla": "রোগা ও পাতলা"
+  },
+  {
+    "word_roman": "Ā'LĀNI",
+    "word_bangla": "আ'লানি",
+    "category": "Noun",
+    "meaning_english": "Changing",
+    "meaning_bangla": "পরিবর্তন"
+  },
+  {
+    "word_roman": "ĀLĀ-PAK",
+    "word_bangla": "আলা-পাক",
+    "category": "Noun",
+    "meaning_english": "Armpit",
+    "meaning_bangla": "বগল"
+  },
+  {
+    "word_roman": "ĀLĀSĀ-BĀLĀSĀ",
+    "word_bangla": "আলাসা-বালাসা",
+    "category": "Adjective",
+    "meaning_english": "(i) Incomplete (ii) Incompletely, imperfectly",
+    "meaning_bangla": "(i) অসম্পূর্ণ (ii) অসম্পূর্ণভাবে"
+  },
+  {
+    "word_roman": "ĀLĀ-SĀLĀ",
+    "word_bangla": "আলা-সালা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ālājālā",
+    "meaning_bangla": "আলাজালা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "-ĀLI",
+    "word_bangla": "-আলি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns to denote 'connection' or 'possession'",
+    "meaning_bangla": "বিশেষ্যে যোগ করে 'সম্পর্ক' বা 'অধিকার' নির্দেশ করে"
+  },
+  {
+    "word_roman": "ĀLI",
+    "word_bangla": "আলি",
+    "category": "Noun",
+    "meaning_english": "Aversion, hatred",
+    "meaning_bangla": "ঘৃণা"
+  },
+  {
+    "word_roman": "ĀLI",
+    "word_bangla": "আলি",
+    "category": "Noun",
+    "meaning_english": "A raised boundary line, a small dam",
+    "meaning_bangla": "উঁচু সীমানা রেখা, ছোট বাঁধ"
+  },
+  {
+    "word_roman": "ĀLI(M)",
+    "word_bangla": "আলি(ম)",
+    "category": "Noun",
+    "meaning_english": "Laziness",
+    "meaning_bangla": "অলসতা"
+  },
+  {
+    "word_roman": "ĀLIDDĀ(M)",
+    "word_bangla": "আলিদ্দা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ālādā",
+    "meaning_bangla": "আলাদা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀLIYĀ",
+    "word_bangla": "আলিয়া",
+    "category": "Adjective",
+    "meaning_english": "Lazy",
+    "meaning_bangla": "অলস"
+  },
+  {
+    "word_roman": "ĀLISĀL(M)",
+    "word_bangla": "আলিসাল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ānīnsānīn",
+    "meaning_bangla": "আনীনসানীন-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀLU",
+    "word_bangla": "আলু",
+    "category": "Noun",
+    "meaning_english": "Potato cultivator",
+    "meaning_bangla": "আলু চাষী"
+  },
+  {
+    "word_roman": "Ā'LUWĀ",
+    "word_bangla": "আ'লুয়া",
+    "category": "Noun",
+    "meaning_english": "Cultivator",
+    "meaning_bangla": "চাষী"
+  },
+  {
+    "word_roman": "ĀLUWĀN",
+    "word_bangla": "আলুয়ান",
+    "category": "Noun",
+    "meaning_english": "Woolen wrapper",
+    "meaning_bangla": "উলের চাদর"
+  },
+  {
+    "word_roman": "ĀLKĀTĀRĀ",
+    "word_bangla": "আলকাতারা",
+    "category": "Noun",
+    "meaning_english": "Tar, pitch",
+    "meaning_bangla": "আলকাতরা"
+  },
+  {
+    "word_roman": "ĀLGA",
+    "word_bangla": "আলগা",
+    "category": "Adjective",
+    "meaning_english": "Separate",
+    "meaning_bangla": "আলাদা"
+  },
+  {
+    "word_roman": "ĀLGA-",
+    "word_bangla": "আলগা-",
+    "category": "Verb",
+    "meaning_english": "To separate",
+    "meaning_bangla": "আলাদা করা"
+  },
+  {
+    "word_roman": "ĀLGĀNI",
+    "word_bangla": "আলগানি",
+    "category": "Noun",
+    "meaning_english": "Separating",
+    "meaning_bangla": "আলাদা করা"
+  },
+  {
+    "word_roman": "ĀLGUWĀ-",
+    "word_bangla": "আলগুয়া-",
+    "category": "Verb",
+    "meaning_english": "Caus. from ālgā-",
+    "meaning_bangla": "আলগা-এর কারণাত্মক রূপ"
+  },
+  {
+    "word_roman": "ĀLTĀ",
+    "word_bangla": "আলতা",
+    "category": "Noun",
+    "meaning_english": "Lac",
+    "meaning_bangla": "লাক্ষা"
+  },
+  {
+    "word_roman": "ĀLTU-PHĀLTU",
+    "word_bangla": "আলতু-ফালতু",
+    "category": "Adjective",
+    "meaning_english": "(i) Meaningless (ii) Meaninglessly",
+    "meaning_bangla": "(i) অর্থহীন (ii) অর্থহীনভাবে"
+  },
+  {
+    "word_roman": "Ā'LTHAK",
+    "word_bangla": "আ'লথাক",
+    "category": "Adjective",
+    "meaning_english": "Returned",
+    "meaning_bangla": "ফিরে আসা"
+  },
+  {
+    "word_roman": "ĀLDĀ",
+    "word_bangla": "আলদা",
+    "category": "Noun",
+    "meaning_english": "Ulcer forming on the tongue of an animal",
+    "meaning_bangla": "পশুর জিভে আলসার হওয়া"
+  },
+  {
+    "word_roman": "Ā'LDIDI",
+    "word_bangla": "আ'লদিদি",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ā'ndi, ā'ndiyā",
+    "meaning_bangla": "আ'ন্দি, আ'ন্দিয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀLNĀ",
+    "word_bangla": "আলনা",
+    "category": "Noun",
+    "meaning_english": "A dress-hanger",
+    "meaning_bangla": "কাপড় ঝোলানোর আলনা"
+  },
+  {
+    "word_roman": "ĀLMARI",
+    "word_bangla": "আলমারি",
+    "category": "Noun",
+    "meaning_english": "Almirah",
+    "meaning_bangla": "আলমারি"
+  },
+  {
+    "word_roman": "ĀSÍN",
+    "word_bangla": "আসীন",
+    "category": "Noun",
+    "meaning_english": "An Indian month",
+    "meaning_bangla": "আশ্বিন মাস"
+  },
+  {
+    "word_roman": "ĀSÉPĀSÉ",
+    "word_bangla": "আসেপাসে",
+    "category": "Adverb",
+    "meaning_english": "In close quarters",
+    "meaning_bangla": "কাছাকাছি"
+  },
+  {
+    "word_roman": "ĀSĀRHĀ",
+    "word_bangla": "আসাঢ়া",
+    "category": "Noun",
+    "meaning_english": "Paddy sown in the month of Āṣāḍha",
+    "meaning_bangla": "আষাঢ় মাসে বোনা ধান"
+  },
+  {
+    "word_roman": "Ā'S",
+    "word_bangla": "আ'স",
+    "category": "Noun",
+    "meaning_english": "Duck, swan",
+    "meaning_bangla": "হাঁস"
+  },
+  {
+    "word_roman": "ĀSAMAN",
+    "word_bangla": "আসমান",
+    "category": "Noun",
+    "meaning_english": "A method of sitting at the time taking meals",
+    "meaning_bangla": "খাওয়ার সময় বসার পদ্ধতি"
+  },
+  {
+    "word_roman": "ĀSAR",
+    "word_bangla": "আসর",
+    "category": "Noun",
+    "meaning_english": "A gathering, majlis",
+    "meaning_bangla": "সভা, মজলিস"
+  },
+  {
+    "word_roman": "ĀSAL",
+    "word_bangla": "আসল",
+    "category": "Adjective",
+    "meaning_english": "Real, true",
+    "meaning_bangla": "আসল, সত্য"
+  },
+  {
+    "word_roman": "ĀSALPĀ",
+    "word_bangla": "আসালপা",
+    "category": "Adjective",
+    "meaning_english": "Weak",
+    "meaning_bangla": "দুর্বল"
+  },
+  {
+    "word_roman": "ĀSALPI",
+    "word_bangla": "আসালপি",
+    "category": "Noun",
+    "meaning_english": "Fem. fr. above",
+    "meaning_bangla": "উপরের স্ত্রীলিঙ্গ রূপ"
+  },
+  {
+    "word_roman": "ĀSĀNPĀ",
+    "word_bangla": "আসানপা",
+    "category": "Adjective",
+    "meaning_english": "Green",
+    "meaning_bangla": "সবুজ"
+  },
+  {
+    "word_roman": "ĀSĀMI",
+    "word_bangla": "আসামি",
+    "category": "Noun",
+    "meaning_english": "The accused",
+    "meaning_bangla": "আসামি"
+  },
+  {
+    "word_roman": "ĀSUTĀ",
+    "word_bangla": "আসুতা",
+    "category": "Adjective",
+    "meaning_english": "(i) Whole, complete (ii) Simple",
+    "meaning_bangla": "(i) সম্পূর্ণ (ii) সরল"
+  },
+  {
+    "word_roman": "ĀSTĀR(A)",
+    "word_bangla": "আস্তার(আ)",
+    "category": "Noun",
+    "meaning_english": "Layer",
+    "meaning_bangla": "স্তর"
+  },
+  {
+    "word_roman": "ĀSTI(M)",
+    "word_bangla": "আস্তি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of āsti",
+    "meaning_bangla": "আস্তি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀSTE",
+    "word_bangla": "আস্তে",
+    "category": "Adverb",
+    "meaning_english": "Slowly, softly",
+    "meaning_bangla": "আস্তে"
+  },
+  {
+    "word_roman": "ĀSPĀTĀL",
+    "word_bangla": "আসপাতাল",
+    "category": "Noun",
+    "meaning_english": "Hospital",
+    "meaning_bangla": "হাসপাতাল"
+  },
+  {
+    "word_roman": "ĀH-",
+    "word_bangla": "আহ্-",
+    "category": "Verb",
+    "meaning_english": "To come",
+    "meaning_bangla": "আসা"
+  },
+  {
+    "word_roman": "ĀH-",
+    "word_bangla": "আহ্-",
+    "category": "Verb",
+    "meaning_english": "To laugh",
+    "meaning_bangla": "হাসা"
+  },
+  {
+    "word_roman": "ĀHĀ",
+    "word_bangla": "আহা",
+    "category": "Noun",
+    "meaning_english": "Arm",
+    "meaning_bangla": "বাহু"
+  },
+  {
+    "word_roman": "ĀHĀTULI",
+    "word_bangla": "আহাতুলি",
+    "category": "Noun",
+    "meaning_english": "Armpit",
+    "meaning_bangla": "বগল"
+  },
+  {
+    "word_roman": "ĀHĀNI",
+    "word_bangla": "আহানি",
+    "category": "Noun",
+    "meaning_english": "Coming",
+    "meaning_bangla": "আগমন"
+  },
+  {
+    "word_roman": "Ā'HĀNI",
+    "word_bangla": "আ'হানি",
+    "category": "Noun",
+    "meaning_english": "Laughing",
+    "meaning_bangla": "হাসি"
+  },
+  {
+    "word_roman": "Ā'HĀL",
+    "word_bangla": "আ'হাল",
+    "category": "Adjective",
+    "meaning_english": "Aged, old",
+    "meaning_bangla": "বয়স্ক, বুড়ো"
+  },
+  {
+    "word_roman": "ĀHI",
+    "word_bangla": "আহি",
+    "category": "Noun",
+    "meaning_english": "Eye",
+    "meaning_bangla": "চোখ"
+  },
+  {
+    "word_roman": "ĀHIŃPĀ(M)",
+    "word_bangla": "আহিংপা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of āipā",
+    "meaning_bangla": "আইপা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ĀHIBĀ",
+    "word_bangla": "আহিবা",
+    "category": "Noun",
+    "meaning_english": "Coming",
+    "meaning_bangla": "আসা"
+  },
+  {
+    "word_roman": "ĀHIYAL",
+    "word_bangla": "আহিয়াল",
+    "category": "Noun",
+    "meaning_english": "Ophthalmia",
+    "meaning_bangla": "চোখের রোগ"
   }
 ]
