@@ -4214,7 +4214,7 @@
     "meaning_bangla": "সামান্য শব্দ বা ইঙ্গিত"
   },
   {
-    "word_roman": "-INI",
+    "word_roman": "INI",
     "word_bangla": "-ইনি",
     "category": "Suffix",
     "meaning_english": "Fem. Suf.",
@@ -4270,7 +4270,7 @@
     "meaning_bangla": "খুড়ি/পিসি"
   },
   {
-    "word_roman": "-IPA",
+    "word_roman": "IPA",
     "word_bangla": "-ইপা",
     "category": "Suffix",
     "meaning_english": "V. suffix",
@@ -4312,7 +4312,7 @@
     "meaning_bangla": "উৎস, খনি"
   },
   {
-    "word_roman": "-IBA",
+    "word_roman": "IBA",
     "word_bangla": "-ইবা",
     "category": "Suffix",
     "meaning_english": "An ending for the future tense",
@@ -4368,7 +4368,7 @@
     "meaning_bangla": "ইবুনো-এর সংক্ষিপ্ত রূপ"
   },
   {
-    "word_roman": "-IM",
+    "word_roman": "IM",
     "word_bangla": "-ইম",
     "category": "Suffix",
     "meaning_english": "The ending for the first person sing. in the probable future",
@@ -4471,5 +4471,1013 @@
     "category": "Noun",
     "meaning_english": "Homestead",
     "meaning_bangla": "বাড়ির জায়গা"
+  },
+  {
+    "word_roman": "IMLAK",
+    "word_bangla": "ইমলাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of yumak",
+    "meaning_bangla": "যুমাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IMSAKISA",
+    "word_bangla": "ইমসাকিসা",
+    "category": "Noun",
+    "meaning_english": "Wednesday",
+    "meaning_bangla": "বুধবার"
+  },
+  {
+    "word_roman": "IYA",
+    "word_bangla": "-ইয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns in the sense of 'having', 'belonging to' or 'looking like'",
+    "meaning_bangla": "বিশেষ্যে যোগ করে 'আছে', 'সম্পর্কিত' বা 'এর মতো দেখতে' অর্থে"
+  },
+  {
+    "word_roman": "-IYA",
+    "word_bangla": "-ইয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots to form non-finite verbs in the form 'having done'",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে non-finite verb তৈরি করে 'করে' অর্থে"
+  },
+  {
+    "word_roman": "IYARKI",
+    "word_bangla": "ইয়ারকি",
+    "category": "Noun",
+    "meaning_english": "Waggery, joke, ridicule",
+    "meaning_bangla": "হাস্যরস, ঠাট্টা, উপহাস"
+  },
+  {
+    "word_roman": "IYAH",
+    "word_bangla": "ইয়াহ",
+    "category": "Interjection",
+    "meaning_english": "An interjection used to express a complaint and dissatisfaction",
+    "meaning_bangla": "অভিযোগ বা অসন্তোষ প্রকাশ করার জন্য ব্যবহৃত শব্দ"
+  },
+  {
+    "word_roman": "IRAN",
+    "word_bangla": "ইরান",
+    "category": "Noun",
+    "meaning_english": "Channel",
+    "meaning_bangla": "খাল"
+  },
+  {
+    "word_roman": "IRALPA",
+    "word_bangla": "ইরালপা",
+    "category": "Noun",
+    "meaning_english": "A curry made by boiling vegetables along with salt, pepper and fermented fish",
+    "meaning_bangla": "সবজি, লবণ, গোলমরিচ এবং পচা মাছ সেদ্ধ করে তৈরি কারি"
+  },
+  {
+    "word_roman": "-IRA",
+    "word_bangla": "-ইরা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to adj. in the sense of 'slight'",
+    "meaning_bangla": "বিশেষণে যোগ করে 'সামান্য' অর্থে"
+  },
+  {
+    "word_roman": "IRAIT",
+    "word_bangla": "ইরাইট",
+    "category": "Noun",
+    "meaning_english": "The act of keeping wood or bamboo under mud or water (as a precaution against insects)",
+    "meaning_bangla": "কাঠ বা বাঁশ কাদা বা জলে রাখার কাজ (পোকামাকড় থেকে সুরক্ষা)"
+  },
+  {
+    "word_roman": "IR",
+    "word_bangla": "ইর",
+    "category": "Noun",
+    "meaning_english": "Alt. form of u tauri",
+    "meaning_bangla": "উ তৌরি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IRA",
+    "word_bangla": "ইরা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of u tauri",
+    "meaning_bangla": "উ তৌরি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IRAN",
+    "word_bangla": "ইরান",
+    "category": "Noun",
+    "meaning_english": "(i) Subject (ii) Courtesy",
+    "meaning_bangla": "(i) প্রজা (ii) শিষ্টাচার"
+  },
+  {
+    "word_roman": "IRIKSIPI",
+    "word_bangla": "ইরিকসিপি",
+    "category": "Noun",
+    "meaning_english": "A medical plant",
+    "meaning_bangla": "ঔষধি উদ্ভিদ"
+  },
+  {
+    "word_roman": "IRIKHANLEI",
+    "word_bangla": "ইরিখানলেই",
+    "category": "Noun",
+    "meaning_english": "Alt. form of reikhanlei",
+    "meaning_bangla": "রেইখানলেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IRINPARIN",
+    "word_bangla": "ইরিনপারিন",
+    "category": "Noun",
+    "meaning_english": "The least sound, hint",
+    "meaning_bangla": "সামান্য শব্দ, ইঙ্গিত"
+  },
+  {
+    "word_roman": "IRINPARIN",
+    "word_bangla": "ইরিন-পারিন",
+    "category": "Noun",
+    "meaning_english": "(i=water, linpa=to make sound, pa=bamboo)",
+    "meaning_bangla": "(জল, শব্দ করা, বাঁশ)"
+  },
+  {
+    "word_roman": "IRIPHI",
+    "word_bangla": "ইরিফি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of iruphi",
+    "meaning_bangla": "ইরুফি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IRIRAM",
+    "word_bangla": "ইরিরাম",
+    "category": "Noun",
+    "meaning_english": "A plant the fruit of which is used for dyeing",
+    "meaning_bangla": "রঙ করার জন্য ব্যবহৃত ফলযুক্ত উদ্ভিদ"
+  },
+  {
+    "word_roman": "IRU",
+    "word_bangla": "ইরু",
+    "category": "Noun",
+    "meaning_english": "The base or bottom of thatch",
+    "meaning_bangla": "ছাউনির ভিত্তি বা নিচের অংশ"
+  },
+  {
+    "word_roman": "IRUISAN-BADHANI",
+    "word_bangla": "ইরুইসান-বাধানি",
+    "category": "Noun",
+    "meaning_english": "A hurried movement or preparation for going",
+    "meaning_bangla": "তাড়াহুড়ো করে যাওয়ার প্রস্তুতি"
+  },
+  {
+    "word_roman": "IRUPHI",
+    "word_bangla": "ইরুফি",
+    "category": "Noun",
+    "meaning_english": "Towel",
+    "meaning_bangla": "তোয়ালে"
+  },
+  {
+    "word_roman": "IRUMPI",
+    "word_bangla": "ইরুম্পি",
+    "category": "Noun",
+    "meaning_english": "Shadow",
+    "meaning_bangla": "ছায়া"
+  },
+  {
+    "word_roman": "IRUMPI",
+    "word_bangla": "ইরুম্পি",
+    "category": "Noun",
+    "meaning_english": "A vessel for boiling water",
+    "meaning_bangla": "জল ফোটানোর পাত্র"
+  },
+  {
+    "word_roman": "IRFI",
+    "word_bangla": "ইরফি",
+    "category": "Noun",
+    "meaning_english": "Friday",
+    "meaning_bangla": "শুক্রবার"
+  },
+  {
+    "word_roman": "IREI-KHANLEI",
+    "word_bangla": "ইরেই-খানলেই",
+    "category": "Noun",
+    "meaning_english": "A skin-disease believed to be caused by the imps of the waters of channels",
+    "meaning_bangla": "খালের জলের ভূতের কারণে সৃষ্ট চর্মরোগ"
+  },
+  {
+    "word_roman": "IREI",
+    "word_bangla": "ইরেই",
+    "category": "Noun",
+    "meaning_english": "Whirlpool of water",
+    "meaning_bangla": "জলের ঘূর্ণি"
+  },
+  {
+    "word_roman": "IRAU",
+    "word_bangla": "ইরাউ",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ilau",
+    "meaning_bangla": "ইলাউ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "IL",
+    "word_bangla": "-ইল",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots (i) to indicate 'purpose' or (ii) to express sense of 'on the point of'",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে 'উদ্দেশ্য' বা 'প্রায়' অর্থে"
+  },
+  {
+    "word_roman": "IL",
+    "word_bangla": "-ইল",
+    "category": "Suffix",
+    "meaning_english": "The base of the endings for the simple past tense",
+    "meaning_bangla": "সরল অতীত কালের ending-এর ভিত্তি"
+  },
+  {
+    "word_roman": "ILA",
+    "word_bangla": "ইলা",
+    "category": "Adverb",
+    "meaning_english": "A long time",
+    "meaning_bangla": "দীর্ঘ সময়"
+  },
+  {
+    "word_roman": "IL",
+    "word_bangla": "ইল",
+    "category": "Suffix",
+    "meaning_english": "The act of following",
+    "meaning_bangla": "অনুসরণ করার কাজ"
+  },
+  {
+    "word_roman": "ILANI",
+    "word_bangla": "ইলানি",
+    "category": "Noun",
+    "meaning_english": "Following",
+    "meaning_bangla": "অনুসরণ"
+  },
+  {
+    "word_roman": "-ILA",
+    "word_bangla": "-ইলা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or adjs. in the sense of (i) 'slightly' or (ii) 'having' or 'relating to'",
+    "meaning_bangla": "বিশেষ্য বা বিশেষণে যোগ করে (i) 'সামান্য' বা (ii) 'আছে' বা 'সম্পর্কিত' অর্থে"
+  },
+  {
+    "word_roman": "ILAK",
+    "word_bangla": "ইলাক",
+    "category": "Noun",
+    "meaning_english": "End, limit (lit. the end of an expanse of water)",
+    "meaning_bangla": "শেষ, সীমা (অক্ষরে জলের বিস্তারের শেষ)"
+  },
+  {
+    "word_roman": "ILAK-BILAK",
+    "word_bangla": "ইলাক-বিলাক",
+    "category": "Noun",
+    "meaning_english": "Having no limit",
+    "meaning_bangla": "সীমাহীন"
+  },
+  {
+    "word_roman": "ILAN-BILAN",
+    "word_bangla": "ইলান-বিলান",
+    "category": "Adjective",
+    "meaning_english": "An expanse of water, vast",
+    "meaning_bangla": "জলের বিস্তার, বিশাল"
+  },
+  {
+    "word_roman": "ILAN-LAN",
+    "word_bangla": "ইলান-লান",
+    "category": "Adjective",
+    "meaning_english": "Open, vacant, vast",
+    "meaning_bangla": "খোলা, খালি, বিশাল"
+  },
+  {
+    "word_roman": "ILAPHAM",
+    "word_bangla": "ইলাফাম",
+    "category": "Noun",
+    "meaning_english": "Fishing place",
+    "meaning_bangla": "মাছ ধরার স্থান"
+  },
+  {
+    "word_roman": "ILISA",
+    "word_bangla": "ইলিসা",
+    "category": "Noun",
+    "meaning_english": "Hilsa",
+    "meaning_bangla": "ইলিশ মাছ"
+  },
+  {
+    "word_roman": "-ILE",
+    "word_bangla": "-ইলে",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots to indicate a condition or precedent of an act",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে শর্ত বা পূর্বাভাস নির্দেশ করে"
+  },
+  {
+    "word_roman": "ILEI-LEI",
+    "word_bangla": "ইলেই-লেই",
+    "category": "Noun",
+    "meaning_english": "(i) The act of treating with contempt or neglect (ii) Neglected, contemptible, negligible",
+    "meaning_bangla": "(i) অবজ্ঞা বা অবহেলা করার কাজ (ii) অবহেলিত, তুচ্ছ"
+  },
+  {
+    "word_roman": "ILEK",
+    "word_bangla": "ইলেক",
+    "category": "Noun",
+    "meaning_english": "(i) An arithmetical symbol affixed to numerical figures to indicate money or weight (ii) A particle, the least amount",
+    "meaning_bangla": "(i) টাকা বা ওজন নির্দেশক চিহ্ন (ii) কণিকা, সামান্য পরিমাণ"
+  },
+  {
+    "word_roman": "ILO",
+    "word_bangla": "ইলো",
+    "category": "Noun",
+    "meaning_english": "Contracted form of ailo",
+    "meaning_bangla": "আইলো-এর সংক্ষিপ্ত রূপ"
+  },
+  {
+    "word_roman": "ILAU",
+    "word_bangla": "ইলাউ",
+    "category": "Noun",
+    "meaning_english": "Cry",
+    "meaning_bangla": "কান্না"
+  },
+  {
+    "word_roman": "ILKAM",
+    "word_bangla": "ইলকা(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Movement, oscillation (ii) The act of waving, billowing",
+    "meaning_bangla": "(i) গতি, দোলা (ii) হিল্লোল, উড়ানো"
+  },
+  {
+    "word_roman": "ILKA",
+    "word_bangla": "ইলকা",
+    "category": "Verb",
+    "meaning_english": "(i) To move, to oscillate (ii) To wave, to billow",
+    "meaning_bangla": "(i) চলা, দোলা (ii) হিল্লোল করা, উড়ানো"
+  },
+  {
+    "word_roman": "ILKANIM",
+    "word_bangla": "ইলকানি(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Moving, oscillating (ii) Waving, billowing",
+    "meaning_bangla": "(i) চলমান, দোলায়মান (ii) হিল্লোল, উড়ানো"
+  },
+  {
+    "word_roman": "ILTUMTUM",
+    "word_bangla": "ইলতুমতুম",
+    "category": "Adjective",
+    "meaning_english": "Alt. form of itumtum",
+    "meaning_bangla": "ইতুমতুম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ISTIKUTUM",
+    "word_bangla": "ইস্তিকুতুম",
+    "category": "Noun",
+    "meaning_english": "Relatives",
+    "meaning_bangla": "আত্মীয়-স্বজন"
+  },
+  {
+    "word_roman": "IS",
+    "word_bangla": "ইস",
+    "category": "Noun",
+    "meaning_english": "The pole of a plough",
+    "meaning_bangla": "লাঙ্গলের খুঁটি"
+  },
+  {
+    "word_roman": "IS",
+    "word_bangla": "ইস",
+    "category": "Interjection",
+    "meaning_english": "An interjection expressing surprise, regret, vexation, aversion etc.",
+    "meaning_bangla": "আশ্চর্য, অনুতাপ, বিরক্তি, ঘৃণা ইত্যাদি প্রকাশক শব্দ"
+  },
+  {
+    "word_roman": "ISAN",
+    "word_bangla": "ইসান",
+    "category": "Noun",
+    "meaning_english": "Alt. form of ican",
+    "meaning_bangla": "ইচান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "ISA",
+    "word_bangla": "ইসা",
+    "category": "Adjective",
+    "meaning_english": "(i) Satisfied, joyful (ii) Satisfaction, joy",
+    "meaning_bangla": "(i) সন্তুষ্ট, আনন্দিত (ii) সন্তুষ্টি, আনন্দ"
+  },
+  {
+    "word_roman": "ISAN",
+    "word_bangla": "ইসান",
+    "category": "Noun",
+    "meaning_english": "Moss",
+    "meaning_bangla": "শৈবাল"
+  },
+  {
+    "word_roman": "ISANSAN",
+    "word_bangla": "ইসানসান",
+    "category": "Adjective",
+    "meaning_english": "Open, vacant",
+    "meaning_bangla": "খোলা, খালি"
+  },
+  {
+    "word_roman": "ISANI",
+    "word_bangla": "ইসানি",
+    "category": "Noun",
+    "meaning_english": "Agreeing",
+    "meaning_bangla": "সম্মতি"
+  },
+  {
+    "word_roman": "ISARALPA",
+    "word_bangla": "ইসারালপা",
+    "category": "Noun",
+    "meaning_english": "Hint, sign",
+    "meaning_bangla": "ইঙ্গিত, চিহ্ন"
+  },
+  {
+    "word_roman": "ISALPA",
+    "word_bangla": "ইসালপা",
+    "category": "Noun",
+    "meaning_english": "Songster",
+    "meaning_bangla": "গায়ক"
+  },
+  {
+    "word_roman": "ISU",
+    "word_bangla": "ইসু",
+    "category": "Noun",
+    "meaning_english": "(My) grandson",
+    "meaning_bangla": "আমার নাতি"
+  },
+  {
+    "word_roman": "ISUWALA",
+    "word_bangla": "ইসুয়ালা",
+    "category": "Noun",
+    "meaning_english": "Caus. fr. is-",
+    "meaning_bangla": "ইস্-এর কারণাত্মক রূপ"
+  },
+  {
+    "word_roman": "ISEL",
+    "word_bangla": "ইসেল",
+    "category": "Noun",
+    "meaning_english": "Address to younger sister's husband, address to wife's younger brother",
+    "meaning_bangla": "ছোট বোনের স্বামী বা স্ত্রীর ছোট ভাইকে সম্বোধন"
+  },
+  {
+    "word_roman": "ISKRUP",
+    "word_bangla": "ইস্ক্রুপ",
+    "category": "Noun",
+    "meaning_english": "Screw",
+    "meaning_bangla": "স্ক্রু"
+  },
+  {
+    "word_roman": "ISTARI",
+    "word_bangla": "ইস্তারি",
+    "category": "Noun",
+    "meaning_english": "Smoothing iron",
+    "meaning_bangla": "ইস্ত্রি"
+  },
+  {
+    "word_roman": "ISTIBAD",
+    "word_bangla": "ইস্তিবাদ",
+    "category": "Noun",
+    "meaning_english": "Resignation",
+    "meaning_bangla": "পদত্যাগ"
+  },
+  {
+    "word_roman": "ISPAT",
+    "word_bangla": "ইস্পাত",
+    "category": "Noun",
+    "meaning_english": "Steel",
+    "meaning_bangla": "ইস্পাত"
+  },
+  {
+    "word_roman": "ISMALIK",
+    "word_bangla": "ইসমালিক",
+    "category": "Adjective",
+    "meaning_english": "Jointly possessed",
+    "meaning_bangla": "যৌথভাবে অধিকৃত"
+  },
+  {
+    "word_roman": "IHTUT",
+    "word_bangla": "ইহতুত",
+    "category": "Verb",
+    "meaning_english": "Current, wave, force",
+    "meaning_bangla": "স্রোত, ঢেউ, শক্তি"
+  },
+  {
+    "word_roman": "-U",
+    "word_bangla": "-উ",
+    "category": "Suffix",
+    "meaning_english": "An ending for the first person singular present tense",
+    "meaning_bangla": "প্রথম পুরুষ একবচন বর্তমান কালের ending"
+  },
+  {
+    "word_roman": "UIM",
+    "word_bangla": "উই(ম)",
+    "category": "Verb",
+    "meaning_english": "To be",
+    "meaning_bangla": "হওয়া"
+  },
+  {
+    "word_roman": "UI",
+    "word_bangla": "উই",
+    "category": "Noun",
+    "meaning_english": "Rivet",
+    "meaning_bangla": "রিভেট"
+  },
+  {
+    "word_roman": "UINA(M)",
+    "word_bangla": "উইনা(ম)",
+    "category": "Noun",
+    "meaning_english": "Being",
+    "meaning_bangla": "হওয়া"
+  },
+  {
+    "word_roman": "UINAI",
+    "word_bangla": "উইনাই",
+    "category": "Noun",
+    "meaning_english": "Remainings of food",
+    "meaning_bangla": "খাবারের অবশিষ্টাংশ"
+  },
+  {
+    "word_roman": "UKAT",
+    "word_bangla": "উকাট",
+    "category": "Noun",
+    "meaning_english": "A pole used to stir straw for separating paddy",
+    "meaning_bangla": "ধান আলাদা করার জন্য খড় নাড়ার খুঁটি"
+  },
+  {
+    "word_roman": "-UKA",
+    "word_bangla": "-উকা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or adjs. to indicate 'likeness'",
+    "meaning_bangla": "বিশেষ্য বা বিশেষণে যোগ করে 'এর মতো' নির্দেশ করে"
+  },
+  {
+    "word_roman": "UKA",
+    "word_bangla": "উকা",
+    "category": "Noun",
+    "meaning_english": "The Y-shaped part of a plough to which bamboo-poles are fitted",
+    "meaning_bangla": "লাঙ্গলের Y-আকৃতির অংশ যাতে বাঁশের খুঁটি লাগানো হয়"
+  },
+  {
+    "word_roman": "UKAPI",
+    "word_bangla": "উকাপি",
+    "category": "Noun",
+    "meaning_english": "A kind of fish",
+    "meaning_bangla": "এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "UKAR",
+    "word_bangla": "উকার",
+    "category": "Noun",
+    "meaning_english": "A small shed, usually with a high platform, made on the paddy-field and meant for the night-guard",
+    "meaning_bangla": "ধানক্ষেতে রাত্রির পাহারার জন্য উঁচু প্ল্যাটফর্মযুক্ত ছোট ঘর"
+  },
+  {
+    "word_roman": "UKALATI",
+    "word_bangla": "উকালতি",
+    "category": "Noun",
+    "meaning_english": "Pleader-ship",
+    "meaning_bangla": "উকিলি"
+  },
+  {
+    "word_roman": "UKIL",
+    "word_bangla": "উকিল",
+    "category": "Noun",
+    "meaning_english": "Pleader",
+    "meaning_bangla": "উকিল"
+  },
+  {
+    "word_roman": "UKEI",
+    "word_bangla": "উকেই",
+    "category": "Noun",
+    "meaning_english": "Harrow",
+    "meaning_bangla": "হ্যারো (জমি সমান করার যন্ত্র)"
+  },
+  {
+    "word_roman": "UKHAT(M)",
+    "word_bangla": "উখাত(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ukat",
+    "meaning_bangla": "উকাট-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UGAR",
+    "word_bangla": "উগার",
+    "category": "Noun",
+    "meaning_english": "Belching",
+    "meaning_bangla": "ঢেকুর"
+  },
+  {
+    "word_roman": "UGARANI",
+    "word_bangla": "উগারানি",
+    "category": "Noun",
+    "meaning_english": "Belching, expressing",
+    "meaning_bangla": "ঢেকুর তোলা, প্রকাশ করা"
+  },
+  {
+    "word_roman": "UN",
+    "word_bangla": "উন",
+    "category": "Adjective",
+    "meaning_english": "Perplexed",
+    "meaning_bangla": "বিহ্বল"
+  },
+  {
+    "word_roman": "UNAPA",
+    "word_bangla": "উনাপা",
+    "category": "Adjective",
+    "meaning_english": "Perplexed",
+    "meaning_bangla": "বিহ্বল"
+  },
+  {
+    "word_roman": "UNKHAT",
+    "word_bangla": "উনখাত",
+    "category": "Noun",
+    "meaning_english": "Perplexity",
+    "meaning_bangla": "বিহ্বলতা"
+  },
+  {
+    "word_roman": "UGNA",
+    "word_bangla": "উগনা",
+    "category": "Verb",
+    "meaning_english": "To doze, to nod",
+    "meaning_bangla": "তন্দ্রা আসা, মাথা নাড়া"
+  },
+  {
+    "word_roman": "UGANI",
+    "word_bangla": "উগানি",
+    "category": "Noun",
+    "meaning_english": "Nodding",
+    "meaning_bangla": "মাথা নাড়া"
+  },
+  {
+    "word_roman": "UC",
+    "word_bangla": "উচ",
+    "category": "Adjective",
+    "meaning_english": "High",
+    "meaning_bangla": "উঁচু"
+  },
+  {
+    "word_roman": "UCAN(M)",
+    "word_bangla": "উচান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of usal",
+    "meaning_bangla": "উসাল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UCIT(A)",
+    "word_bangla": "উচিত(আ)",
+    "category": "Adjective",
+    "meaning_english": "Just, proper, reasonable",
+    "meaning_bangla": "উচিত, যথাযথ, যুক্তিযুক্ত"
+  },
+  {
+    "word_roman": "UCIT-DUMAM(M)",
+    "word_bangla": "উচিত-দুমাম(ম)",
+    "category": "Adverb",
+    "meaning_english": "Proportionately, as required, befitting",
+    "meaning_bangla": "অনুপাতে, প্রয়োজন অনুসারে, যথাযথ"
+  },
+  {
+    "word_roman": "UCIL(M)",
+    "word_bangla": "উচিল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of usil",
+    "meaning_bangla": "উসিল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UCUK",
+    "word_bangla": "উচুক",
+    "category": "Noun",
+    "meaning_english": "Spigot, post",
+    "meaning_bangla": "স্পিগট, খুঁটি"
+  },
+  {
+    "word_roman": "UCUP",
+    "word_bangla": "উচুপ",
+    "category": "Noun",
+    "meaning_english": "A piece of wood or bamboo used for tightening something",
+    "meaning_bangla": "কোনো কিছু শক্ত করার জন্য ব্যবহৃত কাঠ বা বাঁশের টুকরো"
+  },
+  {
+    "word_roman": "UCEL",
+    "word_bangla": "উচেল",
+    "category": "Noun",
+    "meaning_english": "A frame of wood or bamboo",
+    "meaning_bangla": "কাঠ বা বাঁশের ফ্রেম"
+  },
+  {
+    "word_roman": "UCCIL-NACCIL",
+    "word_bangla": "উচ্চিল-নচ্চিল",
+    "category": "Adjective",
+    "meaning_english": "Narrow",
+    "meaning_bangla": "সরু"
+  },
+  {
+    "word_roman": "UCCU",
+    "word_bangla": "উচ্চু",
+    "category": "Adjective",
+    "meaning_english": "Straight",
+    "meaning_bangla": "সোজা"
+  },
+  {
+    "word_roman": "UCCEL",
+    "word_bangla": "উচ্চেল",
+    "category": "Noun",
+    "meaning_english": "Suitability",
+    "meaning_bangla": "উপযুক্ততা"
+  },
+  {
+    "word_roman": "UCCHAP",
+    "word_bangla": "উচ্ছাপ",
+    "category": "Noun",
+    "meaning_english": "Festival",
+    "meaning_bangla": "উৎসব"
+  },
+  {
+    "word_roman": "UCH",
+    "word_bangla": "উচ",
+    "category": "Verb",
+    "meaning_english": "To brush off (as grass)",
+    "meaning_bangla": "ঝাড়া (ঘাসের মতো)"
+  },
+  {
+    "word_roman": "UCHAK(M)",
+    "word_bangla": "উচাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Contempt, negligence",
+    "meaning_bangla": "অবজ্ঞা, অবহেলা"
+  },
+  {
+    "word_roman": "UCHAK-JANGAL",
+    "word_bangla": "উচাক-জঙ্গল",
+    "category": "Noun",
+    "meaning_english": "Deep forest",
+    "meaning_bangla": "গভীর জঙ্গল"
+  },
+  {
+    "word_roman": "UCHANI",
+    "word_bangla": "উচানি",
+    "category": "Noun",
+    "meaning_english": "Brushing off (as grass)",
+    "meaning_bangla": "ঝাড়া (ঘাসের মতো)"
+  },
+  {
+    "word_roman": "UCHALA",
+    "word_bangla": "উচালা",
+    "category": "Verb",
+    "meaning_english": "To provoke, to gush up",
+    "meaning_bangla": "উত্তেজিত করা, উথলে ওঠা"
+  },
+  {
+    "word_roman": "UCHALANI",
+    "word_bangla": "উচালানি",
+    "category": "Noun",
+    "meaning_english": "Provoking",
+    "meaning_bangla": "উত্তেজনা করা"
+  },
+  {
+    "word_roman": "UCHI",
+    "word_bangla": "উচি",
+    "category": "Noun",
+    "meaning_english": "Remains of meal",
+    "meaning_bangla": "খাবারের অবশিষ্ট"
+  },
+  {
+    "word_roman": "UCHIL(M)",
+    "word_bangla": "উচিল(ম)",
+    "category": "Verb",
+    "meaning_english": "To wrench",
+    "meaning_bangla": "মোচড়ানো"
+  },
+  {
+    "word_roman": "UCHILANI(M)",
+    "word_bangla": "উচিলানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Wrenching",
+    "meaning_bangla": "মোচড়ানো"
+  },
+  {
+    "word_roman": "UCHTA",
+    "word_bangla": "উচটা",
+    "category": "Noun",
+    "meaning_english": "Stumbling",
+    "meaning_bangla": "হোঁচট খাওয়া"
+  },
+  {
+    "word_roman": "UCHTA",
+    "word_bangla": "উচটা",
+    "category": "Verb",
+    "meaning_english": "To kick",
+    "meaning_bangla": "লাথি মারা"
+  },
+  {
+    "word_roman": "UCHTANI",
+    "word_bangla": "উচতানি",
+    "category": "Noun",
+    "meaning_english": "Kicking",
+    "meaning_bangla": "লাথি মারা"
+  },
+  {
+    "word_roman": "UJAN",
+    "word_bangla": "উজান",
+    "category": "Noun",
+    "meaning_english": "Weight",
+    "meaning_bangla": "ওজন"
+  },
+  {
+    "word_roman": "UJA",
+    "word_bangla": "উজা",
+    "category": "Verb",
+    "meaning_english": "To go upstream",
+    "meaning_bangla": "উজানে যাওয়া"
+  },
+  {
+    "word_roman": "UJAUJI",
+    "word_bangla": "উজাউজি",
+    "category": "Noun",
+    "meaning_english": "The act of arguing face to face with arrogance",
+    "meaning_bangla": "অহংকার করে মুখোমুখি তর্ক করা"
+  },
+  {
+    "word_roman": "UJANI",
+    "word_bangla": "উজানি",
+    "category": "Noun",
+    "meaning_english": "Up-stream",
+    "meaning_bangla": "উজান"
+  },
+  {
+    "word_roman": "UJANI",
+    "word_bangla": "উজানি",
+    "category": "Noun",
+    "meaning_english": "Going upstream",
+    "meaning_bangla": "উজানে যাওয়া"
+  },
+  {
+    "word_roman": "UJUR",
+    "word_bangla": "উজুর",
+    "category": "Verb",
+    "meaning_english": "To wrench, to insult severely",
+    "meaning_bangla": "মোচড়ানো, কঠোর অপমান করা"
+  },
+  {
+    "word_roman": "UJJ",
+    "word_bangla": "উজ্জ",
+    "category": "Verb",
+    "meaning_english": "(i) To be present (ii) To be compensated",
+    "meaning_bangla": "(i) উপস্থিত হওয়া (ii) ক্ষতিপূরণ পাওয়া"
+  },
+  {
+    "word_roman": "UJJA",
+    "word_bangla": "উজ্জা",
+    "category": "Verb",
+    "meaning_english": "(i) To produce (ii) To compensate",
+    "meaning_bangla": "(i) উৎপাদন করা (ii) ক্ষতিপূরণ দেওয়া"
+  },
+  {
+    "word_roman": "UJANI",
+    "word_bangla": "উজানি",
+    "category": "Noun",
+    "meaning_english": "Being present, produced, compensated",
+    "meaning_bangla": "উপস্থিতি, উৎপাদন, ক্ষতিপূরণ"
+  },
+  {
+    "word_roman": "UJJAR",
+    "word_bangla": "উজ্জার",
+    "category": "Adjective",
+    "meaning_english": "Empty, exhausted, desolate",
+    "meaning_bangla": "খালি, ক্লান্ত, নির্জন"
+  },
+  {
+    "word_roman": "UJUJU",
+    "word_bangla": "উজুজু",
+    "category": "Adjective",
+    "meaning_english": "Straight",
+    "meaning_bangla": "সোজা"
+  },
+  {
+    "word_roman": "UT",
+    "word_bangla": "উট",
+    "category": "Noun",
+    "meaning_english": "Camel",
+    "meaning_bangla": "উট"
+  },
+  {
+    "word_roman": "UT",
+    "word_bangla": "উট",
+    "category": "Verb",
+    "meaning_english": "To stir (as a food)",
+    "meaning_bangla": "নাড়া (খাবারের মতো)"
+  },
+  {
+    "word_roman": "UTAN",
+    "word_bangla": "উতান",
+    "category": "Noun",
+    "meaning_english": "Bamboo-pipe",
+    "meaning_bangla": "বাঁশের পাইপ"
+  },
+  {
+    "word_roman": "UTAN PATAN",
+    "word_bangla": "উতান পাতান",
+    "category": "Noun",
+    "meaning_english": "The act of keeping things or putting ideas topsy-turvy or disorderly",
+    "meaning_bangla": "জিনিসপত্র বা চিন্তা উল্টোপাল্টা রাখা"
+  },
+  {
+    "word_roman": "-UTI",
+    "word_bangla": "-উটি",
+    "category": "Suffix",
+    "meaning_english": "A phonetic change of -ati",
+    "meaning_bangla": "-আটি-এর ধ্বনিগত পরিবর্তন"
+  },
+  {
+    "word_roman": "UTPAT",
+    "word_bangla": "উৎপাত",
+    "category": "Noun",
+    "meaning_english": "Violence, destruction",
+    "meaning_bangla": "হিংসা, ধ্বংস"
+  },
+  {
+    "word_roman": "UTH(M-UTH)",
+    "word_bangla": "উঠ(ম-উঠ)",
+    "category": "Verb",
+    "meaning_english": "To rise, to get up",
+    "meaning_bangla": "উঠা"
+  },
+  {
+    "word_roman": "UTHA(M-UTHA)",
+    "word_bangla": "উঠা(ম-উঠা)",
+    "category": "Verb",
+    "meaning_english": "To raise",
+    "meaning_bangla": "উঠানো"
+  },
+  {
+    "word_roman": "UTHAN",
+    "word_bangla": "উঠান",
+    "category": "Noun",
+    "meaning_english": "Yard, courtyard",
+    "meaning_bangla": "উঠান"
+  },
+  {
+    "word_roman": "UTHANI(M-UTH)",
+    "word_bangla": "উঠানি(ম-উঠ)",
+    "category": "Noun",
+    "meaning_english": "(i) Rising (ii) Raising",
+    "meaning_bangla": "(i) উঠা (ii) উঠানো"
+  },
+  {
+    "word_roman": "UTHUNI(M-uth)",
+    "word_bangla": "উঠুনি(ম-উঠ)",
+    "category": "Noun",
+    "meaning_english": "In the stage of increasing or growing",
+    "meaning_bangla": "বাড়তে থাকার পর্যায়ে"
+  },
+  {
+    "word_roman": "UT",
+    "word_bangla": "উট",
+    "category": "Noun",
+    "meaning_english": "Otter",
+    "meaning_bangla": "উদ বা জলছড়া"
+  },
+  {
+    "word_roman": "UTAP",
+    "word_bangla": "উতাপ",
+    "category": "Noun",
+    "meaning_english": "A piece of wood used for fitting something",
+    "meaning_bangla": "কোনো কিছু লাগানোর জন্য কাঠের টুকরো"
+  },
+  {
+    "word_roman": "UTARA",
+    "word_bangla": "উতারা",
+    "category": "Verb",
+    "meaning_english": "To speak, to express",
+    "meaning_bangla": "কথা বলা, প্রকাশ করা"
+  },
+  {
+    "word_roman": "UTARANI",
+    "word_bangla": "উতারানি",
+    "category": "Noun",
+    "meaning_english": "Speaking, expressing",
+    "meaning_bangla": "কথা বলা, প্রকাশ"
+  },
+  {
+    "word_roman": "UTI",
+    "word_bangla": "উতি",
+    "category": "Noun",
+    "meaning_english": "Reason",
+    "meaning_bangla": "কারণ"
+  },
+  {
+    "word_roman": "UTUP",
+    "word_bangla": "উতুপ",
+    "category": "Noun",
+    "meaning_english": "Log",
+    "meaning_bangla": "লগ (কাঠের টুকরো)"
+  },
+  {
+    "word_roman": "UTON(M)",
+    "word_bangla": "উতোন(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of utan",
+    "meaning_bangla": "উতান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UTKHARI",
+    "word_bangla": "উতখারি",
+    "category": "Adjective",
+    "meaning_english": "Destitute, utterly poor",
+    "meaning_bangla": "নিঃস্ব, অত্যন্ত দরিদ্র"
+  },
+  {
+    "word_roman": "UTTHUL",
+    "word_bangla": "উত্থুল",
+    "category": "Noun",
+    "meaning_english": "Dust",
+    "meaning_bangla": "ধুলো"
   }
 ]
