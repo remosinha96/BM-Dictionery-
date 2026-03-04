@@ -5479,5 +5479,761 @@
     "category": "Noun",
     "meaning_english": "Dust",
     "meaning_bangla": "ধুলো"
+  },
+  {
+    "word_roman": "UTPHET-NATPHET(M)",
+    "word_bangla": "উতফেত-নতফেত(ম)",
+    "category": "Adverb",
+    "meaning_english": "This way and that way",
+    "meaning_bangla": "এদিক-ওদিক"
+  },
+  {
+    "word_roman": "UTHUNI(M)",
+    "word_bangla": "উঠুনি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of uhuni",
+    "meaning_bangla": "উহুনি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UTHUL(M)",
+    "word_bangla": "উঠুল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of uhul",
+    "meaning_bangla": "উহুল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UTHULANI(M)",
+    "word_bangla": "উঠুলানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of uhulani",
+    "meaning_bangla": "উহুলানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UDA(M)",
+    "word_bangla": "উদা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ura",
+    "meaning_bangla": "উরা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UDA",
+    "word_bangla": "উদা",
+    "category": "Noun",
+    "meaning_english": "Friend",
+    "meaning_bangla": "বন্ধু"
+  },
+  {
+    "word_roman": "UDAK",
+    "word_bangla": "উদাক",
+    "category": "Noun",
+    "meaning_english": "Related as a friend",
+    "meaning_bangla": "বন্ধুর মতো সম্পর্কিত"
+  },
+  {
+    "word_roman": "UDANI(M)",
+    "word_bangla": "উদানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of urani",
+    "meaning_bangla": "উরানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UDAM",
+    "word_bangla": "উদাম",
+    "category": "Noun",
+    "meaning_english": "The time when there is no paddy in the field, hence domestic animals are set free",
+    "meaning_bangla": "ধানক্ষেতে ধান না থাকার সময়, যখন গৃহপালিত পশু মুক্ত করা হয়"
+  },
+  {
+    "word_roman": "UDAMI",
+    "word_bangla": "উদামি",
+    "category": "Adjective",
+    "meaning_english": "Unfettered (animal)",
+    "meaning_bangla": "মুক্ত (পশু)"
+  },
+  {
+    "word_roman": "UDAK",
+    "word_bangla": "উদাক",
+    "category": "Noun",
+    "meaning_english": "(i) Loan (ii) Taken as loan",
+    "meaning_bangla": "(i) ঋণ (ii) ঋণ নেওয়া"
+  },
+  {
+    "word_roman": "UDAD",
+    "word_bangla": "উদাদ",
+    "category": "Noun",
+    "meaning_english": "Fire-place, furnace",
+    "meaning_bangla": "চুলা, ভাটি"
+  },
+  {
+    "word_roman": "UDALA",
+    "word_bangla": "উদালা",
+    "category": "Adjective",
+    "meaning_english": "Bare, naked",
+    "meaning_bangla": "খালি, নগ্ন"
+  },
+  {
+    "word_roman": "UDALA",
+    "word_bangla": "উদালা",
+    "category": "Verb",
+    "meaning_english": "To uproot, to pull out, to loosen",
+    "meaning_bangla": "উপড়ানো, টেনে বের করা, আলগা করা"
+  },
+  {
+    "word_roman": "UDALANI",
+    "word_bangla": "উদালানি",
+    "category": "Noun",
+    "meaning_english": "Uprooting, pulling out",
+    "meaning_bangla": "উপড়ানো, টেনে বের করা"
+  },
+  {
+    "word_roman": "UDUBUDU(M)",
+    "word_bangla": "উদুবুদু(ম)",
+    "category": "Noun",
+    "meaning_english": "A large species of owl",
+    "meaning_bangla": "এক প্রজাতির বড় পেঁচা"
+  },
+  {
+    "word_roman": "UDUM-DUDUM",
+    "word_bangla": "উদুম-দুদুম",
+    "category": "Noun",
+    "meaning_english": "Loud uproar, fuss",
+    "meaning_bangla": "জোরে হইচই, হট্টগোল"
+  },
+  {
+    "word_roman": "UDUR",
+    "word_bangla": "উদুর",
+    "category": "Noun",
+    "meaning_english": "Mouse",
+    "meaning_bangla": "ইঁদুর"
+  },
+  {
+    "word_roman": "UDUL",
+    "word_bangla": "উদুল",
+    "category": "Verb",
+    "meaning_english": "To be uprooted, to be pulled out, to become loosened",
+    "meaning_bangla": "উপড়ে যাওয়া, টেনে বের হওয়া, আলগা হওয়া"
+  },
+  {
+    "word_roman": "UDULANI",
+    "word_bangla": "উদুলানি",
+    "category": "Noun",
+    "meaning_english": "Being uprooted",
+    "meaning_bangla": "উপড়ে যাওয়া"
+  },
+  {
+    "word_roman": "UDUKHAL(A)",
+    "word_bangla": "উদুখল(আ)",
+    "category": "Noun",
+    "meaning_english": "A dance-drama relating to the story of Yaśodā's binding Kṛṣṇa to a husking mortar",
+    "meaning_bangla": "যশোদার কৃষ্ণকে উদুখলে বাঁধার গল্প সম্পর্কিত নৃত্য-নাটক"
+  },
+  {
+    "word_roman": "UDGAR(A)",
+    "word_bangla": "উদগার(আ)",
+    "category": "Noun",
+    "meaning_english": "Belch, eructation",
+    "meaning_bangla": "ঢেকুর"
+  },
+  {
+    "word_roman": "UDDA",
+    "word_bangla": "উদ্দা",
+    "category": "Noun",
+    "meaning_english": "Title, high position",
+    "meaning_bangla": "উপাধি, উচ্চ পদ"
+  },
+  {
+    "word_roman": "UDDASI",
+    "word_bangla": "উদ্দাসি",
+    "category": "Adjective",
+    "meaning_english": "Penniless",
+    "meaning_bangla": "নিঃস্ব"
+  },
+  {
+    "word_roman": "UNA",
+    "word_bangla": "উনা",
+    "category": "Noun",
+    "meaning_english": "Meeting, interview",
+    "meaning_bangla": "সাক্ষাৎ, সাক্ষাৎকার"
+  },
+  {
+    "word_roman": "UNAK(M)",
+    "word_bangla": "উনাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of anlak",
+    "meaning_bangla": "আনলাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UNAM",
+    "word_bangla": "উনাম",
+    "category": "Noun",
+    "meaning_english": "Stamp",
+    "meaning_bangla": "স্ট্যাম্প"
+  },
+  {
+    "word_roman": "-UNI",
+    "word_bangla": "-উনি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added (i) in the sense of 'giving mass growth of' or (ii) in a pleon. sense",
+    "meaning_bangla": "যোগ করে 'ব্যাপক বৃদ্ধি দেওয়া' বা pleonastic অর্থে"
+  },
+  {
+    "word_roman": "-UNI",
+    "word_bangla": "-উনি",
+    "category": "Suffix",
+    "meaning_english": "A phonetic change of -uni",
+    "meaning_bangla": "-উনি-এর ধ্বনিগত পরিবর্তন"
+  },
+  {
+    "word_roman": "UNI",
+    "word_bangla": "উনি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of uni",
+    "meaning_bangla": "উনি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UNINTHAU",
+    "word_bangla": "উনিন্থাউ",
+    "category": "Noun",
+    "meaning_english": "A kind of tree",
+    "meaning_bangla": "এক ধরনের গাছ"
+  },
+  {
+    "word_roman": "UNAU",
+    "word_bangla": "উনাউ",
+    "category": "Noun",
+    "meaning_english": "Young plant or grass",
+    "meaning_bangla": "তরুণ গাছ বা ঘাস"
+  },
+  {
+    "word_roman": "UNDUR-KHAURA",
+    "word_bangla": "উন্দুর-খাউরা",
+    "category": "Noun",
+    "meaning_english": "A kind of snake (lit. mouse-eater)",
+    "meaning_bangla": "এক ধরনের সাপ (অক্ষরে ইঁদুর-খেকো)"
+  },
+  {
+    "word_roman": "UNDURA",
+    "word_bangla": "উন্দুরা",
+    "category": "Noun",
+    "meaning_english": "A disease, gangrene",
+    "meaning_bangla": "এক রোগ, গ্যাঙ্গরিন"
+  },
+  {
+    "word_roman": "UP",
+    "word_bangla": "উপ",
+    "category": "Noun",
+    "meaning_english": "The act of understanding",
+    "meaning_bangla": "বোঝার কাজ"
+  },
+  {
+    "word_roman": "-ANI",
+    "word_bangla": "-আনি",
+    "category": "Suffix",
+    "meaning_english": "Understanding",
+    "meaning_bangla": "বোঝা"
+  },
+  {
+    "word_roman": "UPAR",
+    "word_bangla": "উপর",
+    "category": "Adverb",
+    "meaning_english": "(i) Above, addition (ii) Profit",
+    "meaning_bangla": "(i) উপরে, অতিরিক্ত (ii) লাভ"
+  },
+  {
+    "word_roman": "UPAR-TI",
+    "word_bangla": "উপর-তি",
+    "category": "Adjective",
+    "meaning_english": "Additional",
+    "meaning_bangla": "অতিরিক্ত"
+  },
+  {
+    "word_roman": "UPARI",
+    "word_bangla": "উপরি",
+    "category": "Adjective",
+    "meaning_english": "(i) Relating to the surface (ii) Additional",
+    "meaning_bangla": "(i) পৃষ্ঠ সম্পর্কিত (ii) অতিরিক্ত"
+  },
+  {
+    "word_roman": "UPALABHA",
+    "word_bangla": "উপলভ",
+    "category": "Noun",
+    "meaning_english": "An ornamental episode",
+    "meaning_bangla": "অলংকারমূলক অংশ"
+  },
+  {
+    "word_roman": "UPAK",
+    "word_bangla": "উপাক",
+    "category": "Noun",
+    "meaning_english": "Plank",
+    "meaning_bangla": "তক্তা"
+  },
+  {
+    "word_roman": "UPARA-UPARI",
+    "word_bangla": "উপরা-উপরি",
+    "category": "Adverb",
+    "meaning_english": "One over another",
+    "meaning_bangla": "একের উপর এক"
+  },
+  {
+    "word_roman": "UPARARI",
+    "word_bangla": "উপরারি",
+    "category": "Noun",
+    "meaning_english": "Bowl of a hooka",
+    "meaning_bangla": "হুক্কার বাটি"
+  },
+  {
+    "word_roman": "UPARA",
+    "word_bangla": "উপারা",
+    "category": "Verb",
+    "meaning_english": "To uproot",
+    "meaning_bangla": "উপড়ানো"
+  },
+  {
+    "word_roman": "UPARANI",
+    "word_bangla": "উপারানি",
+    "category": "Noun",
+    "meaning_english": "Uprooting, pulling out",
+    "meaning_bangla": "উপড়ানো, টেনে বের করা"
+  },
+  {
+    "word_roman": "UPAS",
+    "word_bangla": "উপাস",
+    "category": "Noun",
+    "meaning_english": "Fasting",
+    "meaning_bangla": "উপবাস"
+  },
+  {
+    "word_roman": "UPUPU",
+    "word_bangla": "উপুপু",
+    "category": "Noun",
+    "meaning_english": "Wooden box",
+    "meaning_bangla": "কাঠের বাক্স"
+  },
+  {
+    "word_roman": "UPJ",
+    "word_bangla": "উপজ",
+    "category": "Verb",
+    "meaning_english": "(i) To be present (ii) To be compensated",
+    "meaning_bangla": "(i) উপস্থিত হওয়া (ii) ক্ষতিপূরণ পাওয়া"
+  },
+  {
+    "word_roman": "UPJA",
+    "word_bangla": "উপজা",
+    "category": "Verb",
+    "meaning_english": "(i) To bring (ii) To compensate",
+    "meaning_bangla": "(i) আনা (ii) ক্ষতিপূরণ দেওয়া"
+  },
+  {
+    "word_roman": "UPJANI",
+    "word_bangla": "উপজানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being compensated, being present (ii) Compensating, making up",
+    "meaning_bangla": "(i) ক্ষতিপূরণ পাওয়া, উপস্থিত হওয়া (ii) ক্ষতিপূরণ দেওয়া, পূরণ করা"
+  },
+  {
+    "word_roman": "UPHAL",
+    "word_bangla": "উফাল",
+    "category": "Noun",
+    "meaning_english": "A kind of fish",
+    "meaning_bangla": "এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "UBA",
+    "word_bangla": "উবা",
+    "category": "Adjective",
+    "meaning_english": "Erect, standing",
+    "meaning_bangla": "সোজা, দাঁড়ানো"
+  },
+  {
+    "word_roman": "-DENA",
+    "word_bangla": "-দেনা",
+    "category": "Suffix",
+    "meaning_english": "Accompanying",
+    "meaning_bangla": "সঙ্গে থাকা"
+  },
+  {
+    "word_roman": "UBA-UCAN",
+    "word_bangla": "উবা-উচান",
+    "category": "Adjective",
+    "meaning_english": "Straight and without any beauty",
+    "meaning_bangla": "সোজা কিন্তু সৌন্দর্যহীন"
+  },
+  {
+    "word_roman": "UBURI",
+    "word_bangla": "উবুরি",
+    "category": "Adjective",
+    "meaning_english": "Prostrate",
+    "meaning_bangla": "উপুড়"
+  },
+  {
+    "word_roman": "UBHI",
+    "word_bangla": "উভি",
+    "category": "Noun",
+    "meaning_english": "Height, depth",
+    "meaning_bangla": "উচ্চতা, গভীরতা"
+  },
+  {
+    "word_roman": "UM",
+    "word_bangla": "উম",
+    "category": "Noun",
+    "meaning_english": "Warmth",
+    "meaning_bangla": "উষ্ণতা"
+  },
+  {
+    "word_roman": "UM",
+    "word_bangla": "উম",
+    "category": "Noun",
+    "meaning_english": "The act of confining (generally to the mouth)",
+    "meaning_bangla": "বন্দী করার কাজ (সাধারণত মুখে)"
+  },
+  {
+    "word_roman": "UM",
+    "word_bangla": "উম",
+    "category": "Noun",
+    "meaning_english": "Confining to the mouth",
+    "meaning_bangla": "মুখে বন্দী করা"
+  },
+  {
+    "word_roman": "UM",
+    "word_bangla": "উম",
+    "category": "Noun",
+    "meaning_english": "Search",
+    "meaning_bangla": "অনুসন্ধান"
+  },
+  {
+    "word_roman": "UMAK(M)",
+    "word_bangla": "উমাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Warmth",
+    "meaning_bangla": "উষ্ণতা"
+  },
+  {
+    "word_roman": "UMAR",
+    "word_bangla": "উমর",
+    "category": "Noun",
+    "meaning_english": "Life, life-time",
+    "meaning_bangla": "জীবন, আয়ু"
+  },
+  {
+    "word_roman": "UMAN",
+    "word_bangla": "উমান",
+    "category": "Noun",
+    "meaning_english": "Forest",
+    "meaning_bangla": "জঙ্গল"
+  },
+  {
+    "word_roman": "UMAN",
+    "word_bangla": "উমান",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khuman",
+    "meaning_bangla": "খুমান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "UMANGRA(M)",
+    "word_bangla": "উমাঙ্গ্রা(ম)",
+    "category": "Noun",
+    "meaning_english": "Tapioca",
+    "meaning_bangla": "ট্যাপিওকা"
+  },
+  {
+    "word_roman": "UMANGA(M)",
+    "word_bangla": "উমাঙ্গা(ম)",
+    "category": "Noun",
+    "meaning_english": "Tapioca",
+    "meaning_bangla": "ট্যাপিওকা"
+  },
+  {
+    "word_roman": "UMANA",
+    "word_bangla": "উমানা",
+    "category": "Adjective",
+    "meaning_english": "Fertile and free from moisture",
+    "meaning_bangla": "উর্বর এবং আর্দ্রতাহীন"
+  },
+  {
+    "word_roman": "UMAHIJA",
+    "word_bangla": "উমাহিজা",
+    "category": "Noun",
+    "meaning_english": "Warmth of vapour",
+    "meaning_bangla": "বাষ্পের উষ্ণতা"
+  },
+  {
+    "word_roman": "UMEI(M)",
+    "word_bangla": "উমেই(ম)",
+    "category": "Noun",
+    "meaning_english": "Fan",
+    "meaning_bangla": "পাখা"
+  },
+  {
+    "word_roman": "-(U)MBA",
+    "word_bangla": "-(উ)ম্বা",
+    "category": "Suffix",
+    "meaning_english": "A suf. indicating 'likeness' or 'nature'",
+    "meaning_bangla": "'এর মতো' বা 'স্বভাব' নির্দেশক suffix"
+  },
+  {
+    "word_roman": "UWA",
+    "word_bangla": "উওয়া",
+    "category": "Suffix",
+    "meaning_english": "Alt. form of uha",
+    "meaning_bangla": "উহা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "-UWA",
+    "word_bangla": "-উওয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns or adjs. to indicate 'relation', 'connection', 'likeness' or 'pleonasm'",
+    "meaning_bangla": "সম্পর্ক, সংযোগ, সাদৃশ্য বা pleonasm নির্দেশ করে"
+  },
+  {
+    "word_roman": "-UWA",
+    "word_bangla": "-উওয়া",
+    "category": "Suffix",
+    "meaning_english": "A suf. forming causatives from simple verb-roots",
+    "meaning_bangla": "সরল ক্রিয়ামূল থেকে কারণাত্মক রূপ তৈরি করে"
+  },
+  {
+    "word_roman": "UWANA",
+    "word_bangla": "উওয়ানা",
+    "category": "Noun",
+    "meaning_english": "Growth",
+    "meaning_bangla": "বৃদ্ধি"
+  },
+  {
+    "word_roman": "UR",
+    "word_bangla": "উর",
+    "category": "Verb",
+    "meaning_english": "To leak",
+    "meaning_bangla": "ফোঁটা দেওয়া"
+  },
+  {
+    "word_roman": "UR",
+    "word_bangla": "উর",
+    "category": "Noun",
+    "meaning_english": "Lap",
+    "meaning_bangla": "কোল"
+  },
+  {
+    "word_roman": "UR",
+    "word_bangla": "উর",
+    "category": "Verb",
+    "meaning_english": "To put on, to wrap",
+    "meaning_bangla": "পরা, জড়ানো"
+  },
+  {
+    "word_roman": "URAK",
+    "word_bangla": "উরাক",
+    "category": "Noun",
+    "meaning_english": "Lap",
+    "meaning_bangla": "কোল"
+  },
+  {
+    "word_roman": "URAT",
+    "word_bangla": "উরাত",
+    "category": "Noun",
+    "meaning_english": "Thigh",
+    "meaning_bangla": "উরু"
+  },
+  {
+    "word_roman": "URAN",
+    "word_bangla": "উরান",
+    "category": "Noun",
+    "meaning_english": "Putting on",
+    "meaning_bangla": "পরা"
+  },
+  {
+    "word_roman": "URAL-SARAL",
+    "word_bangla": "উরাল-সারাল",
+    "category": "Noun",
+    "meaning_english": "Nap",
+    "meaning_bangla": "তন্দ্রা"
+  },
+  {
+    "word_roman": "-URA",
+    "word_bangla": "-উরা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns in the sense of 'giving growth of'",
+    "meaning_bangla": "'বৃদ্ধি দেওয়া' অর্থে suffix"
+  },
+  {
+    "word_roman": "-URA",
+    "word_bangla": "-উরা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to roots to indicate the nature of the agent",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করে কর্তার স্বভাব নির্দেশ করে"
+  },
+  {
+    "word_roman": "URADURI",
+    "word_bangla": "উরাদুরি",
+    "category": "Noun",
+    "meaning_english": "Haste",
+    "meaning_bangla": "তাড়াহুড়ো"
+  },
+  {
+    "word_roman": "URADARA",
+    "word_bangla": "উরাদারা",
+    "category": "Adverb",
+    "meaning_english": "(i) Haste (ii) Hastily",
+    "meaning_bangla": "(i) তাড়াহুড়ো (ii) তাড়াতাড়ি"
+  },
+  {
+    "word_roman": "UPARA",
+    "word_bangla": "উপারা",
+    "category": "Verb",
+    "meaning_english": "To uproot",
+    "meaning_bangla": "উপড়ানো"
+  },
+  {
+    "word_roman": "UPARANI",
+    "word_bangla": "উপারানি",
+    "category": "Noun",
+    "meaning_english": "Uprooting, pulling out",
+    "meaning_bangla": "উপড়ানো, টেনে বের করা"
+  },
+  {
+    "word_roman": "URI",
+    "word_bangla": "উরি",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to verb-roots",
+    "meaning_bangla": "ক্রিয়ামূলে যোগ করা suffix"
+  },
+  {
+    "word_roman": "URPHALI",
+    "word_bangla": "উরফালি",
+    "category": "Noun",
+    "meaning_english": "Jumping through uneasiness",
+    "meaning_bangla": "অস্বস্তিতে লাফানো"
+  },
+  {
+    "word_roman": "UR",
+    "word_bangla": "উর",
+    "category": "Verb",
+    "meaning_english": "To fly",
+    "meaning_bangla": "উড়া"
+  },
+  {
+    "word_roman": "UR",
+    "word_bangla": "উর",
+    "category": "Verb",
+    "meaning_english": "To trample",
+    "meaning_bangla": "পদদলিত করা"
+  },
+  {
+    "word_roman": "UR(M)",
+    "word_bangla": "উর(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of uri",
+    "meaning_bangla": "উরি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "URA",
+    "word_bangla": "উরা",
+    "category": "Verb",
+    "meaning_english": "To cause to fly",
+    "meaning_bangla": "উড়তে বাধ্য করা"
+  },
+  {
+    "word_roman": "URA",
+    "word_bangla": "উরা",
+    "category": "Noun",
+    "meaning_english": "Throw",
+    "meaning_bangla": "ছুড়ে ফেলা"
+  },
+  {
+    "word_roman": "URANI",
+    "word_bangla": "উরানি",
+    "category": "Noun",
+    "meaning_english": "(i) Flying, evaporating (ii) Causing to fly",
+    "meaning_bangla": "(i) উড়া, বাষ্পীভূত হওয়া (ii) উড়তে বাধ্য করা"
+  },
+  {
+    "word_roman": "URANI",
+    "word_bangla": "উরানি",
+    "category": "Noun",
+    "meaning_english": "Throwing, casting off",
+    "meaning_bangla": "ছুড়ে ফেলা, ত্যাগ করা"
+  },
+  {
+    "word_roman": "URANI",
+    "word_bangla": "উরানি",
+    "category": "Noun",
+    "meaning_english": "Trampling",
+    "meaning_bangla": "পদদলন"
+  },
+  {
+    "word_roman": "URAL",
+    "word_bangla": "উরাল",
+    "category": "Adjective",
+    "meaning_english": "Flying, unfettered",
+    "meaning_bangla": "উড়ন্ত, মুক্ত"
+  },
+  {
+    "word_roman": "URI",
+    "word_bangla": "উরি",
+    "category": "Noun",
+    "meaning_english": "Seed of kidney bean",
+    "meaning_bangla": "রাজমার বীজ"
+  },
+  {
+    "word_roman": "URU(M)",
+    "word_bangla": "উরু(ম)",
+    "category": "Verb",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "URUKAL",
+    "word_bangla": "উরুকাল",
+    "category": "Noun",
+    "meaning_english": "Aeroplane",
+    "meaning_bangla": "বিমান"
+  },
+  {
+    "word_roman": "UL",
+    "word_bangla": "উল",
+    "category": "Adjective",
+    "meaning_english": "Cold",
+    "meaning_bangla": "ঠান্ডা"
+  },
+  {
+    "word_roman": "ULAT-PALAT",
+    "word_bangla": "উলট-পালট",
+    "category": "Adjective",
+    "meaning_english": "Topsy-turvy",
+    "meaning_bangla": "উল্টোপাল্টা"
+  },
+  {
+    "word_roman": "ULAN",
+    "word_bangla": "উলান",
+    "category": "Noun",
+    "meaning_english": "Udder of an animal",
+    "meaning_bangla": "পশুর স্তন"
+  },
+  {
+    "word_roman": "ULA",
+    "word_bangla": "উলা",
+    "category": "Verb",
+    "meaning_english": "To bring down or to bring out (as something cooked)",
+    "meaning_bangla": "নামানো বা বের করা (রান্না করা জিনিস)"
+  },
+  {
+    "word_roman": "-ULA",
+    "word_bangla": "-উলা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to indicate 'nature' or 'profession'",
+    "meaning_bangla": "'স্বভাব' বা 'পেশা' নির্দেশক suffix"
+  },
+  {
+    "word_roman": "ULA",
+    "word_bangla": "উলা",
+    "category": "Adjective",
+    "meaning_english": "Matted",
+    "meaning_bangla": "জট পাকানো"
+  },
+  {
+    "word_roman": "ULANI",
+    "word_bangla": "উলানি",
+    "category": "Noun",
+    "meaning_english": "Bringing down or bringing out",
+    "meaning_bangla": "নামানো বা বের করা"
   }
 ]
