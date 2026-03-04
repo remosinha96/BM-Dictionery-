@@ -18498,5 +18498,579 @@
     "category": "Noun",
     "meaning_english": "Alt. form of caudda",
     "meaning_bangla": "চৌদ্দা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CHAK",
+    "word_bangla": "ছাক",
+    "category": "Verb",
+    "meaning_english": "Touch",
+    "meaning_bangla": "স্পর্শ করা"
+  },
+  {
+    "word_roman": "CHAKKA",
+    "word_bangla": "ছাক্কা",
+    "category": "Noun",
+    "meaning_english": "A throw of dice bearing six points",
+    "meaning_bangla": "ছক্কার দান যাতে ছয় পড়ে"
+  },
+  {
+    "word_roman": "CHAKCHAKIYA",
+    "word_bangla": "ছাকচাকিয়া",
+    "category": "Adjective/Noun",
+    "meaning_english": "One who works quickly and roughly",
+    "meaning_bangla": "যে ব্যক্তি দ্রুত এবং মোটামুটি কাজ করে"
+  },
+  {
+    "word_roman": "CHATAK",
+    "word_bangla": "ছাটাক",
+    "category": "Noun",
+    "meaning_english": "One sixteenth of a cottah",
+    "meaning_bangla": "এক ছটাক (কাঠার ১৬ ভাগের ১ ভাগ)"
+  },
+  {
+    "word_roman": "CHATAN",
+    "word_bangla": "ছাটান",
+    "category": "Noun",
+    "meaning_english": "Pretension",
+    "meaning_bangla": "ভণ্ডামি বা ভান"
+  },
+  {
+    "word_roman": "CHAP",
+    "word_bangla": "ছাপ",
+    "category": "Verb",
+    "meaning_english": "Snatch",
+    "meaning_bangla": "ছিনিয়ে নেওয়া"
+  },
+  {
+    "word_roman": "CHAPA",
+    "word_bangla": "ছাপা",
+    "category": "Noun",
+    "meaning_english": "(i) Bush (ii) Clap",
+    "meaning_bangla": "(i) ঝোপ (ii) তালি"
+  },
+  {
+    "word_roman": "CHAY",
+    "word_bangla": "ছায়",
+    "category": "Number",
+    "meaning_english": "Six",
+    "meaning_bangla": "ছয়"
+  },
+  {
+    "word_roman": "CHARI",
+    "word_bangla": "ছারি",
+    "category": "Noun",
+    "meaning_english": "Knife",
+    "meaning_bangla": "ছুরি"
+  },
+  {
+    "word_roman": "CHAR",
+    "word_bangla": "ছার",
+    "category": "Noun",
+    "meaning_english": "Skin",
+    "meaning_bangla": "চামড়া"
+  },
+  {
+    "word_roman": "CHARA",
+    "word_bangla": "ছারা",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) Bunch (ii) Act of spreading",
+    "meaning_bangla": "(i) গুচ্ছ (ii) ছড়ানোর কাজ"
+  },
+  {
+    "word_roman": "CHALANA",
+    "word_bangla": "ছালনা",
+    "category": "Noun",
+    "meaning_english": "Deception",
+    "meaning_bangla": "প্রতারণা"
+  },
+  {
+    "word_roman": "CHA(M.)",
+    "word_bangla": "ছা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Shade, bush",
+    "meaning_bangla": "ছায়া বা ঝোপ"
+  },
+  {
+    "word_roman": "CHA-",
+    "word_bangla": "ছা-",
+    "category": "Verb",
+    "meaning_english": "To cover, to roof",
+    "meaning_bangla": "ঢাকা বা ছাউনি দেওয়া"
+  },
+  {
+    "word_roman": "CHAK-",
+    "word_bangla": "ছাক-",
+    "category": "Verb",
+    "meaning_english": "To filter, to strain",
+    "meaning_bangla": "ছাঁকা"
+  },
+  {
+    "word_roman": "CHAKUNI",
+    "word_bangla": "ছাকুনি",
+    "category": "Noun",
+    "meaning_english": "Strainer",
+    "meaning_bangla": "ছাঁকনি"
+  },
+  {
+    "word_roman": "CHAGI",
+    "word_bangla": "ছাগী",
+    "category": "Noun",
+    "meaning_english": "She-goat",
+    "meaning_bangla": "স্ত্রী ছাগল"
+  },
+  {
+    "word_roman": "CHAT",
+    "word_bangla": "ছাট",
+    "category": "Noun",
+    "meaning_english": "A trap for mice or hunting",
+    "meaning_bangla": "ইঁদুর ধরার ফাঁদ বা শিকারের যন্ত্র"
+  },
+  {
+    "word_roman": "CHATA-",
+    "word_bangla": "ছাটা-",
+    "category": "Verb",
+    "meaning_english": "To clip, to cut",
+    "meaning_bangla": "কাটা বা ছাঁটা"
+  },
+  {
+    "word_roman": "CHATA",
+    "word_bangla": "ছাতা",
+    "category": "Noun",
+    "meaning_english": "Mushroom",
+    "meaning_bangla": "ব্যাঙের ছাতা বা মাশরুম"
+  },
+  {
+    "word_roman": "CHATU",
+    "word_bangla": "ছাতু",
+    "category": "Noun",
+    "meaning_english": "Powder of barley",
+    "meaning_bangla": "যবের ছাতু"
+  },
+  {
+    "word_roman": "CHATTI",
+    "word_bangla": "ছাত্তি",
+    "category": "Noun",
+    "meaning_english": "(i) Umbrella (ii) Mushroom",
+    "meaning_bangla": "(i) ছাতা (ii) মাশরুম"
+  },
+  {
+    "word_roman": "CHAD",
+    "word_bangla": "ছাদ",
+    "category": "Noun",
+    "meaning_english": "Roof, ceiling",
+    "meaning_bangla": "ছাদ"
+  },
+  {
+    "word_roman": "CHANA",
+    "word_bangla": "ছানা",
+    "category": "Noun",
+    "meaning_english": "Curdled milk",
+    "meaning_bangla": "দুধের ছানা"
+  },
+  {
+    "word_roman": "CHANI",
+    "word_bangla": "ছানি",
+    "category": "Noun",
+    "meaning_english": "(i) Sign (ii) Roof, cover",
+    "meaning_bangla": "(i) সংকেত (ii) ছাউনি বা আবরণ"
+  },
+  {
+    "word_roman": "CHAPA",
+    "word_bangla": "ছাপা",
+    "category": "Noun/Verb",
+    "meaning_english": "Print, impression",
+    "meaning_bangla": "মুদ্রণ বা ছাপ"
+  },
+  {
+    "word_roman": "CHAPPAL",
+    "word_bangla": "ছাপ্পাল",
+    "category": "Noun",
+    "meaning_english": "Bushy place",
+    "meaning_bangla": "ঝোপঝাড়পূর্ণ স্থান"
+  },
+  {
+    "word_roman": "CHABA",
+    "word_bangla": "ছাবা",
+    "category": "Noun",
+    "meaning_english": "Remains of a thing after pressing",
+    "meaning_bangla": "চেপে নেওয়ার পর জিনিসের অবশিষ্ট অংশ"
+  },
+  {
+    "word_roman": "CHABA-",
+    "word_bangla": "ছাবা-",
+    "category": "Verb",
+    "meaning_english": "To shave (grass), to cleanse",
+    "meaning_bangla": "ঘাস পরিষ্কার করা বা ছাঁটা"
+  },
+  {
+    "word_roman": "CHABANI",
+    "word_bangla": "ছাবানি",
+    "category": "Noun",
+    "meaning_english": "Shaving (grass)",
+    "meaning_bangla": "ঘাস ছাঁটাই"
+  },
+  {
+    "word_roman": "CHARKHAR",
+    "word_bangla": "ছারখার",
+    "category": "Noun",
+    "meaning_english": "(i) Destruction (ii) Destroyed",
+    "meaning_bangla": "(i) ধ্বংস (ii) ধ্বংসপ্রাপ্ত"
+  },
+  {
+    "word_roman": "CHAR-",
+    "word_bangla": "ছার-",
+    "category": "Verb",
+    "meaning_english": "To discard, to let go, to leave",
+    "meaning_bangla": "বর্জন করা বা ছেড়ে দেওয়া"
+  },
+  {
+    "word_roman": "CHARA",
+    "word_bangla": "ছারা",
+    "category": "Noun/Adjective",
+    "meaning_english": "(i) Without (ii) Release",
+    "meaning_bangla": "(i) ছাড়া বা ব্যতীত (ii) মুক্তি"
+  },
+  {
+    "word_roman": "CHAL",
+    "word_bangla": "ছাল",
+    "category": "Noun",
+    "meaning_english": "Skin, bark",
+    "meaning_bangla": "ত্বক বা গাছের ছাল"
+  },
+  {
+    "word_roman": "CHALI",
+    "word_bangla": "ছালি",
+    "category": "Noun",
+    "meaning_english": "Ashes",
+    "meaning_bangla": "ছাই"
+  },
+  {
+    "word_roman": "CHIK",
+    "word_bangla": "চিক",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) Throw (ii) Spot (iii) Cut or gap",
+    "meaning_bangla": "(i) নিক্ষেপ (ii) দাগ (iii) কাটা অংশ বা ফাঁক"
+  },
+  {
+    "word_roman": "CHIKA",
+    "word_bangla": "ছিকা",
+    "category": "Noun",
+    "meaning_english": "(i) A kind of insect (ii) Hanging rope-shelf",
+    "meaning_bangla": "(i) এক ধরণের পোকা (ii) শিকা (ঝোলানো দড়ির তাক)"
+  },
+  {
+    "word_roman": "CHIT",
+    "word_bangla": "ছিত",
+    "category": "Adjective",
+    "meaning_english": "Disturbed, disturbance",
+    "meaning_bangla": "বিরক্ত বা অস্থিরতা"
+  },
+  {
+    "word_roman": "CHITARA-",
+    "word_bangla": "ছিতারা-",
+    "category": "Verb",
+    "meaning_english": "To scatter",
+    "meaning_bangla": "ছড়ানো বা ছিটানো"
+  },
+  {
+    "word_roman": "CHINA",
+    "word_bangla": "ছিনা",
+    "category": "Adjective",
+    "meaning_english": "(i) Slender (ii) Lonely",
+    "meaning_bangla": "(i) রোগা বা পাতলা (ii) একাকী"
+  },
+  {
+    "word_roman": "CHINIMINI",
+    "word_bangla": "ছিনিমিনি",
+    "category": "Noun",
+    "meaning_english": "Game of ducks and drakes",
+    "meaning_bangla": "ছিনিমিনি খেলা"
+  },
+  {
+    "word_roman": "CHIMTA",
+    "word_bangla": "চিমটা",
+    "category": "Noun",
+    "meaning_english": "Pinch",
+    "meaning_bangla": "চিমটি"
+  },
+  {
+    "word_roman": "CHIYA",
+    "word_bangla": "ছিয়া",
+    "category": "Adjective",
+    "meaning_english": "Bravo",
+    "meaning_bangla": "বাহবা বা সাবাস"
+  },
+  {
+    "word_roman": "CHIR-",
+    "word_bangla": "ছির-",
+    "category": "Verb",
+    "meaning_english": "(i) To tear (ii) To pluck",
+    "meaning_bangla": "(i) ছেঁড়া (ii) তোলা বা ছেঁড়া"
+  },
+  {
+    "word_roman": "CHIRA",
+    "word_bangla": "ছিরা",
+    "category": "Adjective",
+    "meaning_english": "(i) Torn (ii) Plucked",
+    "meaning_bangla": "(i) ছেঁড়া (ii) তোলা হয়েছে এমন"
+  },
+  {
+    "word_roman": "CHIṬAṄLEI",
+    "word_bangla": "ছিটাংলেই",
+    "category": "Adjective",
+    "meaning_english": "Emaciated because of going without food and drink",
+    "meaning_bangla": "খাবার ও পানীয় ছাড়া শুকিয়ে যাওয়া"
+  },
+  {
+    "word_roman": "CHIṬANI",
+    "word_bangla": "ছিটানি",
+    "category": "Noun",
+    "meaning_english": "Sprinkling",
+    "meaning_bangla": "ছিটানো"
+  },
+  {
+    "word_roman": "CHIṬI",
+    "word_bangla": "ছিটি",
+    "category": "Noun",
+    "meaning_english": "A sprinkle, minute drop",
+    "meaning_bangla": "ছিটা বা অতি ক্ষুদ্র ফোঁটা"
+  },
+  {
+    "word_roman": "CHIṬKĀ",
+    "word_bangla": "ছিটকা",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) A shoot or throw (ii) To throw",
+    "meaning_bangla": "(i) নিক্ষেপ বা ছিটকানো (ii) ছিটকানো"
+  },
+  {
+    "word_roman": "CHIṬKANI",
+    "word_bangla": "ছিটকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Shooting off (ii) Throwing off",
+    "meaning_bangla": "(i) ছিটকে যাওয়া (ii) ছুঁড়ে ফেলা"
+  },
+  {
+    "word_roman": "CHIṬKĀRI",
+    "word_bangla": "ছিটকারি",
+    "category": "Noun",
+    "meaning_english": "Cleat",
+    "meaning_bangla": "ছিটকিনি বা খিল"
+  },
+  {
+    "word_roman": "CHITAK",
+    "word_bangla": "ছিতাক",
+    "category": "Adjective",
+    "meaning_english": "(i) Disturbed (ii) Disturbance",
+    "meaning_bangla": "(i) বিরক্ত বা অস্থির (ii) অস্থিরতা"
+  },
+  {
+    "word_roman": "CHIMṬĀ-",
+    "word_bangla": "চিমটা-",
+    "category": "Verb",
+    "meaning_english": "To pinch",
+    "meaning_bangla": "চিমটি কাটা"
+  },
+  {
+    "word_roman": "CHIMṬĀNI",
+    "word_bangla": "চিমটানি",
+    "category": "Noun",
+    "meaning_english": "Pinching",
+    "meaning_bangla": "চিমটি কাটার কাজ"
+  },
+  {
+    "word_roman": "CHIRANI",
+    "word_bangla": "ছিরানি",
+    "category": "Noun",
+    "meaning_english": "(i) Tearing (ii) Plucking",
+    "meaning_bangla": "(i) ছেঁড়ার কাজ (ii) তোলার কাজ"
+  },
+  {
+    "word_roman": "CHIRUWĀ-",
+    "word_bangla": "ছিরুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to tear or pluck",
+    "meaning_bangla": "ছিঁড়তে বা তুলতে সাহায্য করা"
+  },
+  {
+    "word_roman": "CHĪLKĀ",
+    "word_bangla": "ছিলকা",
+    "category": "Noun",
+    "meaning_english": "Strip (as of bamboo)",
+    "meaning_bangla": "বাঁশের চটা বা ফালি"
+  },
+  {
+    "word_roman": "CHŪṬ-",
+    "word_bangla": "ছুট-",
+    "category": "Verb",
+    "meaning_english": "(i) To shave (grass) (ii) To run away, to flow down",
+    "meaning_bangla": "(i) ঘাস ছাঁটা (ii) পালানো বা বয়ে যাওয়া"
+  },
+  {
+    "word_roman": "CHŪṬĀ-",
+    "word_bangla": "ছুটা-",
+    "category": "Verb",
+    "meaning_english": "(i) To drive speedily (ii) To release, separate or tear",
+    "meaning_bangla": "(i) দ্রুত চালানো (ii) মুক্ত করা, আলাদা করা বা ছেঁড়া"
+  },
+  {
+    "word_roman": "CHŪṬĀNI",
+    "word_bangla": "ছুটানি",
+    "category": "Noun",
+    "meaning_english": "(i) Shaving (grass) (ii) Running away, being released",
+    "meaning_bangla": "(i) ঘাস ছাঁটাই (ii) পালানো বা মুক্তি পাওয়া"
+  },
+  {
+    "word_roman": "CHŪṬI",
+    "word_bangla": "ছুটি",
+    "category": "Noun",
+    "meaning_english": "Release, vacation",
+    "meaning_bangla": "মুক্তি বা অবকাশ"
+  },
+  {
+    "word_roman": "CHUṬOMUṬO",
+    "word_bangla": "ছুটোমুটো",
+    "category": "Adjective",
+    "meaning_english": "Small and negligible",
+    "meaning_bangla": "ছোট এবং নগণ্য"
+  },
+  {
+    "word_roman": "CHŪP",
+    "word_bangla": "ছুপ",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) Joined, stuck together (ii) The act of sticking together",
+    "meaning_bangla": "(i) সংযুক্ত (ii) আটকে থাকা বা আঠা লাগার কাজ"
+  },
+  {
+    "word_roman": "CHUPAN",
+    "word_bangla": "ছোপান",
+    "category": "Noun",
+    "meaning_english": "(i) Dash (ii) The act of washing",
+    "meaning_bangla": "(i) ধাক্কা (ii) ধোয়ার কাজ"
+  },
+  {
+    "word_roman": "CHUPĀ-",
+    "word_bangla": "ছোপা-",
+    "category": "Verb",
+    "meaning_english": "To wash (as cloth), to beat",
+    "meaning_bangla": "কাপড় কাচা বা পেটানো"
+  },
+  {
+    "word_roman": "CHUPĀNI",
+    "word_bangla": "ছোপানি",
+    "category": "Noun",
+    "meaning_english": "(i) Washing (ii) Beating",
+    "meaning_bangla": "(i) কাচাগুনি বা ধোয়া (ii) প্রহার বা পেটানো"
+  },
+  {
+    "word_roman": "CHUWĀCHUWĪ",
+    "word_bangla": "ছুয়াছুয়ী",
+    "category": "Adjective",
+    "meaning_english": "Adjacent",
+    "meaning_bangla": "সংলগ্ন বা কাছাকাছি"
+  },
+  {
+    "word_roman": "CHŪLĀ-",
+    "word_bangla": "ছুলা-",
+    "category": "Verb",
+    "meaning_english": "To peel",
+    "meaning_bangla": "ছাল ছাড়ানো"
+  },
+  {
+    "word_roman": "CHULĀNI",
+    "word_bangla": "ছুলানি",
+    "category": "Noun",
+    "meaning_english": "Peeling",
+    "meaning_bangla": "ছাল ছাড়ানোর কাজ"
+  },
+  {
+    "word_roman": "CHEK",
+    "word_bangla": "ছেক",
+    "category": "Noun",
+    "meaning_english": "(i) Instrument for pressing out oil (ii) Application of heat",
+    "meaning_bangla": "(i) তেল বের করার যন্ত্র (ii) গরম তাপ প্রয়োগ"
+  },
+  {
+    "word_roman": "CHEK-",
+    "word_bangla": "ছেক-",
+    "category": "Verb",
+    "meaning_english": "(i) To apply heat (ii) To tolerate",
+    "meaning_bangla": "(i) সেঁক দেওয়া (ii) সহ্য করা"
+  },
+  {
+    "word_roman": "CHEKANI",
+    "word_bangla": "ছেকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Applying heat (ii) Enduring",
+    "meaning_bangla": "(i) সেঁক দেওয়ার কাজ (ii) সহ্য করা"
+  },
+  {
+    "word_roman": "CHEṬURĀ",
+    "word_bangla": "ছেটুরা",
+    "category": "Adjective",
+    "meaning_english": "Having unhealthy growth (as of paddy)",
+    "meaning_bangla": "ধানের অস্বাস্থ্যকর বৃদ্ধি"
+  },
+  {
+    "word_roman": "CHET",
+    "word_bangla": "ছেত",
+    "category": "Noun",
+    "meaning_english": "Separation, division",
+    "meaning_bangla": "বিচ্ছেদ বা বিভাগ"
+  },
+  {
+    "word_roman": "CHETAK",
+    "word_bangla": "ছেতাক",
+    "category": "Adjective",
+    "meaning_english": "Separated",
+    "meaning_bangla": "বিচ্ছিন্ন বা পৃথক"
+  },
+  {
+    "word_roman": "CHED",
+    "word_bangla": "ছেদ",
+    "category": "Noun",
+    "meaning_english": "(i) A cut (ii) The actual point",
+    "meaning_bangla": "(i) কাটা অংশ (ii) নির্দিষ্ট বিন্দু"
+  },
+  {
+    "word_roman": "CHÉD-",
+    "word_bangla": "ছেদ-",
+    "category": "Verb",
+    "meaning_english": "To cross over",
+    "meaning_bangla": "অতিক্রম করা"
+  },
+  {
+    "word_roman": "CHEDA-",
+    "word_bangla": "ছেদা-",
+    "category": "Verb",
+    "meaning_english": "To cut",
+    "meaning_bangla": "কাটা"
+  },
+  {
+    "word_roman": "CHEDĀNI",
+    "word_bangla": "ছেদানি",
+    "category": "Noun",
+    "meaning_english": "Crossing over, Cutting",
+    "meaning_bangla": "অতিক্রম করার কাজ বা কাটার কাজ"
+  },
+  {
+    "word_roman": "CHÉNI",
+    "word_bangla": "ছেনি",
+    "category": "Noun",
+    "meaning_english": "Chisel",
+    "meaning_bangla": "ছেনি"
+  },
+  {
+    "word_roman": "CHÉP",
+    "word_bangla": "ছেপ",
+    "category": "Noun",
+    "meaning_english": "(i) Opportunity (ii) Saliva, spittle",
+    "meaning_bangla": "(i) সুযোগ (ii) লালা বা থুতু"
+  },
+  {
+    "word_roman": "CHÉYA",
+    "word_bangla": "ছেয়া",
+    "category": "Noun",
+    "meaning_english": "Shadow",
+    "meaning_bangla": "ছায়া"
   }
 ]
