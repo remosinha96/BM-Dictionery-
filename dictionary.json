@@ -14256,5 +14256,271 @@
     "category": "Noun",
     "meaning_english": "Velvet",
     "meaning_bangla": "মখমল"
-  }
+  },
+  {
+    "word_roman": "KHAU",
+    "word_bangla": "খাউ",
+    "category": "Noun",
+    "meaning_english": "Bag",
+    "meaning_bangla": "থলি"
+  },
+  {
+    "word_roman": "KHAU",
+    "word_bangla": "খাউ",
+    "category": "Noun",
+    "meaning_english": "The act of tightening",
+    "meaning_bangla": "শক্ত করার কাজ"
+  },
+  {
+    "word_roman": "KHAU",
+    "word_bangla": "খাউ",
+    "category": "Noun",
+    "meaning_english": "The act of tightening by striking",
+    "meaning_bangla": "আঘাত করে শক্ত করা"
+  },
+  {
+    "word_roman": "KHAUARI",
+    "word_bangla": "খাউয়ারি",
+    "category": "Noun",
+    "meaning_english": "A rope or a piece of wood tied below a yoke",
+    "meaning_bangla": "জোয়ালের নিচে বাঁধা দড়ি বা কাঠের টুকরো"
+  },
+  {
+    "word_roman": "KHAUNA",
+    "word_bangla": "খাউনা",
+    "category": "Noun",
+    "meaning_english": "Throat",
+    "meaning_bangla": "গলা"
+  },
+  {
+    "word_roman": "KHAUNAO",
+    "word_bangla": "খাউনাও",
+    "category": "Noun",
+    "meaning_english": "Neck",
+    "meaning_bangla": "ঘাড়"
+  },
+  {
+    "word_roman": "KHAUNU",
+    "word_bangla": "খাউনু",
+    "category": "Noun",
+    "meaning_english": "Throat",
+    "meaning_bangla": "গলা"
+  },
+  {
+    "word_roman": "KHAUPA",
+    "word_bangla": "খাউপা",
+    "category": "Noun",
+    "meaning_english": "An attendant (of a teacher)",
+    "meaning_bangla": "শিক্ষকের সহকারী"
+  },
+  {
+    "word_roman": "KHAUPUBA(M)",
+    "word_bangla": "খাউপুবা(ম)",
+    "category": "Noun",
+    "meaning_english": "An attendant (of a teacher)",
+    "meaning_bangla": "শিক্ষকের সহকারী"
+  },
+  {
+    "word_roman": "KHAUWAL",
+    "word_bangla": "খাউয়াল",
+    "category": "Noun",
+    "meaning_english": "A part of Rasa-costume hung crosswise from the shoulder",
+    "meaning_bangla": "রাস-পোশাকের কাঁধ থেকে ক্রস করে ঝোলানো অংশ"
+  },
+  {
+    "word_roman": "KHAURAN",
+    "word_bangla": "খাউরান",
+    "category": "Noun",
+    "meaning_english": "Longing, thirst",
+    "meaning_bangla": "আকাঙ্ক্ষা, তৃষ্ণা"
+  },
+  {
+    "word_roman": "KHAURANPA",
+    "word_bangla": "খাউরানপা",
+    "category": "Adjective",
+    "meaning_english": "Thirsty",
+    "meaning_bangla": "তৃষ্ণার্ত"
+  },
+  {
+    "word_roman": "KHAURANPI",
+    "word_bangla": "খাউরানপি",
+    "category": "Adjective",
+    "meaning_english": "Thirsty (fem.)",
+    "meaning_bangla": "তৃষ্ণার্ত (স্ত্রীলিঙ্গ)"
+  },
+  {
+    "word_roman": "KHAURI",
+    "word_bangla": "খাউরি",
+    "category": "Noun",
+    "meaning_english": "Throat",
+    "meaning_bangla": "গলা"
+  },
+  {
+    "word_roman": "G",
+    "word_bangla": "গ",
+    "category": "Prefix/Root",
+    "meaning_english": "To go",
+    "meaning_bangla": "যাওয়া"
+  },
+  {
+    "word_roman": "-GA",
+    "word_bangla": "-গা",
+    "category": "Suffix",
+    "meaning_english": "A suf. used in the singular number to indicate (i) a long, narrow, short and round thing or (ii) vastness or abundance",
+    "meaning_bangla": "একবচনে ব্যবহৃত suffix যা (i) লম্বা, সরু, ছোট ও গোলাকার বস্তু বা (ii) বিশালতা বা প্রাচুর্য নির্দেশ করে"
+  },
+  {
+    "word_roman": "GAI",
+    "word_bangla": "গাই",
+    "category": "Noun",
+    "meaning_english": "Noise",
+    "meaning_bangla": "শব্দ"
+  },
+  {
+    "word_roman": "GAICAL",
+    "word_bangla": "গাইচাল",
+    "category": "Noun",
+    "meaning_english": "Hue and cry, bustle",
+    "meaning_bangla": "হৈচৈ, হট্টগোল"
+  },
+  {
+    "word_roman": "GAIBI",
+    "word_bangla": "গাইবি",
+    "category": "Noun",
+    "meaning_english": "Secret wealth",
+    "meaning_bangla": "গোপন সম্পদ"
+  },
+  {
+    "word_roman": "GAIR",
+    "word_bangla": "গাইর",
+    "category": "Noun",
+    "meaning_english": "Rolling",
+    "meaning_bangla": "গড়ানো"
+  },
+  {
+    "word_roman": "GAIRO",
+    "word_bangla": "গাইরো",
+    "category": "Adverb",
+    "meaning_english": "So on and so forth",
+    "meaning_bangla": "ইত্যাদি"
+  },
+  {
+    "word_roman": "GAKUL",
+    "word_bangla": "গাকুল",
+    "category": "Noun",
+    "meaning_english": "Vakula flower",
+    "meaning_bangla": "বকুল ফুল"
+  },
+  {
+    "word_roman": "GAGA",
+    "word_bangla": "গাগা",
+    "category": "Noun",
+    "meaning_english": "A big frog",
+    "meaning_bangla": "বড় ব্যাঙ"
+  },
+  {
+    "word_roman": "GAGARANI",
+    "word_bangla": "গাগারানি",
+    "category": "Noun",
+    "meaning_english": "Snorning",
+    "meaning_bangla": "নাক ডাকা"
+  },
+  {
+    "word_roman": "GANDHARANI",
+    "word_bangla": "গন্ধারানি",
+    "category": "Noun",
+    "meaning_english": "Appearing still while whirling speedily (as of a top)",
+    "meaning_bangla": "দ্রুত ঘুরতে ঘুরতে স্থির মনে হওয়া (তোপের মতো)"
+  },
+  {
+    "word_roman": "GANALA",
+    "word_bangla": "গানালা",
+    "category": "Adjective",
+    "meaning_english": "(i) Scented (ii) Rotten, having bad smell",
+    "meaning_bangla": "(i) সুগন্ধযুক্ত (ii) পচা, দুর্গন্ধযুক্ত"
+  },
+  {
+    "word_roman": "GANALANI",
+    "word_bangla": "গানালানি",
+    "category": "Noun",
+    "meaning_english": "Filling the air with odour",
+    "meaning_bangla": "বাতাসে গন্ধ ছড়ানো"
+  },
+  {
+    "word_roman": "GANIY",
+    "word_bangla": "গানিয়",
+    "category": "Noun",
+    "meaning_english": "A species of fish",
+    "meaning_bangla": "এক প্রজাতির মাছ"
+  },
+  {
+    "word_roman": "GANGAPUL",
+    "word_bangla": "গঙ্গাপুল",
+    "category": "Noun",
+    "meaning_english": "A kind of pitcher",
+    "meaning_bangla": "এক ধরনের কলসি"
+  },
+  {
+    "word_roman": "GANGARA",
+    "word_bangla": "গঙ্গারা",
+    "category": "Noun",
+    "meaning_english": "A species of cricket",
+    "meaning_bangla": "এক প্রজাতির ঝিঁঝিঁ"
+  },
+  {
+    "word_roman": "GAC",
+    "word_bangla": "গচ",
+    "category": "Adjective",
+    "meaning_english": "Having deep texture (as of a cloth)",
+    "meaning_bangla": "গভীর টেক্সচারযুক্ত (কাপড়ের মতো)"
+  },
+  {
+    "word_roman": "GACURA",
+    "word_bangla": "গচুরা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of gacura",
+    "meaning_bangla": "গচুরা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "GACA",
+    "word_bangla": "গচা",
+    "category": "Noun",
+    "meaning_english": "Thorn",
+    "meaning_bangla": "কাঁটা"
+  },
+  {
+    "word_roman": "GACURA",
+    "word_bangla": "গচুরা",
+    "category": "Noun",
+    "meaning_english": "(i) Grassy place (ii) Uncultivated piece of land",
+    "meaning_bangla": "(i) ঘাসের জায়গা (ii) অচাষিত জমির টুকরো"
+  },
+  {
+    "word_roman": "GACH",
+    "word_bangla": "গচ",
+    "category": "Verb",
+    "meaning_english": "To undertake, to accept",
+    "meaning_bangla": "গ্রহণ করা, উপযুক্ত হওয়া"
+  },
+  {
+    "word_roman": "GACHANI",
+    "word_bangla": "গচানি",
+    "category": "Noun",
+    "meaning_english": "(i) Accepting (ii) Entrusting",
+    "meaning_bangla": "(i) গ্রহণ করা (ii) অর্পণ করা"
+  },
+  {
+    "word_roman": "GACHAPUNNA",
+    "word_bangla": "গচাপুন্না",
+    "category": "Adjective",
+    "meaning_english": "Semi-old (as a cloth)",
+    "meaning_bangla": "আধা-পুরানো (কাপড়ের মতো)"
+  },
+  {
+    "word_roman": "GAJ",
+    "word_bangla": "গজ",
+    "category": "Adverb",
+    "meaning_english": "Above",
+    "meaning_bangla": "উপরে"
+  },
 ]
