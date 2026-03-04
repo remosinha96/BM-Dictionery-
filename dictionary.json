@@ -13207,5 +13207,1054 @@
     "meaning_english": "Thought",
     "meaning_bangla": "চিন্তা"
   },
-  
+  {
+    "word_roman": "KHILANI",
+    "word_bangla": "খিলানি",
+    "category": "Noun",
+    "meaning_english": "Distributing eatables",
+    "meaning_bangla": "খাবার বিতরণ করা"
+  },
+  {
+    "word_roman": "KHILKI",
+    "word_bangla": "খিলকি",
+    "category": "Noun",
+    "meaning_english": "Window",
+    "meaning_bangla": "জানালা"
+  },
+  {
+    "word_roman": "KHILLA",
+    "word_bangla": "খিল্লা",
+    "category": "Noun",
+    "meaning_english": "Wheel",
+    "meaning_bangla": "চাকা"
+  },
+  {
+    "word_roman": "KHILLI",
+    "word_bangla": "খিল্লি",
+    "category": "Noun",
+    "meaning_english": "Capsule of betel leaf",
+    "meaning_bangla": "পানের খোলস"
+  },
+  {
+    "word_roman": "KHU",
+    "word_bangla": "খু",
+    "category": "Adjective",
+    "meaning_english": "Narrow (as a place)",
+    "meaning_bangla": "সরু (স্থানের মতো)"
+  },
+  {
+    "word_roman": "KHUI(M)",
+    "word_bangla": "খুই(ম)",
+    "category": "Adjective",
+    "meaning_english": "Hesitant, peevish, pettish",
+    "meaning_bangla": "দ্বিধাগ্রস্ত, খিটখিটে, বিরক্তিপ্রবণ"
+  },
+  {
+    "word_roman": "KHUI",
+    "word_bangla": "খুই",
+    "category": "Verb",
+    "meaning_english": "To fade",
+    "meaning_bangla": "ম্লান হওয়া"
+  },
+  {
+    "word_roman": "KHUITAN",
+    "word_bangla": "খুইতান",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of khanta",
+    "meaning_bangla": "খান্তা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUITU",
+    "word_bangla": "খুইতু",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of khanta",
+    "meaning_bangla": "খান্তা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUINAN(M)",
+    "word_bangla": "খুইনান(ম)",
+    "category": "Noun",
+    "meaning_english": "A sticky substance found in a bee-nest",
+    "meaning_bangla": "মৌচাকে পাওয়া আঠালো পদার্থ"
+  },
+  {
+    "word_roman": "KHUIPA",
+    "word_bangla": "খুইপা",
+    "category": "Noun",
+    "meaning_english": "Carpenter",
+    "meaning_bangla": "ছুতার"
+  },
+  {
+    "word_roman": "KHUNKUL",
+    "word_bangla": "খুনকুল",
+    "category": "Noun",
+    "meaning_english": "Up to the satisfaction",
+    "meaning_bangla": "সন্তুষ্টি পর্যন্ত"
+  },
+  {
+    "word_roman": "KHUCIDHARA",
+    "word_bangla": "খুচিধারা",
+    "category": "Noun",
+    "meaning_english": "Kidnapper of children",
+    "meaning_bangla": "শিশু অপহরণকারী"
+  },
+  {
+    "word_roman": "KHUCI",
+    "word_bangla": "খুচি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khucei",
+    "meaning_bangla": "খুচেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUJU",
+    "word_bangla": "খুজু",
+    "category": "Noun",
+    "meaning_english": "Weapon, instrument",
+    "meaning_bangla": "অস্ত্র, যন্ত্র"
+  },
+  {
+    "word_roman": "KHUCEI",
+    "word_bangla": "খুচেই",
+    "category": "Noun",
+    "meaning_english": "A small pitcher-shaped metal water-pot",
+    "meaning_bangla": "ছোট কলসি আকৃতির ধাতুর জলের পাত্র"
+  },
+  {
+    "word_roman": "KHUCEINAN",
+    "word_bangla": "খুচেইনান",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khuceinan",
+    "meaning_bangla": "খুচেইনান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUINTHA",
+    "word_bangla": "খুইনথা",
+    "category": "Noun",
+    "meaning_english": "Nail-cutter",
+    "meaning_bangla": "নখ কাটার যন্ত্র"
+  },
+  {
+    "word_roman": "KHUCPAPA",
+    "word_bangla": "খুচপাপা",
+    "category": "Adjective",
+    "meaning_english": "Ready at hand, in possession",
+    "meaning_bangla": "হাতের কাছে প্রস্তুত, দখলে"
+  },
+  {
+    "word_roman": "KHUJAK",
+    "word_bangla": "খুজাক",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "মুঠো"
+  },
+  {
+    "word_roman": "KHUJAP",
+    "word_bangla": "খুজাপ",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "মুঠো"
+  },
+  {
+    "word_roman": "KHUJAKI-KANA",
+    "word_bangla": "খুজাকি-কানা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khucaki-kana",
+    "meaning_bangla": "খুচাকি-কানা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUGANI",
+    "word_bangla": "খুগানি",
+    "category": "Noun",
+    "meaning_english": "(i) Seeking (ii) Marrying",
+    "meaning_bangla": "(i) খোঁজা (ii) বিয়ে করা"
+  },
+  {
+    "word_roman": "KHUNCAI",
+    "word_bangla": "খুনচাই",
+    "category": "Noun",
+    "meaning_english": "Earthen plate",
+    "meaning_bangla": "মাটির প্লেট"
+  },
+  {
+    "word_roman": "KHUTAK",
+    "word_bangla": "খুতাক",
+    "category": "Noun",
+    "meaning_english": "Small post or pillar",
+    "meaning_bangla": "ছোট খুঁটি বা স্তম্ভ"
+  },
+  {
+    "word_roman": "KHUTA",
+    "word_bangla": "খুতা",
+    "category": "Noun",
+    "meaning_english": "Peck",
+    "meaning_bangla": "ঠোকর"
+  },
+  {
+    "word_roman": "KHUTA",
+    "word_bangla": "খুতা",
+    "category": "Noun",
+    "meaning_english": "Blame",
+    "meaning_bangla": "দোষারোপ"
+  },
+  {
+    "word_roman": "KHUJA",
+    "word_bangla": "খুজা",
+    "category": "Verb",
+    "meaning_english": "To peck",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUTANI",
+    "word_bangla": "খুতানি",
+    "category": "Noun",
+    "meaning_english": "Pecking",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUTI",
+    "word_bangla": "খুতি",
+    "category": "Noun",
+    "meaning_english": "Post",
+    "meaning_bangla": "খুঁটি"
+  },
+  {
+    "word_roman": "KHUTINATI",
+    "word_bangla": "খুতিনাতি",
+    "category": "Noun",
+    "meaning_english": "Trifling things",
+    "meaning_bangla": "তুচ্ছ জিনিস"
+  },
+  {
+    "word_roman": "KHUTUP",
+    "word_bangla": "খুতুপ",
+    "category": "Noun",
+    "meaning_english": "A short pillar or post (used in a kiln)",
+    "meaning_bangla": "চুল্লিতে ব্যবহৃত ছোট খুঁটি"
+  },
+  {
+    "word_roman": "KHUTUPI",
+    "word_bangla": "খুতুপি",
+    "category": "Noun",
+    "meaning_english": "Pecker",
+    "meaning_bangla": "ঠোকর মারার যন্ত্র"
+  },
+  {
+    "word_roman": "KHUTEP",
+    "word_bangla": "খুতেপ",
+    "category": "Noun",
+    "meaning_english": "Short post (used in a kiln)",
+    "meaning_bangla": "চুল্লিতে ব্যবহৃত ছোট খুঁটি"
+  },
+  {
+    "word_roman": "KHUTAUNATAU",
+    "word_bangla": "খুতাউনাতাউ",
+    "category": "Adjective",
+    "meaning_english": "Dislocated, spoiled",
+    "meaning_bangla": "খসে যাওয়া, নষ্ট"
+  },
+  {
+    "word_roman": "KHUNTA",
+    "word_bangla": "খুন্তা",
+    "category": "Verb",
+    "meaning_english": "To peck",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUNTANI",
+    "word_bangla": "খুন্তানি",
+    "category": "Noun",
+    "meaning_english": "Pecking",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUT",
+    "word_bangla": "খুত",
+    "category": "Noun",
+    "meaning_english": "Defect",
+    "meaning_bangla": "ত্রুটি"
+  },
+  {
+    "word_roman": "KHUTAKHUTI",
+    "word_bangla": "খুতাখুতি",
+    "category": "Adjective",
+    "meaning_english": "Hesitant, peevish",
+    "meaning_bangla": "দ্বিধাগ্রস্ত, খিটখিটে"
+  },
+  {
+    "word_roman": "KHUTAP",
+    "word_bangla": "খুতাপ",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "মুঠো"
+  },
+  {
+    "word_roman": "KHUTITHI",
+    "word_bangla": "খুতিথি",
+    "category": "Adjective",
+    "meaning_english": "Fallen in an awkward or inconvenient position",
+    "meaning_bangla": "অসুবিধাজনক বা অস্বস্তিকর অবস্থানে পড়া"
+  },
+  {
+    "word_roman": "KHUTKTHUTA",
+    "word_bangla": "খুতকথুতা",
+    "category": "Verb",
+    "meaning_english": "To hesitate",
+    "meaning_bangla": "দ্বিধা করা"
+  },
+  {
+    "word_roman": "KHUTKHUTANI",
+    "word_bangla": "খুতখুতানি",
+    "category": "Noun",
+    "meaning_english": "Hesitating",
+    "meaning_bangla": "দ্বিধা করা"
+  },
+  {
+    "word_roman": "KHUTTAL",
+    "word_bangla": "খুত্তাল",
+    "category": "Noun",
+    "meaning_english": "Presentation",
+    "meaning_bangla": "উপস্থাপন"
+  },
+  {
+    "word_roman": "KHUTTA",
+    "word_bangla": "খুত্তা",
+    "category": "Noun",
+    "meaning_english": "Nature of the hand",
+    "meaning_bangla": "হাতের স্বভাব"
+  },
+  {
+    "word_roman": "KHUTTAN",
+    "word_bangla": "খুত্তান",
+    "category": "Noun",
+    "meaning_english": "Wrist",
+    "meaning_bangla": "কব্জি"
+  },
+  {
+    "word_roman": "KHUTTAM",
+    "word_bangla": "খুত্তাম",
+    "category": "Noun",
+    "meaning_english": "Movement of the hand (as of a drummer)",
+    "meaning_bangla": "হাতের নড়াচড়া (ঢোল বাজানোর মতো)"
+  },
+  {
+    "word_roman": "KHUTTEI",
+    "word_bangla": "খুত্তেই",
+    "category": "Noun",
+    "meaning_english": "Towel",
+    "meaning_bangla": "তোয়ালে"
+  },
+  {
+    "word_roman": "KHUTPAI",
+    "word_bangla": "খুতপাই",
+    "category": "Noun",
+    "meaning_english": "One who handles or desires to handle everything",
+    "meaning_bangla": "সবকিছু ধরতে বা সামলাতে চায় এমন ব্যক্তি"
+  },
+  {
+    "word_roman": "KHUTPTU",
+    "word_bangla": "খুত্পটু",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khuppu",
+    "meaning_bangla": "খুপ্পু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUD",
+    "word_bangla": "খুদ",
+    "category": "Noun",
+    "meaning_english": "Particles of rice",
+    "meaning_bangla": "চালের কণা"
+  },
+  {
+    "word_roman": "KHUDI",
+    "word_bangla": "খুদি",
+    "category": "Verb",
+    "meaning_english": "To find fault",
+    "meaning_bangla": "দোষ খুঁজে বের করা"
+  },
+  {
+    "word_roman": "KHUDURIYA",
+    "word_bangla": "খুদুরিয়া",
+    "category": "Noun",
+    "meaning_english": "A kind of edible plant",
+    "meaning_bangla": "খাদ্যযোগ্য উদ্ভিদ"
+  },
+  {
+    "word_roman": "KHUDENNA",
+    "word_bangla": "খুদেন্না",
+    "category": "Adjective",
+    "meaning_english": "A small turban",
+    "meaning_bangla": "ছোট পাগড়ি"
+  },
+  {
+    "word_roman": "KHUN",
+    "word_bangla": "খুন",
+    "category": "Noun",
+    "meaning_english": "Murder",
+    "meaning_bangla": "খুন"
+  },
+  {
+    "word_roman": "KHUNAKHUNI",
+    "word_bangla": "খুনাখুনি",
+    "category": "Noun",
+    "meaning_english": "Mutual killing, bloodshed",
+    "meaning_bangla": "পারস্পরিক খুন, রক্তপাত"
+  },
+  {
+    "word_roman": "KHUNAN",
+    "word_bangla": "খুনান",
+    "category": "Noun",
+    "meaning_english": "Coil of netted pieces of cane used for tightening the poles of a plough",
+    "meaning_bangla": "লাঙ্গলের খুঁটি শক্ত করার জন্য বেতের জালের কয়েল"
+  },
+  {
+    "word_roman": "KHUTA",
+    "word_bangla": "খুতা",
+    "category": "Noun",
+    "meaning_english": "Post",
+    "meaning_bangla": "খুঁটি"
+  },
+  {
+    "word_roman": "KHUTA",
+    "word_bangla": "খুতা",
+    "category": "Verb",
+    "meaning_english": "To peck",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUTANI",
+    "word_bangla": "খুতানি",
+    "category": "Noun",
+    "meaning_english": "Pecking",
+    "meaning_bangla": "ঠোকর মারা"
+  },
+  {
+    "word_roman": "KHUTTAK",
+    "word_bangla": "খুত্তাক",
+    "category": "Noun",
+    "meaning_english": "Small post or pillar",
+    "meaning_bangla": "ছোট খুঁটি বা স্তম্ভ"
+  },
+  {
+    "word_roman": "KHUTTAL",
+    "word_bangla": "খুত্তাল",
+    "category": "Noun",
+    "meaning_english": "Presentation",
+    "meaning_bangla": "উপস্থাপন"
+  },
+  {
+    "word_roman": "KHUTTA",
+    "word_bangla": "খুত্তা",
+    "category": "Noun",
+    "meaning_english": "Nature of the hand",
+    "meaning_bangla": "হাতের স্বভাব"
+  },
+  {
+    "word_roman": "KHUTTAN",
+    "word_bangla": "খুত্তান",
+    "category": "Noun",
+    "meaning_english": "Wrist",
+    "meaning_bangla": "কব্জি"
+  },
+  {
+    "word_roman": "KHUTTAM",
+    "word_bangla": "খুত্তাম",
+    "category": "Noun",
+    "meaning_english": "Movement of the hand (as of a drummer)",
+    "meaning_bangla": "হাতের নড়াচড়া (ঢোল বাজানোর মতো)"
+  },
+  {
+    "word_roman": "KHUTTEI",
+    "word_bangla": "খুত্তেই",
+    "category": "Noun",
+    "meaning_english": "Towel",
+    "meaning_bangla": "তোয়ালে"
+  },
+  {
+    "word_roman": "KHUTPAI",
+    "word_bangla": "খুতপাই",
+    "category": "Noun",
+    "meaning_english": "One who handles or desires to handle everything",
+    "meaning_bangla": "সবকিছু ধরতে বা সামলাতে চায় এমন ব্যক্তি"
+  },
+  {
+    "word_roman": "KHUTPTU",
+    "word_bangla": "খুত্পটু",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khuppu",
+    "meaning_bangla": "খুপ্পু-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHUD",
+    "word_bangla": "খুদ",
+    "category": "Noun",
+    "meaning_english": "Particles of rice",
+    "meaning_bangla": "চালের কণা"
+  },
+  {
+    "word_roman": "KHUDI",
+    "word_bangla": "খুদি",
+    "category": "Verb",
+    "meaning_english": "To find fault",
+    "meaning_bangla": "দোষ খুঁজে বের করা"
+  },
+  {
+    "word_roman": "KHUDURIYA",
+    "word_bangla": "খুদুরিয়া",
+    "category": "Noun",
+    "meaning_english": "A kind of edible plant",
+    "meaning_bangla": "খাদ্যযোগ্য উদ্ভিদ"
+  },
+  {
+    "word_roman": "KHUDENNA",
+    "word_bangla": "খুদেন্না",
+    "category": "Adjective",
+    "meaning_english": "A small turban",
+    "meaning_bangla": "ছোট পাগড়ি"
+  },
+  {
+    "word_roman": "KHUN",
+    "word_bangla": "খুন",
+    "category": "Noun",
+    "meaning_english": "Murder",
+    "meaning_bangla": "খুন"
+  },
+  {
+    "word_roman": "KHUNAKHUNI",
+    "word_bangla": "খুনাখুনি",
+    "category": "Noun",
+    "meaning_english": "Mutual killing, bloodshed",
+    "meaning_bangla": "পারস্পরিক খুন, রক্তপাত"
+  },
+  {
+    "word_roman": "KHUNAN",
+    "word_bangla": "খুনান",
+    "category": "Noun",
+    "meaning_english": "Coil of netted pieces of cane used for tightening the poles of a plough",
+    "meaning_bangla": "লাঙ্গলের খুঁটি শক্ত করার জন্য বেতের জালের কয়েল"
+  },
+  {
+    "word_roman": "KHURAKI",
+    "word_bangla": "খুরাকি",
+    "category": "Verb",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "KHURANI",
+    "word_bangla": "খুরানি",
+    "category": "Noun",
+    "meaning_english": "Shaving",
+    "meaning_bangla": "দাড়ি কামানো"
+  },
+  {
+    "word_roman": "KHURUP",
+    "word_bangla": "খুরুপ",
+    "category": "Noun",
+    "meaning_english": "Horse-race",
+    "meaning_bangla": "ঘোড়দৌড়"
+  },
+  {
+    "word_roman": "KHURUM",
+    "word_bangla": "খুরুম",
+    "category": "Noun",
+    "meaning_english": "Headlong collision (of animals)",
+    "meaning_bangla": "পশুর মাথা ঠোকানো"
+  },
+  {
+    "word_roman": "KHURUM",
+    "word_bangla": "খুরুম",
+    "category": "Noun",
+    "meaning_english": "Turn",
+    "meaning_bangla": "পালা"
+  },
+  {
+    "word_roman": "KHUREI",
+    "word_bangla": "খুরেই",
+    "category": "Noun",
+    "meaning_english": "Foot",
+    "meaning_bangla": "পা"
+  },
+  {
+    "word_roman": "KHURETPA",
+    "word_bangla": "খুরেত্পা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khuratpa",
+    "meaning_bangla": "খুরাত্পা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHURPI",
+    "word_bangla": "খুরপি",
+    "category": "Noun",
+    "meaning_english": "A small spud",
+    "meaning_bangla": "ছোট কোদাল"
+  },
+  {
+    "word_roman": "KHURMA",
+    "word_bangla": "খুর্মা",
+    "category": "Noun",
+    "meaning_english": "A kind of sweet",
+    "meaning_bangla": "এক ধরনের মিষ্টি"
+  },
+  {
+    "word_roman": "KHURANAK",
+    "word_bangla": "খুরানাক",
+    "category": "Adjective",
+    "meaning_english": "Related as the aunt",
+    "meaning_bangla": "খুড়ির মতো সম্পর্কযুক্ত"
+  },
+  {
+    "word_roman": "KHURA",
+    "word_bangla": "খুরা",
+    "category": "Noun",
+    "meaning_english": "Uncle",
+    "meaning_bangla": "খুড়ো"
+  },
+  {
+    "word_roman": "KHURA",
+    "word_bangla": "খুরা",
+    "category": "Noun",
+    "meaning_english": "Aunt",
+    "meaning_bangla": "খুড়ি"
+  },
+  {
+    "word_roman": "KHURTAK",
+    "word_bangla": "খুর্তাক",
+    "category": "Adjective",
+    "meaning_english": "Related as the uncle",
+    "meaning_bangla": "খুড়োর মতো সম্পর্কযুক্ত"
+  },
+  {
+    "word_roman": "KHUL",
+    "word_bangla": "খুল",
+    "category": "Verb",
+    "meaning_english": "To open",
+    "meaning_bangla": "খোলা"
+  },
+  {
+    "word_roman": "KHULA",
+    "word_bangla": "খুলা",
+    "category": "Adjective",
+    "meaning_english": "(i) Open (ii) Frank, clear",
+    "meaning_bangla": "(i) খোলা (ii) স্পষ্ট, পরিষ্কার"
+  },
+  {
+    "word_roman": "KHULA",
+    "word_bangla": "খুলা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khulla",
+    "meaning_bangla": "খুল্লা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHULA",
+    "word_bangla": "খুলা",
+    "category": "Noun",
+    "meaning_english": "The act of digging",
+    "meaning_bangla": "খোঁড়ার কাজ"
+  },
+  {
+    "word_roman": "KHULAHUKI",
+    "word_bangla": "খুলাহুকি",
+    "category": "Adjective",
+    "meaning_english": "Frankly, openly",
+    "meaning_bangla": "স্পষ্টভাবে, খোলাখুলি"
+  },
+  {
+    "word_roman": "KHULANI",
+    "word_bangla": "খুলানি",
+    "category": "Noun",
+    "meaning_english": "Opening",
+    "meaning_bangla": "খোলা"
+  },
+  {
+    "word_roman": "KHULANI",
+    "word_bangla": "খুলানি",
+    "category": "Noun",
+    "meaning_english": "Digging",
+    "meaning_bangla": "খোঁড়া"
+  },
+  {
+    "word_roman": "KHULASA",
+    "word_bangla": "খুলাসা",
+    "category": "Adjective",
+    "meaning_english": "Clear, frank",
+    "meaning_bangla": "পরিষ্কার, স্পষ্ট"
+  },
+  {
+    "word_roman": "KHULUPEI",
+    "word_bangla": "খুলুপেই",
+    "category": "Noun",
+    "meaning_english": "Beggar",
+    "meaning_bangla": "ভিখারি"
+  },
+  {
+    "word_roman": "KHULLA",
+    "word_bangla": "খুল্লা",
+    "category": "Adjective",
+    "meaning_english": "Younger",
+    "meaning_bangla": "ছোট"
+  },
+  {
+    "word_roman": "KHULLAI(M)",
+    "word_bangla": "খুল্লাই(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khullei",
+    "meaning_bangla": "খুল্লেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHULLAK",
+    "word_bangla": "খুল্লাক",
+    "category": "Noun",
+    "meaning_english": "Village",
+    "meaning_bangla": "গ্রাম"
+  },
+  {
+    "word_roman": "KHULLAKPA",
+    "word_bangla": "খুল্লাকপা",
+    "category": "Noun",
+    "meaning_english": "The head of a village",
+    "meaning_bangla": "গ্রামের প্রধান"
+  },
+  {
+    "word_roman": "KHULLI",
+    "word_bangla": "খুল্লি",
+    "category": "Noun",
+    "meaning_english": "Younger (fem.)",
+    "meaning_bangla": "ছোট (স্ত্রীলিঙ্গ)"
+  },
+  {
+    "word_roman": "KHULLEI",
+    "word_bangla": "খুল্লেই",
+    "category": "Noun",
+    "meaning_english": "Influenza",
+    "meaning_bangla": "ফ্লু"
+  },
+  {
+    "word_roman": "KHULLEI",
+    "word_bangla": "খুল্লেই",
+    "category": "Noun",
+    "meaning_english": "The hole (of the ear)",
+    "meaning_bangla": "কানের ছিদ্র"
+  },
+  {
+    "word_roman": "KHULLEI",
+    "word_bangla": "খুল্লেই",
+    "category": "Noun",
+    "meaning_english": "Weapon, instrument",
+    "meaning_bangla": "অস্ত্র, যন্ত্র"
+  },
+  {
+    "word_roman": "KHULLEIPA",
+    "word_bangla": "খুল্লেইপা",
+    "category": "Noun",
+    "meaning_english": "Carpenter",
+    "meaning_bangla": "ছুতার"
+  },
+  {
+    "word_roman": "KHUSI",
+    "word_bangla": "খুশি",
+    "category": "Adjective",
+    "meaning_english": "Satisfied, pleased",
+    "meaning_bangla": "সন্তুষ্ট, খুশি"
+  },
+  {
+    "word_roman": "KHUSAMUDI",
+    "word_bangla": "খুসামুদি",
+    "category": "Noun",
+    "meaning_english": "Flattery",
+    "meaning_bangla": "চাটুকারিতা"
+  },
+  {
+    "word_roman": "KHEI",
+    "word_bangla": "খেই",
+    "category": "Noun",
+    "meaning_english": "Separation",
+    "meaning_bangla": "বিচ্ছেদ"
+  },
+  {
+    "word_roman": "KHEICAK",
+    "word_bangla": "খেইচাক",
+    "category": "Noun",
+    "meaning_english": "Division",
+    "meaning_bangla": "বিভাজন"
+  },
+  {
+    "word_roman": "KHEINA-KHEINI",
+    "word_bangla": "খেইনা-খেইনি",
+    "category": "Noun",
+    "meaning_english": "Separative mentality",
+    "meaning_bangla": "বিচ্ছেদমূলক মানসিকতা"
+  },
+  {
+    "word_roman": "KHEINAPA",
+    "word_bangla": "খেইনাপা",
+    "category": "Adjective",
+    "meaning_english": "Divorced (masc.)",
+    "meaning_bangla": "বিবাহবিচ্ছেদপ্রাপ্ত (পুরুষ)"
+  },
+  {
+    "word_roman": "KHEINAPI",
+    "word_bangla": "খেইনাপি",
+    "category": "Adjective",
+    "meaning_english": "Divorced (fem.)",
+    "meaning_bangla": "বিবাহবিচ্ছেদপ্রাপ্ত (মহিলা)"
+  },
+  {
+    "word_roman": "KHEIPAK",
+    "word_bangla": "খেইপাক",
+    "category": "Noun",
+    "meaning_english": "Half",
+    "meaning_bangla": "অর্ধেক"
+  },
+  {
+    "word_roman": "KHEIPA",
+    "word_bangla": "খেইপা",
+    "category": "Noun",
+    "meaning_english": "Separation",
+    "meaning_bangla": "বিচ্ছেদ"
+  },
+  {
+    "word_roman": "KHEBU",
+    "word_bangla": "খেবু",
+    "category": "Noun",
+    "meaning_english": "The act of pulling or pushing a fishing net",
+    "meaning_bangla": "মাছ ধরার জাল টানা বা ঠেলার কাজ"
+  },
+  {
+    "word_roman": "KHULUNA",
+    "word_bangla": "খুলুনা",
+    "category": "Noun",
+    "meaning_english": "Boat-race",
+    "meaning_bangla": "নৌকা দৌড়"
+  },
+  {
+    "word_roman": "KHEN",
+    "word_bangla": "খেন",
+    "category": "Adjective",
+    "meaning_english": "Sharp, acute (sound)",
+    "meaning_bangla": "তীক্ষ্ণ, তীব্র (শব্দ)"
+  },
+  {
+    "word_roman": "KHEC",
+    "word_bangla": "খেচ",
+    "category": "Verb",
+    "meaning_english": "(i) To do up to one's satisfaction (ii) To get in abundance",
+    "meaning_bangla": "(i) সন্তুষ্টি অনুসারে করা (ii) প্রচুর পাওয়া"
+  },
+  {
+    "word_roman": "KHECA",
+    "word_bangla": "খেচা",
+    "category": "Adjective",
+    "meaning_english": "Plentiful, abundant",
+    "meaning_bangla": "প্রচুর, প্রাচুর্যময়"
+  },
+  {
+    "word_roman": "KHECURI",
+    "word_bangla": "খেচুরি",
+    "category": "Noun",
+    "meaning_english": "Chow-chow",
+    "meaning_bangla": "চাউচাউ"
+  },
+  {
+    "word_roman": "KHECMAT",
+    "word_bangla": "খেচমাত",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khesmat",
+    "meaning_bangla": "খেসমত-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHEJUR",
+    "word_bangla": "খেজুর",
+    "category": "Noun",
+    "meaning_english": "Date-palm",
+    "meaning_bangla": "খেজুর গাছ"
+  },
+  {
+    "word_roman": "KHETKHETA",
+    "word_bangla": "খেটখেটা",
+    "category": "Verb",
+    "meaning_english": "To entreat with importunity",
+    "meaning_bangla": "জিদ করে অনুরোধ করা"
+  },
+  {
+    "word_roman": "KHETKHETANI",
+    "word_bangla": "খেটখেটানি",
+    "category": "Noun",
+    "meaning_english": "Entreating with importunity",
+    "meaning_bangla": "জিদ করে অনুরোধ করা"
+  },
+  {
+    "word_roman": "KHET",
+    "word_bangla": "খেট",
+    "category": "Noun",
+    "meaning_english": "The act of erasing",
+    "meaning_bangla": "মুছে ফেলার কাজ"
+  },
+  {
+    "word_roman": "KHETI",
+    "word_bangla": "খেতি",
+    "category": "Noun",
+    "meaning_english": "(i) Cultivation (ii) Field",
+    "meaning_bangla": "(i) চাষাবাদ (ii) ক্ষেত্র"
+  },
+  {
+    "word_roman": "KHETRI",
+    "word_bangla": "খেত্রি",
+    "category": "Noun",
+    "meaning_english": "Kshatriya caste",
+    "meaning_bangla": "ক্ষত্রিয় জাতি"
+  },
+  {
+    "word_roman": "KHED",
+    "word_bangla": "খেদ",
+    "category": "Verb",
+    "meaning_english": "To drive away",
+    "meaning_bangla": "তাড়ানো"
+  },
+  {
+    "word_roman": "KHEDAN",
+    "word_bangla": "খেদান",
+    "category": "Noun",
+    "meaning_english": "The act of driving away",
+    "meaning_bangla": "তাড়ানোর কাজ"
+  },
+  {
+    "word_roman": "KHEDA",
+    "word_bangla": "খেদা",
+    "category": "Noun",
+    "meaning_english": "Chase",
+    "meaning_bangla": "তাড়া"
+  },
+  {
+    "word_roman": "KHEDANI",
+    "word_bangla": "খেদানি",
+    "category": "Noun",
+    "meaning_english": "Driving",
+    "meaning_bangla": "তাড়ানো"
+  },
+  {
+    "word_roman": "KHENDARI",
+    "word_bangla": "খেন্দারি",
+    "category": "Noun",
+    "meaning_english": "Boat-race",
+    "meaning_bangla": "নৌকা দৌড়"
+  },
+  {
+    "word_roman": "KHEP",
+    "word_bangla": "খেপ",
+    "category": "Noun",
+    "meaning_english": "(i) The act of surrounding (ii) Opportunity",
+    "meaning_bangla": "(i) ঘিরে ফেলার কাজ (ii) সুযোগ"
+  },
+  {
+    "word_roman": "KHEPA",
+    "word_bangla": "খেপা",
+    "category": "Verb",
+    "meaning_english": "To provoke",
+    "meaning_bangla": "উত্তেজিত করা"
+  },
+  {
+    "word_roman": "KHEPAT",
+    "word_bangla": "খেপাত",
+    "category": "Noun",
+    "meaning_english": "A cut",
+    "meaning_bangla": "কাটা"
+  },
+  {
+    "word_roman": "KHEPANI",
+    "word_bangla": "খেপানি",
+    "category": "Noun",
+    "meaning_english": "Gaining excessively",
+    "meaning_bangla": "অতিরিক্ত লাভ করা"
+  },
+  {
+    "word_roman": "KHEPANI",
+    "word_bangla": "খেপানি",
+    "category": "Noun",
+    "meaning_english": "Provoking",
+    "meaning_bangla": "উত্তেজিত করা"
+  },
+  {
+    "word_roman": "KHEM",
+    "word_bangla": "খেম",
+    "category": "Noun",
+    "meaning_english": "Twig",
+    "meaning_bangla": "ডাল"
+  },
+  {
+    "word_roman": "KHEMETA",
+    "word_bangla": "খেমতা",
+    "category": "Noun",
+    "meaning_english": "Ability, power",
+    "meaning_bangla": "ক্ষমতা, শক্তি"
+  },
+  {
+    "word_roman": "KHEMA",
+    "word_bangla": "খেমা",
+    "category": "Noun",
+    "meaning_english": "End, restraint",
+    "meaning_bangla": "শেষ, সংযম"
+  },
+  {
+    "word_roman": "KHEMA",
+    "word_bangla": "খেমা",
+    "category": "Noun",
+    "meaning_english": "Excuse",
+    "meaning_bangla": "ওজর"
+  },
+  {
+    "word_roman": "KHEMI",
+    "word_bangla": "খেমি",
+    "category": "Noun",
+    "meaning_english": "Twig",
+    "meaning_bangla": "ডাল"
+  },
+  {
+    "word_roman": "KHEWA",
+    "word_bangla": "খেওয়া",
+    "category": "Noun",
+    "meaning_english": "Ferry",
+    "meaning_bangla": "ঘাট"
+  },
+  {
+    "word_roman": "KHEWANI(M)",
+    "word_bangla": "খেওয়ানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Ferry-man",
+    "meaning_bangla": "নৌকার মাঝি"
+  },
+  {
+    "word_roman": "KHERAI(M)",
+    "word_bangla": "খেরাই(ম)",
+    "category": "Noun",
+    "meaning_english": "Squirrel",
+    "meaning_bangla": "কাঠবিড়ালি"
+  },
+  {
+    "word_roman": "KHERI",
+    "word_bangla": "খেরি",
+    "category": "Noun",
+    "meaning_english": "Bowl",
+    "meaning_bangla": "বাটি"
+  },
+  {
+    "word_roman": "KHERIMBERI",
+    "word_bangla": "খেরিম্বেরি",
+    "category": "Noun",
+    "meaning_english": "A matter of joke",
+    "meaning_bangla": "মজার বিষয়"
+  },
+  {
+    "word_roman": "KHERENDA(M)",
+    "word_bangla": "খেরেন্দা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khedari",
+    "meaning_bangla": "খেদারি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHERMACI",
+    "word_bangla": "খেরমাচি",
+    "category": "Noun",
+    "meaning_english": "Velvet",
+    "meaning_bangla": "মখমল"
+  }
 ]
