@@ -9951,5 +9951,538 @@
     "category": "Noun",
     "meaning_english": "Abusing",
     "meaning_bangla": "গালি দেওয়া"
-  }
+  },
+  {
+  "word_roman": "Pisede",
+  "word_bangla": "পিসেদে",
+  "category": "",
+  "meaning_english": "Later",
+  "meaning_bangla": "পড়ে"
+},
+{
+  "word_roman": "Peirak",
+  "word_bangla": "পেইরাক",
+  "category": "",
+  "meaning_english": "Suddenly",
+  "meaning_bangla": "হঠাৎ"
+},
+{
+  "word_roman": "luhong",
+  "word_bangla": "লুহোং",
+  "category": "noun",
+  "meaning_english": "Marriage",
+  "meaning_bangla": "বিয়"
+},
+{
+  "word_roman": "Daman",
+  "word_bangla": "দামান",
+  "category": "Noun",
+  "meaning_english": "Groom",
+  "meaning_bangla": "বর"
+},
+{
+  "word_roman": "Dwar",
+  "word_bangla": "দ্বার",
+  "category": "Noun",
+  "meaning_english": "Door",
+  "meaning_bangla": "দরজা"
+},
+{
+  "word_roman": "Wahi",
+  "word_bangla": "ওয়াহি",
+  "category": "Noun",
+  "meaning_english": "Word, Sound",
+  "meaning_bangla": "শব্দ"
+},
+{
+  "word_roman": "Tai tai",
+  "word_bangla": "তাই",
+  "category": "Pronoun",
+  "meaning_english": "Myself",
+  "meaning_bangla": "নিজে নিজে"
+}
+{
+  "word_roman": "Beli",
+  "word_bangla": "বেলি",
+  "category": "Noun",
+  "meaning_english": "Sun",
+  "meaning_bangla": "সূর্য"
+},
+{
+  "word_roman": "Junak",
+  "word_bangla": "জুনাক",
+  "category": "Noun",
+  "meaning_english": "Moon",
+  "meaning_bangla": "চাঁদ"
+},
+{
+  "word_roman": "Hakh",
+  "word_bangla": "হাখ",
+  "category": "Noun",
+  "meaning_english": "Sky",
+  "meaning_bangla": "আকাশ"
+},
+{
+  "word_roman": "Bou",
+  "word_bangla": "বৌ",
+  "category": "Noun",
+  "meaning_english": "Air",
+  "meaning_bangla": "বাতাস"
+},
+{
+  "word_roman": "Boron",
+  "word_bangla": "বরোন",
+  "category": "Noun",
+  "meaning_english": "Rain",
+  "meaning_bangla": "বৃষ্টি"
+},
+{
+  "word_roman": "Ji",
+  "word_bangla": "জী",
+  "category": "Noun",
+  "meaning_english": "Fire",
+  "meaning_bangla": "আগুন"
+},
+{
+  "word_roman": "Tengara",
+  "word_bangla": "তেঙাড়া",
+  "category": "Noun",
+  "meaning_english": "Mountain",
+  "meaning_bangla": "পাহাড়"
+},
+{
+  "word_roman": "light",
+  "word_bangla": "দৌজিল",
+  "category": "Noun",
+  "meaning_english": "Light",
+  "meaning_bangla": "বিদ্যুো"
+},
+{
+  "word_roman": "Sora",
+  "word_bangla": "সোরা",
+  "category": "Noun",
+  "meaning_english": "River",
+  "meaning_bangla": "নদী"
+},
+{
+  "word_roman": "Hil",
+  "word_bangla": "হিল",
+  "category": "Noun",
+  "meaning_english": "Stone",
+  "meaning_bangla": "পাথর"
+},
+{
+  "word_roman": "Daru",
+  "word_bangla": "দারউ",
+  "category": "Noun",
+  "meaning_english": "Wood",
+  "meaning_bangla": "কাঠ"
+},
+{
+  "word_roman": "Paiha",
+  "word_bangla": "পাইহা",
+  "category": "Noun",
+  "meaning_english": "Bird",
+  "meaning_bangla": "পাখি"
+},
+{
+  "word_roman": "Pok",
+  "word_bangla": "পোক",
+  "category": "Noun",
+  "meaning_english": "Insect",
+  "meaning_bangla": "পোকা"
+},
+{
+  "word_roman": "Gajjar",
+  "word_bangla": "গাজ্জার",
+  "category": "Noun",
+  "meaning_english": "Tree",
+  "meaning_bangla": "গাছ"
+},
+```json
+{
+  "word_roman": "Migal",
+  "word_bangla": "মিঙাল",
+  "category": "Noun",
+  "meaning_english": "Light",
+  "meaning_bangla": "আলো"
+},
+{
+  "word_roman": "Mam",
+  "word_bangla": "মাম",
+  "category": "Noun",
+  "meaning_english": "Dark",
+  "meaning_bangla": "অন্ধকার"
+},
+{
+  "word_roman": "Lengoi",
+  "word_bangla": "লেঙই",
+  "category": "Noun",
+  "meaning_english": "Sand",
+  "meaning_bangla": "বালি"
+},
+{
+  "word_roman": "Khowa",
+  "word_bangla": "খোয়া",
+  "category": "Noun",
+  "meaning_english": "Fog",
+  "meaning_bangla": "কুয়াশা"
+},
+{
+  "word_roman": "Eshang",
+  "word_bangla": "এসাং",
+  "category": "Noun",
+  "meaning_english": "Moss",
+  "meaning_bangla": "শেওলা"
+},
+{
+  "word_roman": "Bembul",
+  "word_bangla": "বেম্বুল",
+  "category": "Noun",
+  "meaning_english": "Bee",
+  "meaning_bangla": "মৌমাছি"
+},
+{
+  "word_roman": "Puhuri",
+  "word_bangla": "পোহোরি",
+  "category": "Noun",
+  "meaning_english": "Pond",
+  "meaning_bangla": "পুকুর"
+},
+{
+  "word_roman": "Ranga",
+  "word_bangla": "রাঙাআ",
+  "category": "Adjective",
+  "meaning_english": "Red",
+  "meaning_bangla": "লাল"
+},
+{
+  "word_roman": "Sanglel",
+  "word_bangla": "সাংলেল",
+  "category": "Adjective",
+  "meaning_english": "Green",
+  "meaning_bangla": "সবুজ"
+},
+{
+  "word_roman": "Nilowa",
+  "word_bangla": "নিলওয়া",
+  "category": "Adjective",
+  "meaning_english": "Blue",
+  "meaning_bangla": "নীল"
+},
+{
+  "word_roman": "Napu",
+  "word_bangla": "নাপু",
+  "category": "Adjective",
+  "meaning_english": "Orange",
+  "meaning_bangla": "কমলা"
+},
+{
+  "word_roman": "Andi",
+  "word_bangla": "আান্দি",
+  "category": "Adjective",
+  "meaning_english": "Yellow",
+  "meaning_bangla": "হলুদ"
+},
+{
+  "word_roman": "Beinongi",
+  "word_bangla": "বেইনোংঈ",
+  "category": "Adjective",
+  "meaning_english": "Purple",
+  "meaning_bangla": "বেগুনি"
+},
+{
+  "word_roman": "Dola",
+  "word_bangla": "দোল্লা",
+  "category": "Adjective",
+  "meaning_english": "White",
+  "meaning_bangla": "সাদা"
+},
+{
+  "word_roman": "daily",
+  "word_bangla": "নিক্কা",
+  "category": "Adverb",
+  "meaning_english": "Daily",
+  "meaning_bangla": "প্রতিদিন"
+},
+{
+  "word_roman": "Lep",
+  "word_bangla": "লেপ",
+  "category": "Adjective",
+  "meaning_english": "Sure",
+  "meaning_bangla": "নিশ্চিত"
+},
+{
+  "word_roman": "Kutha",
+  "word_bangla": "কুথা",
+  "category": "Noun",
+  "meaning_english": "Room",
+  "meaning_bangla": "ঘর"
+},
+{
+  "word_roman": "Upu",
+  "word_bangla": "উপু",
+  "category": "Noun",
+  "meaning_english": "Trunk",
+  "meaning_bangla": "কাণ্ড"
+},
+{
+  "word_roman": "Oja",
+  "word_bangla": "ওজা",
+  "category": "Noun",
+  "meaning_english": "Master, teacher",
+  "meaning_bangla": "ওস্তাদ, শিক্ষক"
+},
+{
+  "word_roman": "Pou",
+  "word_bangla": "পৌ",
+  "category": "Noun",
+  "meaning_english": "News",
+  "meaning_bangla": "খবর"
+},
+{
+  "word_roman": "Chenchura",
+  "word_bangla": "চেন্চুরা",
+  "category": "Noun",
+  "meaning_english": "Sparrow",
+  "meaning_bangla": "চড়ুই পাখি"
+},
+{
+  "word_roman": "Langtiya",
+  "word_bangla": "লাংটিয়া",
+  "category": "Noun",
+  "meaning_english": "Vulture",
+  "meaning_bangla": "শকুন"
+},
+{
+  "word_roman": "Makku",
+  "word_bangla": "মাক্কু",
+  "category": "Noun",
+  "meaning_english": "Owl",
+  "meaning_bangla": "পেঁচা"
+},
+{
+  "word_roman": "Sekpi",
+  "word_bangla": "সেকপি",
+  "category": "Noun",
+  "meaning_english": "Bat",
+  "meaning_bangla": "বাদুড়"
+},
+{
+  "word_roman": "Parou",
+  "word_bangla": "পারৌ",
+  "category": "Noun",
+  "meaning_english": "Pigeon",
+  "meaning_bangla": "পায়রা"
+},
+{
+  "word_roman": "Cherou",
+  "word_bangla": "চেরৌ",
+  "category": "Noun",
+  "meaning_english": "Myna",
+  "meaning_bangla": "শালিক"
+},
+{
+  "word_roman": "Ruk Khutun",
+  "word_bangla": "রুক খুটুনি",
+  "category": "Noun",
+  "meaning_english": "Woodpecker",
+  "meaning_bangla": "কাঠঠোকরা"
+},
+{
+  "word_roman": "Thar",
+  "word_bangla": "থার",
+  "category": "Noun",
+  "meaning_english": "Language",
+  "meaning_bangla": "ভাষা"
+},
+{
+  "word_roman": "sing",
+  "word_bangla": "সিং",
+  "category": "Adjective",
+  "meaning_english": "Clever, smart",
+  "meaning_bangla": "চালাক"
+},
+{
+  "word_roman": "Tengra",
+  "word_bangla": "তেঙাড়া",
+  "category": "Noun",
+  "meaning_english": "Mountain",
+  "meaning_bangla": "পাহাড়"
+},
+{
+  "word_roman": "Apang",
+  "word_bangla": "আপাং",
+  "category": "Adjective",
+  "meaning_english": "Foolish, stupid",
+  "meaning_bangla": "বুদ্ধু"
+},
+{
+  "word_roman": "Waisang",
+  "word_bangla": "ওয়াইসাং",
+  "category": "Noun",
+  "meaning_english": "Peace",
+  "meaning_bangla": "শান্তি"
+},
+{
+  "word_roman": "sang",
+  "word_bangla": "সেং",
+  "category": "Adjective",
+  "meaning_english": "Clean",
+  "meaning_bangla": "সাফ"
+},
+{
+  "word_roman": "Lit",
+  "word_bangla": "লিত",
+  "category": "Noun",
+  "meaning_english": "Across",
+  "meaning_bangla": "পার"
+},
+{
+  "word_roman": "youkorani",
+  "word_bangla": "য়ুকোরানি",
+  "category": "Verb",
+  "meaning_english": "Use",
+  "meaning_bangla": "ব্যবহার করা"
+},
+{
+  "word_roman": "chongdani",
+  "word_bangla": "চোঙদানি",
+  "category": "Verb",
+  "meaning_english": "Jump",
+  "meaning_bangla": "লাফানো"
+},
+{
+  "word_roman": "aangkorani",
+  "word_bangla": "আঙকোরানি",
+  "category": "Verb",
+  "meaning_english": "Open",
+  "meaning_bangla": "খোলা"
+},
+{
+  "word_roman": "jipani",
+  "word_bangla": "জিপানি",
+  "category": "Verb",
+  "meaning_english": "Close",
+  "meaning_bangla": "বন্ধ করা"
+},
+{
+  "word_roman": "ekorani",
+  "word_bangla": "একোরানি",
+  "category": "Verb",
+  "meaning_english": "Write",
+  "meaning_bangla": "লেখা"
+},
+{
+  "word_roman": "douoni",
+  "word_bangla": "দোউনি",
+  "category": "Verb",
+  "meaning_english": "Die",
+  "meaning_bangla": "মারা যাওয়া"
+},
+{
+  "word_roman": "potani",
+  "word_bangla": "পোতানি",
+  "category": "Verb",
+  "meaning_english": "Change",
+  "meaning_bangla": "বদলানো"
+},
+{
+  "word_roman": "khedani",
+  "word_bangla": "খেদানি",
+  "category": "Verb",
+  "meaning_english": "Flee",
+  "meaning_bangla": "পলায়ন করা"
+},
+{
+  "word_roman": "Pious",
+  "word_bangla": "পিওস",
+  "category": "Noun",
+  "meaning_english": "Onion",
+  "meaning_bangla": "পেঁয়াজ"
+},
+{
+  "word_roman": "Rohon",
+  "word_bangla": "রোহন",
+  "category": "Noun",
+  "meaning_english": "Garlic",
+  "meaning_bangla": "রসুন"
+},
+{
+  "word_roman": "Berendi",
+  "word_bangla": "বেরেন্দি",
+  "category": "Noun",
+  "meaning_english": "Okra, Lady's finger",
+  "meaning_bangla": "ঢেঁড়স"
+},
+{
+  "word_roman": "Beinong",
+  "word_bangla": "বেইনোং",
+  "category": "Noun",
+  "meaning_english": "Brinjal, Eggplant",
+  "meaning_bangla": "বেগুন"
+},
+{
+  "word_roman": "Longchak",
+  "word_bangla": "লোংচাক",
+  "category": "Noun",
+  "meaning_english": "Stink bean",
+  "meaning_bangla": "উচ্ছি"
+},
+{
+  "word_roman": "Choha-beinong",
+  "word_bangla": "চোহাবেইনোং",
+  "category": "Noun",
+  "meaning_english": "Tomato",
+  "meaning_bangla": "টমেটো"
+},
+{
+  "word_roman": "Moksi",
+  "word_bangla": "মোকশি",
+  "category": "Noun",
+  "meaning_english": "Chilli",
+  "meaning_bangla": "লঙ্কা, মরিচ"
+},
+{
+  "word_roman": "lingkhat",
+  "word_bangla": "লিংখাত",
+  "category": "Verb",
+  "meaning_english": "Establish",
+  "meaning_bangla": "প্রতিষ্ঠা করা"
+},
+{
+  "word_roman": "lushing",
+  "word_bangla": "লুশিং",
+  "category": "Noun",
+  "meaning_english": "Intellect",
+  "meaning_bangla": "বুদ্ধি, মেধা"
+},
+{
+  "word_roman": "althok",
+  "word_bangla": "অলথোক",
+  "category": "Verb",
+  "meaning_english": "Return",
+  "meaning_bangla": "ফিরে আসা"
+},
+{
+  "word_roman": "seikhat",
+  "word_bangla": "সেইখাত",
+  "category": "Adverb",
+  "meaning_english": "Actually",
+  "meaning_bangla": "আসলে, প্রকৃতপক্ষে"
+},
+{
+  "word_roman": "singlei",
+  "word_bangla": "সিংলেই",
+  "category": "Noun",
+  "meaning_english": "Veins",
+  "meaning_bangla": "শিরা"
+},
+{
+  "word_roman": "matam",
+  "word_bangla": "মাতাম",
+  "category": "Noun",
+  "meaning_english": "Moment",
+  "meaning_bangla": "মুহূর্ত"
+}
 ]
