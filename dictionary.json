@@ -10484,5 +10484,75 @@
   "category": "Noun",
   "meaning_english": "Moment",
   "meaning_bangla": "মুহূর্ত"
+ },
+  {
+  "word_roman": "Ago",
+  "word_bangla": "আগো",
+  "category": "Numeral",
+  "meaning_english": "One",
+  "meaning_bangla": "এক"
+},
+{
+  "word_roman": "Dugo",
+  "word_bangla": "দুগো",
+  "category": "Numeral",
+  "meaning_english": "Two",
+  "meaning_bangla": "দুই"
+},
+{
+  "word_roman": "Tingo",
+  "word_bangla": "তিনগো",
+  "category": "Numeral",
+  "meaning_english": "Three",
+  "meaning_bangla": "তিন"
+},
+{
+  "word_roman": "Charigo",
+  "word_bangla": "চারিগো",
+  "category": "Numeral",
+  "meaning_english": "Four",
+  "meaning_bangla": "চার"
+},
+{
+  "word_roman": "Akkurigo",
+  "word_bangla": "আক্কুরিগো",
+  "category": "Numeral",
+  "meaning_english": "Twenty",
+  "meaning_bangla": "বিশ"
+},
+{
+  "word_roman": "Dikurigo",
+  "word_bangla": "দিকুরিগো",
+  "category": "Numeral",
+  "meaning_english": "Forty",
+  "meaning_bangla": "চল্লিশ"
+},
+{
+  "word_roman": "Yangkei",
+  "word_bangla": "য়াংখেই",
+  "category": "Numeral",
+  "meaning_english": "Fifty",
+  "meaning_bangla": "পঞ্চাশ"
+},
+{
+  "word_roman": "Ahou",
+  "word_bangla": "আহৌ",
+  "category": "Numeral",
+  "meaning_english": "One hundred",
+  "meaning_bangla": "একশো"
+},
+{
+  "word_roman": "Dihou",
+  "word_bangla": "দিহৌ",
+  "category": "Numeral",
+  "meaning_english": "Two hundred",
+  "meaning_bangla": "দুইশো"
+},
+{
+  "word_roman": "Lishing",
+  "word_bangla": "লিশিং",
+  "category": "Numeral",
+  "meaning_english": "One thousand",
+  "meaning_bangla": "এক হাজার"
 }
 ]
