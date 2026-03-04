@@ -19072,5 +19072,950 @@
     "category": "Noun",
     "meaning_english": "Shadow",
     "meaning_bangla": "ছায়া"
+  },
+  {
+    "word_roman": "JĀK",
+    "word_bangla": "জাক",
+    "category": "Noun",
+    "meaning_english": "Pomp",
+    "meaning_bangla": "জমকালো বা আড়ম্বর"
+  },
+  {
+    "word_roman": "JĀKJAK",
+    "word_bangla": "জাকজাক",
+    "category": "Onom.",
+    "meaning_english": "A word denoting brightness",
+    "meaning_bangla": "উজ্জ্বলতা প্রকাশক শব্দ"
+  },
+  {
+    "word_roman": "JAKHAM",
+    "word_bangla": "জখম",
+    "category": "Noun",
+    "meaning_english": "Wound",
+    "meaning_bangla": "আঘাত বা ক্ষত"
+  },
+  {
+    "word_roman": "JĀGAR",
+    "word_bangla": "জাগর",
+    "category": "Noun",
+    "meaning_english": "Pomp",
+    "meaning_bangla": "আড়ম্বর"
+  },
+  {
+    "word_roman": "JAGĀTĀ",
+    "word_bangla": "জাগাতা",
+    "category": "Adjective",
+    "meaning_english": "Active, prompt",
+    "meaning_bangla": "সক্রিয় বা চটপটে"
+  },
+  {
+    "word_roman": "JAGARĀ",
+    "word_bangla": "জাগরা",
+    "category": "Noun",
+    "meaning_english": "A small spear",
+    "meaning_bangla": "একটি ছোট বল্লম"
+  },
+  {
+    "word_roman": "JĀ'N-",
+    "word_bangla": "জা'ন-",
+    "category": "Verb",
+    "meaning_english": "To wither away, to fall down",
+    "meaning_bangla": "শুঁকিয়ে যাওয়া বা ঝরে পড়া"
+  },
+  {
+    "word_roman": "JANĀ-",
+    "word_bangla": "জনা-",
+    "category": "Verb",
+    "meaning_english": "To cause to fall down",
+    "meaning_bangla": "ঝরানো বা নিচে ফেলা"
+  },
+  {
+    "word_roman": "JA'NĀNI",
+    "word_bangla": "জা'নানি",
+    "category": "Noun",
+    "meaning_english": "(i) Falling down (ii) Causing to fall down",
+    "meaning_bangla": "(i) ঝরে পড়া (ii) ঝরানোর কাজ"
+  },
+  {
+    "word_roman": "JAŃGALĀ",
+    "word_bangla": "জঙ্গলা",
+    "category": "Adjective",
+    "meaning_english": "Bushy, wild",
+    "meaning_bangla": "জঙ্গলী বা বুনো"
+  },
+  {
+    "word_roman": "JANGALI",
+    "word_bangla": "জঙ্গলী",
+    "category": "Adjective",
+    "meaning_english": "(i) Living in a jungle (ii) Uncivilised",
+    "meaning_bangla": "(i) বন্য (ii) অসভ্য"
+  },
+  {
+    "word_roman": "JANGĀR",
+    "word_bangla": "জঙ্গার",
+    "category": "Noun",
+    "meaning_english": "Rust",
+    "meaning_bangla": "মরিচা"
+  },
+  {
+    "word_roman": "JAÑCHALĀ",
+    "word_bangla": "জঞ্চলা",
+    "category": "Adjective",
+    "meaning_english": "Very loose or slack",
+    "meaning_bangla": "খুব ঢিলেঢালা"
+  },
+  {
+    "word_roman": "JA'ÑJA",
+    "word_bangla": "জা'ঞ্জা",
+    "category": "Noun",
+    "meaning_english": "Crowd",
+    "meaning_bangla": "ভিড় বা জনতা"
+  },
+  {
+    "word_roman": "JAÑJAKĀI",
+    "word_bangla": "জঞ্জকাই",
+    "category": "Noun",
+    "meaning_english": "A state of disorder",
+    "meaning_bangla": "বিশৃঙ্খলাপূর্ণ অবস্থা"
+  },
+  {
+    "word_roman": "JAÑJĀL",
+    "word_bangla": "জঞ্জাল",
+    "category": "Noun",
+    "meaning_english": "Trouble",
+    "meaning_bangla": "গোলমাল বা ঝামেলা"
+  },
+  {
+    "word_roman": "JAṬ",
+    "word_bangla": "জট",
+    "category": "Noun",
+    "meaning_english": "(i) Something matted (ii) Mattedness",
+    "meaning_bangla": "(i) জট পাকানো জিনিস (ii) জট"
+  },
+  {
+    "word_roman": "JAṬUL(A)",
+    "word_bangla": "জতুল(অ)",
+    "category": "Noun",
+    "meaning_english": "A skin-disease",
+    "meaning_bangla": "একটি চর্মরোগ (আঁচিল জাতীয়)"
+  },
+  {
+    "word_roman": "JĀTAR",
+    "word_bangla": "জাতর",
+    "category": "Noun",
+    "meaning_english": "Spinning wheel",
+    "meaning_bangla": "চরকা"
+  },
+  {
+    "word_roman": "JĀTĀ",
+    "word_bangla": "জাতা",
+    "category": "Noun",
+    "meaning_english": "Rope, ribbon or anything used for holding or hanging",
+    "meaning_bangla": "দড়ি, ফিতা বা ঝুলানোর কাজে ব্যবহৃত জিনিস"
+  },
+  {
+    "word_roman": "JANAM",
+    "word_bangla": "জনম",
+    "category": "Noun",
+    "meaning_english": "Birth, life",
+    "meaning_bangla": "জন্ম বা জীবন"
+  },
+  {
+    "word_roman": "JANYE",
+    "word_bangla": "জন্যে",
+    "category": "Prep.",
+    "meaning_english": "For, because of",
+    "meaning_bangla": "জন্য বা কারণে"
+  },
+  {
+    "word_roman": "JAP-",
+    "word_bangla": "জপ-",
+    "category": "Verb",
+    "meaning_english": "To mutter, to count mentally",
+    "meaning_bangla": "জপ করা বা মনে মনে গণনা করা"
+  },
+  {
+    "word_roman": "JAP",
+    "word_bangla": "জপ",
+    "category": "Noun",
+    "meaning_english": "Bush",
+    "meaning_bangla": "ঝোপ"
+  },
+  {
+    "word_roman": "JAPĀ(M.)",
+    "word_bangla": "জপা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Bush",
+    "meaning_bangla": "ঝোপ"
+  },
+  {
+    "word_roman": "JAPĀNI",
+    "word_bangla": "জপানি",
+    "category": "Noun",
+    "meaning_english": "(i) Muttering the name of a deity (ii) Thinking again and again",
+    "meaning_bangla": "(i) নাম জপ (ii) বারবার চিন্তা করা"
+  },
+  {
+    "word_roman": "JAPUM",
+    "word_bangla": "জপুম",
+    "category": "Noun",
+    "meaning_english": "Bush",
+    "meaning_bangla": "ঝোপ"
+  },
+  {
+    "word_roman": "JAPURĀ",
+    "word_bangla": "জপুরা",
+    "category": "Noun",
+    "meaning_english": "Bush",
+    "meaning_bangla": "ঝোপ"
+  },
+  {
+    "word_roman": "JABAR",
+    "word_bangla": "জবর",
+    "category": "Adjective",
+    "meaning_english": "Strong, powerful, much",
+    "meaning_bangla": "শক্তিশালী বা প্রচুর"
+  },
+  {
+    "word_roman": "JABARDAS",
+    "word_bangla": "জবরদস",
+    "category": "Adjective",
+    "meaning_english": "Strong, powerful",
+    "meaning_bangla": "বলিষ্ঠ বা শক্তিশালী"
+  },
+  {
+    "word_roman": "JABARDASTI",
+    "word_bangla": "জবরদস্তি",
+    "category": "Noun",
+    "meaning_english": "Application of force",
+    "meaning_bangla": "জোরাজুরি বা বল প্রয়োগ"
+  },
+  {
+    "word_roman": "JABĀ",
+    "word_bangla": "জবা",
+    "category": "Noun",
+    "meaning_english": "Japā flower, a red species of China-rose",
+    "meaning_bangla": "জবা ফুল"
+  },
+  {
+    "word_roman": "JABĀN",
+    "word_bangla": "জবান",
+    "category": "Noun",
+    "meaning_english": "Word, promise",
+    "meaning_bangla": "কথা বা প্রতিশ্রুতি"
+  },
+  {
+    "word_roman": "JABĀNBANDI",
+    "word_bangla": "জবানবন্দি",
+    "category": "Noun",
+    "meaning_english": "Attestation, deposition",
+    "meaning_bangla": "সাক্ষ্যপ্রমাণ বা জবানবন্দি"
+  },
+  {
+    "word_roman": "JABO",
+    "word_bangla": "জবো",
+    "category": "Noun",
+    "meaning_english": "Animal-killing",
+    "meaning_bangla": "পশু জবাই"
+  },
+  {
+    "word_roman": "JABDA",
+    "word_bangla": "জব্দ",
+    "category": "Adjective",
+    "meaning_english": "Over-powered, subdued",
+    "meaning_bangla": "বশীভূত বা জব্দ"
+  },
+  {
+    "word_roman": "JAM",
+    "word_bangla": "জম",
+    "category": "Noun",
+    "meaning_english": "Nest",
+    "meaning_bangla": "বাসা (পাখির)"
+  },
+  {
+    "word_roman": "JAM-",
+    "word_bangla": "জম-",
+    "category": "Verb",
+    "meaning_english": "(i) To be accumulated (ii) To assemble",
+    "meaning_bangla": "(i) জমা হওয়া (ii) একত্রিত হওয়া"
+  },
+  {
+    "word_roman": "JAMAK",
+    "word_bangla": "জমক",
+    "category": "Noun",
+    "meaning_english": "Cadence, harmony",
+    "meaning_bangla": "ছন্দ বা তান"
+  },
+  {
+    "word_roman": "JAMAKI(M.)",
+    "word_bangla": "জমকি(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of camaki",
+    "meaning_bangla": "চমকি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JAMĀ",
+    "word_bangla": "জমা",
+    "category": "Noun",
+    "meaning_english": "(i) Savings (ii) Deposit",
+    "meaning_bangla": "(i) সঞ্চয় (ii) জমা"
+  },
+  {
+    "word_roman": "JAMĀ-",
+    "word_bangla": "জমা-",
+    "category": "Verb",
+    "meaning_english": "To accumulate, to amass, to collect",
+    "meaning_bangla": "জমানো বা সংগ্রহ করা"
+  },
+  {
+    "word_roman": "JAMĀṬ",
+    "word_bangla": "জমাট",
+    "category": "Adjective",
+    "meaning_english": "Frozen, thickened, assembled",
+    "meaning_bangla": "জমাটবদ্ধ বা ঘন"
+  },
+  {
+    "word_roman": "JAMĀDĀR",
+    "word_bangla": "জমাদার",
+    "category": "Noun",
+    "meaning_english": "Head-constable",
+    "meaning_bangla": "জমাদার বা প্রধান কনস্টেবল"
+  },
+  {
+    "word_roman": "JAMĀNI",
+    "word_bangla": "জমানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being accumulated, assembled. (ii) Accumulating, collecting.",
+    "meaning_bangla": "(i) জমা হওয়া বা একত্রিত হওয়া (ii) সঞ্চয় বা সংগ্রহ করা"
+  },
+  {
+    "word_roman": "JAMĀBANDĪ",
+    "word_bangla": "জমাবন্দী",
+    "category": "Noun",
+    "meaning_english": "Rent-roll",
+    "meaning_bangla": "খাজনার তালিকা বা জমার হিসাব"
+  },
+  {
+    "word_roman": "JAMĪ",
+    "word_bangla": "জমী",
+    "category": "Noun",
+    "meaning_english": "Land",
+    "meaning_bangla": "জমি বা ভূমি"
+  },
+  {
+    "word_roman": "JAMĪDĀR",
+    "word_bangla": "জমীদার",
+    "category": "Noun",
+    "meaning_english": "Land-lord, zamindar",
+    "meaning_bangla": "জমিদার"
+  },
+  {
+    "word_roman": "JAMĪDĀRĪ",
+    "word_bangla": "জমীদারী",
+    "category": "Noun",
+    "meaning_english": "Pertaining to a zamindar",
+    "meaning_bangla": "জমিদারী সংক্রান্ত"
+  },
+  {
+    "word_roman": "JAMKĀ",
+    "word_bangla": "জমকা",
+    "category": "Noun",
+    "meaning_english": "An ear-ornament",
+    "meaning_bangla": "কানের অলঙ্কার"
+  },
+  {
+    "word_roman": "JAMTĀ",
+    "word_bangla": "জমতা",
+    "category": "Noun",
+    "meaning_english": "A flag marking the boundary of a piece of land",
+    "meaning_bangla": "জমির সীমানা নির্দেশক পতাকা"
+  },
+  {
+    "word_roman": "JAMPĀ(M.)",
+    "word_bangla": "জম্পা(ম.)",
+    "category": "Noun",
+    "meaning_english": "An ear-ornament",
+    "meaning_bangla": "কানের অলঙ্কার"
+  },
+  {
+    "word_roman": "JARAM",
+    "word_bangla": "জরম",
+    "category": "Noun",
+    "meaning_english": "Birth",
+    "meaning_bangla": "জন্ম"
+  },
+  {
+    "word_roman": "JARĀ",
+    "word_bangla": "জরা",
+    "category": "Noun",
+    "meaning_english": "(i) Knot (ii) Dot, the least amount",
+    "meaning_bangla": "(i) গিঁট (ii) বিন্দু বা সামান্য পরিমাণ"
+  },
+  {
+    "word_roman": "JARĀRĀ, JARĀHARĀ",
+    "word_bangla": "জরারা, জরাহরা",
+    "category": "Noun",
+    "meaning_english": "Pimples growing close to the nose towards the close of fever",
+    "meaning_bangla": "জ্বরের শেষে নাকের কাছে হওয়া ফুসকুড়ি"
+  },
+  {
+    "word_roman": "JARI",
+    "word_bangla": "জারি",
+    "category": "Noun",
+    "meaning_english": "Lace, metallic thread",
+    "meaning_bangla": "জরি বা ধাতব সুতো"
+  },
+  {
+    "word_roman": "JARIP",
+    "word_bangla": "জরিপ",
+    "category": "Noun",
+    "meaning_english": "Survey, certain measure of land",
+    "meaning_bangla": "জরিপ বা ভূমি পরিমাপ"
+  },
+  {
+    "word_roman": "JARIBĀNĀ",
+    "word_bangla": "জরিবানা",
+    "category": "Noun",
+    "meaning_english": "Fine",
+    "meaning_bangla": "জরিমানা"
+  },
+  {
+    "word_roman": "JARURĪ",
+    "word_bangla": "জরুরী",
+    "category": "Adjective",
+    "meaning_english": "Urgent",
+    "meaning_bangla": "জরুরি বা আবশ্যিক"
+  },
+  {
+    "word_roman": "JARDĀ",
+    "word_bangla": "জর্দা",
+    "category": "Noun",
+    "meaning_english": "A preparation of tobacco",
+    "meaning_bangla": "জর্দা (তামাকজাত দ্রব্য)"
+  },
+  {
+    "word_roman": "JAR",
+    "word_bangla": "জর",
+    "category": "Noun",
+    "meaning_english": "Root",
+    "meaning_bangla": "মূল বা শিকড়"
+  },
+  {
+    "word_roman": "JARĀ-",
+    "word_bangla": "জরা-",
+    "category": "Verb",
+    "meaning_english": "To entangle",
+    "meaning_bangla": "জড়ানো"
+  },
+  {
+    "word_roman": "JARĀNI",
+    "word_bangla": "জরানি",
+    "category": "Noun",
+    "meaning_english": "Entangling",
+    "meaning_bangla": "জড়ানোর কাজ"
+  },
+  {
+    "word_roman": "JARI",
+    "word_bangla": "জারি",
+    "category": "Noun",
+    "meaning_english": "Amulet",
+    "meaning_bangla": "তাবিজ বা কবজ"
+  },
+  {
+    "word_roman": "JARITA",
+    "word_bangla": "জড়িত",
+    "category": "Adjective",
+    "meaning_english": "Entangled",
+    "meaning_bangla": "জড়িত বা জড়ানো"
+  },
+  {
+    "word_roman": "JAL",
+    "word_bangla": "জাল",
+    "category": "Noun",
+    "meaning_english": "Gravy, soup",
+    "meaning_bangla": "ঝোল বা সুপ"
+  },
+  {
+    "word_roman": "JALṬIN",
+    "word_bangla": "জলটিন",
+    "category": "Noun",
+    "meaning_english": "Bucket",
+    "meaning_bangla": "বালতি"
+  },
+  {
+    "word_roman": "JALAKĀR",
+    "word_bangla": "জলকার",
+    "category": "Adjective",
+    "meaning_english": "Full of water",
+    "meaning_bangla": "জলাধার বা জলে পূর্ণ"
+  },
+  {
+    "word_roman": "JALAGATRA",
+    "word_bangla": "জলগত্র",
+    "category": "Adjective",
+    "meaning_english": "Jolly",
+    "meaning_bangla": "প্রফুল্ল বা হাসিখুশি"
+  },
+  {
+    "word_roman": "JALAṄA(M.)",
+    "word_bangla": "জলঙা(ম.)",
+    "category": "Adjective",
+    "meaning_english": "Full of water, watery",
+    "meaning_bangla": "জলে পূর্ণ বা জলীয়"
+  },
+  {
+    "word_roman": "JALAM",
+    "word_bangla": "জলম",
+    "category": "Noun",
+    "meaning_english": "Mishap, trouble",
+    "meaning_bangla": "দুর্ঘটনা বা সমস্যা"
+  },
+  {
+    "word_roman": "JALĀ",
+    "word_bangla": "জলা",
+    "category": "Noun",
+    "meaning_english": "A separate fund",
+    "meaning_bangla": "পৃথক তহবিল"
+  },
+  {
+    "word_roman": "JALṬUKĀ",
+    "word_bangla": "জালটুকা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jālḍukā",
+    "meaning_bangla": "জালডুকা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JALDAṄ",
+    "word_bangla": "জলদঙ",
+    "category": "Noun",
+    "meaning_english": "A word denoting a watery condition",
+    "meaning_bangla": "জলীয় অবস্থা প্রকাশক শব্দ"
+  },
+  {
+    "word_roman": "JALḌUKĀ",
+    "word_bangla": "জালডুকা",
+    "category": "Adjective",
+    "meaning_english": "Watery",
+    "meaning_bangla": "জলীয় বা পানসে"
+  },
+  {
+    "word_roman": "JALPHAL",
+    "word_bangla": "জলফল",
+    "category": "Noun",
+    "meaning_english": "Olive",
+    "meaning_bangla": "জলপাই"
+  },
+  {
+    "word_roman": "JALBARI",
+    "word_bangla": "জলবরি",
+    "category": "Noun",
+    "meaning_english": "A kind of water-plant",
+    "meaning_bangla": "এক ধরণের জলজ উদ্ভিদ"
+  },
+  {
+    "word_roman": "JALLĀ",
+    "word_bangla": "জলা",
+    "category": "Adjective",
+    "meaning_english": "Spoiled (of game)",
+    "meaning_bangla": "নষ্ট হওয়া (খেলার ক্ষেত্রে)"
+  },
+  {
+    "word_roman": "JĀIPHAL",
+    "word_bangla": "জাইফল",
+    "category": "Noun",
+    "meaning_english": "The nutmeg",
+    "meaning_bangla": "জায়ফল"
+  },
+  {
+    "word_roman": "JĀU",
+    "word_bangla": "জাউ",
+    "category": "Noun",
+    "meaning_english": "(i) Gruel. (ii) Over-boiled food.",
+    "meaning_bangla": "(i) জাউ বা ভাতের ফ্যান (ii) অতিরিক্ত সেদ্ধ খাবার"
+  },
+  {
+    "word_roman": "JĀUR",
+    "word_bangla": "জাউর",
+    "category": "Noun",
+    "meaning_english": "(i) Custody, liability. (ii) Liable.",
+    "meaning_bangla": "(i) জিম্মা বা দায় (ii) দায়ী"
+  },
+  {
+    "word_roman": "JĀK",
+    "word_bangla": "জাক",
+    "category": "Noun",
+    "meaning_english": "Pressure, Flock (of birds), Bunch (of banana)",
+    "meaning_bangla": "চাপ, ঝাঁক (পাখির), কাদি (কলার)"
+  },
+  {
+    "word_roman": "JĀKARAN",
+    "word_bangla": "জাকরন",
+    "category": "Noun",
+    "meaning_english": "Shake",
+    "meaning_bangla": "ঝাঁকুনি"
+  },
+  {
+    "word_roman": "JĀKĀ",
+    "word_bangla": "জাকা",
+    "category": "Noun",
+    "meaning_english": "A wicker-basket",
+    "meaning_bangla": "বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "JĀKĀRĀ-",
+    "word_bangla": "জাকারা-",
+    "category": "Verb",
+    "meaning_english": "To toss, to shake",
+    "meaning_bangla": "ঝাঁকানো বা নাড়ানো"
+  },
+  {
+    "word_roman": "JĀKĀRĀNI",
+    "word_bangla": "জাকারানি",
+    "category": "Noun",
+    "meaning_english": "Shaking",
+    "meaning_bangla": "ঝাঁকানোর কাজ"
+  },
+  {
+    "word_roman": "JĀKI",
+    "word_bangla": "জাকি",
+    "category": "Noun",
+    "meaning_english": "A fishing net",
+    "meaning_bangla": "মাছ ধরার জাল (জাঁকি জাল)"
+  },
+  {
+    "word_roman": "JĀG-",
+    "word_bangla": "জাগ-",
+    "category": "Verb",
+    "meaning_english": "(i) To arise, to pass sleepless. (ii) To be inspired.",
+    "meaning_bangla": "(i) জেগে ওঠা বা রাত জাগা (ii) অনুপ্রাণিত হওয়া"
+  },
+  {
+    "word_roman": "JĀGARAṆĪ",
+    "word_bangla": "জাগরণী",
+    "category": "Noun",
+    "meaning_english": "Awakening",
+    "meaning_bangla": "জাগরণ বা ঘুম থেকে ওঠা"
+  },
+  {
+    "word_roman": "JĀGĀ",
+    "word_bangla": "জাগা",
+    "category": "Noun",
+    "meaning_english": "Place",
+    "meaning_bangla": "জায়গা বা স্থান"
+  },
+  {
+    "word_roman": "JĀGĀ-",
+    "word_bangla": "জাগা-",
+    "category": "Verb",
+    "meaning_english": "(i) To rouse. (ii) To inspire.",
+    "meaning_bangla": "(i) জাগানো (ii) অনুপ্রাণিত করা"
+  },
+  {
+    "word_roman": "JĀGĀNI",
+    "word_bangla": "জাগানি",
+    "category": "Noun",
+    "meaning_english": "Waking, passing sleepless",
+    "meaning_bangla": "জেগে থাকা বা রাত জাগার কাজ"
+  },
+  {
+    "word_roman": "JĀN",
+    "word_bangla": "জান",
+    "category": "Noun",
+    "meaning_english": "Leg",
+    "meaning_bangla": "পা"
+  },
+  {
+    "word_roman": "JĀÑAI(M.)",
+    "word_bangla": "জাঞাই(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of jānei",
+    "meaning_bangla": "জানেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JĀNAK",
+    "word_bangla": "জানক",
+    "category": "Noun",
+    "meaning_english": "Related as son-in-law",
+    "meaning_bangla": "জামাতা হিসেবে সম্পর্কিত"
+  },
+  {
+    "word_roman": "JANIYAK(M.)",
+    "word_bangla": "জনিয়াক(ম.)",
+    "category": "Noun",
+    "meaning_english": "Related as son-in-law",
+    "meaning_bangla": "জামাতা হিসেবে সম্পর্কিত"
+  },
+  {
+    "word_roman": "JĀNEI",
+    "word_bangla": "জানেই",
+    "category": "Noun",
+    "meaning_english": "Son(s)-in-law",
+    "meaning_bangla": "জামাতা"
+  },
+  {
+    "word_roman": "JĀṄGĀL",
+    "word_bangla": "জাঙ্গাল",
+    "category": "Noun",
+    "meaning_english": "Earthen wall, high road",
+    "meaning_bangla": "মাটির প্রাচীর বা উচু রাস্তা"
+  },
+  {
+    "word_roman": "JĀNDĀL",
+    "word_bangla": "জানদাল",
+    "category": "Noun",
+    "meaning_english": "Kick",
+    "meaning_bangla": "লাথি"
+  },
+  {
+    "word_roman": "JANBUKUR(M.)",
+    "word_bangla": "জনবুকুর(ম.)",
+    "category": "Noun",
+    "meaning_english": "Kick",
+    "meaning_bangla": "লাথি"
+  },
+  {
+    "word_roman": "JĀTHĀ",
+    "word_bangla": "জাথা",
+    "category": "Noun",
+    "meaning_english": "A javelin-like weapon",
+    "meaning_bangla": "বল্লমের মতো অস্ত্র"
+  },
+  {
+    "word_roman": "JĀTHI",
+    "word_bangla": "জাথি",
+    "category": "Noun",
+    "meaning_english": "Same as JĀTHĀ",
+    "meaning_bangla": "জাথা-এর অনুরূপ"
+  },
+  {
+    "word_roman": "JĀT",
+    "word_bangla": "জাত",
+    "category": "Noun",
+    "meaning_english": "(i) Load. (ii) Community, nation.",
+    "meaning_bangla": "(i) বোঝা (ii) জাতি বা সম্প্রদায়"
+  },
+  {
+    "word_roman": "JĀTĀ",
+    "word_bangla": "জাতা",
+    "category": "Noun",
+    "meaning_english": "Pressure",
+    "meaning_bangla": "চাপ"
+  },
+  {
+    "word_roman": "JĀTĀ-",
+    "word_bangla": "জাতা-",
+    "category": "Verb",
+    "meaning_english": "(i) To press. (ii) To ascribe.",
+    "meaning_bangla": "(i) চাপা দেওয়া (ii) আরোপ করা"
+  },
+  {
+    "word_roman": "JĀTĀNI",
+    "word_bangla": "জাতানি",
+    "category": "Noun",
+    "meaning_english": "(i) Pressing. (ii) Ascribing.",
+    "meaning_bangla": "(i) চাপ দেওয়ার কাজ (ii) আরোপ করার কাজ"
+  },
+  {
+    "word_roman": "JĀTI(M.)",
+    "word_bangla": "জাতি(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of cāti",
+    "meaning_bangla": "চাতি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "JĀDU",
+    "word_bangla": "জাদু",
+    "category": "Noun",
+    "meaning_english": "Charm, magic, witchcraft",
+    "meaning_bangla": "জাদু বা মায়া"
+  },
+  {
+    "word_roman": "JĀDUGAR",
+    "word_bangla": "জাদুগড়",
+    "category": "Noun",
+    "meaning_english": "Magician, sorcerer",
+    "meaning_bangla": "জাদুকর"
+  },
+  {
+    "word_roman": "JĀDUGARI",
+    "word_bangla": "জাদুগড়ী",
+    "category": "Noun",
+    "meaning_english": "The profession of a magician",
+    "meaning_bangla": "জাদুকরের পেশা"
+  },
+  {
+    "word_roman": "JAN",
+    "word_bangla": "জন",
+    "category": "Noun",
+    "meaning_english": "Life, soul, spirit, courage",
+    "meaning_bangla": "জীবন, আত্মা বা সাহস"
+  },
+  {
+    "word_roman": "JĀN-",
+    "word_bangla": "জান-",
+    "category": "Verb",
+    "meaning_english": "To know",
+    "meaning_bangla": "জানা"
+  },
+  {
+    "word_roman": "JĀNĀ",
+    "word_bangla": "জানা",
+    "category": "Adjective",
+    "meaning_english": "Known",
+    "meaning_bangla": "পরিচিত"
+  },
+  {
+    "word_roman": "JĀNĀ-",
+    "word_bangla": "জানা-",
+    "category": "Verb",
+    "meaning_english": "To inform, to hint",
+    "meaning_bangla": "জানানো বা ইঙ্গিত দেওয়া"
+  },
+  {
+    "word_roman": "JĀNĀNI",
+    "word_bangla": "জানানি",
+    "category": "Noun",
+    "meaning_english": "(i) Knowing. (ii) Informing, hinting.",
+    "meaning_bangla": "(i) জানার কাজ (ii) জানানো বা ইঙ্গিত দেওয়ার কাজ"
+  },
+  {
+    "word_roman": "JĀNĀLĀ",
+    "word_bangla": "জানালা",
+    "category": "Noun",
+    "meaning_english": "Window",
+    "meaning_bangla": "জানালা"
+  },
+  {
+    "word_roman": "JĀP",
+    "word_bangla": "জাপ",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) Leap. (ii) Bush. (iii) The act of covering.",
+    "meaning_bangla": "(i) লাফ (ii) ঝোপ (iii) আবৃত করার কাজ"
+  },
+  {
+    "word_roman": "JĀP-",
+    "word_bangla": "জা'প-",
+    "category": "Verb",
+    "meaning_english": "To jump, leap, to cover",
+    "meaning_bangla": "লাফানো বা ঢাকা দেওয়া"
+  },
+  {
+    "word_roman": "JĀPĀ",
+    "word_bangla": "জা'পা",
+    "category": "Noun",
+    "meaning_english": "(i) Tussel. (ii) The act of covering.",
+    "meaning_bangla": "(i) ধস্তাধস্তি (ii) আবৃত করার কাজ"
+  },
+  {
+    "word_roman": "JĀPĀ-",
+    "word_bangla": "জা'পা-",
+    "category": "Verb",
+    "meaning_english": "To cover",
+    "meaning_bangla": "ঢাকা দেওয়া"
+  },
+  {
+    "word_roman": "JĀPĀNI",
+    "word_bangla": "জা'পানি",
+    "category": "Noun",
+    "meaning_english": "Covering",
+    "meaning_bangla": "আচ্ছাদন"
+  },
+  {
+    "word_roman": "JĀPI",
+    "word_bangla": "জা'পি",
+    "category": "Noun",
+    "meaning_english": "A wicker basket with a cover",
+    "meaning_bangla": "ঢাকনাযুক্ত বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "JĀPUNI",
+    "word_bangla": "জা'পুনি",
+    "category": "Noun",
+    "meaning_english": "Wrapper",
+    "meaning_bangla": "চাদর বা মোড়ক"
+  },
+  {
+    "word_roman": "JĀPURĀ",
+    "word_bangla": "জা'পুরা",
+    "category": "Noun",
+    "meaning_english": "Bush",
+    "meaning_bangla": "ঝোপ"
+  },
+  {
+    "word_roman": "JĀBĀ",
+    "word_bangla": "জা'বা",
+    "category": "Noun",
+    "meaning_english": "Rubbish",
+    "meaning_bangla": "আবর্জনা"
+  },
+  {
+    "word_roman": "JĀ'B(Ā)RĀ",
+    "word_bangla": "জা'ব(আ)রা",
+    "category": "Noun",
+    "meaning_english": "Rubbish, junk",
+    "meaning_bangla": "আবর্জনা"
+  },
+  {
+    "word_roman": "JABUR",
+    "word_bangla": "জবুর",
+    "category": "Noun",
+    "meaning_english": "Plunge (into water)",
+    "meaning_bangla": "পানিতে ডুব"
+  },
+  {
+    "word_roman": "JABUR-",
+    "word_bangla": "জবুর-",
+    "category": "Verb",
+    "meaning_english": "To plunge",
+    "meaning_bangla": "নিমজ্জিত করা"
+  },
+  {
+    "word_roman": "JĀBURĀ-",
+    "word_bangla": "জাবুরা-",
+    "category": "Verb",
+    "meaning_english": "To cause to plunge",
+    "meaning_bangla": "ডুবানো"
+  },
+  {
+    "word_roman": "JĀBURĀNI",
+    "word_bangla": "জাবুরানি",
+    "category": "Noun",
+    "meaning_english": "(i) Plunging. (ii) Causing to plunge.",
+    "meaning_bangla": "(i) নিমজ্জনের কাজ (ii) নিমজ্জিত করার কাজ"
+  },
+  {
+    "word_roman": "JĀM",
+    "word_bangla": "জাম",
+    "category": "Noun",
+    "meaning_english": "Jamboline (fruit)",
+    "meaning_bangla": "কালোজাম"
+  },
+  {
+    "word_roman": "JĀMĀ",
+    "word_bangla": "জামা",
+    "category": "Noun",
+    "meaning_english": "Shirt, frock",
+    "meaning_bangla": "জামা বা পোশাক"
+  },
+  {
+    "word_roman": "JĀMĀNAT",
+    "word_bangla": "জা'মানত",
+    "category": "Noun",
+    "meaning_english": "Surety, bail, security",
+    "meaning_bangla": "জামিন বা সুরক্ষা"
+  },
+  {
+    "word_roman": "JĀMIN",
+    "word_bangla": "জা'মিন",
+    "category": "Noun",
+    "meaning_english": "Surety, bail",
+    "meaning_bangla": "জামিন"
+  },
+  {
+    "word_roman": "JĀMIR",
+    "word_bangla": "জা'মির",
+    "category": "Noun",
+    "meaning_english": "Citron tree and its fruit",
+    "meaning_bangla": "জামির লেবু ও তার গাছ"
   }
 ]
