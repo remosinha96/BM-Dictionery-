@@ -10595,5 +10595,544 @@
     "category": "Adjective",
     "meaning_english": "Haphazard",
     "meaning_bangla": "উল্টা পাল্টা"
-  }
+  },
+  {
+    "word_roman": "Sat, Sakta",
+    "word_bangla": "সাত, সক্তা",
+    "category": "Noun",
+    "meaning_english": "Face",
+    "meaning_bangla": "মুখ"
+  },
+  {
+    "word_roman": "Ahi",
+    "word_bangla": "আহি",
+    "category": "Noun",
+    "meaning_english": "Eye",
+    "meaning_bangla": "চোখ"
+  },
+  {
+    "word_roman": "Ju",
+    "word_bangla": "জু",
+    "category": "Noun",
+    "meaning_english": "Tongue",
+    "meaning_bangla": "জিহ্বা"
+  },
+  {
+    "word_roman": "Thota",
+    "word_bangla": "থোতা",
+    "category": "Noun",
+    "meaning_english": "Mouth",
+    "meaning_bangla": "মুখ"
+  },
+  {
+    "word_roman": "Lempal",
+    "word_bangla": "লেম্পাল",
+    "category": "Noun",
+    "meaning_english": "Shoulder",
+    "meaning_bangla": "কাঁধ"
+  },
+  {
+    "word_roman": "Tara",
+    "word_bangla": "তারা",
+    "category": "Noun",
+    "meaning_english": "Palm",
+    "meaning_bangla": "হাতের তালু"
+  },
+  {
+    "word_roman": "Jang",
+    "word_bangla": "জাং",
+    "category": "Noun",
+    "meaning_english": "Leg",
+    "meaning_bangla": "পা"
+  },
+  {
+    "word_roman": "Jiron",
+    "word_bangla": "জিরোন",
+    "category": "Noun",
+    "meaning_english": "Rest",
+    "meaning_bangla": "বিশ্রাম"
+  },
+  {
+    "word_roman": "Khou",
+    "word_bangla": "খৌ",
+    "category": "Noun",
+    "meaning_english": "Bag",
+    "meaning_bangla": "ব্যাগ"
+  },
+  {
+    "word_roman": "Kakei",
+    "word_bangla": "কাকেই",
+    "category": "Noun",
+    "meaning_english": "Step",
+    "meaning_bangla": "পদক্ষেপ"
+  },
+  {
+    "word_roman": "Mahu",
+    "word_bangla": "মাহু",
+    "category": "Noun",
+    "meaning_english": "Meat",
+    "meaning_bangla": "মাংস"
+  },
+  {
+    "word_roman": "Kupang",
+    "word_bangla": "কুপাং",
+    "category": "Noun",
+    "meaning_english": "Plate",
+    "meaning_bangla": "থালা"
+  },
+  {
+    "word_roman": "Panglak",
+    "word_bangla": "পাংলাক",
+    "category": "Noun/Verb",
+    "meaning_english": "Help",
+    "meaning_bangla": "সাহায্য"
+  },
+  {
+    "word_roman": "Solei, Soloi",
+    "word_bangla": "সোলেই",
+    "category": "Noun",
+    "meaning_english": "Matchbox",
+    "meaning_bangla": "দিয়াশলাই বাক্স"
+  },
+  {
+    "word_roman": "Khoni",
+    "word_bangla": "খনি",
+    "category": "Noun",
+    "meaning_english": "Throat",
+    "meaning_bangla": "গলা"
+  },
+  {
+    "word_roman": "Pampol",
+    "word_bangla": "পাম্পোল",
+    "category": "Noun",
+    "meaning_english": "Bicep",
+    "meaning_bangla": "বাইসেপ"
+  },
+  {
+    "word_roman": "Ahatuli",
+    "word_bangla": "আহাতুলি",
+    "category": "Noun",
+    "meaning_english": "Underarm",
+    "meaning_bangla": "বগল"
+  },
+  {
+    "word_roman": "Khoitong",
+    "word_bangla": "খোইতোং",
+    "category": "Noun",
+    "meaning_english": "Navel",
+    "meaning_bangla": "নাভি"
+  },
+  {
+    "word_roman": "Kakali",
+    "word_bangla": "কাকালি",
+    "category": "Noun",
+    "meaning_english": "Waist",
+    "meaning_bangla": "কোমর"
+  },
+  {
+    "word_roman": "Thoruya",
+    "word_bangla": "থোরুয়া",
+    "category": "Noun",
+    "meaning_english": "Calf (of the leg)",
+    "meaning_bangla": "পায়ের নলা"
+  },
+  {
+    "word_roman": "Muda",
+    "word_bangla": "মুদা",
+    "category": "Noun",
+    "meaning_english": "Heel",
+    "meaning_bangla": "গোড়ালি"
+  },
+  {
+    "word_roman": "Huud",
+    "word_bangla": "হুউদ",
+    "category": "Noun",
+    "meaning_english": "Wave",
+    "meaning_bangla": "ঢেউ"
+  },
+  {
+    "word_roman": "Yachet",
+    "word_bangla": "ইয়াচেত",
+    "category": "Noun",
+    "meaning_english": "Bamboo strips",
+    "meaning_bangla": "বাঁশের ফালি"
+  },
+  {
+    "word_roman": "Milleng",
+    "word_bangla": "মিল্লেং",
+    "category": "Verb",
+    "meaning_english": "Meet",
+    "meaning_bangla": "মিলিত হওয়া"
+  },
+  {
+    "word_roman": "Thangnat",
+    "word_bangla": "থাংনাত",
+    "category": "Adjective/Adverb",
+    "meaning_english": "Next",
+    "meaning_bangla": "পরবর্তী"
+  },
+  {
+    "word_roman": "Sel",
+    "word_bangla": "সেল",
+    "category": "Noun",
+    "meaning_english": "Cow",
+    "meaning_bangla": "গরু"
+  },
+  {
+    "word_roman": "Long",
+    "word_bangla": "লং",
+    "category": "Noun",
+    "meaning_english": "Monkey",
+    "meaning_bangla": "বানর"
+  },
+  {
+    "word_roman": "Kerbong",
+    "word_bangla": "কেরবোং",
+    "category": "Noun",
+    "meaning_english": "Frog",
+    "meaning_bangla": "ব্যাঙ"
+  },
+  {
+    "word_roman": "Dulbi",
+    "word_bangla": "দুলবি",
+    "category": "Noun",
+    "meaning_english": "Tortoise",
+    "meaning_bangla": "কাছিম"
+  },
+  {
+    "word_roman": "Horop",
+    "word_bangla": "হোরোপ",
+    "category": "Noun",
+    "meaning_english": "Snake",
+    "meaning_bangla": "সাপ"
+  },
+  {
+    "word_roman": "Kakara",
+    "word_bangla": "কাকারা",
+    "category": "Noun",
+    "meaning_english": "Crab",
+    "meaning_bangla": "কাঁকড়া"
+  },
+  {
+    "word_roman": "Sakol",
+    "word_bangla": "সাকোল",
+    "category": "Noun",
+    "meaning_english": "Horse",
+    "meaning_bangla": "ঘোড়া"
+  },
+  {
+    "word_roman": "Mi",
+    "word_bangla": "মি",
+    "category": "Pronoun",
+    "meaning_english": "I",
+    "meaning_bangla": "আমি"
+  },
+  {
+    "word_roman": "Ami",
+    "word_bangla": "আমি",
+    "category": "Pronoun",
+    "meaning_english": "We",
+    "meaning_bangla": "আমরা"
+  },
+  {
+    "word_roman": "Ti",
+    "word_bangla": "তি",
+    "category": "Pronoun",
+    "meaning_english": "You (Singular)",
+    "meaning_bangla": "তুই"
+  },
+  {
+    "word_roman": "Tumi",
+    "word_bangla": "তুমি",
+    "category": "Pronoun",
+    "meaning_english": "You (Plural)",
+    "meaning_bangla": "তোমরা"
+  },
+  {
+    "word_roman": "Ta",
+    "word_bangla": "তা",
+    "category": "Pronoun",
+    "meaning_english": "He",
+    "meaning_bangla": "সে (পুং)"
+  },
+  {
+    "word_roman": "Tei",
+    "word_bangla": "তেই",
+    "category": "Pronoun",
+    "meaning_english": "She",
+    "meaning_bangla": "সে (স্ত্রী)"
+  },
+  {
+    "word_roman": "Ohan, Uhan",
+    "word_bangla": "ওহান, উহান",
+    "category": "Pronoun",
+    "meaning_english": "It",
+    "meaning_bangla": "এটি"
+  },
+  {
+    "word_roman": "Tangi, Tanu",
+    "word_bangla": "তাঙ্গি, তানু",
+    "category": "Pronoun",
+    "meaning_english": "They",
+    "meaning_bangla": "তারা"
+  },
+  {
+    "word_roman": "More",
+    "word_bangla": "মোরে",
+    "category": "Pronoun",
+    "meaning_english": "Me",
+    "meaning_bangla": "আমাকে"
+  },
+  {
+    "word_roman": "Amare",
+    "word_bangla": "আমারে",
+    "category": "Pronoun",
+    "meaning_english": "Us",
+    "meaning_bangla": "আমাদের"
+  },
+  {
+    "word_roman": "Tore",
+    "word_bangla": "তোরে",
+    "category": "Pronoun",
+    "meaning_english": "You (Singular)",
+    "meaning_bangla": "তোকে"
+  },
+  {
+    "word_roman": "Tumare",
+    "word_bangla": "তুমারে",
+    "category": "Pronoun",
+    "meaning_english": "You (Plural)",
+    "meaning_bangla": "তোমাদের"
+  },
+  {
+    "word_roman": "Tar",
+    "word_bangla": "তার",
+    "category": "Pronoun",
+    "meaning_english": "Him",
+    "meaning_bangla": "তাকে (পুং)"
+  },
+  {
+    "word_roman": "Teire",
+    "word_bangla": "তেইরে",
+    "category": "Pronoun",
+    "meaning_english": "Her",
+    "meaning_bangla": "তাকে (স্ত্রী)"
+  },
+  {
+    "word_roman": "Tangore, Tanure",
+    "word_bangla": "তাঙ্গোরে, তানুরে",
+    "category": "Pronoun",
+    "meaning_english": "Them",
+    "meaning_bangla": "তাদের"
+  },
+  {
+    "word_roman": "Mor",
+    "word_bangla": "মোর",
+    "category": "Pronoun",
+    "meaning_english": "My",
+    "meaning_bangla": "আমার"
+  },
+  {
+    "word_roman": "Amar",
+    "word_bangla": "আমার",
+    "category": "Pronoun",
+    "meaning_english": "Our",
+    "meaning_bangla": "আমাদের"
+  },
+  {
+    "word_roman": "Tor",
+    "word_bangla": "তোর",
+    "category": "Pronoun",
+    "meaning_english": "Your (Singular)",
+    "meaning_bangla": "তোর"
+  },
+  {
+    "word_roman": "Tumar",
+    "word_bangla": "তুমার",
+    "category": "Pronoun",
+    "meaning_english": "Your (Plural)",
+    "meaning_bangla": "তোমাদের"
+  },
+  {
+    "word_roman": "Tar",
+    "word_bangla": "তার",
+    "category": "Pronoun",
+    "meaning_english": "His",
+    "meaning_bangla": "তার (পুং)"
+  },
+  {
+    "word_roman": "Teir",
+    "word_bangla": "তেইর",
+    "category": "Pronoun",
+    "meaning_english": "Her",
+    "meaning_bangla": "তার (স্ত্রী)"
+  },
+  {
+    "word_roman": "Tangor, Tanu",
+    "word_bangla": "তাঙ্গোর, তানুর",
+    "category": "Pronoun",
+    "meaning_english": "Their",
+    "meaning_bangla": "তাদের"
+  },
+  {
+    "word_roman": "Jana",
+    "word_bangla": "জানা",
+    "category": "Verb",
+    "meaning_english": "Go",
+    "meaning_bangla": "যাওয়া"
+  },
+  {
+    "word_roman": "Atani",
+    "word_bangla": "আতানি",
+    "category": "Verb",
+    "meaning_english": "Walk",
+    "meaning_bangla": "হাঁটা"
+  },
+  {
+    "word_roman": "Dabdani",
+    "word_bangla": "দাবদানি",
+    "category": "Verb",
+    "meaning_english": "Run",
+    "meaning_bangla": "দৌড়ানো"
+  },
+  {
+    "word_roman": "Bohani",
+    "word_bangla": "বোহানি",
+    "category": "Verb",
+    "meaning_english": "Sit",
+    "meaning_bangla": "বসা"
+  },
+  {
+    "word_roman": "Ona",
+    "word_bangla": "ওনা",
+    "category": "Verb",
+    "meaning_english": "Be",
+    "meaning_bangla": "হওয়া"
+  },
+  {
+    "word_roman": "Korani",
+    "word_bangla": "কোরানি",
+    "category": "Verb",
+    "meaning_english": "Do",
+    "meaning_bangla": "করা"
+  },
+  {
+    "word_roman": "Tamkorani",
+    "word_bangla": "তামকোরানি",
+    "category": "Verb",
+    "meaning_english": "Read",
+    "meaning_bangla": "পড়া"
+  },
+  {
+    "word_roman": "Ninkorani",
+    "word_bangla": "নিংকোরানি",
+    "category": "Verb",
+    "meaning_english": "Think",
+    "meaning_bangla": "চিন্তা করা"
+  },
+  {
+    "word_roman": "Lekhani",
+    "word_bangla": "লেখানি",
+    "category": "Verb",
+    "meaning_english": "Write",
+    "meaning_bangla": "লেখা"
+  },
+  {
+    "word_roman": "Mankorani",
+    "word_bangla": "মাংকোরানি",
+    "category": "Verb",
+    "meaning_english": "Lose",
+    "meaning_bangla": "হারানো"
+  },
+  {
+    "word_roman": "Hunani",
+    "word_bangla": "হুনানি",
+    "category": "Verb",
+    "meaning_english": "Hear",
+    "meaning_bangla": "শোনা"
+  },
+  {
+    "word_roman": "Dehani",
+    "word_bangla": "দেহানি",
+    "category": "Verb",
+    "meaning_english": "See",
+    "meaning_bangla": "দেখা"
+  },
+  {
+    "word_roman": "Fordani",
+    "word_bangla": "ফোরদানি",
+    "category": "Verb",
+    "meaning_english": "Fly",
+    "meaning_bangla": "উড়া"
+  },
+  {
+    "word_roman": "Khana",
+    "word_bangla": "খানা",
+    "category": "Verb",
+    "meaning_english": "Eat",
+    "meaning_bangla": "খাওয়া"
+  },
+  {
+    "word_roman": "Pina",
+    "word_bangla": "পিনা",
+    "category": "Verb",
+    "meaning_english": "Drink",
+    "meaning_bangla": "পান করা"
+  },
+  {
+    "word_roman": "Eladena",
+    "word_bangla": "এলাদেনা",
+    "category": "Verb",
+    "meaning_english": "Sing",
+    "meaning_bangla": "গাওয়া"
+  },
+  {
+    "word_roman": "Khelani",
+    "word_bangla": "খেলানি",
+    "category": "Verb",
+    "meaning_english": "Play",
+    "meaning_bangla": "খেলা"
+  },
+  {
+    "word_roman": "Ahani",
+    "word_bangla": "আহানী",
+    "category": "Verb",
+    "meaning_english": "Come",
+    "meaning_bangla": "আসা"
+  },
+  {
+    "word_roman": "Hinani",
+    "word_bangla": "হিনানি",
+    "category": "Verb",
+    "meaning_english": "Bath",
+    "meaning_bangla": "গোসল করা"
+  },
+  {
+    "word_roman": "Basani",
+    "word_bangla": "বাসানি",
+    "category": "Verb",
+    "meaning_english": "Wait",
+    "meaning_bangla": "অপেক্ষা করা"
+  },
+  {
+    "word_roman": "Matani",
+    "word_bangla": "মাতানি",
+    "category": "Verb",
+    "meaning_english": "Tell",
+    "meaning_bangla": "বলা"
+  },
+  {
+    "word_roman": "Besani",
+    "word_bangla": "বেসানি",
+    "category": "Verb",
+    "meaning_english": "Sell",
+    "meaning_bangla": "বেচা"
+  },
+  {
+    "word_roman": "Anani",
+    "word_bangla": "আনানি",
+    "category": "Verb",
+    "meaning_english": "Bring",
+    "meaning_bangla": "আনা"
+  },
 ]
