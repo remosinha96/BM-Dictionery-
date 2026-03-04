@@ -12226,5 +12226,986 @@
     "category": "Noun",
     "meaning_english": "The act of weeping",
     "meaning_bangla": "কান্নার কাজ"
-  }
+  },
+  {
+    "word_roman": "KHANCAP",
+    "word_bangla": "খানচাপ",
+    "category": "Noun",
+    "meaning_english": "Foul language",
+    "meaning_bangla": "অশ্লীল ভাষা"
+  },
+  {
+    "word_roman": "KHANCI",
+    "word_bangla": "খানচি",
+    "category": "Adjective",
+    "meaning_english": "Collected roughly",
+    "meaning_bangla": "আনাড়িভাবে সংগৃহীত"
+  },
+  {
+    "word_roman": "KHANCUP",
+    "word_bangla": "খানচুপ",
+    "category": "Noun",
+    "meaning_english": "The nipple of a feeding bottle",
+    "meaning_bangla": "দুধের বোতলের নিপল"
+  },
+  {
+    "word_roman": "KHANACUM",
+    "word_bangla": "খানচুম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khaicum",
+    "meaning_bangla": "খাইচুম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHATAI",
+    "word_bangla": "খাতাই",
+    "category": "Noun",
+    "meaning_english": "Post",
+    "meaning_bangla": "খুঁটি"
+  },
+  {
+    "word_roman": "KHATOMAO",
+    "word_bangla": "খাতোমাও",
+    "category": "Noun",
+    "meaning_english": "Discord, trouble, intricacy",
+    "meaning_bangla": "বিবাদ, ঝামেলা, জটিলতা"
+  },
+  {
+    "word_roman": "KHATKA",
+    "word_bangla": "খাতকা",
+    "category": "Noun",
+    "meaning_english": "Throat, difficulty, hitch",
+    "meaning_bangla": "গলা, অসুবিধা, বাধা"
+  },
+  {
+    "word_roman": "KHATANI",
+    "word_bangla": "খাতানি",
+    "category": "Noun",
+    "meaning_english": "To be refuted",
+    "meaning_bangla": "খণ্ডিত হওয়া"
+  },
+  {
+    "word_roman": "KHANDA",
+    "word_bangla": "খান্দা",
+    "category": "Verb",
+    "meaning_english": "To refute",
+    "meaning_bangla": "খণ্ডন করা"
+  },
+  {
+    "word_roman": "KHANDANI",
+    "word_bangla": "খান্দানি",
+    "category": "Noun",
+    "meaning_english": "Refuting",
+    "meaning_bangla": "খণ্ডন করা"
+  },
+  {
+    "word_roman": "KHAT",
+    "word_bangla": "খাত",
+    "category": "Noun",
+    "meaning_english": "An instance of scratching or digging (by a nail or by any small thing)",
+    "meaning_bangla": "নখ বা ছোট জিনিস দিয়ে আঁচড়ানো বা খোঁচানো"
+  },
+  {
+    "word_roman": "KHAT",
+    "word_bangla": "খাত",
+    "category": "Noun",
+    "meaning_english": "Writ, document",
+    "meaning_bangla": "লিখিত দলিল"
+  },
+  {
+    "word_roman": "KHATAM",
+    "word_bangla": "খাতাম",
+    "category": "Adjective",
+    "meaning_english": "Ended, destroyed",
+    "meaning_bangla": "শেষ, ধ্বংসপ্রাপ্ত"
+  },
+  {
+    "word_roman": "KHADDAR",
+    "word_bangla": "খাদ্দার",
+    "category": "Noun",
+    "meaning_english": "Handloom-cloth",
+    "meaning_bangla": "হাতে বোনা কাপড়"
+  },
+  {
+    "word_roman": "KHANI",
+    "word_bangla": "খানি",
+    "category": "Adjective",
+    "meaning_english": "Sticky",
+    "meaning_bangla": "আঠালো"
+  },
+  {
+    "word_roman": "KHANI",
+    "word_bangla": "খানি",
+    "category": "Adverb",
+    "meaning_english": "Very niggardly",
+    "meaning_bangla": "অত্যন্ত কৃপণ"
+  },
+  {
+    "word_roman": "KHANTA",
+    "word_bangla": "খান্তা",
+    "category": "Noun",
+    "meaning_english": "Tune",
+    "meaning_bangla": "সুর"
+  },
+  {
+    "word_roman": "KHANTI",
+    "word_bangla": "খান্তি",
+    "category": "Noun",
+    "meaning_english": "An implement for heaping up paddy grains",
+    "meaning_bangla": "ধান স্তূপ করার যন্ত্র"
+  },
+  {
+    "word_roman": "KHANTINA",
+    "word_bangla": "খান্তিনা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khantina",
+    "meaning_bangla": "খান্তিনা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHANTUM",
+    "word_bangla": "খান্তুম",
+    "category": "Noun",
+    "meaning_english": "Gourd",
+    "meaning_bangla": "লাউ"
+  },
+  {
+    "word_roman": "KHAMPHAMPHAM",
+    "word_bangla": "খাম্ফাম্ফাম",
+    "category": "Noun",
+    "meaning_english": "A place meant for washing the feet of the devotees (in a religious performance)",
+    "meaning_bangla": "ধর্মীয় অনুষ্ঠানে ভক্তদের পা ধোয়ার স্থান"
+  },
+  {
+    "word_roman": "KHAMI",
+    "word_bangla": "খামি",
+    "category": "Noun",
+    "meaning_english": "Udder",
+    "meaning_bangla": "স্তন"
+  },
+  {
+    "word_roman": "KHAMIL",
+    "word_bangla": "খামিল",
+    "category": "Noun",
+    "meaning_english": "The rite of suckling a baby",
+    "meaning_bangla": "শিশুকে দুধ খাওয়ানোর রীতি"
+  },
+  {
+    "word_roman": "KHAMEI",
+    "word_bangla": "খামেই",
+    "category": "Noun",
+    "meaning_english": "Under",
+    "meaning_bangla": "নিচে"
+  },
+  {
+    "word_roman": "KHAMTAL(M)",
+    "word_bangla": "খামতাল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of khamtal",
+    "meaning_bangla": "খামতাল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHAMTHEN",
+    "word_bangla": "খামথেন",
+    "category": "Adverb",
+    "meaning_english": "To the extreme",
+    "meaning_bangla": "চরমে"
+  },
+  {
+    "word_roman": "KHAMPHAM",
+    "word_bangla": "খাম্ফাম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khalpham",
+    "meaning_bangla": "খাল্ফাম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHAMPAPA",
+    "word_bangla": "খামপাপা",
+    "category": "Noun",
+    "meaning_english": "Collector",
+    "meaning_bangla": "সংগ্রাহক"
+  },
+  {
+    "word_roman": "KHAYAM",
+    "word_bangla": "খায়াম",
+    "category": "Noun",
+    "meaning_english": "Brassiere",
+    "meaning_bangla": "ব্রা"
+  },
+  {
+    "word_roman": "KHAYA",
+    "word_bangla": "খায়া",
+    "category": "Noun",
+    "meaning_english": "Food",
+    "meaning_bangla": "খাবার"
+  },
+  {
+    "word_roman": "KHAYA",
+    "word_bangla": "খায়া",
+    "category": "Noun",
+    "meaning_english": "The walking fish",
+    "meaning_bangla": "হাঁটতে পারা মাছ"
+  },
+  {
+    "word_roman": "KHAYARATI",
+    "word_bangla": "খায়ারাতি",
+    "category": "Noun",
+    "meaning_english": "Charitable dispensary",
+    "meaning_bangla": "দাতব্য চিকিত্সালয়"
+  },
+  {
+    "word_roman": "KHARAC",
+    "word_bangla": "খরচ",
+    "category": "Noun",
+    "meaning_english": "Expenditure",
+    "meaning_bangla": "খরচ"
+  },
+  {
+    "word_roman": "KHARA",
+    "word_bangla": "খারা",
+    "category": "Noun",
+    "meaning_english": "Drought",
+    "meaning_bangla": "খরা"
+  },
+  {
+    "word_roman": "KHARAN",
+    "word_bangla": "খারান",
+    "category": "Noun",
+    "meaning_english": "Drought",
+    "meaning_bangla": "খরা"
+  },
+  {
+    "word_roman": "KHARAP",
+    "word_bangla": "খারাপ",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kharap",
+    "meaning_bangla": "খারাপ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHARIKHARI",
+    "word_bangla": "খারিখারি",
+    "category": "Adjective",
+    "meaning_english": "Swift-moving",
+    "meaning_bangla": "দ্রুত চলমান"
+  },
+  {
+    "word_roman": "KHARIDDAR",
+    "word_bangla": "খরিদ্দার",
+    "category": "Noun",
+    "meaning_english": "Customer",
+    "meaning_bangla": "গ্রাহক"
+  },
+  {
+    "word_roman": "KHARIYA",
+    "word_bangla": "খারিয়া",
+    "category": "Noun",
+    "meaning_english": "An instrument for pressing out oil",
+    "meaning_bangla": "তেল চাপার যন্ত্র"
+  },
+  {
+    "word_roman": "KHARAU",
+    "word_bangla": "খারাউ",
+    "category": "Noun",
+    "meaning_english": "Leg-tie (for animals)",
+    "meaning_bangla": "পশুর পায়ে বাঁধা দড়ি"
+  },
+  {
+    "word_roman": "KHARAKHARIYA",
+    "word_bangla": "খারাখারিয়া",
+    "category": "Noun",
+    "meaning_english": "A broomstick made by sticks of wood or bamboo",
+    "meaning_bangla": "কাঠ বা বাঁশের লাঠি দিয়ে তৈরি ঝাড়ু"
+  },
+  {
+    "word_roman": "KHARGOS",
+    "word_bangla": "খারগোশ",
+    "category": "Noun",
+    "meaning_english": "Hare",
+    "meaning_bangla": "খরগোশ"
+  },
+  {
+    "word_roman": "KHARCA",
+    "word_bangla": "খারচা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kharac",
+    "meaning_bangla": "খরচ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHARAK(M)",
+    "word_bangla": "খারাক(ম)",
+    "category": "Noun",
+    "meaning_english": "A broomstick made by sticks of wood or bamboo",
+    "meaning_bangla": "কাঠ বা বাঁশের লাঠি দিয়ে তৈরি ঝাড়ু"
+  },
+  {
+    "word_roman": "KHARAKRA",
+    "word_bangla": "খারাকরা",
+    "category": "Adjective",
+    "meaning_english": "Lame",
+    "meaning_bangla": "ল্যাংড়া"
+  },
+  {
+    "word_roman": "KHARI",
+    "word_bangla": "খারি",
+    "category": "Noun",
+    "meaning_english": "Chalk",
+    "meaning_bangla": "চক"
+  },
+  {
+    "word_roman": "KHARIKA",
+    "word_bangla": "খারিকা",
+    "category": "Noun",
+    "meaning_english": "Small twig",
+    "meaning_bangla": "ছোট ডাল"
+  },
+  {
+    "word_roman": "KHARIYA",
+    "word_bangla": "খারিয়া",
+    "category": "Adjective",
+    "meaning_english": "Curled, curly (as hair)",
+    "meaning_bangla": "কোঁকড়া, কুঞ্চিত (চুলের মতো)"
+  },
+  {
+    "word_roman": "KHARIYA",
+    "word_bangla": "খারিয়া",
+    "category": "Adjective",
+    "meaning_english": "Rough",
+    "meaning_bangla": "রুক্ষ"
+  },
+  {
+    "word_roman": "KHAL",
+    "word_bangla": "খাল",
+    "category": "Noun",
+    "meaning_english": "The act of pulling or pushing a fishing net",
+    "meaning_bangla": "মাছ ধরার জাল টানা বা ঠেলার কাজ"
+  },
+  {
+    "word_roman": "KHALAK",
+    "word_bangla": "খালক",
+    "category": "Verb",
+    "meaning_english": "To move (intr.)",
+    "meaning_bangla": "নড়া (অকর্মক)"
+  },
+  {
+    "word_roman": "KHALKA",
+    "word_bangla": "খালকা",
+    "category": "Verb",
+    "meaning_english": "To move (trans.), to shake",
+    "meaning_bangla": "নড়ানো (সকর্মক), ঝাঁকানো"
+  },
+  {
+    "word_roman": "KHALKANI",
+    "word_bangla": "খালকানি",
+    "category": "Noun",
+    "meaning_english": "Moving, shaking",
+    "meaning_bangla": "নড়াচড়া, ঝাঁকানো"
+  },
+  {
+    "word_roman": "KHALJUM",
+    "word_bangla": "খালজুম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khantum",
+    "meaning_bangla": "খান্তুম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHALPA",
+    "word_bangla": "খালপা",
+    "category": "Noun",
+    "meaning_english": "The act of assisting a songster",
+    "meaning_bangla": "গায়ককে সাহায্য করা"
+  },
+  {
+    "word_roman": "KHALPHAM",
+    "word_bangla": "খালফাম",
+    "category": "Noun",
+    "meaning_english": "Tune, mode of speaking",
+    "meaning_bangla": "সুর, কথা বলার ধরন"
+  },
+  {
+    "word_roman": "KHALLIK",
+    "word_bangla": "খাল্লিক",
+    "category": "Noun",
+    "meaning_english": "Tune",
+    "meaning_bangla": "সুর"
+  },
+  {
+    "word_roman": "KHASKHASA",
+    "word_bangla": "খাসখাসা",
+    "category": "Adjective",
+    "meaning_english": "Rough, uneven, wrinkled",
+    "meaning_bangla": "রুক্ষ, অসমতল, কুঞ্চিত"
+  },
+  {
+    "word_roman": "KHAHI",
+    "word_bangla": "খাহি",
+    "category": "Noun",
+    "meaning_english": "Honey",
+    "meaning_bangla": "মধু"
+  },
+  {
+    "word_roman": "KHAID",
+    "word_bangla": "খাইদ",
+    "category": "Adjective",
+    "meaning_english": "Fearful",
+    "meaning_bangla": "ভীতু"
+  },
+  {
+    "word_roman": "KHA",
+    "word_bangla": "খা",
+    "category": "Verb",
+    "meaning_english": "To eat",
+    "meaning_bangla": "খাওয়া"
+  },
+  {
+    "word_roman": "KHAI",
+    "word_bangla": "খাই",
+    "category": "Noun",
+    "meaning_english": "The Meiteis (an abusive term)",
+    "meaning_bangla": "মৈতৈ (অপমানজনক শব্দ)"
+  },
+  {
+    "word_roman": "KHAK",
+    "word_bangla": "খাক",
+    "category": "Noun",
+    "meaning_english": "A kind of reed",
+    "meaning_bangla": "এক ধরনের খাগড়া"
+  },
+  {
+    "word_roman": "KHAK",
+    "word_bangla": "খাক",
+    "category": "Adjective",
+    "meaning_english": "Weak through dryness (as a wood or bamboo)",
+    "meaning_bangla": "শুকনো হয়ে দুর্বল (কাঠ বা বাঁশের মতো)"
+  },
+  {
+    "word_roman": "KHAK",
+    "word_bangla": "খাক",
+    "category": "Noun",
+    "meaning_english": "The act of keeping for the future",
+    "meaning_bangla": "ভবিষ্যতের জন্য রাখার কাজ"
+  },
+  {
+    "word_roman": "KHAKALEHAU",
+    "word_bangla": "খাকালেহাউ",
+    "category": "Noun",
+    "meaning_english": "Pagoda tree and its flower",
+    "meaning_bangla": "প্যাগোডা গাছ এবং তার ফুল"
+  },
+  {
+    "word_roman": "KHAKI",
+    "word_bangla": "খাকি",
+    "category": "Adjective",
+    "meaning_english": "Brownish (cloth)",
+    "meaning_bangla": "খাকি রঙের (কাপড়)"
+  },
+  {
+    "word_roman": "KHAKILEHAU(M)",
+    "word_bangla": "খাকিলেহাউ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khakalehau",
+    "meaning_bangla": "খাকালেহাউ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHAKUNI(M)",
+    "word_bangla": "খাকুনি(ম)",
+    "category": "Noun",
+    "meaning_english": "A piece of cloth meant for tying a child against the back",
+    "meaning_bangla": "শিশুকে পিঠে বাঁধার জন্য কাপড়ের টুকরো"
+  },
+  {
+    "word_roman": "KHAGARA",
+    "word_bangla": "খাগারা",
+    "category": "Noun",
+    "meaning_english": "A reed",
+    "meaning_bangla": "খাগড়া"
+  },
+  {
+    "word_roman": "KHAGARA(M)",
+    "word_bangla": "খাগারা(ম)",
+    "category": "Noun",
+    "meaning_english": "A broomstick made by sticks of wood or bamboo",
+    "meaning_bangla": "কাঠ বা বাঁশের লাঠি দিয়ে তৈরি ঝাড়ু"
+  },
+  {
+    "word_roman": "KHAN",
+    "word_bangla": "খান",
+    "category": "Noun",
+    "meaning_english": "Astonishment",
+    "meaning_bangla": "বিস্ময়"
+  },
+  {
+    "word_roman": "KHAN",
+    "word_bangla": "খান",
+    "category": "Noun",
+    "meaning_english": "Tolerance",
+    "meaning_bangla": "সহ্য"
+  },
+  {
+    "word_roman": "KHAN(M)",
+    "word_bangla": "খান(ম)",
+    "category": "Noun",
+    "meaning_english": "Argument",
+    "meaning_bangla": "তর্ক"
+  },
+  {
+    "word_roman": "KHANASARIK",
+    "word_bangla": "খানাসারিক",
+    "category": "Noun",
+    "meaning_english": "A kind of necklace",
+    "meaning_bangla": "এক ধরনের গলার হার"
+  },
+  {
+    "word_roman": "KHANU(M)",
+    "word_bangla": "খানু(ম)",
+    "category": "Adjective",
+    "meaning_english": "Surprised, astonished",
+    "meaning_bangla": "বিস্মিত, অবাক"
+  },
+  {
+    "word_roman": "KHANEL",
+    "word_bangla": "খানেল",
+    "category": "Noun",
+    "meaning_english": "Beam (of a housestead)",
+    "meaning_bangla": "বাড়ির বিম"
+  },
+  {
+    "word_roman": "KHANCIN(M)",
+    "word_bangla": "খানচিন(ম)",
+    "category": "Noun",
+    "meaning_english": "Sudden pull",
+    "meaning_bangla": "হঠাৎ টান"
+  },
+  {
+    "word_roman": "KHANCET",
+    "word_bangla": "খানচেত",
+    "category": "Noun",
+    "meaning_english": "Girdle, waist-tie",
+    "meaning_bangla": "কোমরবন্ধ"
+  },
+  {
+    "word_roman": "KHANTA",
+    "word_bangla": "খান্তা",
+    "category": "Noun",
+    "meaning_english": "Side",
+    "meaning_bangla": "দিক"
+  },
+  {
+    "word_roman": "KHANTHA",
+    "word_bangla": "খান্থা",
+    "category": "Adjective",
+    "meaning_english": "(i) Sudden (ii) Suddenly",
+    "meaning_bangla": "(i) হঠাৎ (ii) হঠাৎ করে"
+  },
+  {
+    "word_roman": "KHANDAL(M)",
+    "word_bangla": "খান্দাল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of khandala",
+    "meaning_bangla": "খান্দালা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHANNA",
+    "word_bangla": "খান্না",
+    "category": "Adjective",
+    "meaning_english": "Acquainted",
+    "meaning_bangla": "পরিচিত"
+  },
+  {
+    "word_roman": "KHANLAPU(M)",
+    "word_bangla": "খানলাপু(ম)",
+    "category": "Noun",
+    "meaning_english": "Post-plate",
+    "meaning_bangla": "খুঁটির প্লেট"
+  },
+  {
+    "word_roman": "KHANLEL",
+    "word_bangla": "খানলেল",
+    "category": "Noun",
+    "meaning_english": "Beam (of a housestead)",
+    "meaning_bangla": "বাড়ির বিম"
+  },
+  {
+    "word_roman": "KHAC",
+    "word_bangla": "খাচ",
+    "category": "Noun",
+    "meaning_english": "Line",
+    "meaning_bangla": "রেখা"
+  },
+  {
+    "word_roman": "KHABALALA",
+    "word_bangla": "খাবালালা",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "মুঠো"
+  },
+  {
+    "word_roman": "KHABARDAR",
+    "word_bangla": "খাবারদার",
+    "category": "Interjection",
+    "meaning_english": "A word expressing: 'take care', 'beware'",
+    "meaning_bangla": "'সাবধান', 'খেয়াল রাখো' বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "KHABARDARI",
+    "word_bangla": "খাবারদারি",
+    "category": "Noun",
+    "meaning_english": "Warning, caution, command",
+    "meaning_bangla": "সতর্কতা, হুঁশিয়ারি, আদেশ"
+  },
+  {
+    "word_roman": "KHABAL",
+    "word_bangla": "খাবাল",
+    "category": "Noun",
+    "meaning_english": "Breast-tie, brassiere",
+    "meaning_bangla": "স্তনবন্ধ, ব্রা"
+  },
+  {
+    "word_roman": "KHABAL",
+    "word_bangla": "খাবাল",
+    "category": "Noun",
+    "meaning_english": "The papaya",
+    "meaning_bangla": "পেঁপে"
+  },
+  {
+    "word_roman": "KHATANSI",
+    "word_bangla": "খাতানসি",
+    "category": "Noun",
+    "meaning_english": "Chin-tie",
+    "meaning_bangla": "চিবুক বন্ধন"
+  },
+  {
+    "word_roman": "KHATANI",
+    "word_bangla": "খাতানি",
+    "category": "Noun",
+    "meaning_english": "Shutting",
+    "meaning_bangla": "বন্ধ করা"
+  },
+  {
+    "word_roman": "KHATANI",
+    "word_bangla": "খাতানি",
+    "category": "Noun",
+    "meaning_english": "Working, causing to work",
+    "meaning_bangla": "কাজ করা, কাজ করানো"
+  },
+  {
+    "word_roman": "KHATAL",
+    "word_bangla": "খাতাল",
+    "category": "Noun",
+    "meaning_english": "An apartment meant for a bride",
+    "meaning_bangla": "কনের জন্য নির্ধারিত কক্ষ"
+  },
+  {
+    "word_roman": "KHATI",
+    "word_bangla": "খাতি",
+    "category": "Adjective",
+    "meaning_english": "True, exact",
+    "meaning_bangla": "সত্য, সঠিক"
+  },
+  {
+    "word_roman": "KHATUNI",
+    "word_bangla": "খাতুনি",
+    "category": "Noun",
+    "meaning_english": "Labour",
+    "meaning_bangla": "শ্রম"
+  },
+  {
+    "word_roman": "KHAT",
+    "word_bangla": "খাত",
+    "category": "Noun",
+    "meaning_english": "Alloy, base-metal",
+    "meaning_bangla": "সংকর ধাতু, মূল ধাতু"
+  },
+  {
+    "word_roman": "KHATA",
+    "word_bangla": "খাতা",
+    "category": "Noun",
+    "meaning_english": "Note book",
+    "meaning_bangla": "খাতা"
+  },
+  {
+    "word_roman": "KHATIR",
+    "word_bangla": "খাতির",
+    "category": "Noun",
+    "meaning_english": "Care",
+    "meaning_bangla": "যত্ন"
+  },
+  {
+    "word_roman": "KHADI",
+    "word_bangla": "খাদি",
+    "category": "Noun",
+    "meaning_english": "Hand-woven cloth",
+    "meaning_bangla": "হাতে বোনা কাপড়"
+  },
+  {
+    "word_roman": "-KHAN(M)",
+    "word_bangla": "-খান(ম)",
+    "category": "Suffix",
+    "meaning_english": "Alt. form of -han",
+    "meaning_bangla": "-হান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "-KHANA",
+    "word_bangla": "-খানা",
+    "category": "Suffix",
+    "meaning_english": "A suf. used to indicate 'place'",
+    "meaning_bangla": "'স্থান' নির্দেশক suffix"
+  },
+  {
+    "word_roman": "KHANA",
+    "word_bangla": "খানা",
+    "category": "Noun",
+    "meaning_english": "(i) Eating (ii) Food",
+    "meaning_bangla": "(i) খাওয়া (ii) খাবার"
+  },
+  {
+    "word_roman": "KHANATALLAS",
+    "word_bangla": "খানাতাল্লাস",
+    "category": "Noun",
+    "meaning_english": "House-searching",
+    "meaning_bangla": "ঘর তল্লাশি"
+  },
+  {
+    "word_roman": "-KHANI(M)",
+    "word_bangla": "-খানি(ম)",
+    "category": "Suffix",
+    "meaning_english": "Alt. form of -hani",
+    "meaning_bangla": "-হানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHANI",
+    "word_bangla": "খানি",
+    "category": "Noun",
+    "meaning_english": "Eating",
+    "meaning_bangla": "খাওয়া"
+  },
+  {
+    "word_roman": "KHANI",
+    "word_bangla": "খানি",
+    "category": "Noun",
+    "meaning_english": "Food",
+    "meaning_bangla": "খাবার"
+  },
+  {
+    "word_roman": "KHANIK(K)",
+    "word_bangla": "খানিক(ক)",
+    "category": "Adjective",
+    "meaning_english": "A little",
+    "meaning_bangla": "সামান্য"
+  },
+  {
+    "word_roman": "KHANKI",
+    "word_bangla": "খানকি",
+    "category": "Noun",
+    "meaning_english": "Prostitute",
+    "meaning_bangla": "বেশ্যা"
+  },
+  {
+    "word_roman": "KHANTAK",
+    "word_bangla": "খান্তাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khantak",
+    "meaning_bangla": "খান্তাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHANDA",
+    "word_bangla": "খান্দা",
+    "category": "Noun",
+    "meaning_english": "(i) Ditch (ii) Road-side",
+    "meaning_bangla": "(i) খাদ (ii) রাস্তার ধার"
+  },
+  {
+    "word_roman": "KHABALALA",
+    "word_bangla": "খাবালালা",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "মুঠো"
+  },
+  {
+    "word_roman": "KHABARDAR",
+    "word_bangla": "খাবারদার",
+    "category": "Interjection",
+    "meaning_english": "A word expressing: 'take care', 'beware'",
+    "meaning_bangla": "'সাবধান', 'খেয়াল রাখো' বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "KHABARDARI",
+    "word_bangla": "খাবারদারি",
+    "category": "Noun",
+    "meaning_english": "Warning, caution, command",
+    "meaning_bangla": "সতর্কতা, হুঁশিয়ারি, আদেশ"
+  },
+  {
+    "word_roman": "KHABAL",
+    "word_bangla": "খাবাল",
+    "category": "Noun",
+    "meaning_english": "Breast-tie, brassiere",
+    "meaning_bangla": "স্তনবন্ধ, ব্রা"
+  },
+  {
+    "word_roman": "KHABAL",
+    "word_bangla": "খাবাল",
+    "category": "Noun",
+    "meaning_english": "The papaya",
+    "meaning_bangla": "পেঁপে"
+  },
+  {
+    "word_roman": "KHAMTAL",
+    "word_bangla": "খামতাল",
+    "category": "Adjective",
+    "meaning_english": "Youngest",
+    "meaning_bangla": "সবচেয়ে ছোট"
+  },
+  {
+    "word_roman": "KHAMTAK",
+    "word_bangla": "খামতাক",
+    "category": "Noun",
+    "meaning_english": "Midst",
+    "meaning_bangla": "মাঝখান"
+  },
+  {
+    "word_roman": "KHAMTHEN(M)",
+    "word_bangla": "খামথেন(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khamthen",
+    "meaning_bangla": "খামথেন-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHAMBA",
+    "word_bangla": "খাম্বা",
+    "category": "Noun",
+    "meaning_english": "Pillar",
+    "meaning_bangla": "স্তম্ভ"
+  },
+  {
+    "word_roman": "KHAYUM",
+    "word_bangla": "খায়ুম",
+    "category": "Noun",
+    "meaning_english": "A housestead facing towards the south",
+    "meaning_bangla": "দক্ষিণমুখী বাড়ি"
+  },
+  {
+    "word_roman": "KHAYUM(M)",
+    "word_bangla": "খায়ুম(ম)",
+    "category": "Noun",
+    "meaning_english": "Brassiere",
+    "meaning_bangla": "ব্রা"
+  },
+  {
+    "word_roman": "KHAWAN(M)",
+    "word_bangla": "খাওয়ান(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Eating (ii) Food",
+    "meaning_bangla": "(i) খাওয়া (ii) খাবার"
+  },
+  {
+    "word_roman": "KHAR",
+    "word_bangla": "খার",
+    "category": "Noun",
+    "meaning_english": "Alkali",
+    "meaning_bangla": "ক্ষার"
+  },
+  {
+    "word_roman": "KHARAI",
+    "word_bangla": "খারাই",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kharei",
+    "meaning_bangla": "খারেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHARAL",
+    "word_bangla": "খারাল",
+    "category": "Noun",
+    "meaning_english": "Small outlet of water",
+    "meaning_bangla": "জলের ছোট নির্গমপথ"
+  },
+  {
+    "word_roman": "KHARA",
+    "word_bangla": "খারা",
+    "category": "Noun",
+    "meaning_english": "A kind of round and high wicker-basket",
+    "meaning_bangla": "গোলাকার ও উঁচু বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "KHARAN(-GA)",
+    "word_bangla": "খারান(-গা)",
+    "category": "Adjective",
+    "meaning_english": "Spirited, rejuvenated",
+    "meaning_bangla": "উদ্দীপ্ত, পুনর্জীবিত"
+  },
+  {
+    "word_roman": "KHARAB",
+    "word_bangla": "খারাব",
+    "category": "Adjective",
+    "meaning_english": "Bad",
+    "meaning_bangla": "খারাপ"
+  },
+  {
+    "word_roman": "KHARIK",
+    "word_bangla": "খারিক",
+    "category": "Noun",
+    "meaning_english": "A kind of small insect found in flowers",
+    "meaning_bangla": "ফুলে পাওয়া ছোট পোকা"
+  },
+  {
+    "word_roman": "KHARAU(M)",
+    "word_bangla": "খারাউ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of kharau",
+    "meaning_bangla": "খারাউ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "KHARUWA",
+    "word_bangla": "খারুওয়া",
+    "category": "Noun",
+    "meaning_english": "A small portion of cultivated land left for plantation",
+    "meaning_bangla": "রোপণের জন্য রাখা চাষের ছোট অংশ"
+  },
+  {
+    "word_roman": "KHARAK(M)",
+    "word_bangla": "খারাক(ম)",
+    "category": "Noun",
+    "meaning_english": "A broomstick made by sticks of wood or bamboo",
+    "meaning_bangla": "কাঠ বা বাঁশের লাঠি দিয়ে তৈরি ঝাড়ু"
+  },
+  {
+    "word_roman": "KHARA",
+    "word_bangla": "খারা",
+    "category": "Adjective",
+    "meaning_english": "(i) Erect (ii) Ready",
+    "meaning_bangla": "(i) সোজা (ii) প্রস্তুত"
+  },
+  {
+    "word_roman": "KHARAI",
+    "word_bangla": "খারাই",
+    "category": "Adjective",
+    "meaning_english": "Erected",
+    "meaning_bangla": "সোজা করা"
+  },
+  {
+    "word_roman": "KHARI",
+    "word_bangla": "খারি",
+    "category": "Noun",
+    "meaning_english": "Small canal",
+    "meaning_bangla": "ছোট খাল"
+  },
+  {
+    "word_roman": "KHARI",
+    "word_bangla": "খারি",
+    "category": "Noun",
+    "meaning_english": "Piece (as of wood)",
+    "meaning_bangla": "টুকরো (কাঠের মতো)"
+  },
+  {
+    "word_roman": "KHAL",
+    "word_bangla": "খাল",
+    "category": "Noun",
+    "meaning_english": "Canal, ditch",
+    "meaning_bangla": "খাল, নালা"
+  },
+  {
+    "word_roman": "KHAL",
+    "word_bangla": "খাল",
+    "category": "Noun",
+    "meaning_english": "Thought",
+    "meaning_bangla": "চিন্তা"
+  },
+  
 ]
