@@ -10548,11 +10548,53 @@
   "meaning_english": "Two hundred",
   "meaning_bangla": "দুইশো"
 },
-{
-  "word_roman": "Lishing",
-  "word_bangla": "লিশিং",
-  "category": "Numeral",
-  "meaning_english": "One thousand",
-  "meaning_bangla": "এক হাজার"
-}
+  {
+    "word_roman": "Homathail",
+    "word_bangla": "হোমাথাইল",
+    "category": "Noun/Interjection",
+    "meaning_english": "Greeting, Salutation",
+    "meaning_bangla": "নমস্কার"
+  },
+  {
+    "word_roman": "Mokshi",
+    "word_bangla": "মোক্ষি",
+    "category": "Adjective",
+    "meaning_english": "Clean",
+    "meaning_bangla": "পরিষ্কার"
+  },
+  {
+    "word_roman": "Tongal",
+    "word_bangla": "তোঙাল",
+    "category": "Adjective",
+    "meaning_english": "Different",
+    "meaning_bangla": "আলাদা"
+  },
+  {
+    "word_roman": "Kongala",
+    "word_bangla": "কোঙালা",
+    "category": "Adjective",
+    "meaning_english": "Soft",
+    "meaning_bangla": "নরম"
+  },
+  {
+    "word_roman": "Appane",
+    "word_bangla": "আপ্পানে",
+    "category": "Adverb",
+    "meaning_english": "Oneself",
+    "meaning_bangla": "আপনি, নিজে"
+  },
+  {
+    "word_roman": "Khanippa, Heirap",
+    "word_bangla": "খানিপ্পা, হেইরাপ",
+    "category": "Adjective",
+    "meaning_english": "Less",
+    "meaning_bangla": "কম"
+  },
+  {
+    "word_roman": "Akasoo Bakasoo",
+    "word_bangla": "আকাসু বাকাসু",
+    "category": "Adjective",
+    "meaning_english": "Haphazard",
+    "meaning_bangla": "উল্টা পাল্টা"
+  }
 ]
