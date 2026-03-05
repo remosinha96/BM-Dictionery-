@@ -41360,5 +41360,838 @@
     "category": "Noun",
     "meaning_english": "The spark of fire",
     "meaning_bangla": "আগুনের ফুলকি"
+  },
+  {
+    "word_roman": "RENJA",
+    "word_bangla": "রেনজা",
+    "category": "Noun",
+    "meaning_english": "A jot, a little",
+    "meaning_bangla": "একটু, সামান্য"
+  },
+  {
+    "word_roman": "RET",
+    "word_bangla": "রেট",
+    "category": "Noun",
+    "meaning_english": "An instrument for sharpening carpenter's tools",
+    "meaning_bangla": "ছুতারের যন্ত্র ধারালো করার যন্ত্র"
+  },
+  {
+    "word_roman": "RENDHRA(M)",
+    "word_bangla": "রেন্ধ্র(ম)",
+    "category": "Noun",
+    "meaning_english": "Hole, defect",
+    "meaning_bangla": "গর্ত, ত্রুটি"
+  },
+  {
+    "word_roman": "RELA",
+    "word_bangla": "রেলা",
+    "category": "Suffix",
+    "meaning_english": "An ending for the instrumental case",
+    "meaning_bangla": "করণ কারকে ব্যবহৃত ending"
+  },
+  {
+    "word_roman": "LA",
+    "word_bangla": "লা",
+    "category": "Suffix",
+    "meaning_english": "An ending for the instrumental case",
+    "meaning_bangla": "করণ কারকে ব্যবহৃত ending"
+  },
+  {
+    "word_roman": "LAI",
+    "word_bangla": "লাই",
+    "category": "Verb",
+    "meaning_english": "(i) To buy (ii) To take",
+    "meaning_bangla": "(i) কেনা (ii) নেওয়া"
+  },
+  {
+    "word_roman": "LAILAT",
+    "word_bangla": "লাইলাত",
+    "category": "Noun",
+    "meaning_english": "Finishing",
+    "meaning_bangla": "সমাপ্তি"
+  },
+  {
+    "word_roman": "LAK",
+    "word_bangla": "লাক",
+    "category": "Noun",
+    "meaning_english": "Hilly gourd",
+    "meaning_bangla": "পাহাড়ি লাউ"
+  },
+  {
+    "word_roman": "LAK",
+    "word_bangla": "লাক",
+    "category": "Noun",
+    "meaning_english": "Influenza, cough",
+    "meaning_bangla": "ইনফ্লুয়েঞ্জা, কাশি"
+  },
+  {
+    "word_roman": "LAKAR",
+    "word_bangla": "লাকার",
+    "category": "Verb",
+    "meaning_english": "To pick up",
+    "meaning_bangla": "তুলে নেওয়া"
+  },
+  {
+    "word_roman": "LAKARANI",
+    "word_bangla": "লাকারানি",
+    "category": "Noun",
+    "meaning_english": "Picking up",
+    "meaning_bangla": "তুলে নেওয়া"
+  },
+  {
+    "word_roman": "LAKEI",
+    "word_bangla": "লাকেই",
+    "category": "Postposition",
+    "meaning_english": "A post-positional word used to indicate 'multiplicity'",
+    "meaning_bangla": "বহুত্ব নির্দেশক পদ"
+  },
+  {
+    "word_roman": "LAKKHA",
+    "word_bangla": "লক্ষা",
+    "category": "Noun",
+    "meaning_english": "Dale",
+    "meaning_bangla": "উপত্যকা"
+  },
+  {
+    "word_roman": "LAKCAP",
+    "word_bangla": "লকচাপ",
+    "category": "Noun",
+    "meaning_english": "Brook",
+    "meaning_bangla": "ছোট নদী"
+  },
+  {
+    "word_roman": "LAKTAR",
+    "word_bangla": "লক্তার",
+    "category": "Noun",
+    "meaning_english": "Area",
+    "meaning_bangla": "এলাকা"
+  },
+  {
+    "word_roman": "LAKTI",
+    "word_bangla": "লক্তি",
+    "category": "Noun",
+    "meaning_english": "Nail",
+    "meaning_bangla": "পেরেক"
+  },
+  {
+    "word_roman": "LAKPI",
+    "word_bangla": "লাকপি",
+    "category": "Noun",
+    "meaning_english": "Area",
+    "meaning_bangla": "এলাকা"
+  },
+  {
+    "word_roman": "LAG",
+    "word_bangla": "লাগ",
+    "category": "Noun",
+    "meaning_english": "(i) Attendant (ii) Accompaniment",
+    "meaning_bangla": "(i) সঙ্গী (ii) সঙ্গ"
+  },
+  {
+    "word_roman": "LAGALAG",
+    "word_bangla": "লাগালাগ",
+    "category": "Adverb",
+    "meaning_english": "Quickly",
+    "meaning_bangla": "তাড়াতাড়ি"
+  },
+  {
+    "word_roman": "RESHARESI",
+    "word_bangla": "রেশারেশি",
+    "category": "Noun",
+    "meaning_english": "Enmity",
+    "meaning_bangla": "শত্রুতা"
+  },
+  {
+    "word_roman": "REHAI",
+    "word_bangla": "রেহাই",
+    "category": "Noun",
+    "meaning_english": "Escape",
+    "meaning_bangla": "পলায়ন"
+  },
+  {
+    "word_roman": "RO",
+    "word_bangla": "রো",
+    "category": "Particle",
+    "meaning_english": "A particle used for entreating after words of relation to indicate a feeling of affection",
+    "meaning_bangla": "স্নেহ প্রকাশক অনুরোধের কণা"
+  },
+  {
+    "word_roman": "RAU",
+    "word_bangla": "রাউ",
+    "category": "Noun",
+    "meaning_english": "A sound",
+    "meaning_bangla": "একটা শব্দ"
+  },
+  {
+    "word_roman": "RAU",
+    "word_bangla": "রাউ",
+    "category": "Noun",
+    "meaning_english": "A kind of fish",
+    "meaning_bangla": "এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "LAGI",
+    "word_bangla": "লাগি",
+    "category": "Noun",
+    "meaning_english": "A pole for steering a boat or a raft",
+    "meaning_bangla": "নৌকা বা ভেলা চালানোর খুঁটি"
+  },
+  {
+    "word_roman": "LAN",
+    "word_bangla": "লান",
+    "category": "Noun",
+    "meaning_english": "Short form of lohan",
+    "meaning_bangla": "লোহান-এর সংক্ষিপ্ত রূপ"
+  },
+  {
+    "word_roman": "LAN",
+    "word_bangla": "লান",
+    "category": "Noun",
+    "meaning_english": "A tailor",
+    "meaning_bangla": "দর্জি"
+  },
+  {
+    "word_roman": "LAN",
+    "word_bangla": "লান",
+    "category": "Noun",
+    "meaning_english": "A fishing trap, fish-basket",
+    "meaning_bangla": "মাছ ধরার ফাঁদ, মাছের ঝুড়ি"
+  },
+  {
+    "word_roman": "LANGAR",
+    "word_bangla": "লাঙ্গর",
+    "category": "Noun",
+    "meaning_english": "Anchor",
+    "meaning_bangla": "নোঙ্গর"
+  },
+  {
+    "word_roman": "LANKHAL",
+    "word_bangla": "লাঙ্খাল",
+    "category": "Noun",
+    "meaning_english": "A method of wrestling",
+    "meaning_bangla": "কুস্তির একটি পদ্ধতি"
+  },
+  {
+    "word_roman": "LANLEI",
+    "word_bangla": "লানলেই",
+    "category": "Noun",
+    "meaning_english": "Whirl-wind",
+    "meaning_bangla": "ঘূর্ণিঝড়"
+  },
+  {
+    "word_roman": "LATA",
+    "word_bangla": "লাতা",
+    "category": "Noun",
+    "meaning_english": "The state of falling by rolling",
+    "meaning_bangla": "গড়িয়ে পড়ার অবস্থা"
+  },
+  {
+    "word_roman": "LATKA",
+    "word_bangla": "লাতকা",
+    "category": "Verb",
+    "meaning_english": "To dangle, to hang (intr.)",
+    "meaning_bangla": "ঝুলতে থাকা, ঝুলানো (অকর্মক)"
+  },
+  {
+    "word_roman": "LATKANI",
+    "word_bangla": "লাতকানি",
+    "category": "Noun",
+    "meaning_english": "Dangling, hanging (trans. and intr.)",
+    "meaning_bangla": "ঝোলানো, ঝুলতে থাকা (সকর্মক ও অকর্মক)"
+  },
+  {
+    "word_roman": "LAṆḌĀ-BHAṆḌA",
+    "word_bangla": "লণ্ডা-ভণ্ড",
+    "category": "Adjective",
+    "meaning_english": "Topsy-turvy",
+    "meaning_bangla": "উলটপালট বা বিশৃঙ্খল"
+  },
+  {
+    "word_roman": "LAT",
+    "word_bangla": "লত",
+    "category": "Noun",
+    "meaning_english": "(i) Concealment, removal in secret. (ii) Creeper. (iii)(M) Kidney bean.",
+    "meaning_bangla": "(i) গোপন করা বা গোপনে সরানো (ii) লতা (iii) শিম জাতীয় শস্য"
+  },
+  {
+    "word_roman": "LATE-LATE",
+    "word_bangla": "লতে-লতে",
+    "category": "Adverb",
+    "meaning_english": "Secretly",
+    "meaning_bangla": "গোপনে"
+  },
+  {
+    "word_roman": "LA'TPI",
+    "word_bangla": "লাতপি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of lākpi",
+    "meaning_bangla": "লাকপি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "LANA",
+    "word_bangla": "লন",
+    "category": "Noun",
+    "meaning_english": "Buying, taking",
+    "meaning_bangla": "কেনা বা নেওয়া"
+  },
+  {
+    "word_roman": "LANI",
+    "word_bangla": "লনি",
+    "category": "Noun",
+    "meaning_english": "Buying",
+    "meaning_bangla": "ক্রয় বা কেনা"
+  },
+  {
+    "word_roman": "LAP",
+    "word_bangla": "লপ",
+    "category": "Noun",
+    "meaning_english": "Handful",
+    "meaning_bangla": "এক মুঠো"
+  },
+  {
+    "word_roman": "LAPUK",
+    "word_bangla": "লপুক",
+    "category": "Noun",
+    "meaning_english": "Field",
+    "meaning_bangla": "মাঠ"
+  },
+  {
+    "word_roman": "LAM",
+    "word_bangla": "লম",
+    "category": "Noun",
+    "meaning_english": "The act of finishing",
+    "meaning_bangla": "শেষ করার কাজ"
+  },
+  {
+    "word_roman": "LAMBEI",
+    "word_bangla": "লম্বেই",
+    "category": "Noun",
+    "meaning_english": "Alt. form of naamei",
+    "meaning_bangla": "নামেই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "LA'WA",
+    "word_bangla": "লাওয়া",
+    "category": "Verb",
+    "meaning_english": "Bought",
+    "meaning_bangla": "কেনা হয়েছে এমন"
+  },
+  {
+    "word_roman": "LAWA-",
+    "word_bangla": "লাওয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to buy",
+    "meaning_bangla": "কেনানো"
+  },
+  {
+    "word_roman": "LA'R-",
+    "word_bangla": "লার-",
+    "category": "Verb",
+    "meaning_english": "To move about",
+    "meaning_bangla": "এদিক ওদিক ঘোরা"
+  },
+  {
+    "word_roman": "LA'RAN",
+    "word_bangla": "লারন",
+    "category": "Noun",
+    "meaning_english": "Movement",
+    "meaning_bangla": "নড়াচড়া বা আন্দোলন"
+  },
+  {
+    "word_roman": "LARA",
+    "word_bangla": "লরা",
+    "category": "Noun",
+    "meaning_english": "(i) Movement. (ii) Prohibition of ploughing (on specific days).",
+    "meaning_bangla": "(i) নড়াচড়া (ii) নির্দিষ্ট দিনে হাল চাষের নিষেধাজ্ঞা"
+  },
+  {
+    "word_roman": "LARA-",
+    "word_bangla": "লরা-",
+    "category": "Verb",
+    "meaning_english": "To shake",
+    "meaning_bangla": "নাড়ানো"
+  },
+  {
+    "word_roman": "LA'RANI",
+    "word_bangla": "লারানি",
+    "category": "Noun",
+    "meaning_english": "(i) Moving about. (ii) Shaking.",
+    "meaning_bangla": "(i) ঘোরাফেরা (ii) নাড়ানোর কাজ"
+  },
+  {
+    "word_roman": "LARI",
+    "word_bangla": "লারি",
+    "category": "Noun",
+    "meaning_english": "Bobbin",
+    "meaning_bangla": "নলি বা ববিন"
+  },
+  {
+    "word_roman": "LARAI",
+    "word_bangla": "লড়াই",
+    "category": "Noun",
+    "meaning_english": "Fight",
+    "meaning_bangla": "যুদ্ধ বা লড়াই"
+  },
+  {
+    "word_roman": "LAL",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "(i) Of the same age. (ii) A kind of reed. (iii) Embroidery. (iv) The act of boiling. (v) The act of stopping.",
+    "meaning_bangla": "(i) সমবয়সী (ii) এক ধরণের নলখাগড়া (iii) সূচিকর্ম (iv) ফোটানো (v) থামানোর কাজ"
+  },
+  {
+    "word_roman": "LAHI",
+    "word_bangla": "লাহি",
+    "category": "Noun",
+    "meaning_english": "Urine, pissing",
+    "meaning_bangla": "মূত্র বা প্রস্রাব"
+  },
+  {
+    "word_roman": "-LĀ",
+    "word_bangla": "-লা",
+    "category": "Suffix",
+    "meaning_english": "A suffix denoting 'almost'",
+    "meaning_bangla": "প্রায় অর্থ প্রকাশক প্রত্যয়"
+  },
+  {
+    "word_roman": "LAT",
+    "word_bangla": "লাত",
+    "category": "Noun",
+    "meaning_english": "A game of swimming",
+    "meaning_bangla": "এক ধরণের সাঁতারের খেলা"
+  },
+  {
+    "word_roman": "LAIK",
+    "word_bangla": "লাইক",
+    "category": "Adjective",
+    "meaning_english": "Unworthy, servant",
+    "meaning_bangla": "অযোগ্য বা ভৃত্য"
+  },
+  {
+    "word_roman": "LAIPERUK",
+    "word_bangla": "লাইপেরুক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of loiperuk",
+    "meaning_bangla": "লইপেরুক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "LAI-YUM",
+    "word_bangla": "লাই-য়ুম",
+    "category": "Noun",
+    "meaning_english": "A house facing towards the south",
+    "meaning_bangla": "দক্ষিণমুখী ঘর"
+  },
+  {
+    "word_roman": "LAIREN",
+    "word_bangla": "লাইরেন",
+    "category": "Noun",
+    "meaning_english": "A design of cloth",
+    "meaning_bangla": "কাপড়ের নকশা"
+  },
+  {
+    "word_roman": "LĀK",
+    "word_bangla": "লাক",
+    "category": "Noun/Verb",
+    "meaning_english": "(i) Piece (of cloth). (ii) Control. (iii) The act of profiting. (iv) Midst.",
+    "meaning_bangla": "(i) কাপড়ের টুকরো (ii) নিয়ন্ত্রণ (iii) লাভের কাজ (iv) মধ্যস্থল"
+  },
+  {
+    "word_roman": "LĀK-",
+    "word_bangla": "লাক-",
+    "category": "Verb",
+    "meaning_english": "To catch, to control, to clasp",
+    "meaning_bangla": "ধরা, নিয়ন্ত্রণ করা বা জড়িয়ে ধরা"
+  },
+  {
+    "word_roman": "LĀK",
+    "word_bangla": "লাক",
+    "category": "Noun",
+    "meaning_english": "The act of touching a distant thing",
+    "meaning_bangla": "দূরবর্তী কিছু স্পর্শ করার কাজ"
+  },
+  {
+    "word_roman": "LĀKĀTI",
+    "word_bangla": "লাকাতি",
+    "category": "Noun",
+    "meaning_english": "Wrestling",
+    "meaning_bangla": "কুস্তি"
+  },
+  {
+    "word_roman": "LĀKUṬI",
+    "word_bangla": "লাকুটি",
+    "category": "Noun",
+    "meaning_english": "A hard ball used for playing hockey-ball",
+    "meaning_bangla": "হকি খেলার শক্ত বল"
+  },
+  {
+    "word_roman": "LĀKKA, LĀKKHĀ",
+    "word_bangla": "লাক্কা, লাখ্খা",
+    "category": "Noun",
+    "meaning_english": "Guess",
+    "meaning_bangla": "অনুমান"
+  },
+  {
+    "word_roman": "LĀKCĀ",
+    "word_bangla": "লাকচা",
+    "category": "Noun",
+    "meaning_english": "The act of ignoring or superceding",
+    "meaning_bangla": "উপেক্ষা করার কাজ"
+  },
+  {
+    "word_roman": "CEMUṬI",
+    "word_bangla": "চেমুটি",
+    "category": "Noun",
+    "meaning_english": "Rheum",
+    "meaning_bangla": "চোখের পিচুটি বা কফ"
+  },
+  {
+    "word_roman": "CEMURĪ",
+    "word_bangla": "চেমুরী",
+    "category": "Adjective (fem.)",
+    "meaning_english": "Nasty (female)",
+    "meaning_bangla": "নোংরা বা জঘন্য (স্ত্রীলিঙ্গ)"
+  },
+  {
+    "word_roman": "CEMPĀI(M.)",
+    "word_bangla": "চেম্পাই(ম.)",
+    "category": "Noun",
+    "meaning_english": "A long wicker-basket",
+    "meaning_bangla": "একটি লম্বা বেতের ঝুড়ি"
+  },
+  {
+    "word_roman": "CEMPĀK(M.)",
+    "word_bangla": "চেম্পাক(ম.)",
+    "category": "Noun",
+    "meaning_english": "Flattened rice",
+    "meaning_bangla": "চিঁড়া"
+  },
+  {
+    "word_roman": "CERĀ",
+    "word_bangla": "চেরা",
+    "category": "Noun",
+    "meaning_english": "Boar",
+    "meaning_bangla": "বন্য শুকর"
+  },
+  {
+    "word_roman": "CERĀL(M.)",
+    "word_bangla": "চেরাল(ম.)",
+    "category": "Noun",
+    "meaning_english": "A cord made by twisting paddy-plants",
+    "meaning_bangla": "ধান গাছ পাকিয়ে তৈরি দড়ি"
+  },
+  {
+    "word_roman": "CÉRAU",
+    "word_bangla": "চেরাউ",
+    "category": "Noun",
+    "meaning_english": "A kind of small bird",
+    "meaning_bangla": "এক ধরণের ছোট পাখি"
+  },
+  {
+    "word_roman": "CEL(M.)",
+    "word_bangla": "চেল(ম.)",
+    "category": "Noun",
+    "meaning_english": "Announcement",
+    "meaning_bangla": "ঘোষণা"
+  },
+  {
+    "word_roman": "CEL",
+    "word_bangla": "চেল",
+    "category": "Verb/Noun",
+    "meaning_english": "(i) Reach (ii) Accommodation (iii) Suffering from disease",
+    "meaning_bangla": "(i) পৌঁছানো (ii) আবাসন (iii) রোগে ভোগা"
+  },
+  {
+    "word_roman": "CELĀ",
+    "word_bangla": "চেলা",
+    "category": "Noun",
+    "meaning_english": "Centipede",
+    "meaning_bangla": "তেঁতুল বিছে"
+  },
+  {
+    "word_roman": "CELA-(M.)",
+    "word_bangla": "চেলা-(ম.)",
+    "category": "Verb",
+    "meaning_english": "To awaken",
+    "meaning_bangla": "জাগানো"
+  },
+  {
+    "word_roman": "CÉLĀCAKI",
+    "word_bangla": "চেলাচকি",
+    "category": "Noun",
+    "meaning_english": "A kind of swift-moving bird",
+    "meaning_bangla": "এক ধরণের দ্রুতগামী পাখি"
+  },
+  {
+    "word_roman": "CELANI(M.)",
+    "word_bangla": "চেলানি(ম.)",
+    "category": "Noun",
+    "meaning_english": "Awakening",
+    "meaning_bangla": "জাগরণ"
+  },
+  {
+    "word_roman": "CELI",
+    "word_bangla": "চেলি",
+    "category": "Noun",
+    "meaning_english": "Split wood or earth",
+    "meaning_bangla": "চেরা কাঠ বা মাটি"
+  },
+  {
+    "word_roman": "CELTHĀ",
+    "word_bangla": "চেলথা",
+    "category": "Noun/Adjective",
+    "meaning_english": "(i) Condemnation (ii) Condemned",
+    "meaning_bangla": "(i) নিন্দা (ii) নিন্দিত"
+  },
+  {
+    "word_roman": "CEHĀRĀ",
+    "word_bangla": "চেহারা",
+    "category": "Noun",
+    "meaning_english": "Appearance",
+    "meaning_bangla": "চেহারা বা অবয়ব"
+  },
+  {
+    "word_roman": "COK",
+    "word_bangla": "চোক",
+    "category": "Noun",
+    "meaning_english": "Eye",
+    "meaning_bangla": "চোখ"
+  },
+  {
+    "word_roman": "CAUKĀ",
+    "word_bangla": "চৌকা",
+    "category": "Noun",
+    "meaning_english": "Quadrangular hole on the earth",
+    "meaning_bangla": "মাটিতে গর্ত করা চতুষ্কোণ স্থান"
+  },
+  {
+    "word_roman": "CAUKHĀT",
+    "word_bangla": "চৌখাট",
+    "category": "Adjective",
+    "meaning_english": "Prompt",
+    "meaning_bangla": "তৎপর বা চটপটে"
+  },
+  {
+    "word_roman": "CAUCALĀ",
+    "word_bangla": "চৌচলা",
+    "category": "Noun",
+    "meaning_english": "A house with roofs on four sides",
+    "meaning_bangla": "চারচালা ঘর"
+  },
+  {
+    "word_roman": "CAUDDA",
+    "word_bangla": "চৌদ্দ",
+    "category": "Number",
+    "meaning_english": "Fourteen",
+    "meaning_bangla": "চৌদ্দ"
+  },
+  {
+    "word_roman": "CAUDDHURI",
+    "word_bangla": "চৌধুরী",
+    "category": "Noun",
+    "meaning_english": "Zamindar",
+    "meaning_bangla": "জমিদার"
+  },
+  {
+    "word_roman": "LĀN",
+    "word_bangla": "লান",
+    "category": "Noun",
+    "meaning_english": "(i) Arrangement (ii) Provocation (iii) The act of flirting",
+    "meaning_bangla": "(i) ব্যবস্থা (ii) উস্কানি (iii) প্রেমের অভিনয় বা ফ্লার্ট করা"
+  },
+  {
+    "word_roman": "LĀNATA",
+    "word_bangla": "লানত",
+    "category": "Adjective",
+    "meaning_english": "Vacant, open (of space)",
+    "meaning_bangla": "খালি বা উন্মুক্ত স্থান"
+  },
+  {
+    "word_roman": "LĀṄĀRĀ-",
+    "word_bangla": "লাঙারা-",
+    "category": "Verb",
+    "meaning_english": "To provoke",
+    "meaning_bangla": "উত্তেজিত করা বা উস্কানি দেওয়া"
+  },
+  {
+    "word_roman": "LĀNAU",
+    "word_bangla": "লানৌ",
+    "category": "Noun",
+    "meaning_english": "A plain lower dress for women (Phanek)",
+    "meaning_bangla": "মহিলাদের সাধারণ নিম্নাংশের পোশাক (ফানেক)"
+  },
+  {
+    "word_roman": "LĀṄKĀP",
+    "word_bangla": "লাঙ্কাপ",
+    "category": "Noun",
+    "meaning_english": "(i) A goblin (ii) A long boil (forming in the groin)",
+    "meaning_bangla": "(i) ভূত বা প্রেতাত্মা (ii) কুঁচকির লম্বা ফোঁড়া"
+  },
+  {
+    "word_roman": "LĀṄKHALĀṬ",
+    "word_bangla": "লাঙ্খলাত",
+    "category": "Noun",
+    "meaning_english": "Long cloth",
+    "meaning_bangla": "লম্বা কাপড়"
+  },
+  {
+    "word_roman": "LĀṄGĀL(A)",
+    "word_bangla": "লাঙ্গল(অ)",
+    "category": "Noun",
+    "meaning_english": "Plough",
+    "meaning_bangla": "লাঙ্গল"
+  },
+  {
+    "word_roman": "LĀṄGĀ-",
+    "word_bangla": "লাঙা-",
+    "category": "Verb",
+    "meaning_english": "(i) To flirt (ii) To provoke",
+    "meaning_bangla": "(i) ফ্লার্ট করা (ii) উস্কানি দেওয়া"
+  },
+  {
+    "word_roman": "LĀṄGĀNI",
+    "word_bangla": "লাঙানি",
+    "category": "Noun",
+    "meaning_english": "(i) Flirting (ii) Provoking",
+    "meaning_bangla": "(i) প্রেমের অভিনয় (ii) প্ররোচিত করা"
+  },
+  {
+    "word_roman": "LĀṄGUNI",
+    "word_bangla": "লাঙুনি",
+    "category": "Noun",
+    "meaning_english": "Flirting woman, hermaphrodite",
+    "meaning_bangla": "প্রেমিকা বা হিজড়া (উভয়লিঙ্গ)"
+  },
+  {
+    "word_roman": "LĀNCĀK",
+    "word_bangla": "লাঞ্চাক",
+    "category": "Noun",
+    "meaning_english": "Shuttle (to which a bobbin is fitted)",
+    "meaning_bangla": "মাকু (তাত বোনার সরঞ্জাম)"
+  },
+  {
+    "word_roman": "LĀNCIL(M.)",
+    "word_bangla": "লাঞ্চিল(ম.)",
+    "category": "Noun",
+    "meaning_english": "Thread to fit",
+    "meaning_bangla": "উপযুক্ত সুতো"
+  },
+  {
+    "word_roman": "LĀNCEI",
+    "word_bangla": "লাঞ্চেই",
+    "category": "Noun",
+    "meaning_english": "(i) A rod used in weaving (ii) A kind of reed",
+    "meaning_bangla": "(i) বুননের কাজে ব্যবহৃত দণ্ড (ii) এক ধরণের নলখাগড়া"
+  },
+  {
+    "word_roman": "LĀNCEL",
+    "word_bangla": "লাঞ্চেল",
+    "category": "Noun",
+    "meaning_english": "A kind of plant",
+    "meaning_bangla": "এক ধরণের উদ্ভিদ"
+  },
+  {
+    "word_roman": "LĀNṬIYĀ",
+    "word_bangla": "লান্টিয়া",
+    "category": "Noun",
+    "meaning_english": "Vulture",
+    "meaning_bangla": "শকুন"
+  },
+  {
+    "word_roman": "LĀNṬU",
+    "word_bangla": "লান্টু",
+    "category": "Noun",
+    "meaning_english": "Small bamboo-pipe",
+    "meaning_bangla": "ছোট বাঁশের নল বা পাইপ"
+  },
+  {
+    "word_roman": "CHAK",
+    "word_bangla": "ছক",
+    "category": "Noun",
+    "meaning_english": "Touch",
+    "meaning_bangla": "স্পর্শ"
+  },
+  {
+    "word_roman": "CHAKKA",
+    "word_bangla": "ছক্কা",
+    "category": "Noun",
+    "meaning_english": "A throw of dice bearing six points",
+    "meaning_bangla": "পাশা খেলার ছক্কা (ছয় পয়েন্ট)"
+  },
+  {
+    "word_roman": "CHAKCHAKIYA",
+    "word_bangla": "ছকছকিয়া",
+    "category": "Onom.",
+    "meaning_english": "One who works quickly and roughly",
+    "meaning_bangla": "দ্রুত এবং অগোছালোভাবে কাজ করা ব্যক্তি"
+  },
+  {
+    "word_roman": "CHĀTAK",
+    "word_bangla": "ছাতক",
+    "category": "Noun",
+    "meaning_english": "One sixteenth of a cottah",
+    "meaning_bangla": "এক ছটাক (কাঠার ১৬ ভাগের ১ ভাগ)"
+  },
+  {
+    "word_roman": "CHATAN",
+    "word_bangla": "ছটান",
+    "category": "Noun",
+    "meaning_english": "Pretention",
+    "meaning_bangla": "ভনিতা বা ছলনা"
+  },
+  {
+    "word_roman": "CHATA(M.)",
+    "word_bangla": "ছটা(ম.)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of chatan",
+    "meaning_bangla": "ছটান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "CHAP",
+    "word_bangla": "ছপ",
+    "category": "Noun",
+    "meaning_english": "Snatch",
+    "meaning_bangla": "ছিনিয়ে নেওয়া"
+  },
+  {
+    "word_roman": "CHAPA",
+    "word_bangla": "ছপা",
+    "category": "Noun",
+    "meaning_english": "(i) Bush (ii) Clap",
+    "meaning_bangla": "(i) ঝোপ (ii) চাপড় বা তালি"
+  },
+  {
+    "word_roman": "CHAY",
+    "word_bangla": "ছয়",
+    "category": "Number",
+    "meaning_english": "Six",
+    "meaning_bangla": "ছয়"
+  },
+  {
+    "word_roman": "CHARI",
+    "word_bangla": "ছরি",
+    "category": "Noun",
+    "meaning_english": "Knife",
+    "meaning_bangla": "ছুরি"
+  },
+  {
+    "word_roman": "CHAR",
+    "word_bangla": "ছর",
+    "category": "Noun",
+    "meaning_english": "Skin",
+    "meaning_bangla": "চামড়া"
+  },
+  {
+    "word_roman": "CHĀRA",
+    "word_bangla": "ছারা",
+    "category": "Noun",
+    "meaning_english": "(i) Bunch (ii) The act of spreading",
+    "meaning_bangla": "(i) ছড়া বা গুচ্ছ (ii) কাপড় বিছানো বা ছড়ানোর কাজ"
+  },
+  {
+    "word_roman": "CHĀRI",
+    "word_bangla": "ছারি",
+    "category": "Noun",
+    "meaning_english": "Bunch",
+    "meaning_bangla": "ছড়া"
   }
 ]
