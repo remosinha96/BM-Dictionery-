@@ -38463,4 +38463,1187 @@
     "meaning_english": "Sister's daughter",
     "meaning_bangla": "বোনের মেয়ে"
   },
+  {
+    "word_roman": "MA",
+    "word_bangla": "মা",
+    "category": "Postposition",
+    "meaning_english": "A post-positional word used to indicate 'location' (Epycr-mā: Here)",
+    "meaning_bangla": "স্থান নির্দেশক পদ (এখানে মা)"
+  },
+  {
+    "word_roman": "MA",
+    "word_bangla": "মা",
+    "category": "Noun",
+    "meaning_english": "Mother, an address to a darling child",
+    "meaning_bangla": "মা, প্রিয় শিশুর প্রতি সম্বোধন"
+  },
+  {
+    "word_roman": "MA",
+    "word_bangla": "মা",
+    "category": "Noun",
+    "meaning_english": "Month",
+    "meaning_bangla": "মাস"
+  },
+  {
+    "word_roman": "MATAK",
+    "word_bangla": "মাতাক",
+    "category": "Noun",
+    "meaning_english": "An address to a darling young girl",
+    "meaning_bangla": "প্রিয় কন্যার প্রতি সম্বোধন"
+  },
+  {
+    "word_roman": "MAICA(N)(M)",
+    "word_bangla": "মাইচা(ন)(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of mācānah",
+    "meaning_bangla": "মাচানহ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MAINANU",
+    "word_bangla": "মাইনানু",
+    "category": "Noun",
+    "meaning_english": "Monthly salary (to a young Brahmin female)",
+    "meaning_bangla": "মাসিক বেতন (যুবতী ব্রাহ্মণ মহিলাকে)"
+  },
+  {
+    "word_roman": "MAITR",
+    "word_bangla": "মৈত্র",
+    "category": "Noun",
+    "meaning_english": "(i) Fight (ii) Oppression",
+    "meaning_bangla": "(i) লড়াই (ii) নির্যাতন"
+  },
+  {
+    "word_roman": "MAITR-PIT",
+    "word_bangla": "মৈত্র-পিত",
+    "category": "Noun",
+    "meaning_english": "Scuffle, fight",
+    "meaning_bangla": "ধস্তাধস্তি, লড়াই"
+  },
+  {
+    "word_roman": "MAU",
+    "word_bangla": "মাউ",
+    "category": "Noun",
+    "meaning_english": "Fresh meat",
+    "meaning_bangla": "তাজা মাংস"
+  },
+  {
+    "word_roman": "MAOKA",
+    "word_bangla": "মাওকা",
+    "category": "Noun",
+    "meaning_english": "Traditional, age-long",
+    "meaning_bangla": "প্রথাগত, বহুকালীন"
+  },
+  {
+    "word_roman": "MAO(M)",
+    "word_bangla": "মাও(ম)",
+    "category": "Suffix",
+    "meaning_english": "A suf. used to indicate 'multiplicity'",
+    "meaning_bangla": "বহুত্ব বোঝানো suffix"
+  },
+  {
+    "word_roman": "MAO",
+    "word_bangla": "মাও",
+    "category": "Noun",
+    "meaning_english": "An address to a darling girl",
+    "meaning_bangla": "প্রিয় কন্যার প্রতি সম্বোধন"
+  },
+  {
+    "word_roman": "MAK",
+    "word_bangla": "মাক",
+    "category": "Noun",
+    "meaning_english": "Wife",
+    "meaning_bangla": "স্ত্রী"
+  },
+  {
+    "word_roman": "MAKAK",
+    "word_bangla": "মাকাক",
+    "category": "Noun",
+    "meaning_english": "(i) Leader (ii) Head-man",
+    "meaning_bangla": "(i) নেতা (ii) মুখ্য ব্যক্তি"
+  },
+  {
+    "word_roman": "MAKAM",
+    "word_bangla": "মাকাম",
+    "category": "Noun",
+    "meaning_english": "Door",
+    "meaning_bangla": "দরজা"
+  },
+  {
+    "word_roman": "MAKARIYA",
+    "word_bangla": "মাকারিয়া",
+    "category": "Adjective",
+    "meaning_english": "Odd-looking",
+    "meaning_bangla": "অদ্ভুত চেহারার"
+  },
+  {
+    "word_roman": "MAKARI",
+    "word_bangla": "মাকারি",
+    "category": "Adjective",
+    "meaning_english": "Odd-looking (of females)",
+    "meaning_bangla": "অদ্ভুত চেহারার (মহিলাদের)"
+  },
+  {
+    "word_roman": "MAKARA",
+    "word_bangla": "মাকারা",
+    "category": "Noun",
+    "meaning_english": "Spider-like, odd-looking",
+    "meaning_bangla": "মাকড়সার মতো, অদ্ভুত চেহারার"
+  },
+  {
+    "word_roman": "MAKIN",
+    "word_bangla": "মাকিন",
+    "category": "Noun",
+    "meaning_english": "A dirty layer accumulating on something (as on a stone or bamboo)",
+    "meaning_bangla": "কোনো জিনিসে (পাথর বা বাঁশে) জমা নোংরা স্তর"
+  },
+  {
+    "word_roman": "MAKUM",
+    "word_bangla": "মাকুম",
+    "category": "Noun",
+    "meaning_english": "Cover",
+    "meaning_bangla": "ঢাকনা"
+  },
+  {
+    "word_roman": "MAKUMBA",
+    "word_bangla": "মাকুম্বা",
+    "category": "Adjective",
+    "meaning_english": "Looking like an owl, odd-looking",
+    "meaning_bangla": "পেঁচার মতো দেখতে, অদ্ভুত চেহারার"
+  },
+  {
+    "word_roman": "MAKKU",
+    "word_bangla": "মাক্কু",
+    "category": "Noun",
+    "meaning_english": "Owl",
+    "meaning_bangla": "পেঁচা"
+  },
+  {
+    "word_roman": "MAKHAN",
+    "word_bangla": "মাখান",
+    "category": "Noun",
+    "meaning_english": "Butter, rubbing, smearing, anointing",
+    "meaning_bangla": "মাখন, মাখা, লেপন, অভিষেক"
+  },
+  {
+    "word_roman": "MAKHA",
+    "word_bangla": "মাখা",
+    "category": "Adjective",
+    "meaning_english": "Beyond, down",
+    "meaning_bangla": "অতিক্রম করে, নিচে"
+  },
+  {
+    "word_roman": "MAKHAI",
+    "word_bangla": "মাখাই",
+    "category": "Noun",
+    "meaning_english": "Beyond (the Tilain hill)",
+    "meaning_bangla": "তিলাইন পাহাড়ের ওপারে"
+  },
+  {
+    "word_roman": "MAKHAN",
+    "word_bangla": "মাখান",
+    "category": "Noun",
+    "meaning_english": "Commander",
+    "meaning_bangla": "কমান্ডার"
+  },
+  {
+    "word_roman": "MAKHANI",
+    "word_bangla": "মাখানি",
+    "category": "Noun",
+    "meaning_english": "Smearing, anointing",
+    "meaning_bangla": "মাখা, লেপন"
+  },
+  {
+    "word_roman": "MAKHUM",
+    "word_bangla": "মাখুম",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of makhum",
+    "meaning_bangla": "মাখুম-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MAG",
+    "word_bangla": "মাগ",
+    "category": "Verb",
+    "meaning_english": "To beg",
+    "meaning_bangla": "ভিক্ষা করা"
+  },
+  {
+    "word_roman": "MAGAN",
+    "word_bangla": "মাগান",
+    "category": "Noun",
+    "meaning_english": "Begging, the act of begging",
+    "meaning_bangla": "ভিক্ষা করা, ভিক্ষার কাজ"
+  },
+  {
+    "word_roman": "MAGAGA",
+    "word_bangla": "মাগাগা",
+    "category": "Noun",
+    "meaning_english": "The act of begging",
+    "meaning_bangla": "ভিক্ষা করার কাজ"
+  },
+  {
+    "word_roman": "MAGANI",
+    "word_bangla": "মাগানি",
+    "category": "Noun",
+    "meaning_english": "Begging",
+    "meaning_bangla": "ভিক্ষা"
+  },
+  {
+    "word_roman": "MAGURA",
+    "word_bangla": "মাগুরা",
+    "category": "Noun",
+    "meaning_english": "(i) Beggar (ii) A kind of fish",
+    "meaning_bangla": "(i) ভিক্ষুক (ii) এক ধরনের মাছ"
+  },
+  {
+    "word_roman": "MAN",
+    "word_bangla": "মান",
+    "category": "Adjective",
+    "meaning_english": "(i) Impure (ii) Impurity",
+    "meaning_bangla": "(i) অপবিত্র (ii) অপবিত্রতা"
+  },
+  {
+    "word_roman": "MANAL",
+    "word_bangla": "মানাল",
+    "category": "Adjective",
+    "meaning_english": "Vanished, destroyed",
+    "meaning_bangla": "অদৃশ্য, ধ্বংসপ্রাপ্ত"
+  },
+  {
+    "word_roman": "MANAK(M)",
+    "word_bangla": "মানাক(ম)",
+    "category": "Noun",
+    "meaning_english": "The pipe of a hookah on which the bowl of tobacco is placed",
+    "meaning_bangla": "হুক্কার পাইপ যার উপর তামাকের বাটি রাখা হয়"
+  },
+  {
+    "word_roman": "MANKAL",
+    "word_bangla": "মানকাল",
+    "category": "Noun",
+    "meaning_english": "Portico",
+    "meaning_bangla": "বারান্দা"
+  },
+  {
+    "word_roman": "MANKAN",
+    "word_bangla": "মানকান",
+    "category": "Noun",
+    "meaning_english": "A big cymbal",
+    "meaning_bangla": "বড় করতাল"
+  },
+  {
+    "word_roman": "MANKARA",
+    "word_bangla": "মানকারা",
+    "category": "Noun",
+    "meaning_english": "Sweet-potato",
+    "meaning_bangla": "শকরকন্দ"
+  },
+  {
+    "word_roman": "MANKEI",
+    "word_bangla": "মানকেই",
+    "category": "Noun",
+    "meaning_english": "Tamarind",
+    "meaning_bangla": "তেঁতুল"
+  },
+  {
+    "word_roman": "MANGA",
+    "word_bangla": "মাঙ্গা",
+    "category": "Verb",
+    "meaning_english": "To import",
+    "meaning_bangla": "আমদানি করা"
+  },
+  {
+    "word_roman": "MANGANI",
+    "word_bangla": "মাঙ্গানি",
+    "category": "Noun",
+    "meaning_english": "Importing",
+    "meaning_bangla": "আমদানি করা"
+  },
+  {
+    "word_roman": "MANGA(M)",
+    "word_bangla": "মাঙ্গা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of māṅkārā",
+    "meaning_bangla": "মাঙ্গারা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MANTA",
+    "word_bangla": "মান্তা",
+    "category": "Adjective",
+    "meaning_english": "A little, a bit",
+    "meaning_bangla": "সামান্য, একটু"
+  },
+  {
+    "word_roman": "MANTAK",
+    "word_bangla": "মান্তাক",
+    "category": "Adjective",
+    "meaning_english": "Spoiled, lost",
+    "meaning_bangla": "নষ্ট, হারানো"
+  },
+  {
+    "word_roman": "MANNAPA",
+    "word_bangla": "মান্নাপা",
+    "category": "Noun",
+    "meaning_english": "Loss, spoiling",
+    "meaning_bangla": "ক্ষতি, নষ্ট হওয়া"
+  },
+  {
+    "word_roman": "MANPHU",
+    "word_bangla": "মানফু",
+    "category": "Noun",
+    "meaning_english": "Rice after dream",
+    "meaning_bangla": "স্বপ্নের পর ভাত"
+  },
+  {
+    "word_roman": "MANPHAU",
+    "word_bangla": "মানফাউ",
+    "category": "Noun",
+    "meaning_english": "Rise after dream",
+    "meaning_bangla": "স্বপ্নের পর উঠা"
+  },
+  {
+    "word_roman": "MAKA",
+    "word_bangla": "মাকা",
+    "category": "Verb",
+    "meaning_english": "To burst, fall flat, to be spoiled",
+    "meaning_bangla": "ফাটা, সমতল হয়ে পড়া, নষ্ট হওয়া"
+  },
+  {
+    "word_roman": "MAKAKLEI",
+    "word_bangla": "মাকাক্লেই",
+    "category": "Noun",
+    "meaning_english": "A kind of flower",
+    "meaning_bangla": "এক ধরনের ফুল"
+  },
+  {
+    "word_roman": "MAKANI",
+    "word_bangla": "মাকানি",
+    "category": "Noun",
+    "meaning_english": "Bursting, being spoiled",
+    "meaning_bangla": "ফাটা, নষ্ট হওয়া"
+  },
+  {
+    "word_roman": "MAKAMUJURA",
+    "word_bangla": "মাকামুজুরা",
+    "category": "Noun",
+    "meaning_english": "A state of being twisted",
+    "meaning_bangla": "পেঁচানো অবস্থা"
+  },
+  {
+    "word_roman": "MAKARA",
+    "word_bangla": "মাকারা",
+    "category": "Adjective",
+    "meaning_english": "Spider-like, odd-looking",
+    "meaning_bangla": "মাকড়সার মতো, অদ্ভুত চেহারার"
+  },
+  {
+    "word_roman": "MAKIN",
+    "word_bangla": "মাকিন",
+    "category": "Noun",
+    "meaning_english": "A dirty layer accumulating on something",
+    "meaning_bangla": "কোনো জিনিসে জমা নোংরা স্তর"
+  },
+  {
+    "word_roman": "MAKUMBA",
+    "word_bangla": "মাকুম্বা",
+    "category": "Adjective",
+    "meaning_english": "Looking like an owl, odd-looking",
+    "meaning_bangla": "পেঁচার মতো দেখতে, অদ্ভুত চেহারার"
+  },
+  {
+    "word_roman": "MAKKU",
+    "word_bangla": "মাক্কু",
+    "category": "Noun",
+    "meaning_english": "Owl",
+    "meaning_bangla": "পেঁচা"
+  },
+  {
+    "word_roman": "MAKHAN",
+    "word_bangla": "মাখান",
+    "category": "Noun",
+    "meaning_english": "Butter, rubbing, smearing, anointing",
+    "meaning_bangla": "মাখন, মাখা, লেপন, অভিষেক"
+  },
+  {
+    "word_roman": "MAKHA",
+    "word_bangla": "মাখা",
+    "category": "Adjective",
+    "meaning_english": "Beyond, down",
+    "meaning_bangla": "অতিক্রম করে, নিচে"
+  },
+  {
+    "word_roman": "MAKHAI",
+    "word_bangla": "মাখাই",
+    "category": "Noun",
+    "meaning_english": "Beyond (the Tilain hill)",
+    "meaning_bangla": "তিলাইন পাহাড়ের ওপারে"
+  },
+  {
+    "word_roman": "MAKHAN",
+    "word_bangla": "মাখান",
+    "category": "Noun",
+    "meaning_english": "Commander",
+    "meaning_bangla": "কমান্ডার"
+  },
+  {
+    "word_roman": "MAKHANI",
+    "word_bangla": "মাখানি",
+    "category": "Noun",
+    "meaning_english": "Smearing, anointing",
+    "meaning_bangla": "মাখা, লেপন"
+  },
+  {
+    "word_roman": "MAG",
+    "word_bangla": "মাগ",
+    "category": "Verb",
+    "meaning_english": "To beg",
+    "meaning_bangla": "ভিক্ষা করা"
+  },
+  {
+    "word_roman": "MAGAN",
+    "word_bangla": "মাগান",
+    "category": "Noun",
+    "meaning_english": "Begging, the act of begging",
+    "meaning_bangla": "ভিক্ষা করা, ভিক্ষার কাজ"
+  },
+  {
+    "word_roman": "MATAMATI",
+    "word_bangla": "মাতামাতি",
+    "category": "Noun",
+    "meaning_english": "Mutual talking",
+    "meaning_bangla": "পারস্পরিক কথোপকথন"
+  },
+  {
+    "word_roman": "MATAMBALA",
+    "word_bangla": "মাতাম্বালা",
+    "category": "Noun",
+    "meaning_english": "At the pinnacle of time",
+    "meaning_bangla": "সময়ের চরম সীমায়"
+  },
+  {
+    "word_roman": "MATALA",
+    "word_bangla": "মাতালা",
+    "category": "Noun",
+    "meaning_english": "Tammering",
+    "meaning_bangla": "টগবগ করা"
+  },
+  {
+    "word_roman": "MATUN",
+    "word_bangla": "মাতুন",
+    "category": "Noun",
+    "meaning_english": "Alt. form of matuwa",
+    "meaning_bangla": "মাতুয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MATOL",
+    "word_bangla": "মাতোল",
+    "category": "Noun",
+    "meaning_english": "A little",
+    "meaning_bangla": "সামান্য"
+  },
+  {
+    "word_roman": "MATAU",
+    "word_bangla": "মাতাউ",
+    "category": "Noun",
+    "meaning_english": "Behaviour, nature",
+    "meaning_bangla": "আচরণ, স্বভাব"
+  },
+  {
+    "word_roman": "MATHAN",
+    "word_bangla": "মাথান",
+    "category": "Noun",
+    "meaning_english": "At the top, ahead",
+    "meaning_bangla": "উপরে, সামনে"
+  },
+  {
+    "word_roman": "MATHAY",
+    "word_bangla": "মাথায়",
+    "category": "Noun",
+    "meaning_english": "Mood, temper, feeling",
+    "meaning_bangla": "মেজাজ, রাগ, অনুভূতি"
+  },
+  {
+    "word_roman": "MATHA",
+    "word_bangla": "মাথা",
+    "category": "Noun",
+    "meaning_english": "Head",
+    "meaning_bangla": "মাথা"
+  },
+  {
+    "word_roman": "MATHASENKARANI(M)",
+    "word_bangla": "মাথাসেঙ্করানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Castrating, spoiling the sex-gland of a male animal",
+    "meaning_bangla": "পুরুষ পশুর যৌনগ্রন্থি নষ্ট করা"
+  },
+  {
+    "word_roman": "MATHAN",
+    "word_bangla": "মাথান",
+    "category": "Noun",
+    "meaning_english": "Second, next",
+    "meaning_bangla": "দ্বিতীয়, পরবর্তী"
+  },
+  {
+    "word_roman": "MATHI",
+    "word_bangla": "মাথি",
+    "category": "Noun",
+    "meaning_english": "Head (of a fish)",
+    "meaning_bangla": "মাছের মাথা"
+  },
+  {
+    "word_roman": "MADAI",
+    "word_bangla": "মাদাই",
+    "category": "Noun",
+    "meaning_english": "Request",
+    "meaning_bangla": "অনুরোধ"
+  },
+  {
+    "word_roman": "MADANI",
+    "word_bangla": "মাদানি",
+    "category": "Noun",
+    "meaning_english": "Afternoon",
+    "meaning_bangla": "বিকেল"
+  },
+  {
+    "word_roman": "MADHUKARI",
+    "word_bangla": "মধুকরী",
+    "category": "Noun",
+    "meaning_english": "Collection of alms (by a mendicant)",
+    "meaning_bangla": "ভিক্ষুকের ভিক্ষা সংগ্রহ"
+  },
+  {
+    "word_roman": "MAN",
+    "word_bangla": "মান",
+    "category": "Verb",
+    "meaning_english": "To agree, to admit",
+    "meaning_bangla": "সম্মত হওয়া, স্বীকার করা"
+  },
+  {
+    "word_roman": "MANASI",
+    "word_bangla": "মানসি",
+    "category": "Noun",
+    "meaning_english": "Promised to be offered to a deity",
+    "meaning_bangla": "দেবতাকে উৎসর্গ করার প্রতিশ্রুতি"
+  },
+  {
+    "word_roman": "MANA",
+    "word_bangla": "মানা",
+    "category": "Noun",
+    "meaning_english": "Vanity, sense of prestige",
+    "meaning_bangla": "অহংকার, মর্যাদাবোধ"
+  },
+  {
+    "word_roman": "MANAI",
+    "word_bangla": "মানাই",
+    "category": "Noun",
+    "meaning_english": "Servant",
+    "meaning_bangla": "চাকর"
+  },
+  {
+    "word_roman": "MANAO",
+    "word_bangla": "মানাও",
+    "category": "Noun",
+    "meaning_english": "The smaller side of a drum",
+    "meaning_bangla": "ঢাকের ছোট দিক"
+  },
+  {
+    "word_roman": "MANAN",
+    "word_bangla": "মানান",
+    "category": "Noun",
+    "meaning_english": "Dirt accumulating in a hookah",
+    "meaning_bangla": "হুক্কায় জমা নোংরা"
+  },
+  {
+    "word_roman": "MANANIPARAM",
+    "word_bangla": "মানানিপারাম",
+    "category": "Noun",
+    "meaning_english": "A small house-lizard",
+    "meaning_bangla": "ছোট ঘরের টিকটিকি"
+  },
+  {
+    "word_roman": "MANAI",
+    "word_bangla": "মানাই",
+    "category": "Noun",
+    "meaning_english": "Myrobalan",
+    "meaning_bangla": "হরিতকী"
+  },
+  {
+    "word_roman": "MANAM-MANAM",
+    "word_bangla": "মানাম-মানাম",
+    "category": "Noun",
+    "meaning_english": "Variety, various",
+    "meaning_bangla": "বিভিন্নতা, নানারকম"
+  },
+  {
+    "word_roman": "MANIKI",
+    "word_bangla": "মানিকি",
+    "category": "Noun",
+    "meaning_english": "Sense of prestige",
+    "meaning_bangla": "মর্যাদাবোধ"
+  },
+  {
+    "word_roman": "MANIYA",
+    "word_bangla": "মানিয়া",
+    "category": "Adjective",
+    "meaning_english": "Honourable, respectable",
+    "meaning_bangla": "সম্মানিত, মর্যাদাপূর্ণ"
+  },
+  {
+    "word_roman": "MANIL-KHANIL",
+    "word_bangla": "মানিল-খানিল",
+    "category": "Noun",
+    "meaning_english": "(i) The least sound (ii) A hint",
+    "meaning_bangla": "(i) সামান্য শব্দ (ii) ইঙ্গিত"
+  },
+  {
+    "word_roman": "MANU",
+    "word_bangla": "মানু",
+    "category": "Noun",
+    "meaning_english": "Man, human being",
+    "meaning_bangla": "মানুষ"
+  },
+  {
+    "word_roman": "MANU",
+    "word_bangla": "মানু",
+    "category": "Noun",
+    "meaning_english": "An address to a darling child",
+    "meaning_bangla": "প্রিয় শিশুর প্রতি সম্বোধন"
+  },
+  {
+    "word_roman": "MAHAK",
+    "word_bangla": "মাহাক",
+    "category": "Noun",
+    "meaning_english": "Midst",
+    "meaning_bangla": "মাঝখান"
+  },
+  {
+    "word_roman": "MAHANI(M)",
+    "word_bangla": "মাহানি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of mauwani",
+    "meaning_bangla": "মৌয়ানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MAHAM(M)",
+    "word_bangla": "মাহাম(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Fact (ii) Condition",
+    "meaning_bangla": "(i) সত্য (ii) অবস্থা"
+  },
+  {
+    "word_roman": "MAHAL",
+    "word_bangla": "মাহাল",
+    "category": "Noun",
+    "meaning_english": "(i) Partition (ii) Side, part",
+    "meaning_bangla": "(i) বিভাজন (ii) অংশ, দিক"
+  },
+  {
+    "word_roman": "MAHI",
+    "word_bangla": "মাহি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of māhi",
+    "meaning_bangla": "মাহি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MAHIK",
+    "word_bangla": "মাহিক",
+    "category": "Noun",
+    "meaning_english": "A small louse",
+    "meaning_bangla": "ছোট উকুন"
+  },
+  {
+    "word_roman": "MAHIYA",
+    "word_bangla": "মাহিয়া",
+    "category": "Adjective",
+    "meaning_english": "Relating to a month",
+    "meaning_bangla": "মাস সম্পর্কিত"
+  },
+  {
+    "word_roman": "MAHU",
+    "word_bangla": "মাহু",
+    "category": "Noun",
+    "meaning_english": "Flesh",
+    "meaning_bangla": "মাংস"
+  },
+  {
+    "word_roman": "MAHUT",
+    "word_bangla": "মাহুত",
+    "category": "Noun",
+    "meaning_english": "Elephant-driver",
+    "meaning_bangla": "হাতি-চালক"
+  },
+  {
+    "word_roman": "MAHUSAKA(M)",
+    "word_bangla": "মাহুসাকা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of māu",
+    "meaning_bangla": "মাউ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MAHEI",
+    "word_bangla": "মাহেই",
+    "category": "Postposition",
+    "meaning_english": "A post-positional word used to indicate 'multitude'",
+    "meaning_bangla": "বহুত্ব নির্দেশক পদ"
+  },
+  {
+    "word_roman": "MAHAL",
+    "word_bangla": "মাহাল",
+    "category": "Noun",
+    "meaning_english": "Half a rupee",
+    "meaning_bangla": "আধ টাকা"
+  },
+  {
+    "word_roman": "MAHATAU",
+    "word_bangla": "মাহাতাউ",
+    "category": "Noun",
+    "meaning_english": "Taste",
+    "meaning_bangla": "স্বাদ"
+  },
+  {
+    "word_roman": "MI",
+    "word_bangla": "মি",
+    "category": "Noun",
+    "meaning_english": "Condition",
+    "meaning_bangla": "অবস্থা"
+  },
+  {
+    "word_roman": "MIKHAL",
+    "word_bangla": "মিখাল",
+    "category": "Noun",
+    "meaning_english": "Another village",
+    "meaning_bangla": "অন্য গ্রাম"
+  },
+  {
+    "word_roman": "MIN",
+    "word_bangla": "মিন",
+    "category": "Noun",
+    "meaning_english": "Name",
+    "meaning_bangla": "নাম"
+  },
+  {
+    "word_roman": "MINAK",
+    "word_bangla": "মিনাক",
+    "category": "Noun",
+    "meaning_english": "Name",
+    "meaning_bangla": "নাম"
+  },
+  {
+    "word_roman": "MINAL",
+    "word_bangla": "মিনাল",
+    "category": "Noun",
+    "meaning_english": "Light",
+    "meaning_bangla": "আলো"
+  },
+  {
+    "word_roman": "MINKAU",
+    "word_bangla": "মিনকাউ",
+    "category": "Noun",
+    "meaning_english": "Address",
+    "meaning_bangla": "সম্বোধন"
+  },
+  {
+    "word_roman": "MINCET",
+    "word_bangla": "মিনচেট",
+    "category": "Noun",
+    "meaning_english": "Fly",
+    "meaning_bangla": "মাছি"
+  },
+  {
+    "word_roman": "MINJET",
+    "word_bangla": "মিনজেট",
+    "category": "Verb",
+    "meaning_english": "To spread",
+    "meaning_bangla": "ছড়ানো"
+  },
+  {
+    "word_roman": "MICCAN",
+    "word_bangla": "মিচ্চান",
+    "category": "Noun",
+    "meaning_english": "(i) Good terms (ii) Alliance",
+    "meaning_bangla": "(i) ভালো সম্পর্ক (ii) মৈত্রী"
+  },
+  {
+    "word_roman": "MICCI",
+    "word_bangla": "মিচ্চি",
+    "category": "Noun",
+    "meaning_english": "Corner",
+    "meaning_bangla": "কোণা"
+  },
+  {
+    "word_roman": "MICCHIL",
+    "word_bangla": "মিচ্চিল",
+    "category": "Adjective",
+    "meaning_english": "Hot-tempered",
+    "meaning_bangla": "গরম মেজাজের"
+  },
+  {
+    "word_roman": "MICCHA",
+    "word_bangla": "মিচ্ছা",
+    "category": "Adjective",
+    "meaning_english": "False",
+    "meaning_bangla": "মিথ্যা"
+  },
+  {
+    "word_roman": "MICCHABI",
+    "word_bangla": "মিচ্ছাবি",
+    "category": "Noun",
+    "meaning_english": "Fem. fr. above",
+    "meaning_bangla": "উপরের স্ত্রীলিঙ্গ রূপ"
+  },
+  {
+    "word_roman": "MICHI",
+    "word_bangla": "মিচি",
+    "category": "Noun",
+    "meaning_english": "A kind of dentifrice",
+    "meaning_bangla": "দাঁত মাজার এক ধরনের উপাদান"
+  },
+  {
+    "word_roman": "MICHI",
+    "word_bangla": "মিচি",
+    "category": "Noun",
+    "meaning_english": "Egyptian sugar-candy",
+    "meaning_bangla": "মিশরীয় চিনির মিঠাই"
+  },
+  {
+    "word_roman": "MIJAI",
+    "word_bangla": "মিজাই",
+    "category": "Noun",
+    "meaning_english": "Temper, mood",
+    "meaning_bangla": "মেজাজ, মনের অবস্থা"
+  },
+  {
+    "word_roman": "MIJI",
+    "word_bangla": "মিজি",
+    "category": "Noun",
+    "meaning_english": "Condition",
+    "meaning_bangla": "অবস্থা"
+  },
+  {
+    "word_roman": "MIJAN",
+    "word_bangla": "মিজান",
+    "category": "Noun",
+    "meaning_english": "Counting",
+    "meaning_bangla": "গণনা"
+  },
+  {
+    "word_roman": "MITHAI",
+    "word_bangla": "মিঠাই",
+    "category": "Noun",
+    "meaning_english": "A kind of sweetmeat",
+    "meaning_bangla": "এক ধরনের মিষ্টি"
+  },
+  {
+    "word_roman": "MITAL",
+    "word_bangla": "মিতাল",
+    "category": "Noun",
+    "meaning_english": "Village, low",
+    "meaning_bangla": "গ্রাম, নিচু"
+  },
+  {
+    "word_roman": "MITA",
+    "word_bangla": "মিতা",
+    "category": "Noun",
+    "meaning_english": "Appearance",
+    "meaning_bangla": "চেহারা"
+  },
+  {
+    "word_roman": "MITKUP(M)",
+    "word_bangla": "মিতকুপ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of mikup",
+    "meaning_bangla": "মিকুপ-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MITKHAT(M)",
+    "word_bangla": "মিতখাত(ম)",
+    "category": "Noun",
+    "meaning_english": "Sidelong glance",
+    "meaning_bangla": "কাতর দৃষ্টি"
+  },
+  {
+    "word_roman": "MITTA",
+    "word_bangla": "মিত্তা",
+    "category": "Noun",
+    "meaning_english": "Appearance",
+    "meaning_bangla": "চেহারা"
+  },
+  {
+    "word_roman": "MITRAN",
+    "word_bangla": "মিত্রান",
+    "category": "Noun",
+    "meaning_english": "Magic",
+    "meaning_bangla": "জাদু"
+  },
+  {
+    "word_roman": "MITLEN(M)",
+    "word_bangla": "মিতলেন(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of millea",
+    "meaning_bangla": "মিলিয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "MITHAK",
+    "word_bangla": "মিথাক",
+    "category": "Noun",
+    "meaning_english": "Personality",
+    "meaning_bangla": "ব্যক্তিত্ব"
+  },
+  {
+    "word_roman": "MITHYUK(A)",
+    "word_bangla": "মিথ্যুক(আ)",
+    "category": "Noun",
+    "meaning_english": "Lier",
+    "meaning_bangla": "মিথ্যাবাদী"
+  },
+  {
+    "word_roman": "MINAK(M)",
+    "word_bangla": "মিনাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Request, prayer",
+    "meaning_bangla": "অনুরোধ, প্রার্থনা"
+  },
+  {
+    "word_roman": "MINA",
+    "word_bangla": "মিনা",
+    "category": "Noun",
+    "meaning_english": "Fight",
+    "meaning_bangla": "লড়াই"
+  },
+  {
+    "word_roman": "MINAMPA",
+    "word_bangla": "মিনাম্পা",
+    "category": "Adjective",
+    "meaning_english": "(i) Untrue (ii) Unfaithful",
+    "meaning_bangla": "(i) অসত্য (ii) অবিশ্বাসী"
+  },
+  {
+    "word_roman": "MIPAK",
+    "word_bangla": "মিপাক",
+    "category": "Noun",
+    "meaning_english": "Reception, hospitality",
+    "meaning_bangla": "আপ্যায়ন, আতিথেয়তা"
+  },
+  {
+    "word_roman": "MIPA",
+    "word_bangla": "মিপা",
+    "category": "Noun",
+    "meaning_english": "Head-man",
+    "meaning_bangla": "মুখ্য ব্যক্তি"
+  },
+  {
+    "word_roman": "MIPAK",
+    "word_bangla": "মিপাক",
+    "category": "Adjective",
+    "meaning_english": "Cordial",
+    "meaning_bangla": "আন্তরিক"
+  },
+  {
+    "word_roman": "MIRAL",
+    "word_bangla": "মিরাল",
+    "category": "Noun",
+    "meaning_english": "(i) Subject-matter (ii) Musical measure (as of a drum)",
+    "meaning_bangla": "(i) বিষয়বস্তু (ii) ঢাকের তাল"
+  },
+  {
+    "word_roman": "MIRAN",
+    "word_bangla": "মিরান",
+    "category": "Noun",
+    "meaning_english": "Equal status",
+    "meaning_bangla": "সমান মর্যাদা"
+  },
+  {
+    "word_roman": "MIRAJ",
+    "word_bangla": "মিরাজ",
+    "category": "Noun",
+    "meaning_english": "(i) Property (ii) Land held through inheritance",
+    "meaning_bangla": "(i) সম্পত্তি (ii) উত্তরাধিকারসূত্রে প্রাপ্ত জমি"
+  },
+  {
+    "word_roman": "MIRAJI",
+    "word_bangla": "মিরাজি",
+    "category": "Noun",
+    "meaning_english": "Held under hereditary title",
+    "meaning_bangla": "বংশগত উপাধির অধীনে রাখা"
+  },
+  {
+    "word_roman": "MIRAMIS",
+    "word_bangla": "মিরামিস",
+    "category": "Noun",
+    "meaning_english": "Vegetarian meal",
+    "meaning_bangla": "নিরামিষ ভোজন"
+  },
+  {
+    "word_roman": "MIRAS-MIRIK",
+    "word_bangla": "মিরাস-মিরিক",
+    "category": "Noun",
+    "meaning_english": "A word denoting brightness",
+    "meaning_bangla": "উজ্জ্বলতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "MIRUPAK",
+    "word_bangla": "মিরুপাক",
+    "category": "Noun",
+    "meaning_english": "Native land",
+    "meaning_bangla": "স্বদেশ, নিজ ভূমি"
+  },
+  {
+    "word_roman": "MIREI",
+    "word_bangla": "মিরেই",
+    "category": "Noun",
+    "meaning_english": "Trick, artifice",
+    "meaning_bangla": "চালাকি, কৌশল"
+  },
+  {
+    "word_roman": "MIR-MIR",
+    "word_bangla": "মির-মির",
+    "category": "Noun",
+    "meaning_english": "A word denoting smoothness",
+    "meaning_bangla": "মসৃণতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "MIL",
+    "word_bangla": "মিল",
+    "category": "Verb",
+    "meaning_english": "(i) To come together (ii) To tally",
+    "meaning_bangla": "(i) একত্রিত হওয়া (ii) মিলে যাওয়া"
+  },
+  {
+    "word_roman": "MILA",
+    "word_bangla": "মিলা",
+    "category": "Noun",
+    "meaning_english": "Similarity",
+    "meaning_bangla": "সাদৃশ্য"
+  },
+  {
+    "word_roman": "MILANI",
+    "word_bangla": "মিলানি",
+    "category": "Noun",
+    "meaning_english": "(i) Bringing together, verifying (ii) Intimate association, familiarity",
+    "meaning_bangla": "(i) একত্রিত করা, যাচাই করা (ii) ঘনিষ্ঠ সম্পর্ক, পরিচিতি"
+  },
+  {
+    "word_roman": "MILLEN",
+    "word_bangla": "মিল্লেন",
+    "category": "Noun",
+    "meaning_english": "Glance",
+    "meaning_bangla": "দৃষ্টি"
+  },
+  {
+    "word_roman": "MIS",
+    "word_bangla": "মিস",
+    "category": "Verb",
+    "meaning_english": "To be mixed or blended",
+    "meaning_bangla": "মিশ্রিত হওয়া"
+  },
+  {
+    "word_roman": "MISAL",
+    "word_bangla": "মিসাল",
+    "category": "Noun",
+    "meaning_english": "(i) Adulteration (ii) Adulterated",
+    "meaning_bangla": "(i) ভেজাল (ii) ভেজালযুক্ত"
+  },
+  {
+    "word_roman": "MISA",
+    "word_bangla": "মিসা",
+    "category": "Verb",
+    "meaning_english": "To mix",
+    "meaning_bangla": "মেশানো"
+  },
+  {
+    "word_roman": "MISANI",
+    "word_bangla": "মিসানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being mixed (ii) Mixing",
+    "meaning_bangla": "(i) মিশ্রিত হওয়া (ii) মেশানো"
+  },
+  {
+    "word_roman": "MISAMISI",
+    "word_bangla": "মিসামিসি",
+    "category": "Noun",
+    "meaning_english": "Association, intimacy",
+    "meaning_bangla": "সম্পর্ক, ঘনিষ্ঠতা"
+  },
+  {
+    "word_roman": "MISUK",
+    "word_bangla": "মিসুক",
+    "category": "Adjective",
+    "meaning_english": "Sociable, companionable",
+    "meaning_bangla": "মিশুক, সঙ্গীসুলভ"
+  },
+  {
+    "word_roman": "MIJTI",
+    "word_bangla": "মিজতি",
+    "category": "Noun",
+    "meaning_english": "(i) Sweet (ii) Sweet-meat",
+    "meaning_bangla": "(i) মিষ্টি (ii) মিষ্টান্ন"
+  },
+  {
+    "word_roman": "MIPAK",
+    "word_bangla": "মিপাক",
+    "category": "Noun",
+    "meaning_english": "Personality",
+    "meaning_bangla": "ব্যক্তিত্ব"
+  },
+  {
+    "word_roman": "MIPAL",
+    "word_bangla": "মিপাল",
+    "category": "Noun",
+    "meaning_english": "Condition",
+    "meaning_bangla": "অবস্থা"
+  },
+  {
+    "word_roman": "MIMAK",
+    "word_bangla": "মিমাক",
+    "category": "Adjective",
+    "meaning_english": "Bravery",
+    "meaning_bangla": "সাহস"
+  },
+  {
+    "word_roman": "MIMOT",
+    "word_bangla": "মিমোত",
+    "category": "Adjective",
+    "meaning_english": "Shy, lacking in personality",
+    "meaning_bangla": "লাজুক, ব্যক্তিত্বহীন"
+  },
+  {
+    "word_roman": "MIMOTIYA",
+    "word_bangla": "মিমোতিয়া",
+    "category": "Adjective",
+    "meaning_english": "Shy",
+    "meaning_bangla": "লাজুক"
+  },
+  {
+    "word_roman": "MIMONI",
+    "word_bangla": "মিমোনি",
+    "category": "Noun",
+    "meaning_english": "(i) Man in the front (ii) Personality",
+    "meaning_bangla": "(i) সামনের লোক (ii) ব্যক্তিত্ব"
+  },
+  {
+    "word_roman": "MIMUT",
+    "word_bangla": "মিমুত",
+    "category": "Noun",
+    "meaning_english": "Destruction",
+    "meaning_bangla": "ধ্বংস"
+  },
+  {
+    "word_roman": "MIYAL",
+    "word_bangla": "মিয়াল",
+    "category": "Noun",
+    "meaning_english": "Death",
+    "meaning_bangla": "মৃত্যু"
+  },
+  {
+    "word_roman": "MIYAR",
+    "word_bangla": "মিয়ার",
+    "category": "Noun",
+    "meaning_english": "Vegetables growing in a kitchen garden",
+    "meaning_bangla": "রান্নাঘরের বাগানে জন্মানো সবজি"
+  },
+  {
+    "word_roman": "MIYAN",
+    "word_bangla": "মিয়ান",
+    "category": "Noun",
+    "meaning_english": "Many",
+    "meaning_bangla": "অনেক"
+  }
 ]
