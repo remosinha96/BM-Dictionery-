@@ -37,9 +37,9 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
   `;
 
-  // Fetch the dictionary data with cache busting
+  // Fetch the dictionary data
   // Path is relative to index.html
-  fetch(`./dictionary.json?v=${Date.now()}`)
+  fetch('dictionary.json')
     .then(response => {
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
