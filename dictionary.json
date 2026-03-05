@@ -32533,5 +32533,1839 @@
     "category": "Noun",
     "meaning_english": "A turn of duty",
     "meaning_bangla": "কর্তব্যের পালা"
+  },
+  {
+    "word_roman": "BADANAM",
+    "word_bangla": "বাদনাম",
+    "category": "Noun",
+    "meaning_english": "Bad name",
+    "meaning_bangla": "বদনাম"
+  },
+  {
+    "word_roman": "BADANI",
+    "word_bangla": "বাদানি",
+    "category": "Noun",
+    "meaning_english": "Caring, taking into account",
+    "meaning_bangla": "যত্ন নেওয়া, হিসাবে রাখা"
+  },
+  {
+    "word_roman": "BADALA",
+    "word_bangla": "বাদালা",
+    "category": "Adjective",
+    "meaning_english": "Lacking sensation (of an organ)",
+    "meaning_bangla": "অনুভূতিহীন (কোনো অঙ্গের)"
+  },
+  {
+    "word_roman": "BADALA",
+    "word_bangla": "বাদালা",
+    "category": "Adjective",
+    "meaning_english": "Blunt, not sharp",
+    "meaning_bangla": "ভোঁতা, ধারালো নয়"
+  },
+  {
+    "word_roman": "BADALA",
+    "word_bangla": "বাদালা",
+    "category": "Verb",
+    "meaning_english": "To exchange, to change",
+    "meaning_bangla": "বিনিময় করা, পরিবর্তন করা"
+  },
+  {
+    "word_roman": "BADALANI",
+    "word_bangla": "বাদালানি",
+    "category": "Noun",
+    "meaning_english": "Changing, exchanging",
+    "meaning_bangla": "পরিবর্তন, বিনিময়"
+  },
+  {
+    "word_roman": "BADALBADALI",
+    "word_bangla": "বাদালবাদালি",
+    "category": "Noun",
+    "meaning_english": "Exchange, mutual change",
+    "meaning_bangla": "বিনিময়, পারস্পরিক পরিবর্তন"
+  },
+  {
+    "word_roman": "BADIDI(M)",
+    "word_bangla": "বাদিদি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of bhari",
+    "meaning_bangla": "ভারি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BADIBADI",
+    "word_bangla": "বাদিবাদি",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'stiffness' (of the belly)",
+    "meaning_bangla": "পেটের শক্ততা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "BADMAJISI",
+    "word_bangla": "বাদমাজিসি",
+    "category": "Noun",
+    "meaning_english": "Wickedness, roguery",
+    "meaning_bangla": "দুষ্টুমি, দুর্বৃত্তি"
+  },
+  {
+    "word_roman": "BADMEJAI",
+    "word_bangla": "বাদমেজাই",
+    "category": "Adjective",
+    "meaning_english": "Bad-tempered, peevish",
+    "meaning_bangla": "খিটখিটে, বিরক্তিপ্রবণ"
+  },
+  {
+    "word_roman": "BADAL",
+    "word_bangla": "বাদাল",
+    "category": "Verb",
+    "meaning_english": "To be changed, to be transferred",
+    "meaning_bangla": "পরিবর্তিত হওয়া, স্থানান্তরিত হওয়া"
+  },
+  {
+    "word_roman": "BAN",
+    "word_bangla": "বান",
+    "category": "Adjective",
+    "meaning_english": "Closed",
+    "meaning_bangla": "বন্ধ"
+  },
+  {
+    "word_roman": "BANANI",
+    "word_bangla": "বানানি",
+    "category": "Noun",
+    "meaning_english": "To be in good terms",
+    "meaning_bangla": "ভালো সম্পর্কে থাকা"
+  },
+  {
+    "word_roman": "BANAK",
+    "word_bangla": "বানাক",
+    "category": "Adjective",
+    "meaning_english": "Related as sister",
+    "meaning_bangla": "বোনের মতো সম্পর্কিত"
+  },
+  {
+    "word_roman": "BANA",
+    "word_bangla": "বানা",
+    "category": "Noun",
+    "meaning_english": "Sitting",
+    "meaning_bangla": "বসা"
+  },
+  {
+    "word_roman": "BANA",
+    "word_bangla": "বানা",
+    "category": "Noun",
+    "meaning_english": "Carrying",
+    "meaning_bangla": "বহন করা"
+  },
+  {
+    "word_roman": "BANAJYADI",
+    "word_bangla": "বানাজ্যাদি",
+    "category": "Noun",
+    "meaning_english": "Produced from herbs",
+    "meaning_bangla": "ভেষজ থেকে উৎপন্ন"
+  },
+  {
+    "word_roman": "BANANI",
+    "word_bangla": "বানানি",
+    "category": "Noun",
+    "meaning_english": "According, being in good terms",
+    "meaning_bangla": "অনুসারে, ভালো সম্পর্কে থাকা"
+  },
+  {
+    "word_roman": "BANABANI",
+    "word_bangla": "বানাবানি",
+    "category": "Noun",
+    "meaning_english": "Amity, concord",
+    "meaning_bangla": "বন্ধুত্ব, মিল"
+  },
+  {
+    "word_roman": "BANALI",
+    "word_bangla": "বানালি",
+    "category": "Noun",
+    "meaning_english": "Produced from herbs",
+    "meaning_bangla": "ভেষজ থেকে উৎপন্ন"
+  },
+  {
+    "word_roman": "BANIBANA",
+    "word_bangla": "বানিবানা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of banabani",
+    "meaning_bangla": "বানাবানি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BANDAR",
+    "word_bangla": "বন্দর",
+    "category": "Noun",
+    "meaning_english": "Port, city",
+    "meaning_bangla": "বন্দর, শহর"
+  },
+  {
+    "word_roman": "BANDI(M)",
+    "word_bangla": "বান্দি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of balja",
+    "meaning_bangla": "বালজা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BANDI",
+    "word_bangla": "বান্দি",
+    "category": "Noun",
+    "meaning_english": "A kind of play for the children",
+    "meaning_bangla": "শিশুদের এক ধরনের খেলা"
+  },
+  {
+    "word_roman": "BANDUK",
+    "word_bangla": "বন্দুক",
+    "category": "Noun",
+    "meaning_english": "Captive",
+    "meaning_bangla": "বন্দী"
+  },
+  {
+    "word_roman": "BANDUBASTA",
+    "word_bangla": "বন্দোবস্ত",
+    "category": "Noun",
+    "meaning_english": "Arrangement",
+    "meaning_bangla": "ব্যবস্থা"
+  },
+  {
+    "word_roman": "BANDHAKI",
+    "word_bangla": "বন্ধকি",
+    "category": "Adjective",
+    "meaning_english": "Relating to mortgage",
+    "meaning_bangla": "বন্ধক সম্পর্কিত"
+  },
+  {
+    "word_roman": "BANDHA",
+    "word_bangla": "বন্ধা",
+    "category": "Adjective",
+    "meaning_english": "Reserved",
+    "meaning_bangla": "সংরক্ষিত"
+  },
+  {
+    "word_roman": "BAINA",
+    "word_bangla": "বাইনা",
+    "category": "Noun",
+    "meaning_english": "Advance-money",
+    "meaning_bangla": "অগ্রিম টাকা"
+  },
+  {
+    "word_roman": "BAINAMA",
+    "word_bangla": "বাইনামা",
+    "category": "Noun",
+    "meaning_english": "Advance-money",
+    "meaning_bangla": "অগ্রিম টাকা"
+  },
+  {
+    "word_roman": "BAILA",
+    "word_bangla": "বাইলা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of bayila",
+    "meaning_bangla": "বায়িলা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BAUT",
+    "word_bangla": "বাউত",
+    "category": "Adjective",
+    "meaning_english": "Many, much",
+    "meaning_bangla": "অনেক, প্রচুর"
+  },
+  {
+    "word_roman": "BAK(M)",
+    "word_bangla": "বাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Bubble",
+    "meaning_bangla": "বুদবুদ"
+  },
+  {
+    "word_roman": "BAK",
+    "word_bangla": "বাক",
+    "category": "Verb",
+    "meaning_english": "To talk much",
+    "meaning_bangla": "বেশি কথা বলা"
+  },
+  {
+    "word_roman": "BAKANI",
+    "word_bangla": "বাকানি",
+    "category": "Noun",
+    "meaning_english": "Talking too much",
+    "meaning_bangla": "অতিরিক্ত কথা বলা"
+  },
+  {
+    "word_roman": "BAKAYA",
+    "word_bangla": "বাকায়া",
+    "category": "Noun",
+    "meaning_english": "Alt. form of bakeya",
+    "meaning_bangla": "বাকেয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BAKURA",
+    "word_bangla": "বাকুরা",
+    "category": "Noun",
+    "meaning_english": "One who talks too much",
+    "meaning_bangla": "যে বেশি কথা বলে"
+  },
+  {
+    "word_roman": "BAKURI",
+    "word_bangla": "বাকুরি",
+    "category": "Noun",
+    "meaning_english": "Fem. fr. above",
+    "meaning_bangla": "উপরের স্ত্রীলিঙ্গ রূপ"
+  },
+  {
+    "word_roman": "BAKEYA",
+    "word_bangla": "বাকেয়া",
+    "category": "Noun",
+    "meaning_english": "Arrear",
+    "meaning_bangla": "বকেয়া"
+  },
+  {
+    "word_roman": "BAKKA",
+    "word_bangla": "বাক্কা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of bukka",
+    "meaning_bangla": "বুক্কা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BAKTRA",
+    "word_bangla": "বাক্ত্র",
+    "category": "Noun",
+    "meaning_english": "Lecture, speech",
+    "meaning_bangla": "ভাষণ, বক্তৃতা"
+  },
+  {
+    "word_roman": "BAKBAK",
+    "word_bangla": "বাকবাক",
+    "category": "Noun",
+    "meaning_english": "A word denoting talkativeness",
+    "meaning_bangla": "বাক্যবহুলতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "BAKSA",
+    "word_bangla": "বাক্সা",
+    "category": "Adjective",
+    "meaning_english": "Bulky",
+    "meaning_bangla": "ভারী, স্থূল"
+  },
+  {
+    "word_roman": "BAKSAL",
+    "word_bangla": "বাক্সাল",
+    "category": "Adjective",
+    "meaning_english": "Fat (of women)",
+    "meaning_bangla": "মোটা (মহিলাদের)"
+  },
+  {
+    "word_roman": "BAGLA",
+    "word_bangla": "বাগলা",
+    "category": "Noun",
+    "meaning_english": "Crane",
+    "meaning_bangla": "বক"
+  },
+  {
+    "word_roman": "BANA",
+    "word_bangla": "বানা",
+    "category": "Verb",
+    "meaning_english": "To vomit",
+    "meaning_bangla": "বমি করা"
+  },
+  {
+    "word_roman": "BANANI",
+    "word_bangla": "বানানি",
+    "category": "Noun",
+    "meaning_english": "Vomiting",
+    "meaning_bangla": "বমি করা"
+  },
+  {
+    "word_roman": "BANUA",
+    "word_bangla": "বানুয়া",
+    "category": "Verb",
+    "meaning_english": "To cause to vomit",
+    "meaning_bangla": "বমি করানো"
+  },
+  {
+    "word_roman": "BANDESI",
+    "word_bangla": "বান্দেশি",
+    "category": "Noun",
+    "meaning_english": "Name of a dance",
+    "meaning_bangla": "একটি নৃত্যের নাম"
+  },
+  {
+    "word_roman": "BANGA",
+    "word_bangla": "বাঙ্গা",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'excessive emittance of odour'",
+    "meaning_bangla": "অতিরিক্ত গন্ধ নির্গমন বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "BACBAC",
+    "word_bangla": "বাচবাচ",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'piercingness'",
+    "meaning_bangla": "বিদ্ধ করার মতো অবস্থা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "BACHAR",
+    "word_bangla": "বাচার",
+    "category": "Noun",
+    "meaning_english": "Year",
+    "meaning_bangla": "বছর"
+  },
+  {
+    "word_roman": "BAJAK(M)",
+    "word_bangla": "বাজাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of bajak",
+    "meaning_bangla": "বাজাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "BAJAGA",
+    "word_bangla": "বাজাগা",
+    "category": "Noun",
+    "meaning_english": "A jumbled state",
+    "meaning_bangla": "এলোমেলো অবস্থা"
+  },
+  {
+    "word_roman": "PHEN-DHANU",
+    "word_bangla": "ফেন-ধানু",
+    "category": "Noun",
+    "meaning_english": "Rainbow",
+    "meaning_bangla": "রামধনু"
+  },
+  {
+    "word_roman": "PHER",
+    "word_bangla": "ফের",
+    "category": "Noun",
+    "meaning_english": "Difference",
+    "meaning_bangla": "পার্থক্য"
+  },
+  {
+    "word_roman": "PHER",
+    "word_bangla": "ফের",
+    "category": "Verb",
+    "meaning_english": "To tear, to split",
+    "meaning_bangla": "ছিঁড়া, চিরা"
+  },
+  {
+    "word_roman": "PHERANI",
+    "word_bangla": "ফেরানি",
+    "category": "Noun",
+    "meaning_english": "Tearing, splitting",
+    "meaning_bangla": "ছেঁড়া, চিরা"
+  },
+  {
+    "word_roman": "PHERI",
+    "word_bangla": "ফেরি",
+    "category": "Noun",
+    "meaning_english": "Fem. fr. phera",
+    "meaning_bangla": "ফেরা-এর স্ত্রীলিঙ্গ রূপ"
+  },
+  {
+    "word_roman": "PHERENGA",
+    "word_bangla": "ফেরেঙ্গা",
+    "category": "Adjective",
+    "meaning_english": "Slanting, unreasonable obstinacy",
+    "meaning_bangla": "হেলানো, অযৌক্তিক জেদ"
+  },
+  {
+    "word_roman": "PHEREHEP",
+    "word_bangla": "ফেরেহেপ",
+    "category": "Noun",
+    "meaning_english": "Gap, difference",
+    "meaning_bangla": "ফাঁক, পার্থক্য"
+  },
+  {
+    "word_roman": "PHERPHER",
+    "word_bangla": "ফেরফের",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'turning hither and thither' or 'fineness' of a cloth",
+    "meaning_bangla": "এদিক-ওদিক ঘুরা বা কাপড়ের সূক্ষ্মতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHERPHERA",
+    "word_bangla": "ফেরফেরা",
+    "category": "Noun",
+    "meaning_english": "Fluttering",
+    "meaning_bangla": "ফড়ফড় করা"
+  },
+  {
+    "word_roman": "PHERPHEREI",
+    "word_bangla": "ফেরফেরেই",
+    "category": "Noun",
+    "meaning_english": "A playing thing that revolves with the wind and flutters when held against the wind",
+    "meaning_bangla": "বাতাসে ঘুরে ও ফড়ফড় করা খেলনা"
+  },
+  {
+    "word_roman": "PHEL",
+    "word_bangla": "ফেল",
+    "category": "Noun",
+    "meaning_english": "A fishing net",
+    "meaning_bangla": "মাছ ধরার জাল"
+  },
+  {
+    "word_roman": "PHEL",
+    "word_bangla": "ফেল",
+    "category": "Noun",
+    "meaning_english": "Strength",
+    "meaning_bangla": "শক্তি"
+  },
+  {
+    "word_roman": "PHES",
+    "word_bangla": "ফেস",
+    "category": "Adjective",
+    "meaning_english": "Worthless, weak",
+    "meaning_bangla": "অকেজো, দুর্বল"
+  },
+  {
+    "word_roman": "PHESKUNDA",
+    "word_bangla": "ফেসকুন্দা",
+    "category": "Noun",
+    "meaning_english": "Small black plants",
+    "meaning_bangla": "ছোট কালো গাছ"
+  },
+  {
+    "word_roman": "PHAU",
+    "word_bangla": "ফাউ",
+    "category": "Noun",
+    "meaning_english": "(i) Arrival (ii) Arrived",
+    "meaning_bangla": "(i) আগমন (ii) এসেছে"
+  },
+  {
+    "word_roman": "PHAUKHAT",
+    "word_bangla": "ফাউখাত",
+    "category": "Noun",
+    "meaning_english": "An instrument for collecting paddy grains",
+    "meaning_bangla": "ধান সংগ্রহের যন্ত্র"
+  },
+  {
+    "word_roman": "PHAUI",
+    "word_bangla": "ফাউই",
+    "category": "Noun",
+    "meaning_english": "Army",
+    "meaning_bangla": "সেনাবাহিনী"
+  },
+  {
+    "word_roman": "PHAUDAK",
+    "word_bangla": "ফাউদাক",
+    "category": "Noun",
+    "meaning_english": "Product of paddy",
+    "meaning_bangla": "ধানের উৎপাদন"
+  },
+  {
+    "word_roman": "PHAURA",
+    "word_bangla": "ফাউরা",
+    "category": "Noun",
+    "meaning_english": "Harvested paddy-plants exposed in the field",
+    "meaning_bangla": "ক্ষেতে মেলে রাখা ফসল কাটা ধান গাছ"
+  },
+  {
+    "word_roman": "PHAURI",
+    "word_bangla": "ফাউরি",
+    "category": "Noun",
+    "meaning_english": "The position of paddy-plants",
+    "meaning_bangla": "ধান গাছের অবস্থান"
+  },
+  {
+    "word_roman": "PHURIT",
+    "word_bangla": "ফুরিত",
+    "category": "Noun",
+    "meaning_english": "Leisure",
+    "meaning_bangla": "অবসর"
+  },
+  {
+    "word_roman": "PHURTI",
+    "word_bangla": "ফুর্তি",
+    "category": "Noun",
+    "meaning_english": "Enjoyment",
+    "meaning_bangla": "আনন্দ"
+  },
+  {
+    "word_roman": "PHURPHUR",
+    "word_bangla": "ফুরফুর",
+    "category": "Noun",
+    "meaning_english": "A word denoting dryness and cleanness",
+    "meaning_bangla": "শুষ্কতা ও পরিচ্ছন্নতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHURPHURA",
+    "word_bangla": "ফুরফুরা",
+    "category": "Verb",
+    "meaning_english": "To appear dry and clean",
+    "meaning_bangla": "শুষ্ক ও পরিষ্কার দেখানো"
+  },
+  {
+    "word_roman": "PHURPHURANI",
+    "word_bangla": "ফুরফুরানি",
+    "category": "Noun",
+    "meaning_english": "Appearing dry and clean",
+    "meaning_bangla": "শুষ্ক ও পরিষ্কার হওয়া"
+  },
+  {
+    "word_roman": "PHUL",
+    "word_bangla": "ফুল",
+    "category": "Noun",
+    "meaning_english": "Flower",
+    "meaning_bangla": "ফুল"
+  },
+  {
+    "word_roman": "PHUL",
+    "word_bangla": "ফুল",
+    "category": "Noun",
+    "meaning_english": "A piece of dead bone collected from the forehead of a dead body during cremation",
+    "meaning_bangla": "শ্মশানে মৃতদেহের কপাল থেকে সংগৃহীত মৃত হাড়ের টুকরো"
+  },
+  {
+    "word_roman": "PHUL",
+    "word_bangla": "ফুল",
+    "category": "Verb",
+    "meaning_english": "To swell",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "PHULA",
+    "word_bangla": "ফুলা",
+    "category": "Adjective",
+    "meaning_english": "Swollen",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "PHULALA",
+    "word_bangla": "ফুলালা",
+    "category": "Verb",
+    "meaning_english": "To make swell",
+    "meaning_bangla": "ফোলানো"
+  },
+  {
+    "word_roman": "PHULANI",
+    "word_bangla": "ফুলানি",
+    "category": "Noun",
+    "meaning_english": "(i) Swelling (ii) Causing to swell",
+    "meaning_bangla": "(i) ফোলা (ii) ফোলানো"
+  },
+  {
+    "word_roman": "PHUSKURI(M)",
+    "word_bangla": "ফুসকুরি(ম)",
+    "category": "Noun",
+    "meaning_english": "Blister, vesicle",
+    "meaning_bangla": "ফোসকা, ফোস্কা"
+  },
+  {
+    "word_roman": "PHEIKAL",
+    "word_bangla": "ফেইকাল",
+    "category": "Noun",
+    "meaning_english": "The side of the buttock",
+    "meaning_bangla": "নিতম্বের পাশ"
+  },
+  {
+    "word_roman": "PHEICAM",
+    "word_bangla": "ফেইচাম",
+    "category": "Noun",
+    "meaning_english": "Dhuti, the lower garment of males",
+    "meaning_bangla": "পুরুষদের নিম্নাঙ্গের পোশাক (ধুতি)"
+  },
+  {
+    "word_roman": "PHEICA",
+    "word_bangla": "ফেইচা",
+    "category": "Noun",
+    "meaning_english": "Small turban",
+    "meaning_bangla": "ছোট পাগড়ি"
+  },
+  {
+    "word_roman": "PHEICI",
+    "word_bangla": "ফেইচি",
+    "category": "Adjective",
+    "meaning_english": "Angular, slanting",
+    "meaning_bangla": "কৌণিক, হেলানো"
+  },
+  {
+    "word_roman": "PHEICE",
+    "word_bangla": "ফেইচে",
+    "category": "Noun",
+    "meaning_english": "The act of crossing through one's front",
+    "meaning_bangla": "সামনে দিয়ে অতিক্রম করার কাজ"
+  },
+  {
+    "word_roman": "PHEITIA",
+    "word_bangla": "ফেইতিয়া",
+    "category": "Noun",
+    "meaning_english": "Eunuch",
+    "meaning_bangla": "হিজড়া"
+  },
+  {
+    "word_roman": "PHEITUP",
+    "word_bangla": "ফেইটুপ",
+    "category": "Noun",
+    "meaning_english": "The act of crossing through one's front",
+    "meaning_bangla": "সামনে দিয়ে অতিক্রম করার কাজ"
+  },
+  {
+    "word_roman": "PHEIRA",
+    "word_bangla": "ফেইরা",
+    "category": "Noun",
+    "meaning_english": "Cross-bolt",
+    "meaning_bangla": "ক্রস-বোল্ট"
+  },
+  {
+    "word_roman": "PHEU",
+    "word_bangla": "ফেউ",
+    "category": "Noun",
+    "meaning_english": "Fox",
+    "meaning_bangla": "শিয়াল"
+  },
+  {
+    "word_roman": "PHEKANA",
+    "word_bangla": "ফেকানা",
+    "category": "Adjective",
+    "meaning_english": "Spoiled, worthless",
+    "meaning_bangla": "নষ্ট, অকেজো"
+  },
+  {
+    "word_roman": "PHEKUCAN",
+    "word_bangla": "ফেকুচান",
+    "category": "Noun",
+    "meaning_english": "Dirt, disheveled",
+    "meaning_bangla": "ময়লা, এলোমেলো"
+  },
+  {
+    "word_roman": "PHEKUNA",
+    "word_bangla": "ফেকুনা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of pheskunda",
+    "meaning_bangla": "ফেসকুন্দা-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHENPHEN",
+    "word_bangla": "ফেনফেন",
+    "category": "Noun",
+    "meaning_english": "A word denoting lightness",
+    "meaning_bangla": "হালকা অবস্থা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHENPHENA",
+    "word_bangla": "ফেনফেনা",
+    "category": "Noun",
+    "meaning_english": "A word + foam",
+    "meaning_bangla": "ফেনা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHEPHEC",
+    "word_bangla": "ফেফেক",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'softness'",
+    "meaning_bangla": "নরমতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHET",
+    "word_bangla": "ফেট",
+    "category": "Noun",
+    "meaning_english": "A word denoting a sudden return",
+    "meaning_bangla": "হঠাৎ ফিরে আসা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHETOM",
+    "word_bangla": "ফেটোম",
+    "category": "Noun",
+    "meaning_english": "A word denoting the movement of a thin and weak thing",
+    "meaning_bangla": "পাতলা ও দুর্বল জিনিসের নড়াচড়া বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHEDA",
+    "word_bangla": "ফেদা",
+    "category": "Noun",
+    "meaning_english": "Eunuch, worthless",
+    "meaning_bangla": "হিজড়া, অকেজো"
+  },
+  {
+    "word_roman": "PHEN",
+    "word_bangla": "ফেন",
+    "category": "Noun",
+    "meaning_english": "Gruel",
+    "meaning_bangla": "মাড়"
+  },
+  {
+    "word_roman": "PHEN",
+    "word_bangla": "ফেন",
+    "category": "Noun",
+    "meaning_english": "The cover of a basket",
+    "meaning_bangla": "ঝুড়ির ঢাকনা"
+  },
+  {
+    "word_roman": "PHENA",
+    "word_bangla": "ফেনা",
+    "category": "Noun",
+    "meaning_english": "Foam",
+    "meaning_bangla": "ফেনা"
+  },
+  {
+    "word_roman": "PHENITAL",
+    "word_bangla": "ফেনিতাল",
+    "category": "Noun",
+    "meaning_english": "Finile",
+    "meaning_bangla": "ফিনাইল"
+  },
+  {
+    "word_roman": "PHENKI",
+    "word_bangla": "ফেনকি",
+    "category": "Adjective",
+    "meaning_english": "Slim-figured (of women)",
+    "meaning_bangla": "সরু গড়নের (মহিলাদের)"
+  },
+  {
+    "word_roman": "PHENCI",
+    "word_bangla": "ফেনচি",
+    "category": "Noun",
+    "meaning_english": "(i) Sprinklings of rain-water (ii) Sprinklings of rain-water",
+    "meaning_bangla": "(i) বৃষ্টির ছিটা (ii) বৃষ্টির ছিটা"
+  },
+  {
+    "word_roman": "PHIC",
+    "word_bangla": "ফিক",
+    "category": "Noun",
+    "meaning_english": "Anus",
+    "meaning_bangla": "পায়ুপথ"
+  },
+  {
+    "word_roman": "PHIC",
+    "word_bangla": "ফিক",
+    "category": "Noun",
+    "meaning_english": "A long piece of cloth",
+    "meaning_bangla": "লম্বা কাপড়ের টুকরো"
+  },
+  {
+    "word_roman": "PHICA",
+    "word_bangla": "ফিকা",
+    "category": "Noun",
+    "meaning_english": "Texture",
+    "meaning_bangla": "বুননের ধরন"
+  },
+  {
+    "word_roman": "PHIJAN(M)",
+    "word_bangla": "ফিজান(ম)",
+    "category": "Noun",
+    "meaning_english": "A long piece of cloth meant for a turban",
+    "meaning_bangla": "পাগড়ির জন্য লম্বা কাপড়"
+  },
+  {
+    "word_roman": "PHIJIL",
+    "word_bangla": "ফিজিল",
+    "category": "Noun",
+    "meaning_english": "(i) A border (ii) Lace on the longer side of a cloth",
+    "meaning_bangla": "(i) কিনারা (ii) কাপড়ের লম্বা দিকে লেস"
+  },
+  {
+    "word_roman": "PHIJET",
+    "word_bangla": "ফিজেত",
+    "category": "Noun",
+    "meaning_english": "Dress",
+    "meaning_bangla": "পোশাক"
+  },
+  {
+    "word_roman": "PHITHA",
+    "word_bangla": "ফিথা",
+    "category": "Noun",
+    "meaning_english": "A seat made of cloth",
+    "meaning_bangla": "কাপড়ের তৈরি আসন"
+  },
+  {
+    "word_roman": "PHITUP",
+    "word_bangla": "ফিটুপ",
+    "category": "Noun",
+    "meaning_english": "Tape",
+    "meaning_bangla": "টেপ"
+  },
+  {
+    "word_roman": "PHITUP",
+    "word_bangla": "ফিটুপ",
+    "category": "Noun",
+    "meaning_english": "Structure of the body",
+    "meaning_bangla": "শরীরের গঠন"
+  },
+  {
+    "word_roman": "PHIDAK(M)",
+    "word_bangla": "ফিদাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of phiji",
+    "meaning_bangla": "ফিজি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHIDAL",
+    "word_bangla": "ফিদাল",
+    "category": "Noun",
+    "meaning_english": "Cloth",
+    "meaning_bangla": "কাপড়"
+  },
+  {
+    "word_roman": "PHIPU",
+    "word_bangla": "ফিপু",
+    "category": "Noun",
+    "meaning_english": "A roller of cloth",
+    "meaning_bangla": "কাপড়ের রোলার"
+  },
+  {
+    "word_roman": "PHIPUL",
+    "word_bangla": "ফিপুল",
+    "category": "Noun",
+    "meaning_english": "A ball of cloth",
+    "meaning_bangla": "কাপড়ের বল"
+  },
+  {
+    "word_roman": "PHIPHAM",
+    "word_bangla": "ফিফাম",
+    "category": "Noun",
+    "meaning_english": "Posture, position of the waist",
+    "meaning_bangla": "কোমরের ভঙ্গি, অবস্থান"
+  },
+  {
+    "word_roman": "PHIBUL",
+    "word_bangla": "ফিবুল",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of phipul",
+    "meaning_bangla": "ফিপুল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHIMARUK",
+    "word_bangla": "ফিমারুক",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of phipul",
+    "meaning_bangla": "ফিপুল-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHITYAM",
+    "word_bangla": "ফিত্যাম",
+    "category": "Noun",
+    "meaning_english": "Beddings (of a bride)",
+    "meaning_bangla": "কনের বিছানাপত্র"
+  },
+  {
+    "word_roman": "PHIR",
+    "word_bangla": "ফির",
+    "category": "Verb",
+    "meaning_english": "To turn back",
+    "meaning_bangla": "ফিরে আসা"
+  },
+  {
+    "word_roman": "PHIRAL",
+    "word_bangla": "ফিরাল",
+    "category": "Noun",
+    "meaning_english": "Turning-cloth",
+    "meaning_bangla": "ফিরানো কাপড়"
+  },
+  {
+    "word_roman": "PHIRA",
+    "word_bangla": "ফিরা",
+    "category": "Noun",
+    "meaning_english": "Dress",
+    "meaning_bangla": "পোশাক"
+  },
+  {
+    "word_roman": "PHIRAI-PHIJAN",
+    "word_bangla": "ফিরাই-ফিজান",
+    "category": "Noun",
+    "meaning_english": "A set of dress",
+    "meaning_bangla": "পোশাকের সেট"
+  },
+  {
+    "word_roman": "PHIRIR-PHIJIL",
+    "word_bangla": "ফিরির-ফিজিল",
+    "category": "Noun",
+    "meaning_english": "V. phiji-phijil",
+    "meaning_bangla": "ফিজি-ফিজিল-এর ক্রিয়া"
+  },
+  {
+    "word_roman": "PHIRAT",
+    "word_bangla": "ফিরাত",
+    "category": "Noun",
+    "meaning_english": "Return",
+    "meaning_bangla": "ফেরত"
+  },
+  {
+    "word_roman": "PHIRAN",
+    "word_bangla": "ফিরান",
+    "category": "Noun",
+    "meaning_english": "Turning",
+    "meaning_bangla": "ফেরানো"
+  },
+  {
+    "word_roman": "PHIRA",
+    "word_bangla": "ফিরা",
+    "category": "Verb",
+    "meaning_english": "To drive back",
+    "meaning_bangla": "পিছনে তাড়ানো"
+  },
+  {
+    "word_roman": "PHIRANI",
+    "word_bangla": "ফিরানি",
+    "category": "Noun",
+    "meaning_english": "Returning, driving back",
+    "meaning_bangla": "ফেরত আসা, পিছনে তাড়ানো"
+  },
+  {
+    "word_roman": "PHIRAL",
+    "word_bangla": "ফিরাল",
+    "category": "Noun",
+    "meaning_english": "Flag",
+    "meaning_bangla": "পতাকা"
+  },
+  {
+    "word_roman": "PHANABA",
+    "word_bangla": "ফানাবা",
+    "category": "Noun",
+    "meaning_english": "Being filled or improved",
+    "meaning_bangla": "ভর্তি হওয়া বা উন্নত হওয়া"
+  },
+  {
+    "word_roman": "PHANI",
+    "word_bangla": "ফানি",
+    "category": "Noun",
+    "meaning_english": "V. above",
+    "meaning_bangla": "উপরের ক্রিয়া"
+  },
+  {
+    "word_roman": "PHANEK",
+    "word_bangla": "ফানেক",
+    "category": "Noun",
+    "meaning_english": "A striped lower garment for women",
+    "meaning_bangla": "মহিলাদের জন্য ডোরাকাটা নিম্নাঙ্গের পোশাক"
+  },
+  {
+    "word_roman": "PHANTAM",
+    "word_bangla": "ফান্তাম",
+    "category": "Noun",
+    "meaning_english": "A seat meant for some deity",
+    "meaning_bangla": "কোনো দেবতার জন্য নির্ধারিত আসন"
+  },
+  {
+    "word_roman": "PHANDI",
+    "word_bangla": "ফান্দি",
+    "category": "Noun",
+    "meaning_english": "Trap, grip",
+    "meaning_bangla": "ফাঁদ, আঁকড়ে ধরা"
+  },
+  {
+    "word_roman": "PHAPH",
+    "word_bangla": "ফাফ",
+    "category": "Noun",
+    "meaning_english": "Steam",
+    "meaning_bangla": "বাষ্প"
+  },
+  {
+    "word_roman": "PHAPH",
+    "word_bangla": "ফাফ",
+    "category": "Noun",
+    "meaning_english": "Powder used in Holi festival",
+    "meaning_bangla": "হোলিতে ব্যবহৃত গুঁড়ো"
+  },
+  {
+    "word_roman": "PHAP",
+    "word_bangla": "ফাপ",
+    "category": "Verb",
+    "meaning_english": "To get swollen",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "PHAPANI",
+    "word_bangla": "ফাপানি",
+    "category": "Noun",
+    "meaning_english": "Getting swollen",
+    "meaning_bangla": "ফোলা"
+  },
+  {
+    "word_roman": "PHAPHAR",
+    "word_bangla": "ফাফার",
+    "category": "Noun",
+    "meaning_english": "Confusion, a difficult position",
+    "meaning_bangla": "বিভ্রান্তি, কঠিন অবস্থা"
+  },
+  {
+    "word_roman": "PHAM",
+    "word_bangla": "ফাম",
+    "category": "Noun",
+    "meaning_english": "Bed",
+    "meaning_bangla": "বিছানা"
+  },
+  {
+    "word_roman": "PHAMKA",
+    "word_bangla": "ফামকা",
+    "category": "Noun",
+    "meaning_english": "Place for the bed of the head of a family",
+    "meaning_bangla": "পরিবারের প্রধানের বিছানার স্থান"
+  },
+  {
+    "word_roman": "PHAMPHAM",
+    "word_bangla": "ফামফাম",
+    "category": "Noun",
+    "meaning_english": "Place to be occupied",
+    "meaning_bangla": "দখলের জায়গা"
+  },
+  {
+    "word_roman": "PHAMRUK",
+    "word_bangla": "ফামরুক",
+    "category": "Noun",
+    "meaning_english": "Beddings",
+    "meaning_bangla": "বিছানাপত্র"
+  },
+  {
+    "word_roman": "PHAR",
+    "word_bangla": "ফার",
+    "category": "Verb",
+    "meaning_english": "To tear or split",
+    "meaning_bangla": "ছিঁড়া বা চিরা"
+  },
+  {
+    "word_roman": "PHARANI",
+    "word_bangla": "ফারানি",
+    "category": "Noun",
+    "meaning_english": "Tearing or splitting",
+    "meaning_bangla": "ছেঁড়া বা চিরা"
+  },
+  {
+    "word_roman": "PHARAK",
+    "word_bangla": "ফারাক",
+    "category": "Noun",
+    "meaning_english": "Distance",
+    "meaning_bangla": "দূরত্ব"
+  },
+  {
+    "word_roman": "PHARAN",
+    "word_bangla": "ফারান",
+    "category": "Noun",
+    "meaning_english": "Prank",
+    "meaning_bangla": "দুষ্টুমি"
+  },
+  {
+    "word_roman": "PHARANCI",
+    "word_bangla": "ফারানচি",
+    "category": "Noun",
+    "meaning_english": "A red woolen cloth",
+    "meaning_bangla": "লাল উলের কাপড়"
+  },
+  {
+    "word_roman": "PHARACI",
+    "word_bangla": "ফারাচি",
+    "category": "Noun",
+    "meaning_english": "Hanging by the neck till death",
+    "meaning_bangla": "গলায় ফাঁসি দিয়ে মৃত্যু"
+  },
+  {
+    "word_roman": "PHARPHAK",
+    "word_bangla": "ফারফাক",
+    "category": "Noun",
+    "meaning_english": "To laugh loudly",
+    "meaning_bangla": "জোরে হাসা"
+  },
+  {
+    "word_roman": "PHAPHARAN",
+    "word_bangla": "ফাফারান",
+    "category": "Noun",
+    "meaning_english": "Powder used in Holi festival",
+    "meaning_bangla": "হোলিতে ব্যবহৃত গুঁড়ো"
+  },
+  {
+    "word_roman": "PHAGIPHARAN",
+    "word_bangla": "ফাগিফারান",
+    "category": "Noun",
+    "meaning_english": "Powder used in Holi festival",
+    "meaning_bangla": "হোলিতে ব্যবহৃত গুঁড়ো"
+  },
+  {
+    "word_roman": "PHASK",
+    "word_bangla": "ফাস্ক",
+    "category": "Verb",
+    "meaning_english": "To be loosened",
+    "meaning_bangla": "ঢিলা হওয়া"
+  },
+  {
+    "word_roman": "PHASKANI",
+    "word_bangla": "ফাস্কানি",
+    "category": "Noun",
+    "meaning_english": "Being loosened",
+    "meaning_bangla": "ঢিলা হওয়া"
+  },
+  {
+    "word_roman": "PHA",
+    "word_bangla": "ফা",
+    "category": "Adjective",
+    "meaning_english": "Filled up, improved",
+    "meaning_bangla": "ভর্তি, উন্নত"
+  },
+  {
+    "word_roman": "PHADAN",
+    "word_bangla": "ফাদান",
+    "category": "Noun",
+    "meaning_english": "Alt. form of paian",
+    "meaning_bangla": "পাইয়ান-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHAU",
+    "word_bangla": "ফাউ",
+    "category": "Noun",
+    "meaning_english": "Excess, addition",
+    "meaning_bangla": "অতিরিক্ত, যোগ"
+  },
+  {
+    "word_roman": "PHAUKI",
+    "word_bangla": "ফাউকি",
+    "category": "Adjective",
+    "meaning_english": "Void, unnecessary",
+    "meaning_bangla": "অকেজো, অপ্রয়োজনীয়"
+  },
+  {
+    "word_roman": "PHAK",
+    "word_bangla": "ফাক",
+    "category": "Noun",
+    "meaning_english": "Gap",
+    "meaning_bangla": "ফাঁক"
+  },
+  {
+    "word_roman": "PHAKA",
+    "word_bangla": "ফাকা",
+    "category": "Adjective",
+    "meaning_english": "Empty, void",
+    "meaning_bangla": "খালি, শূন্য"
+  },
+  {
+    "word_roman": "PHAKANI",
+    "word_bangla": "ফাকানি",
+    "category": "Noun",
+    "meaning_english": "Wandering uselessly",
+    "meaning_bangla": "অকারণে ঘুরে বেড়ানো"
+  },
+  {
+    "word_roman": "PHAKABAJI",
+    "word_bangla": "ফাকাবাজি",
+    "category": "Noun",
+    "meaning_english": "Deceit",
+    "meaning_bangla": "প্রতারণা"
+  },
+  {
+    "word_roman": "PHAKARA",
+    "word_bangla": "ফাকারা",
+    "category": "Adjective",
+    "meaning_english": "Injured by insects (of fruits)",
+    "meaning_bangla": "পোকায় ক্ষতিগ্রস্ত (ফলের)"
+  },
+  {
+    "word_roman": "PHAKAL",
+    "word_bangla": "ফাকাল",
+    "category": "Noun",
+    "meaning_english": "A mat hung for keeping privacy",
+    "meaning_bangla": "গোপনীয়তা রক্ষার জন্য ঝোলানো মাদুর"
+  },
+  {
+    "word_roman": "PHAKI",
+    "word_bangla": "ফাকি",
+    "category": "Noun",
+    "meaning_english": "Trick",
+    "meaning_bangla": "চালাকি"
+  },
+  {
+    "word_roman": "PHAKITHAM",
+    "word_bangla": "ফাকিথাম",
+    "category": "Noun",
+    "meaning_english": "Corriander",
+    "meaning_bangla": "ধনে"
+  },
+  {
+    "word_roman": "PHAKKARAMI",
+    "word_bangla": "ফাক্কারামি",
+    "category": "Noun",
+    "meaning_english": "Trickery, fraud",
+    "meaning_bangla": "প্রতারণা, চালাকি"
+  },
+  {
+    "word_roman": "PHAKKI",
+    "word_bangla": "ফাক্কি",
+    "category": "Noun",
+    "meaning_english": "A squiz, a problem in logic",
+    "meaning_bangla": "যুক্তির সমস্যা"
+  },
+  {
+    "word_roman": "PHAKIA",
+    "word_bangla": "ফাকিয়া",
+    "category": "Adjective",
+    "meaning_english": "Open",
+    "meaning_bangla": "খোলা"
+  },
+  {
+    "word_roman": "PHAKHA",
+    "word_bangla": "ফাখা",
+    "category": "Noun",
+    "meaning_english": "Time of chance",
+    "meaning_bangla": "সুযোগের সময়"
+  },
+  {
+    "word_roman": "PHAKHAI",
+    "word_bangla": "ফাখাই",
+    "category": "Noun",
+    "meaning_english": "A small plant the leaves of which are used as spices",
+    "meaning_bangla": "মশলা হিসেবে ব্যবহৃত পাতাযুক্ত ছোট গাছ"
+  },
+  {
+    "word_roman": "PHAKHAK",
+    "word_bangla": "ফাখাক",
+    "category": "Noun",
+    "meaning_english": "A loud laugh",
+    "meaning_bangla": "জোরে হাসি"
+  },
+  {
+    "word_roman": "PHAKPHKA",
+    "word_bangla": "ফাকফাকা",
+    "category": "Verb",
+    "meaning_english": "To laugh loudly",
+    "meaning_bangla": "জোরে হাসা"
+  },
+  {
+    "word_roman": "PHAGI",
+    "word_bangla": "ফাগি",
+    "category": "Noun",
+    "meaning_english": "Joke",
+    "meaning_bangla": "মজা"
+  },
+  {
+    "word_roman": "PHAGIPHARAN",
+    "word_bangla": "ফাগিফারান",
+    "category": "Noun",
+    "meaning_english": "Powder used in Holi festival",
+    "meaning_bangla": "হোলিতে ব্যবহৃত গুঁড়ো"
+  },
+  {
+    "word_roman": "PHAN",
+    "word_bangla": "ফান",
+    "category": "Noun",
+    "meaning_english": "Attainment, satisfaction",
+    "meaning_bangla": "প্রাপ্তি, সন্তুষ্টি"
+  },
+  {
+    "word_roman": "PHAN",
+    "word_bangla": "ফান",
+    "category": "Adjective",
+    "meaning_english": "Competent",
+    "meaning_bangla": "সক্ষম"
+  },
+  {
+    "word_roman": "PHANCA",
+    "word_bangla": "ফানচা",
+    "category": "Noun",
+    "meaning_english": "Competition",
+    "meaning_bangla": "প্রতিযোগিতা"
+  },
+  {
+    "word_roman": "PHAL",
+    "word_bangla": "ফাল",
+    "category": "Noun",
+    "meaning_english": "Precipice, flippancy",
+    "meaning_bangla": "খাড়া, হালকা মনোভাব"
+  },
+  {
+    "word_roman": "PHATAK",
+    "word_bangla": "ফাতাক",
+    "category": "Verb",
+    "meaning_english": "To burst, to crack",
+    "meaning_bangla": "ফাটা, চিরা"
+  },
+  {
+    "word_roman": "PHATAL",
+    "word_bangla": "ফাতাল",
+    "category": "Noun",
+    "meaning_english": "Fissure, crack, division",
+    "meaning_bangla": "ফাটল, বিভাজন"
+  },
+  {
+    "word_roman": "PHATA",
+    "word_bangla": "ফাতা",
+    "category": "Adjective",
+    "meaning_english": "Split, cracked",
+    "meaning_bangla": "চিরা, ফাটা"
+  },
+  {
+    "word_roman": "PHATANI",
+    "word_bangla": "ফাতানি",
+    "category": "Noun",
+    "meaning_english": "Being cracked or split or burst",
+    "meaning_bangla": "ফাটা বা চিরা হওয়া"
+  },
+  {
+    "word_roman": "PHATAPHATI",
+    "word_bangla": "ফাতাফাতি",
+    "category": "Noun",
+    "meaning_english": "Mutual bloodshed",
+    "meaning_bangla": "পারস্পরিক রক্তপাত"
+  },
+  {
+    "word_roman": "PHAT",
+    "word_bangla": "ফাত",
+    "category": "Adjective",
+    "meaning_english": "Complete",
+    "meaning_bangla": "সম্পূর্ণ"
+  },
+  {
+    "word_roman": "PHATIKHAM(M)",
+    "word_bangla": "ফাতিখাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of phakihai",
+    "meaning_bangla": "ফাকিহাই-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHATTAKE",
+    "word_bangla": "ফাত্তাকে",
+    "category": "Adverb",
+    "meaning_english": "Rarely",
+    "meaning_bangla": "বিরলভাবে"
+  },
+  {
+    "word_roman": "PHAN(M)",
+    "word_bangla": "ফান(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Expressed, revealed (ii) Wake-full state",
+    "meaning_bangla": "(i) প্রকাশিত (ii) জাগ্রত অবস্থা"
+  },
+  {
+    "word_roman": "PHANANI",
+    "word_bangla": "ফানানি",
+    "category": "Noun",
+    "meaning_english": "Mutual meeting or understanding",
+    "meaning_bangla": "পারস্পরিক সাক্ষাৎ বা বোঝাপড়া"
+  },
+  {
+    "word_roman": "PHANAPHAN",
+    "word_bangla": "ফানাফান",
+    "category": "Noun",
+    "meaning_english": "A word denoting heat",
+    "meaning_bangla": "তাপ বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHACAPHAC",
+    "word_bangla": "ফাচাফাচ",
+    "category": "Noun",
+    "meaning_english": "Poke, instigation",
+    "meaning_bangla": "খোঁচা, উসকানি"
+  },
+  {
+    "word_roman": "PHACPHACA",
+    "word_bangla": "ফাচফাচা",
+    "category": "Adjective",
+    "meaning_english": "Swollen, spongy",
+    "meaning_bangla": "ফোলা, স্পঞ্জের মতো"
+  },
+  {
+    "word_roman": "PHAT",
+    "word_bangla": "ফাত",
+    "category": "Noun",
+    "meaning_english": "A word denoting the sound of the bursting of a small thing",
+    "meaning_bangla": "ছোট জিনিস ফাটার শব্দ বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHATIK",
+    "word_bangla": "ফাতিক",
+    "category": "Noun",
+    "meaning_english": "Pimple",
+    "meaning_bangla": "ফুসকুড়ি"
+  },
+  {
+    "word_roman": "PHATPHAT",
+    "word_bangla": "ফাতফাত",
+    "category": "Noun",
+    "meaning_english": "A word denoting the clearness of light",
+    "meaning_bangla": "আলোর স্পষ্টতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHAT",
+    "word_bangla": "ফাত",
+    "category": "Noun",
+    "meaning_english": "The act of finding fault or inquiring about trifling things",
+    "meaning_bangla": "তুচ্ছ বিষয়ে দোষ খোঁজা বা জিজ্ঞাসা করার কাজ"
+  },
+  {
+    "word_roman": "PHATUWA",
+    "word_bangla": "ফাতুয়া",
+    "category": "Noun",
+    "meaning_english": "Waist-coat",
+    "meaning_bangla": "ওয়েস্টকোট"
+  },
+  {
+    "word_roman": "PHANAKA",
+    "word_bangla": "ফানাকা",
+    "category": "Noun",
+    "meaning_english": "(i) Hood (ii) Dewlap",
+    "meaning_bangla": "(i) হুড (ii) গলার চামড়া"
+  },
+  {
+    "word_roman": "PHANDI",
+    "word_bangla": "ফান্দি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of phandi",
+    "meaning_bangla": "ফান্দি-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHAP",
+    "word_bangla": "ফাপ",
+    "category": "Noun",
+    "meaning_english": "Split bamboo or anything made of it",
+    "meaning_bangla": "চটা বাঁশ বা তার দিয়ে তৈরি জিনিস"
+  },
+  {
+    "word_roman": "PHAPACA",
+    "word_bangla": "ফাপাচা",
+    "category": "Adjective",
+    "meaning_english": "Hollow, swollen",
+    "meaning_bangla": "ফাঁপা, ফোলা"
+  },
+  {
+    "word_roman": "PHAPHARA",
+    "word_bangla": "ফাফারা",
+    "category": "Noun",
+    "meaning_english": "A word denoting hollowness",
+    "meaning_bangla": "ফাঁপা অবস্থা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHAPHAP",
+    "word_bangla": "ফাফাপ",
+    "category": "Noun",
+    "meaning_english": "A word denoting hollowness or swollenness",
+    "meaning_bangla": "ফাঁপা বা ফোলা অবস্থা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHASALA",
+    "word_bangla": "ফসালা",
+    "category": "Noun",
+    "meaning_english": "Settlement",
+    "meaning_bangla": "বসতি"
+  },
+  {
+    "word_roman": "PHARIN(M)",
+    "word_bangla": "ফারিন(ম)",
+    "category": "Noun",
+    "meaning_english": "French bean",
+    "meaning_bangla": "ফরাসি বীন"
+  },
+  {
+    "word_roman": "PHARIKA",
+    "word_bangla": "ফারিকা",
+    "category": "Adjective",
+    "meaning_english": "Rough, harsh to touch",
+    "meaning_bangla": "রুক্ষ, স্পর্শে কঠিন"
+  },
+  {
+    "word_roman": "PHARPHAR",
+    "word_bangla": "ফারফার",
+    "category": "Noun",
+    "meaning_english": "A word denoting the state of rolling about with pain or uneasiness or a fluttering sound",
+    "meaning_bangla": "ব্যথা বা অস্বস্তিতে গড়াগড়ি বা ফড়ফড় শব্দ বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHAPHARIYA",
+    "word_bangla": "ফাফারিয়া",
+    "category": "Noun",
+    "meaning_english": "A dusty material growing on the head",
+    "meaning_bangla": "মাথায় জমা ধুলোময় পদার্থ"
+  },
+  {
+    "word_roman": "PHARMA",
+    "word_bangla": "ফার্মা",
+    "category": "Noun",
+    "meaning_english": "Form, forme (of printing)",
+    "meaning_bangla": "ফর্ম (ছাপার)"
+  },
+  {
+    "word_roman": "PHARMAIS",
+    "word_bangla": "ফার্মাইস",
+    "category": "Noun",
+    "meaning_english": "Order",
+    "meaning_bangla": "আদেশ"
+  },
+  {
+    "word_roman": "PHARSA",
+    "word_bangla": "ফারসা",
+    "category": "Adjective",
+    "meaning_english": "Clean, white",
+    "meaning_bangla": "পরিষ্কার, সাদা"
+  },
+  {
+    "word_roman": "PHARSA",
+    "word_bangla": "ফারসা",
+    "category": "Noun",
+    "meaning_english": "Fruitlessness",
+    "meaning_bangla": "ফলহীনতা"
+  },
+  {
+    "word_roman": "PHARSA",
+    "word_bangla": "ফারসা",
+    "category": "Noun",
+    "meaning_english": "Flight",
+    "meaning_bangla": "উড়ান"
+  },
+  {
+    "word_roman": "PHARI",
+    "word_bangla": "ফারি",
+    "category": "Noun",
+    "meaning_english": "Feather",
+    "meaning_bangla": "পালক"
+  },
+  {
+    "word_roman": "PHAL",
+    "word_bangla": "ফাল",
+    "category": "Noun",
+    "meaning_english": "A word denoting the state of jumping",
+    "meaning_bangla": "লাফানোর অবস্থা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PHAL",
+    "word_bangla": "ফাল",
+    "category": "Verb",
+    "meaning_english": "To grow (intr.)",
+    "meaning_bangla": "বাড়া (অকর্মক)"
+  },
+  {
+    "word_roman": "PHALALA",
+    "word_bangla": "ফালালা",
+    "category": "Noun",
+    "meaning_english": "Bark",
+    "meaning_bangla": "ছাল"
+  },
+  {
+    "word_roman": "PHALANI",
+    "word_bangla": "ফালানি",
+    "category": "Noun",
+    "meaning_english": "Growing (trans. & intr.)",
+    "meaning_bangla": "বাড়ানো (সকর্মক ও অকর্মক)"
+  },
+  {
+    "word_roman": "PHALAPHAL",
+    "word_bangla": "ফালাফাল",
+    "category": "Noun",
+    "meaning_english": "Consequences",
+    "meaning_bangla": "পরিণাম"
+  },
+  {
+    "word_roman": "PHALAR",
+    "word_bangla": "ফালার",
+    "category": "Noun",
+    "meaning_english": "Fruit-meat",
+    "meaning_bangla": "ফলের মাংস"
+  },
+  {
+    "word_roman": "PHALALI",
+    "word_bangla": "ফালালি",
+    "category": "Noun",
+    "meaning_english": "Flourine",
+    "meaning_bangla": "ফ্লুরিন"
+  },
+  {
+    "word_roman": "PHALEI",
+    "word_bangla": "ফালেই",
+    "category": "Noun",
+    "meaning_english": "(i) Layer (ii) Cataract",
+    "meaning_bangla": "(i) স্তর (ii) ছানি"
+  },
+  {
+    "word_roman": "PHALKA",
+    "word_bangla": "ফালকা",
+    "category": "Noun",
+    "meaning_english": "A stretch of cloth within reach (of weaving)",
+    "meaning_bangla": "বোনার জন্য হাতের নাগালে কাপড়ের টুকরো"
+  },
+  {
+    "word_roman": "PHASAL",
+    "word_bangla": "ফসল",
+    "category": "Noun",
+    "meaning_english": "Harvest, crop",
+    "meaning_bangla": "ফসল"
+  },
+  {
+    "word_roman": "PHASALA",
+    "word_bangla": "ফসালা",
+    "category": "Noun",
+    "meaning_english": "Relating to harvest",
+    "meaning_bangla": "ফসল সম্পর্কিত"
+  },
+  {
+    "word_roman": "PETHAN(M)",
+    "word_bangla": "পেথান(ম)",
+    "category": "Noun",
+    "meaning_english": "Sending",
+    "meaning_bangla": "পাঠানো"
+  },
+  {
+    "word_roman": "PET",
+    "word_bangla": "পেট",
+    "category": "Adjective",
+    "meaning_english": "Peevish, pettish",
+    "meaning_bangla": "খিটখিটে, বিরক্তিপ্রবণ"
+  },
+  {
+    "word_roman": "PET",
+    "word_bangla": "পেট",
+    "category": "Noun",
+    "meaning_english": "The act of kneading",
+    "meaning_bangla": "মাখার কাজ"
+  },
+  {
+    "word_roman": "PETTHA",
+    "word_bangla": "পেট্থা",
+    "category": "Adjective",
+    "meaning_english": "(i) Faded (ii) Too tired",
+    "meaning_bangla": "(i) বিবর্ণ (ii) অত্যধিক ক্লান্ত"
+  },
+  {
+    "word_roman": "PETPET",
+    "word_bangla": "পেটপেট",
+    "category": "Noun",
+    "meaning_english": "A word denoting softness",
+    "meaning_bangla": "নরমতা বোঝানো শব্দ"
+  },
+  {
+    "word_roman": "PENA",
+    "word_bangla": "পেনা",
+    "category": "Noun",
+    "meaning_english": "A stringed musical instrument",
+    "meaning_bangla": "তারযুক্ত বাদ্যযন্ত্র"
+  },
+  {
+    "word_roman": "PENDAK",
+    "word_bangla": "পেন্দাক",
+    "category": "Adjective",
+    "meaning_english": "Totally tired",
+    "meaning_bangla": "পুরোপুরি ক্লান্ত"
+  },
+  {
+    "word_roman": "PENDALA",
+    "word_bangla": "পেন্দালা",
+    "category": "Adjective",
+    "meaning_english": "Short-statured",
+    "meaning_bangla": "খর্বাকৃতি"
+  },
+  {
+    "word_roman": "PEPURA",
+    "word_bangla": "পেপুরা",
+    "category": "Noun",
+    "meaning_english": "Ant",
+    "meaning_bangla": "পিঁপড়া"
+  },
+  {
+    "word_roman": "-PEY",
+    "word_bangla": "-পেয়",
+    "category": "Suffix",
+    "meaning_english": "A suf. used to indicate location",
+    "meaning_bangla": "স্থান নির্দেশক suffix"
+  },
+  {
+    "word_roman": "PEYA",
+    "word_bangla": "পেয়া",
+    "category": "Adverb",
+    "meaning_english": "Upto, until (lit. having got)",
+    "meaning_bangla": "পর্যন্ত, যতক্ষণ না (পাওয়া পর্যন্ত)"
+  },
+  {
+    "word_roman": "PERAK",
+    "word_bangla": "পেরাক",
+    "category": "Noun",
+    "meaning_english": "Nail",
+    "meaning_bangla": "পেরেক"
+  },
+  {
+    "word_roman": "PERA",
+    "word_bangla": "পেরা",
+    "category": "Noun",
+    "meaning_english": "Information",
+    "meaning_bangla": "তথ্য"
+  },
+  {
+    "word_roman": "PERAL",
+    "word_bangla": "পেরাল",
+    "category": "Noun",
+    "meaning_english": "An instrument for pressing",
+    "meaning_bangla": "চাপার যন্ত্র"
+  },
+  {
+    "word_roman": "PEREK",
+    "word_bangla": "পেরেক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of perak",
+    "meaning_bangla": "পেরাক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PEREK",
+    "word_bangla": "পেরেক",
+    "category": "Noun",
+    "meaning_english": "Band-party",
+    "meaning_bangla": "ব্যান্ড-দল"
+  },
+  {
+    "word_roman": "PERET",
+    "word_bangla": "পেরেত",
+    "category": "Noun",
+    "meaning_english": "Ghost",
+    "meaning_bangla": "ভূত"
+  },
+  {
+    "word_roman": "PERELUMTHEN",
+    "word_bangla": "পেরেলুমথেন",
+    "category": "Noun",
+    "meaning_english": "Prolapse of rectum",
+    "meaning_bangla": "মলদ্বার বাইরে বের হওয়া"
+  },
+  {
+    "word_roman": "PERELEI",
+    "word_bangla": "পেরেলেই",
+    "category": "Noun",
+    "meaning_english": "Chronic disease that spoils one's health",
+    "meaning_bangla": "দীর্ঘস্থায়ী রোগ যা স্বাস্থ্য নষ্ট করে"
+  },
+  {
+    "word_roman": "PERO",
+    "word_bangla": "পেরো",
+    "category": "Noun",
+    "meaning_english": "(i) A deep muddy hole (ii) Sinus",
+    "meaning_bangla": "(i) গভীর কাদামাটির গর্ত (ii) সাইনাস"
+  },
+  {
+    "word_roman": "PERKA",
+    "word_bangla": "পেরকা",
+    "category": "Adjective",
+    "meaning_english": "Very small",
+    "meaning_bangla": "অত্যন্ত ছোট"
+  },
+  {
+    "word_roman": "PERANI",
+    "word_bangla": "পেরানি",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of pia",
+    "meaning_bangla": "পিয়া-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PERAL",
+    "word_bangla": "পেরাল",
+    "category": "Noun",
+    "meaning_english": "An instrument for pressing",
+    "meaning_bangla": "চাপার যন্ত্র"
+  },
+  {
+    "word_roman": "PHAIDA",
+    "word_bangla": "ফাইদা",
+    "category": "Noun",
+    "meaning_english": "Benefit",
+    "meaning_bangla": "লাভ"
+  },
+  {
+    "word_roman": "PHAIMALI",
+    "word_bangla": "ফাইমালি",
+    "category": "Noun",
+    "meaning_english": "Compensation",
+    "meaning_bangla": "ক্ষতিপূরণ"
+  },
+  {
+    "word_roman": "PHAIL",
+    "word_bangla": "ফাইল",
+    "category": "Noun",
+    "meaning_english": "Layer",
+    "meaning_bangla": "স্তর"
+  },
+  {
+    "word_roman": "PHAK(M)",
+    "word_bangla": "ফাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of phuk",
+    "meaning_bangla": "ফুক-এর বিকল্প রূপ"
+  },
+  {
+    "word_roman": "PHAN",
+    "word_bangla": "ফান",
+    "category": "Noun",
+    "meaning_english": "Trap",
+    "meaning_bangla": "ফাঁদ"
   }
 ]
