@@ -55,29 +55,11 @@ body {
   margin: 0;
 }
 
-.text-logo {
-  font-size: 1.5rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  background: linear-gradient(135deg, #0f172a 0%, #3b82f6 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-fill-color: transparent;
-  font-family: 'Inter', sans-serif;
-  white-space: nowrap;
-}
-
-.footer-text-logo {
-  font-size: 1.25rem;
-  background: none;
-  -webkit-background-clip: initial;
-  -webkit-text-fill-color: initial;
-  background-clip: initial;
-  text-fill-color: initial;
-  color: #ffffff;
+.nav-logo {
+  height: 35px;
+  width: auto;
+  object-fit: contain;
   display: block;
-  margin-bottom: 1.5rem;
 }
 
 .desktop-nav ul {
