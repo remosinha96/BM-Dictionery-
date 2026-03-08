@@ -42193,5 +42193,579 @@
     "category": "Noun",
     "meaning_english": "Bunch",
     "meaning_bangla": "ছড়া"
-  }
+  },
+  {
+    "word_roman": "LĀMĀNI",
+    "word_bangla": "লামানি",
+    "category": "Noun",
+    "meaning_english": "(i) Getting down. (ii) Bringing down.",
+    "meaning_bangla": "(i) নিচে নামা। (ii) নিচে নামানো।"
+  },
+  {
+    "word_roman": "LĀMI",
+    "word_bangla": "লামি",
+    "category": "Noun",
+    "meaning_english": "Split bamboo used in fencing.",
+    "meaning_bangla": "বেড়া দিতে ব্যবহৃত ফালি করা বাঁশ।"
+  },
+  {
+    "word_roman": "LĀMILĀ",
+    "word_bangla": "লামিলা",
+    "category": "Adjective",
+    "meaning_english": "Born or grown late.",
+    "meaning_bangla": "দেরিতে জন্মানো বা বড় হওয়া।"
+  },
+  {
+    "word_roman": "LĀMUI",
+    "word_bangla": "লামুই",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāmphui.",
+    "meaning_bangla": "'লামফুই'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀMUNI",
+    "word_bangla": "লামুনি",
+    "category": "Adverb",
+    "meaning_english": "Down-stream.",
+    "meaning_bangla": "স্রোতের অনুকূলে।"
+  },
+  {
+    "word_roman": "LĀMCĀ",
+    "word_bangla": "লাম্চা",
+    "category": "Noun",
+    "meaning_english": "(i) One born from illicit relation. (ii) Orphan.",
+    "meaning_bangla": "(i) অবৈধ সম্পর্কে জন্মানো সন্তান। (ii) এতিম।"
+  },
+  {
+    "word_roman": "LĀMCIK",
+    "word_bangla": "লাম্চিক",
+    "category": "Noun",
+    "meaning_english": "An imp believed to be the re-appearance of one dying an unnatural death.",
+    "meaning_bangla": "এক ধরনের ভূত যা অস্বাভাবিক মৃত্যু হওয়া ব্যক্তির পুনরাবির্ভাব।"
+  },
+  {
+    "word_roman": "LĀMCER",
+    "word_bangla": "লাম্চের",
+    "category": "Noun",
+    "meaning_english": "Character (lit. the characteristic of a place).",
+    "meaning_bangla": "চরিত্র (আক্ষ. জায়গার বৈশিষ্ট্য)।"
+  },
+  {
+    "word_roman": "LĀMCAU",
+    "word_bangla": "লাম্চাউ",
+    "category": "Noun",
+    "meaning_english": "High-way.",
+    "meaning_bangla": "রাজপথ, প্রধান সড়ক।"
+  },
+  {
+    "word_roman": "LĀMTUM",
+    "word_bangla": "লাম্তুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāntum.",
+    "meaning_bangla": "'লান্তুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀMTHAṆ",
+    "word_bangla": "লাম্থান",
+    "category": "Noun",
+    "meaning_english": "An abuse (lit. wild bison).",
+    "meaning_bangla": "একটি গালি (আক্ষ. বন্য গরু)।"
+  },
+  {
+    "word_roman": "LĀMPAI-PĀ",
+    "word_bangla": "লাম্পাই-পা",
+    "category": "Noun",
+    "meaning_english": "Vaiṣṇava monk.",
+    "meaning_bangla": "বৈষ্ণব সন্ন্যাসী।"
+  },
+  {
+    "word_roman": "LĀMPAIPI",
+    "word_bangla": "লাম্পাইপি",
+    "category": "Noun",
+    "meaning_english": "Female Vaiṣṇava monk.",
+    "meaning_bangla": "বৈষ্ণব সন্ন্যাসিনী।"
+  },
+  {
+    "word_roman": "LĀMPHUI",
+    "word_bangla": "লামফুই",
+    "category": "Noun",
+    "meaning_english": "Jackal.",
+    "meaning_bangla": "শিয়াল।"
+  },
+  {
+    "word_roman": "LĀMPHEI",
+    "word_bangla": "লামফেই",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāṃphei.",
+    "meaning_bangla": "'লামফেই'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀMBĀ",
+    "word_bangla": "লাম্বা",
+    "category": "Adjective",
+    "meaning_english": "Tall, long.",
+    "meaning_bangla": "লম্বা, দীর্ঘ।"
+  },
+  {
+    "word_roman": "LĀMBĪ",
+    "word_bangla": "লাম্বী",
+    "category": "Adjective",
+    "meaning_english": "Tall (of female).",
+    "meaning_bangla": "লম্বা (মেয়েলি)।"
+  },
+  {
+    "word_roman": "LĀMLĀK",
+    "word_bangla": "লাম্লাক",
+    "category": "Noun",
+    "meaning_english": "Midst.",
+    "meaning_bangla": "মধ্যবর্তী স্থান, ভিতর।"
+  },
+  {
+    "word_roman": "LĀMLAM",
+    "word_bangla": "লাম্লাম",
+    "category": "Noun",
+    "meaning_english": "The act of hanging or dangling.",
+    "meaning_bangla": "ঝুলানোর বা দুলানোর কাজ।"
+  },
+  {
+    "word_roman": "LĀMHEL",
+    "word_bangla": "লাম্হেল",
+    "category": "Adjective",
+    "meaning_english": "Arrogant.",
+    "meaning_bangla": "অহংকারী, দাম্ভিক।"
+  },
+  {
+    "word_roman": "LĀY",
+    "word_bangla": "লায়",
+    "category": "Adverb",
+    "meaning_english": "Slowly.",
+    "meaning_bangla": "ধীরে, আস্তে।"
+  },
+  {
+    "word_roman": "LĀYUM",
+    "word_bangla": "লায়ুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāi-yum.",
+    "meaning_bangla": "'লাই-য়ুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀRĀL-LĀRĀL",
+    "word_bangla": "লারাল-লারাল",
+    "category": "Adjective",
+    "meaning_english": "(i) At distances. (ii) Distant from each other. (of paddy plants).",
+    "meaning_bangla": "(i) দূরত্বে। (ii) একে অপর থেকে দূরে দূরে (ধান গাছের ক্ষেত্রে)।"
+  },
+  {
+    "word_roman": "LĀRCĀR",
+    "word_bangla": "লার্চার",
+    "category": "Adjective",
+    "meaning_english": "(i) Topsy-turvy. (ii) Destroyed.",
+    "meaning_bangla": "(i) উল্টাপাল্টা, এলোমেলো। (ii) ধ্বংসপ্রাপ্ত।"
+  },
+  {
+    "word_roman": "LĀR",
+    "word_bangla": "লার",
+    "category": "Verb",
+    "meaning_english": "To shake, to stir.",
+    "meaning_bangla": "নাড়া, ঝাঁকানি দেওয়া, আলোড়িত করা।"
+  },
+  {
+    "word_roman": "LĀRĀ",
+    "word_bangla": "লারা",
+    "category": "Noun",
+    "meaning_english": "Shake, jerk.",
+    "meaning_bangla": "ঝাঁকি, ধাক্কা, ঝাঁকুনি।"
+  },
+  {
+    "word_roman": "LĀRĀ-",
+    "word_bangla": "লারা-",
+    "category": "Verb",
+    "meaning_english": "To stir, to displace, to shake.",
+    "meaning_bangla": "নাড়া, স্থানচ্যুত করা, ঝাঁকানো।"
+  },
+  {
+    "word_roman": "LĀRĀNI",
+    "word_bangla": "লারানি",
+    "category": "Noun",
+    "meaning_english": "Shaking.",
+    "meaning_bangla": "নাড়ার কাজ, নাড়ানি।"
+  },
+  {
+    "word_roman": "LĀRI",
+    "word_bangla": "লারি",
+    "category": "Noun",
+    "meaning_english": "Buttock.",
+    "meaning_bangla": "পাছা, নিতম্ব।"
+  },
+  {
+    "word_roman": "LĀRUNI",
+    "word_bangla": "লারুনি",
+    "category": "Noun",
+    "meaning_english": "An instrument for stirring.",
+    "meaning_bangla": "নাড়ানির সরঞ্জাম, খুরি।"
+  },
+  {
+    "word_roman": "LĀRUWĀ-",
+    "word_bangla": "লারুওয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to stir.",
+    "meaning_bangla": "কাউকে দিয়ে নাড়ানো বা আলোড়িত করানো।"
+  },
+  {
+    "word_roman": "LĀRAU",
+    "word_bangla": "লারাউ",
+    "category": "Noun",
+    "meaning_english": "A ball of sweet-meat.",
+    "meaning_bangla": "এক ধরনের মিঠাইয়ের গোলা (লাড্ডু)।"
+  },
+  {
+    "word_roman": "LĀL",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "Wrong.",
+    "meaning_bangla": "ভুল।"
+  },
+  {
+    "word_roman": "LĀL",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "War.",
+    "meaning_bangla": "যুদ্ধ।"
+  },
+  {
+    "word_roman": "LĀ'L",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "The act of crossing.",
+    "meaning_bangla": "পার হওয়ার কাজ।"
+  },
+  {
+    "word_roman": "LĀ'LAS",
+    "word_bangla": "লালস",
+    "category": "Noun",
+    "meaning_english": "Greed.",
+    "meaning_bangla": "লোভ, লালসা।"
+  },
+  {
+    "word_roman": "LĀ'LĀN",
+    "word_bangla": "লালান",
+    "category": "Noun",
+    "meaning_english": "Illicit relation, secret love.",
+    "meaning_bangla": "অবৈধ সম্পর্ক, গোপন প্রেম।"
+  },
+  {
+    "word_roman": "LĀLTUM",
+    "word_bangla": "লাল্তুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāntum.",
+    "meaning_bangla": "'লান্তুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀLTU-BELTU",
+    "word_bangla": "লাল্তু-বেল্তু",
+    "category": "Adjective",
+    "meaning_english": "Queer, abnormal.",
+    "meaning_bangla": "অদ্ভুত, অস্বাভাবিক।"
+  },
+  {
+    "word_roman": "LĀLPHĀM",
+    "word_bangla": "লালফাম",
+    "category": "Noun",
+    "meaning_english": "(i) War. (ii) War-field.",
+    "meaning_bangla": "(i) যুদ্ধ। (ii) রণক্ষেত্র।"
+  },
+  {
+    "word_roman": "LĀMĀ-",
+    "word_bangla": "লামা-",
+    "category": "Verb",
+    "meaning_english": "To bring or get down.",
+    "meaning_bangla": "নামানো বা নিচে আনা।"
+  },
+  {
+    "word_roman": "LĀMĀNI",
+    "word_bangla": "লামানি",
+    "category": "Noun",
+    "meaning_english": "(i) Getting down. (ii) Bringing down.",
+    "meaning_bangla": "(i) নিচে নামা। (ii) নিচে নামানো।"
+  },
+  {
+    "word_roman": "LĀ'MI",
+    "word_bangla": "লামি",
+    "category": "Noun",
+    "meaning_english": "Split bamboo used in fencing.",
+    "meaning_bangla": "বেড়া দিতে ব্যবহৃত ফালি করা বাঁশ।"
+  },
+  {
+    "word_roman": "LĀ'MILĀ",
+    "word_bangla": "লামিলা",
+    "category": "Adjective",
+    "meaning_english": "Born or grown late.",
+    "meaning_bangla": "দেরিতে জন্মানো বা বড় হওয়া।"
+  },
+  {
+    "word_roman": "LĀ'MUI",
+    "word_bangla": "লামুই",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāmphui.",
+    "meaning_bangla": "'লামফুই'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀMUNI",
+    "word_bangla": "লামুনি",
+    "category": "Adverb",
+    "meaning_english": "Down-stream.",
+    "meaning_bangla": "স্রোতের অনুকূলে।"
+  },
+  {
+    "word_roman": "LĀMCĀ",
+    "word_bangla": "লাম্চা",
+    "category": "Noun",
+    "meaning_english": "(i) One born from illicit relation. (ii) Orphan.",
+    "meaning_bangla": "(i) অবৈধ সম্পর্কে জন্মানো সন্তান। (ii) এতিম।"
+  },
+  {
+    "word_roman": "LĀMCIK",
+    "word_bangla": "লাম্চিক",
+    "category": "Noun",
+    "meaning_english": "An imp believed to be the re-appearance of one dying an unnatural death.",
+    "meaning_bangla": "এক ধরনের ভূত যা অস্বাভাবিক মৃত্যু হওয়া ব্যক্তির পুনরাবির্ভাব।"
+  },
+  {
+    "word_roman": "LĀMCER",
+    "word_bangla": "লাম্চের",
+    "category": "Noun",
+    "meaning_english": "Character (lit. the characteristic of a place).",
+    "meaning_bangla": "চরিত্র (আক্ষ. জায়গার বৈশিষ্ট্য)।"
+  },
+  {
+    "word_roman": "LĀMCAU",
+    "word_bangla": "লাম্চাউ",
+    "category": "Noun",
+    "meaning_english": "High-way.",
+    "meaning_bangla": "রাজপথ, প্রধান সড়ক।"
+  },
+  {
+    "word_roman": "LĀMTUM",
+    "word_bangla": "লাম্তুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāṭṭum.",
+    "meaning_bangla": "'লাট্টুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀMTHAṆ",
+    "word_bangla": "লাম্থান",
+    "category": "Noun",
+    "meaning_english": "An abuse (lit. wild bison).",
+    "meaning_bangla": "একটি গালি (আক্ষ. বন্য গরু)।"
+  },
+  {
+    "word_roman": "LĀMPAI",
+    "word_bangla": "লাম্পাই",
+    "category": "Noun",
+    "meaning_english": "Vaiṣṇava monk.",
+    "meaning_bangla": "বৈষ্ণব সন্ন্যাসী।"
+  },
+  {
+    "word_roman": "LĀMPAI-PĀ",
+    "word_bangla": "লাম্পাই-পা",
+    "category": "Noun",
+    "meaning_english": "Vaiṣṇava monk.",
+    "meaning_bangla": "বৈষ্ণব সন্ন্যাসী।"
+  },
+  {
+    "word_roman": "LĀMPAIPI",
+    "word_bangla": "লাম্পাইপি",
+    "category": "Noun",
+    "meaning_english": "Female Vaiṣṇava monk.",
+    "meaning_bangla": "বৈষ্ণব সন্ন্যাসিনী।"
+  },
+  {
+    "word_roman": "LĀMPHUI",
+    "word_bangla": "লামফুই",
+    "category": "Noun",
+    "meaning_english": "Jackal.",
+    "meaning_bangla": "শিয়াল।"
+  },
+  {
+    "word_roman": "LĀMPHEI",
+    "word_bangla": "লামফেই",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lānphei.",
+    "meaning_bangla": "'লানফেই'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀ'MBĀ",
+    "word_bangla": "লাম্বা",
+    "category": "Adjective",
+    "meaning_english": "Tall, long.",
+    "meaning_bangla": "লম্বা, দীর্ঘ।"
+  },
+  {
+    "word_roman": "LĀ'MBĪ",
+    "word_bangla": "লাম্বী",
+    "category": "Adjective",
+    "meaning_english": "Tall (of female).",
+    "meaning_bangla": "লম্বা (মেয়েলি)।"
+  },
+  {
+    "word_roman": "LĀMLĀK",
+    "word_bangla": "লাম্লাক",
+    "category": "Noun",
+    "meaning_english": "Midst.",
+    "meaning_bangla": "মধ্যবর্তী স্থান, ভিতর।"
+  },
+  {
+    "word_roman": "LĀMLĀM",
+    "word_bangla": "লাম্লাম",
+    "category": "Noun",
+    "meaning_english": "The act of hanging or dangling.",
+    "meaning_bangla": "ঝুলানোর বা দুলানোর কাজ।"
+  },
+  {
+    "word_roman": "LĀMHEL",
+    "word_bangla": "লাম্হেল",
+    "category": "Adjective",
+    "meaning_english": "Arrogant.",
+    "meaning_bangla": "অহংকারী, দাম্ভিক।"
+  },
+  {
+    "word_roman": "LĀY",
+    "word_bangla": "লায়",
+    "category": "Adverb",
+    "meaning_english": "Slowly.",
+    "meaning_bangla": "ধীরে, আস্তে।"
+  },
+  {
+    "word_roman": "LĀYUM",
+    "word_bangla": "লায়ুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāi-yum.",
+    "meaning_bangla": "'লাই-য়ুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀRĀL-LĀRĀL",
+    "word_bangla": "লারাল-লারাল",
+    "category": "Adjective",
+    "meaning_english": "(i) At distances. (ii) Distant from each other. (of paddy plants).",
+    "meaning_bangla": "(i) দূরত্বে। (ii) একে অপর থেকে দূরে দূরে (ধান গাছের ক্ষেত্রে)।"
+  },
+  {
+    "word_roman": "LĀRCĀR",
+    "word_bangla": "লার্চার",
+    "category": "Adjective",
+    "meaning_english": "(i) Topsy-turvy. (ii) Destroyed.",
+    "meaning_bangla": "(i) উল্টাপাল্টা, এলোমেলো। (ii) ধ্বংসপ্রাপ্ত।"
+  },
+  {
+    "word_roman": "LĀR-",
+    "word_bangla": "লার-",
+    "category": "Verb",
+    "meaning_english": "To shake, to stir.",
+    "meaning_bangla": "নাড়া, ঝাঁকানি দেওয়া, আলোড়িত করা।"
+  },
+  {
+    "word_roman": "LĀRĀ",
+    "word_bangla": "লারা",
+    "category": "Noun",
+    "meaning_english": "Shake, jerk.",
+    "meaning_bangla": "ঝাঁকি, ধাক্কা, ঝাঁকুনি।"
+  },
+  {
+    "word_roman": "LĀRĀ-",
+    "word_bangla": "লারা-",
+    "category": "Verb",
+    "meaning_english": "To stir, to displace, to shake.",
+    "meaning_bangla": "নাড়া, স্থানচ্যুত করা, ঝাঁকানো।"
+  },
+  {
+    "word_roman": "LĀRĀNI",
+    "word_bangla": "লারানি",
+    "category": "Noun",
+    "meaning_english": "Shaking.",
+    "meaning_bangla": "নাড়ার কাজ, নাড়ানি।"
+  },
+  {
+    "word_roman": "LĀRI",
+    "word_bangla": "লারি",
+    "category": "Noun",
+    "meaning_english": "Buttock.",
+    "meaning_bangla": "পাছা, নিতম্ব।"
+  },
+  {
+    "word_roman": "LĀRUNI",
+    "word_bangla": "লারুনি",
+    "category": "Noun",
+    "meaning_english": "An instrument for stirring.",
+    "meaning_bangla": "নাড়ানির সরঞ্জাম, খুরি।"
+  },
+  {
+    "word_roman": "LĀRUWĀ-",
+    "word_bangla": "লারুওয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to stir.",
+    "meaning_bangla": "কাউকে দিয়ে নাড়ানো বা আলোড়িত করানো।"
+  },
+  {
+    "word_roman": "LĀRAU",
+    "word_bangla": "লারাউ",
+    "category": "Noun",
+    "meaning_english": "A ball of sweet-meat.",
+    "meaning_bangla": "এক ধরনের মিঠাইয়ের গোলা (লাড্ডু)।"
+  },
+  {
+    "word_roman": "LĀL",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "Wrong.",
+    "meaning_bangla": "ভুল।"
+  },
+  {
+    "word_roman": "LĀL",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "War.",
+    "meaning_bangla": "যুদ্ধ।"
+  },
+  {
+    "word_roman": "LĀ'L",
+    "word_bangla": "লাল",
+    "category": "Noun",
+    "meaning_english": "The act of crossing.",
+    "meaning_bangla": "পার হওয়ার কাজ।"
+  },
+  {
+    "word_roman": "LĀ'LAS",
+    "word_bangla": "লালস",
+    "category": "Noun",
+    "meaning_english": "Greed.",
+    "meaning_bangla": "লোভ, লালসা।"
+  },
+  {
+    "word_roman": "LĀ'LĀN",
+    "word_bangla": "লালান",
+    "category": "Noun",
+    "meaning_english": "Illicit relation, secret love.",
+    "meaning_bangla": "অবৈধ সম্পর্ক, গোপন প্রেম।"
+  },
+  {
+    "word_roman": "LĀLTUM",
+    "word_bangla": "লাল্তুম",
+    "category": "Noun",
+    "meaning_english": "Alternative form of lāṇṭum.",
+    "meaning_bangla": "'লান্টুম'-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "LĀLTU-BELTU",
+    "word_bangla": "লাল্তু-বেল্তু",
+    "category": "Adjective",
+    "meaning_english": "Queer, abnormal.",
+    "meaning_bangla": "অদ্ভুত, অস্বাভাবিক।"
+  },
+  {
+    "word_roman": "LĀLPHĀM",
+    "word_bangla": "লালফাম",
+    "category": "Noun",
+    "meaning_english": "(i) War. (ii) War-field.",
+    "meaning_bangla": "(i) যুদ্ধ। (ii) রণক্ষেত্র।"
+  },
 ]
