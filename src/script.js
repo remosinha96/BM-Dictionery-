@@ -76,6 +76,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const normalizedQuery = normalize(query);
     
     if (!query) {
+      // Reset SEO to default
+      document.title = "BM Dictionary - Learn Regional Language Meanings";
+      const metaDesc = document.getElementById('meta-description');
+      const canonLink = document.getElementById('canonical-link');
+      if (metaDesc) metaDesc.setAttribute('content', "Explore the BM Dictionary to find meanings of regional words in English and Bangla. A simple, fast, and modern dictionary app.");
+      if (canonLink) canonLink.setAttribute('href', window.location.origin);
+
       resultContainer.innerHTML = `
         <div class="empty-state">
         </div>
@@ -112,7 +119,32 @@ document.addEventListener('DOMContentLoaded', () => {
       return 0;
     });
 
+    // Dynamic SEO Update
+    const metaDescription = document.getElementById('meta-description');
+    const canonicalLink = document.getElementById('canonical-link');
+    const defaultTitle = "BM Dictionary - Learn Regional Language Meanings";
+    const defaultDesc = "Explore the BM Dictionary to find meanings of regional words in English and Bangla. A simple, fast, and modern dictionary app.";
+
     if (matches.length > 0) {
+      const topMatch = matches[0];
+      const wordName = topMatch.word_roman || topMatch.word_bangla;
+      const meaning = topMatch.meaning_english || topMatch.meaning_bangla;
+      
+      // Update Title
+      document.title = `${wordName} - BM Dictionary`;
+      
+      // Update Meta Description
+      if (metaDescription) {
+        metaDescription.setAttribute('content', `Learn the meaning of ${wordName} in our regional language dictionary: ${meaning}`);
+      }
+      
+      // Update Canonical Link
+      if (canonicalLink) {
+        const url = new URL(window.location.href);
+        url.searchParams.set('q', query);
+        canonicalLink.setAttribute('href', url.toString());
+      }
+
       // Limit results for performance if many matches
       const displayMatches = matches.slice(0, 50);
       
@@ -140,6 +172,11 @@ document.addEventListener('DOMContentLoaded', () => {
         // Just show the results, no "Showing top 50" message
       }
     } else {
+      // Reset SEO to default
+      document.title = defaultTitle;
+      if (metaDescription) metaDescription.setAttribute('content', defaultDesc);
+      if (canonicalLink) canonicalLink.setAttribute('href', window.location.origin);
+
       resultContainer.innerHTML = `
         <div class="error">
           <p>No matches found for "<strong>${query}</strong>".</p>
