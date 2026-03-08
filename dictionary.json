@@ -45252,5 +45252,3204 @@
     "category": "Noun",
     "meaning_english": "Relatives. M.Mt. śākai, N.Mt. śāgai.",
     "meaning_bangla": "আত্মীয়স্বজন। M.Mt. śākai, N.Mt. śāgai।"
+  },
+  {
+    "word_roman": "SÁKEI",
+    "word_bangla": "সাকেই",
+    "category": "Noun",
+    "meaning_english": "Raised platform. Mt. śākai, N. Mt. śāgai.",
+    "meaning_bangla": "উঁচু প্ল্যাটফর্ম। Mt. śākai, N. Mt. śāgai।"
+  },
+  {
+    "word_roman": "SÁK",
+    "word_bangla": "সাক",
+    "category": "Adjective",
+    "meaning_english": "(i) True, exact. (ii) Truth-sayer. Td. *satyakṛta.",
+    "meaning_bangla": "(i) সত্য, সঠিক। (ii) সত্যবাদী। Td. *satyakṛta।"
+  },
+  {
+    "word_roman": "SÁKKÁ",
+    "word_bangla": "সাক্কা",
+    "category": "Adjective",
+    "meaning_english": "Able, strong, aged. Td. *śāktapāla or *sakyapāla.",
+    "meaning_bangla": "সক্ষম, শক্তিশালী, বয়স্ক। Td. *śāktapāla or *sakyapāla।"
+  },
+  {
+    "word_roman": "SÁKTÁ",
+    "word_bangla": "সাক্তা",
+    "category": "Noun",
+    "meaning_english": "Appearance. Mt. śāktā (śak=appearance).",
+    "meaning_bangla": "চেহারা। Mt. śāktā (śak=চেহারা)।"
+  },
+  {
+    "word_roman": "SÁKTÁBÁ",
+    "word_bangla": "সাক্তাবা",
+    "category": "Adjective",
+    "meaning_english": "One having an ugly look. Mt. śāktā+bā.",
+    "meaning_bangla": "কুৎসিত চেহারার। Mt. śāktā+bā।"
+  },
+  {
+    "word_roman": "SÁKTÁBI",
+    "word_bangla": "সাক্তাবি",
+    "category": "Adjective",
+    "meaning_english": "Fem. fr. above. Mt. śāk-tā+bi-pā.",
+    "meaning_bangla": "উপরের মেয়েলি রূপ। Mt. śāk-tā+bi-pā।"
+  },
+  {
+    "word_roman": "SAKTI",
+    "word_bangla": "সক্তি",
+    "category": "Noun",
+    "meaning_english": "Ugly, bad. Mt. śāk-tā (śak=appearance, thl-pā=harshness).",
+    "meaning_bangla": "কুৎসিত, খারাপ। Mt. śāk-tā (śak=চেহারা, thl-pā=কঠোরতা)।"
+  },
+  {
+    "word_roman": "SAKPHAM",
+    "word_bangla": "সকফাম",
+    "category": "Noun",
+    "meaning_english": "Countenance. Mt. sakhpham (sak=countenance, pham=position).",
+    "meaning_bangla": "মুখভঙ্গি। Mt. sakhpham (sak=মুখভঙ্গি, pham=অবস্থান)।"
+  },
+  {
+    "word_roman": "SAKSHI (SAKKHI)",
+    "word_bangla": "সাক্ষী (সাক্খি)",
+    "category": "Noun",
+    "meaning_english": "Evidence. Sts. sākṣya.",
+    "meaning_bangla": "প্রমাণ। Sts. sākṣya।"
+  },
+  {
+    "word_roman": "SÁK(GAL)(M)",
+    "word_bangla": "সাক(গল)(ম)",
+    "category": "Noun",
+    "meaning_english": "Horse. Mt. śagol.—KHAI: Horse.",
+    "meaning_bangla": "ঘোড়া। Mt. śagol।—KHAI: ঘোড়া।"
+  },
+  {
+    "word_roman": "SÁN",
+    "word_bangla": "সান",
+    "category": "Noun",
+    "meaning_english": "House-stead. Mt. śān.",
+    "meaning_bangla": "বাড়ির জায়গা। Mt. śān।"
+  },
+  {
+    "word_roman": "SÁN",
+    "word_bangla": "সান",
+    "category": "Noun",
+    "meaning_english": "(i) Leisure, gap. (ii) Free. śān-pā.",
+    "meaning_bangla": "(i) অবসর, ফাঁক। (ii) মুক্ত। śān-pā।"
+  },
+  {
+    "word_roman": "SÁN-KARANI",
+    "word_bangla": "সান-কারানি",
+    "category": "Noun",
+    "meaning_english": "The act of dyeing. Mt. śān-pā.—KARANI: Dyeing.",
+    "meaning_bangla": "রং করার কাজ। Mt. śān-pā।—KARANI: রং করা।"
+  },
+  {
+    "word_roman": "SÁNKÁ",
+    "word_bangla": "সাঙ্কা",
+    "category": "Noun",
+    "meaning_english": "Inauguration of a house. M. Mt. śānkā-pā (śān=house, kā-pā=to ascend).",
+    "meaning_bangla": "বাড়ির উদ্বোধন। M. Mt. śānkā-pā (śān=বাড়ি, kā-pā=উঠা)।"
+  },
+  {
+    "word_roman": "SÁNGA",
+    "word_bangla": "সাঙ্গা",
+    "category": "Adjective",
+    "meaning_english": "Finished, completed. Ts. sāṅga=with all parts.",
+    "meaning_bangla": "সমাপ্ত, সম্পূর্ণ। Ts. sāṅga=সব অংশসহ।"
+  },
+  {
+    "word_roman": "SÁNDAM(M)",
+    "word_bangla": "সান্দাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Tresses. Mt. śāmbāndō, V. thāmpalcañ.",
+    "meaning_bangla": "চুলের গোছা। Mt. śāmbāndō, V. thāmpalcañ।"
+  },
+  {
+    "word_roman": "SÁNPAL",
+    "word_bangla": "সান্পাল",
+    "category": "Noun",
+    "meaning_english": "Property, wealth, ability. Sts. sambala.",
+    "meaning_bangla": "সম্পত্তি, ধন, ক্ষমতা। Sts. sambala।"
+  },
+  {
+    "word_roman": "SÁNLEN",
+    "word_bangla": "সানলেন",
+    "category": "Noun",
+    "meaning_english": "Green colour. Mt. śānlen (śān=to dye+len=best).",
+    "meaning_bangla": "সবুজ রং। Mt. śānlen (śān=রং করা+len=সেরা)।"
+  },
+  {
+    "word_roman": "SÁCÁN",
+    "word_bangla": "সাচান",
+    "category": "Noun",
+    "meaning_english": "A kind of white mark. Mt. śācān (ku=to scape)+cán-pā (to appear).",
+    "meaning_bangla": "সাদা দাগের এক প্রকার। Mt. śācān (ku=খসানো)+cán-pā (দেখা যাওয়া)।"
+  },
+  {
+    "word_roman": "SÁJ-",
+    "word_bangla": "সাজ্-",
+    "category": "Verb",
+    "meaning_english": "To be decorated. Td. sajja-ila.",
+    "meaning_bangla": "সাজানো হওয়া। Td. sajja-ila।"
+  },
+  {
+    "word_roman": "SÁJ",
+    "word_bangla": "সাজ",
+    "category": "Noun",
+    "meaning_english": "Decoration. Td. sajja.",
+    "meaning_bangla": "সাজসজ্জা। Td. sajja।"
+  },
+  {
+    "word_roman": "SAJAN",
+    "word_bangla": "সাজান",
+    "category": "Noun",
+    "meaning_english": "Punishment. Td. sajjāna.",
+    "meaning_bangla": "শাস্তি। Td. sajjāna।"
+  },
+  {
+    "word_roman": "SAJÁ-",
+    "word_bangla": "সজা-",
+    "category": "Verb",
+    "meaning_english": "(i) To arrange nicely. (ii) To decorate. Td. *sajjāpaya-.",
+    "meaning_bangla": "(i) সুন্দরভাবে সাজানো। (ii) সাজানো। Td. *sajjāpaya-।"
+  },
+  {
+    "word_roman": "SAJÁK",
+    "word_bangla": "সজাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of śācāk. (ii) Decorating.",
+    "meaning_bangla": "śācāk-এর বিকল্প রূপ। (ii) সাজানো।"
+  },
+  {
+    "word_roman": "SAJÁNI",
+    "word_bangla": "সজানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being decorated. (ii) Decorating. (i) śāj+ -āni : (ii) śāj+ -āni. Td. *sajjāpanika.",
+    "meaning_bangla": "(i) সাজানো হওয়া। (ii) সাজানো। (i) śāj+ -āni : (ii) śāj+ -āni। Td. *sajjāpanika।"
+  },
+  {
+    "word_roman": "SAJÁRÁN",
+    "word_bangla": "সজারান",
+    "category": "Noun",
+    "meaning_english": "Prostrate. Sts. śāṅgāta, or Mt. śā-pā=to show+thān-pā=to offer.",
+    "meaning_bangla": "উপুড় হওয়া। Sts. śāṅgāta, or Mt. śā-pā=দেখানো+thān-pā=উপহার দেওয়া।"
+  },
+  {
+    "word_roman": "SAJIK(M)",
+    "word_bangla": "সজিক(ম)",
+    "category": "Noun",
+    "meaning_english": "The morning star. Mt. śajik (śā=body, cik-pā=cold).",
+    "meaning_bangla": "ভোরের তারা। Mt. śajik (śā=শরীর, cik-pā=ঠান্ডা)।"
+  },
+  {
+    "word_roman": "SAJET",
+    "word_bangla": "সজেট",
+    "category": "Noun",
+    "meaning_english": "Conduct. Mt. śājāt (śā=body, cat-pā=to stick).",
+    "meaning_bangla": "আচরণ। Mt. śājāt (śā=শরীর, cat-pā=আটকে থাকা)।"
+  },
+  {
+    "word_roman": "SAJEL",
+    "word_bangla": "সজেল",
+    "category": "Noun",
+    "meaning_english": "Decoration. Td. *sajjila (sajjā+ -ila).",
+    "meaning_bangla": "সাজসজ্জা। Td. *sajjila (sajjā+ -ila)।"
+  },
+  {
+    "word_roman": "SAJELIYA",
+    "word_bangla": "সজেলিয়া",
+    "category": "Adjective",
+    "meaning_english": "Stylish, foppish. śajel+1. -iya.",
+    "meaning_bangla": "স্টাইলিশ, ফুলফুলে। śajel+1. -iya।"
+  },
+  {
+    "word_roman": "SAJTÁN",
+    "word_bangla": "সজতান",
+    "category": "Noun",
+    "meaning_english": "Fem. pretext. above. *chadmana (through demon of chadma).",
+    "meaning_bangla": "মেয়েলি ছল। উপরের। *chadmana (chadma-এর দানবের মাধ্যমে)।"
+  },
+  {
+    "word_roman": "SAJTUM",
+    "word_bangla": "সজতুম",
+    "category": "Noun",
+    "meaning_english": "The fold of muscle. M. Mt. śātum (śā=body, tūm=round). N. Mt. śādum.",
+    "meaning_bangla": "পেশির ভাঁজ। M. Mt. śātum (śā=শরীর, tūm=গোল)। N. Mt. śādum।"
+  },
+  {
+    "word_roman": "SÁT",
+    "word_bangla": "সাত",
+    "category": "Noun",
+    "meaning_english": "Seven. Td. sapta.",
+    "meaning_bangla": "সাত। Td. sapta।"
+  },
+  {
+    "word_roman": "SAT",
+    "word_bangla": "সত",
+    "category": "Adjective",
+    "meaning_english": "Probably. Per. śāyad (=perhaps). Cf. Td. chadma.",
+    "meaning_bangla": "সম্ভবত। Per. śāyad (=সম্ভবত)। Cf. Td. chadma।"
+  },
+  {
+    "word_roman": "SÁT",
+    "word_bangla": "সাত",
+    "category": "Noun",
+    "meaning_english": "Face (=style). Mt. śāktā, CF. M.B. chād (OIA. chāyā=style).",
+    "meaning_bangla": "মুখ (=স্টাইল)। Mt. śāktā, CF. M.B. chād (OIA. chāyā=স্টাইল)।"
+  },
+  {
+    "word_roman": "SÁT",
+    "word_bangla": "সাত",
+    "category": "Noun",
+    "meaning_english": "Chandra—ANI: Blooming. (ii) Dirt. Sts. *chatraka—ANI.",
+    "meaning_bangla": "চন্দ্র—ANI: ফোটা। (ii) ময়লা। Sts. *chatraka—ANI।"
+  },
+  {
+    "word_roman": "SÁTÁL",
+    "word_bangla": "সাতাল",
+    "category": "Noun",
+    "meaning_english": "Hunting. Mt. śā-tān-pā (śā=animal, tān-pā=to drive).",
+    "meaning_bangla": "শিকার। Mt. śā-tān-pā (śā=পশু, tān-pā=চালানো)।"
+  },
+  {
+    "word_roman": "SÁTÁLI",
+    "word_bangla": "সাতালি",
+    "category": "Noun",
+    "meaning_english": "Fowler. śātā+3.-i.",
+    "meaning_bangla": "পাখি শিকারি। śātā+3.-i।"
+  },
+  {
+    "word_roman": "SĀTIRĀ(M), SĀTUM",
+    "word_bangla": "সাতিরা(ম), সাতুম",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of sātārá, sātum.",
+    "meaning_bangla": "sātārá, sātum-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀTGUNI",
+    "word_bangla": "সাতগুনি",
+    "category": "Noun",
+    "meaning_english": "The least sign of one's presence. Mt. śāktā+ OIA. *gaṇika (fr. gaya=to count).",
+    "meaning_bangla": "কারও উপস্থিতির সবচেয়ে কম চিহ্ন। Mt. śāktā+ OIA. *gaṇika (gaya=গণনা করা থেকে)।"
+  },
+  {
+    "word_roman": "SĀTTĀ, SĀTTABĀ, SĀTTABI",
+    "word_bangla": "সাত্তা, সাত্তাবা, সাত্তাবি",
+    "category": "Adjective",
+    "meaning_english": "Alt. forms of śālyikā, śāktābā having an ugly face.",
+    "meaning_bangla": "śālyikā, śāktābā-এর বিকল্প রূপ, কুৎসিত মুখের।"
+  },
+  {
+    "word_roman": "SĀTMALIYĀ",
+    "word_bangla": "সাতমালিয়া",
+    "category": "Adjective",
+    "meaning_english": "(i) Ugly. (ii) One having artificial show in face (lit. having artificial show in face). 3. śāt+māl+1.-iya.",
+    "meaning_bangla": "(i) কুৎসিত। (ii) মুখে কৃত্রিম দেখানোর একজন (আক্ষ. মুখে কৃত্রিম প্রদর্শন)। 3. śāt+māl+1.-iya।"
+  },
+  {
+    "word_roman": "SĀTĀDĀNE",
+    "word_bangla": "সাতাদানে",
+    "category": "Adjective",
+    "meaning_english": "Fem. fr. above. śāt+ādana or chandas (metathesis).",
+    "meaning_bangla": "উপরের মেয়েলি রূপ। śāt+ādana or chandas (metathesis)।"
+  },
+  {
+    "word_roman": "SĀDÁ",
+    "word_bangla": "সাদা",
+    "category": "Adjective",
+    "meaning_english": "White. sāda=without ending writing.",
+    "meaning_bangla": "সাদা। sāda=শেষ না করে লেখা।"
+  },
+  {
+    "word_roman": "SĀDI",
+    "word_bangla": "সাদি",
+    "category": "Noun",
+    "meaning_english": "Marriage. Per. sādi. BIYÁ—: Marriage.",
+    "meaning_bangla": "বিবাহ। Per. sādi। BIYÁ—: বিবাহ।"
+  },
+  {
+    "word_roman": "SADE",
+    "word_bangla": "সাদে",
+    "category": "Adjective",
+    "meaning_english": "Like. Td. chandas+BPM. instr. ending -e.",
+    "meaning_bangla": "মতো। Td. chandas+BPM. instr. ending -e।"
+  },
+  {
+    "word_roman": "SĀNÁ",
+    "word_bangla": "সানা",
+    "category": "Noun",
+    "meaning_english": "(1) Pretending, acting for. śā+ -nā. Td. *samāpanaka. (2) Practice. Mt. śānna-pā=to play.—KARANI: Practising.",
+    "meaning_bangla": "(1) ভান করা, কাজ করা। śā+ -nā। Td. *samāpanaka। (2) অনুশীলন। Mt. śānna-pā=খেলা।—KARANI: অনুশীলন করা।"
+  },
+  {
+    "word_roman": "SĀNAMPÁ",
+    "word_bangla": "সানম্পা",
+    "category": "Noun",
+    "meaning_english": "A species of reptile. Mt. śāmām-pā.",
+    "meaning_bangla": "সরীসৃপের এক প্রজাতি। Mt. śāmām-pā।"
+  },
+  {
+    "word_roman": "SĀNI",
+    "word_bangla": "সানি",
+    "category": "Noun",
+    "meaning_english": "Pretending, acting for. śā+ -ni. Td. *samāpanika.",
+    "meaning_bangla": "ভান করা, কাজ করা। śā+ -ni। Td. *samāpanika।"
+  },
+  {
+    "word_roman": "SĀNIK",
+    "word_bangla": "সানিক",
+    "category": "Noun",
+    "meaning_english": "Insanity. Td. *sañjñapika.",
+    "meaning_bangla": "পাগলামি। Td. *sañjñapika।"
+  },
+  {
+    "word_roman": "SĀNTRI",
+    "word_bangla": "সান্ত্রি",
+    "category": "Noun",
+    "meaning_english": "Sign, hint. Td. *sañketaka.",
+    "meaning_bangla": "চিহ্ন, ইঙ্গিত। Td. *sañketaka।"
+  },
+  {
+    "word_roman": "SANDE",
+    "word_bangla": "সান্দে",
+    "category": "Adjective",
+    "meaning_english": "Like. Td. chanda or chandas+ BPM. instr. ending -e.",
+    "meaning_bangla": "মতো। Td. chanda or chandas+ BPM. instr. ending -e।"
+  },
+  {
+    "word_roman": "SAPT",
+    "word_bangla": "সপ্ত",
+    "category": "Noun",
+    "meaning_english": "She-buffalo. Mt. śāpi.",
+    "meaning_bangla": "মহিষী। Mt. śāpi।"
+  },
+  {
+    "word_roman": "SĀPUNI",
+    "word_bangla": "সাপুনি",
+    "category": "Noun",
+    "meaning_english": "Snake. Sts. saptapādikā.",
+    "meaning_bangla": "সাপ। Sts. saptapādikā।"
+  },
+  {
+    "word_roman": "SĀPH, SĀPHÁ",
+    "word_bangla": "সাফ, সাফা",
+    "category": "Adjective",
+    "meaning_english": "Open, clean, clear. Per.-Ar. ṣāf, ṣafā.",
+    "meaning_bangla": "খোলা, পরিষ্কার, স্পষ্ট। Per.-Ar. ṣāf, ṣafā।"
+  },
+  {
+    "word_roman": "SĀPHÁI",
+    "word_bangla": "সাফাই",
+    "category": "Noun",
+    "meaning_english": "Cleaning. śāphā+ -āi.",
+    "meaning_bangla": "পরিষ্কার করা। śāphā+ -āi।"
+  },
+  {
+    "word_roman": "SĀPHĀM",
+    "word_bangla": "সাফাম",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of śābhām, śāb(M).",
+    "meaning_bangla": "śābhām, śāb(M)-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀ'BAN",
+    "word_bangla": "সা'বান",
+    "category": "Noun",
+    "meaning_english": "Soap. Po. sabao.",
+    "meaning_bangla": "সাবান। Po. sabao।"
+  },
+  {
+    "word_roman": "SĀ'BÁK",
+    "word_bangla": "সা'বাক",
+    "category": "Noun",
+    "meaning_english": "A sticky substance found in a bee nest. Cf. Mt. śā (=body)+pakpā (=to stick).",
+    "meaning_bangla": "মৌচাকে পাওয়া আঠালো পদার্থ। Cf. Mt. śā (=শরীর)+pakpā (=আটকে থাকা)।"
+  },
+  {
+    "word_roman": "SĀBĀKÁS",
+    "word_bangla": "সাবাকাস",
+    "category": "Noun",
+    "meaning_english": "Ability, strength. Sts. śāvakāśa.",
+    "meaning_bangla": "ক্ষমতা, শক্তি। Sts. śāvakāśa।"
+  },
+  {
+    "word_roman": "SĀBĀM",
+    "word_bangla": "সাবাম",
+    "category": "Noun",
+    "meaning_english": "Health, appearance. Mt. śāpham (śā=body, pham=place, condition).",
+    "meaning_bangla": "স্বাস্থ্য, চেহারা। Mt. śāpham (śā=শরীর, pham=স্থান, অবস্থা)।"
+  },
+  {
+    "word_roman": "SĀBÁMPHÁM",
+    "word_bangla": "সাবাম্ফাম",
+    "category": "Noun",
+    "meaning_english": "(i) Condition, whereabouts. (ii) Bravo. śābām+phām : Joining.",
+    "meaning_bangla": "(i) অবস্থা, অবস্থান। (ii) বাহাদুর। śābām+phām : যোগদান।"
+  },
+  {
+    "word_roman": "SĀBUD",
+    "word_bangla": "সাবুদ",
+    "category": "Noun",
+    "meaning_english": "(i) Clearance. (ii) Finished, cleared. Per. śāf (=clear, pure)+śafā (=purity).",
+    "meaning_bangla": "(i) ছাড়পত্র। (ii) সমাপ্ত, পরিষ্কার। Per. śāf (=পরিষ্কার, বিশুদ্ধ)+śafā (=বিশুদ্ধতা)।"
+  },
+  {
+    "word_roman": "SĀBU-DÁNA",
+    "word_bangla": "সাবু-দানা",
+    "category": "Noun",
+    "meaning_english": "Sago. Po. sagu, sec. el. dáná.",
+    "meaning_bangla": "সাবু দানা। Po. sagu, sec. el. দানা।"
+  },
+  {
+    "word_roman": "SÁBEK",
+    "word_bangla": "সাবেক",
+    "category": "Adjective",
+    "meaning_english": "Total. Per.-Ar. sābiq=old.",
+    "meaning_bangla": "মোট। Per.-Ar. sābiq=পুরানো।"
+  },
+  {
+    "word_roman": "SĀBYÁSTA",
+    "word_bangla": "সাব্যস্ত",
+    "category": "Noun",
+    "meaning_english": "Settlement. Sts. savyavasthā.",
+    "meaning_bangla": "ব্যবস্থা। Sts. savyavasthā।"
+  },
+  {
+    "word_roman": "SĀBSUBÁSTA",
+    "word_bangla": "সাবসুবাস্ত",
+    "category": "Adjective",
+    "meaning_english": "(i) Clear, open. (ii) Clearly, cleared. Per. śāf (=clear, pure)+śafā (=purity).",
+    "meaning_bangla": "(i) পরিষ্কার, খোলা। (ii) স্পষ্টভাবে, পরিষ্কার। Per. śāf (=পরিষ্কার, বিশুদ্ধ)+śafā (=বিশুদ্ধতা)।"
+  },
+  {
+    "word_roman": "SĀMIL",
+    "word_bangla": "সামিল",
+    "category": "Adjective",
+    "meaning_english": "(i) Similar, related. (ii) Similarity, relation. Td. sammila (na).",
+    "meaning_bangla": "(i) সদৃশ, সম্পর্কিত। (ii) সাদৃশ্য, সম্পর্ক। Td. sammila (na)।"
+  },
+  {
+    "word_roman": "SĀMUISA",
+    "word_bangla": "সামুইসা",
+    "category": "Noun",
+    "meaning_english": "Rhinoceros. Mt. yāiśā.",
+    "meaning_bangla": "গণ্ডার। Mt. yāiśā।"
+  },
+  {
+    "word_roman": "SĀMU-KHAI",
+    "word_bangla": "সামু-খাই",
+    "category": "Noun",
+    "meaning_english": "A kind of large bean (lit. elephant-bean). Mt. śāmu=elephant, sec. el. khai.",
+    "meaning_bangla": "বড় শিমের এক প্রকার (আক্ষ. হাতি-শিম)। Mt. śāmu=হাতি, sec. el. khai।"
+  },
+  {
+    "word_roman": "SĀMNÁ",
+    "word_bangla": "সাম্না",
+    "category": "Noun",
+    "meaning_english": "Front. Td. *sammukhanaka (fr. sammukha).—SĀMNI: Face-to-face.",
+    "meaning_bangla": "সামনে। Td. *sammukhanaka (sammukha থেকে)।—SĀMNI: মুখোমুখি।"
+  },
+  {
+    "word_roman": "SĀMPÁK-pā",
+    "word_bangla": "সাম্পাক-পা",
+    "category": "Noun",
+    "meaning_english": "V. leisa. Mt. śam (=hair)+pák-pā (=flat).",
+    "meaning_bangla": "V. leisa। Mt. śam (=চুল)+pák-pā (=সমতল)।"
+  },
+  {
+    "word_roman": "SĀMBÁ",
+    "word_bangla": "সাম্বা",
+    "category": "Noun",
+    "meaning_english": "A kind of wood. Alt. form of śāmbā.",
+    "meaning_bangla": "কাঠের এক প্রকার। śāmbā-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀYÁHÁŚ",
+    "word_bangla": "সায়াহাশ",
+    "category": "Noun",
+    "meaning_english": "Peticcoat. Po. saia.",
+    "meaning_bangla": "পেটিকোট। Po. saia।"
+  },
+  {
+    "word_roman": "SĀYEP(M)",
+    "word_bangla": "সায়েপ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sāheb. —SĀMNI: Face-to-face.",
+    "meaning_bangla": "sāheb-এর বিকল্প রূপ। —SĀMNI: মুখোমুখি।"
+  },
+  {
+    "word_roman": "SĀR",
+    "word_bangla": "সার",
+    "category": "Noun",
+    "meaning_english": "(i) Essence. (ii) Manure. Ts. sāra.",
+    "meaning_bangla": "(i) সারাংশ। (ii) সার। Ts. sāra।"
+  },
+  {
+    "word_roman": "SĀR",
+    "word_bangla": "সার",
+    "category": "Adjective",
+    "meaning_english": "(i) Harsh (as words). (ii) Intense (as sunshine). Td. śāra.",
+    "meaning_bangla": "(i) কঠোর (কথার মতো)। (ii) তীব্র (সূর্যের মতো)। Td. śāra।"
+  },
+  {
+    "word_roman": "SĀRÁL",
+    "word_bangla": "সারাল",
+    "category": "Noun",
+    "meaning_english": "Unguardedness. Sts. sāralya, Cf. Mt. śāron=unguarded.",
+    "meaning_bangla": "অরক্ষিততা। Sts. sāralya, Cf. Mt. śāron=অরক্ষিত।"
+  },
+  {
+    "word_roman": "SĀRASVAT(A)",
+    "word_bangla": "সারস্বত(আ)",
+    "category": "Adjective",
+    "meaning_english": "(i) Capable of speaking freely. (ii) Spacious. Ts. sārasvata.",
+    "meaning_bangla": "(i) স্বাধীনভাবে কথা বলতে সক্ষম। (ii) প্রশস্ত। Ts. sārasvata।"
+  },
+  {
+    "word_roman": "SĀRÁ",
+    "word_bangla": "সারা",
+    "category": "Noun",
+    "meaning_english": "Entire. Td. *sāraka.—DIN: The whole day.",
+    "meaning_bangla": "সম্পূর্ণ। Td. *sāraka।—DIN: সারাদিন।"
+  },
+  {
+    "word_roman": "SĀRÁ",
+    "word_bangla": "সারা",
+    "category": "Noun",
+    "meaning_english": "An open field in a village. Td. *sāraka=residue.",
+    "meaning_bangla": "গ্রামের খোলা মাঠ। Td. *sāraka=অবশিষ্ট।"
+  },
+  {
+    "word_roman": "SĀRÁBĀRI",
+    "word_bangla": "সারাবারি",
+    "category": "Noun",
+    "meaning_english": "V. above sārā+bāri.",
+    "meaning_bangla": "উপরের sārā+bāri।"
+  },
+  {
+    "word_roman": "SĀRÁK(M)",
+    "word_bangla": "সারাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of surāk.",
+    "meaning_bangla": "surāk-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀRÁM",
+    "word_bangla": "সারাম",
+    "category": "Noun",
+    "meaning_english": "Limbs or joints of the body. Mt. śāram (śā=body+lām-pā=to stretch).—CHIRIRÁNI: Being tired out.",
+    "meaning_bangla": "শরীরের অঙ্গ বা জয়েন্ট। Mt. śāram (śā=শরীর+lām-pā=প্রসারিত করা)।—CHIRIRÁNI: ক্লান্ত হয়ে পড়া।"
+  },
+  {
+    "word_roman": "SĀRÁM",
+    "word_bangla": "সারাম",
+    "category": "Noun",
+    "meaning_english": "Fighting by beasts. Mt. śālān (śā=beast, lān=fight).",
+    "meaning_bangla": "পশুর লড়াই। Mt. śālān (śā=পশু, lān=লড়াই)।"
+  },
+  {
+    "word_roman": "SĀRÁLU",
+    "word_bangla": "সারালু",
+    "category": "Noun",
+    "meaning_english": "An instrument for fishing. Td. *śāraraka or saraka (=fishing trap). Mt. lu (=fishing trap).",
+    "meaning_bangla": "মাছ ধরার যন্ত্র। Td. *śāraraka or saraka (=মাছ ধরার ফাঁদ)। Mt. lu (=মাছ ধরার ফাঁদ)।"
+  },
+  {
+    "word_roman": "SĀRI",
+    "word_bangla": "সারি",
+    "category": "Noun",
+    "meaning_english": "Line, row. *śārika.",
+    "meaning_bangla": "সারি, লাইন। *śārika।"
+  },
+  {
+    "word_roman": "SĀRIK",
+    "word_bangla": "সারিক",
+    "category": "Noun",
+    "meaning_english": "(i) Bell. (ii) A cricket. Mt. śārik.",
+    "meaning_bangla": "(i) ঘণ্টা। (ii) এক প্রকার পোকা। Mt. śārik।"
+  },
+  {
+    "word_roman": "SĀRUKÁ",
+    "word_bangla": "সারুকা",
+    "category": "Adjective",
+    "meaning_english": "Having a strong or bad smell. Mt. śāruk.",
+    "meaning_bangla": "তীব্র বা খারাপ গন্ধযুক্ত। Mt. śāruk।"
+  },
+  {
+    "word_roman": "SĀRE",
+    "word_bangla": "সারে",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sâde.",
+    "meaning_bangla": "sâde-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀREI",
+    "word_bangla": "সারেই",
+    "category": "Noun",
+    "meaning_english": "Smoking pipe made of leaf. Mt. śārei.",
+    "meaning_bangla": "পাতার তৈরি ধূমপানের পাইপ। Mt. śārei।"
+  },
+  {
+    "word_roman": "SĀREI-NÁREI",
+    "word_bangla": "সারেই-নারেই",
+    "category": "Noun",
+    "meaning_english": "Spirits accompanying the god Śiva. Mt. śāroy (=demon)+maroy (=follower).",
+    "meaning_bangla": "শিবের সঙ্গী আত্মা। Mt. śāroy (=দানব)+maroy (=অনুসারী)।"
+  },
+  {
+    "word_roman": "SĀREP",
+    "word_bangla": "সারেপ",
+    "category": "Noun",
+    "meaning_english": "Conformity, clarity. Per.-Ar. sirf=unmixed, only. Cf. Mt. śārep=mature.",
+    "meaning_bangla": "অনুসরণ, স্পষ্টতা। Per.-Ar. sirf=অমিশ্রিত, শুধু। Cf. Mt. śārep=পরিপক্ব।"
+  },
+  {
+    "word_roman": "SĀRKÁTÁ",
+    "word_bangla": "সার্কাতা",
+    "category": "Noun",
+    "meaning_english": "A long inflammation on a finger or a toe, a whit-low. Ts. śārā+kaṭaka.",
+    "meaning_bangla": "আঙুল বা পায়ের আঙুলে দীর্ঘ প্রদাহ, ফোড়া। Ts. śārā+kaṭaka।"
+  },
+  {
+    "word_roman": "SĀRÁ",
+    "word_bangla": "সারা",
+    "category": "Noun",
+    "meaning_english": "Sound. Td. śārdhaka.",
+    "meaning_bangla": "শব্দ। Td. śārdhaka।"
+  },
+  {
+    "word_roman": "SĀRE",
+    "word_bangla": "সারে",
+    "category": "Noun",
+    "meaning_english": "Exceeding by half. Td. śārdhena.",
+    "meaning_bangla": "অর্ধেকের বেশি। Td. śārdhena।"
+  },
+  {
+    "word_roman": "SĀLU",
+    "word_bangla": "সালু",
+    "category": "Noun",
+    "meaning_english": "Coloured thread. Mt. śālu=colour, Cf. B. śālu=a kind of red-coloured cotton fabric.",
+    "meaning_bangla": "রঙিন সুতো। Mt. śālu=রং, Cf. B. śālu=লাল রঙের কটন কাপড়ের এক প্রকার।"
+  },
+  {
+    "word_roman": "SĀLUM",
+    "word_bangla": "সালুম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of śālum.",
+    "meaning_bangla": "śālum-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SĀLE",
+    "word_bangla": "সালে",
+    "category": "Noun",
+    "meaning_english": "For. form of td. *chālyena (fr. chala=intention).",
+    "meaning_bangla": "Td. *chālyena-এর জন্য (chala=উদ্দেশ্য থেকে)।"
+  },
+  {
+    "word_roman": "SĀLTUM",
+    "word_bangla": "সাল্তুম",
+    "category": "Noun",
+    "meaning_english": "(i) Dewlap. (ii) The fold of muscle. Mt. śāltum.",
+    "meaning_bangla": "(i) গলার চামড়ার ঝুলন্ত অংশ। (ii) পেশির ভাঁজ। Mt. śāltum।"
+  },
+  {
+    "word_roman": "SĀLLĀM(M)",
+    "word_bangla": "সাল্লাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Dewlap. Mt. śān (=cow)+lām-pā (=to hang).",
+    "meaning_bangla": "গলার ঝুলন্ত চামড়া। Mt. śān (=গরু)+lām-pā (=ঝোলানো)।"
+  },
+  {
+    "word_roman": "SĀSĀ",
+    "word_bangla": "সাসা",
+    "category": "Noun",
+    "meaning_english": "An Ayurvedic tonic. Po. salsa.",
+    "meaning_bangla": "আয়ুর্বেদিক টনিক। Po. salsa।"
+  },
+  {
+    "word_roman": "SĀHÁS",
+    "word_bangla": "সাহাস",
+    "category": "Noun",
+    "meaning_english": "Clear to all. Cf. śaśas=violence, force.",
+    "meaning_bangla": "সবার কাছে স্পষ্ট। Cf. śaśas=হিংসা, বল।"
+  },
+  {
+    "word_roman": "SĀHÁSI",
+    "word_bangla": "সাহাসি",
+    "category": "Adjective",
+    "meaning_english": "Brave, courageous. Ts. or Sts. śāhasika.",
+    "meaning_bangla": "সাহসী, বীর। Ts. or Sts. śāhasika।"
+  },
+  {
+    "word_roman": "SĀHEB",
+    "word_bangla": "সাহেব",
+    "category": "Noun",
+    "meaning_english": "A European or an Englishman. Per.-Ar. sāhib=friend.",
+    "meaning_bangla": "ইউরোপীয় বা ইংরেজ। Per.-Ar. sāhib=বন্ধু।"
+  },
+  {
+    "word_roman": "SĀHEBI",
+    "word_bangla": "সাহেবি",
+    "category": "Adjective",
+    "meaning_english": "Relating to the English or the European. sāheb+i-.",
+    "meaning_bangla": "ইংরেজ বা ইউরোপীয়-সংক্রান্ত। sāheb+i-।"
+  },
+  {
+    "word_roman": "-SI",
+    "word_bangla": "-সি",
+    "category": "Suffix",
+    "meaning_english": "A suf. used to indicate 'nature' or 'similarity'. Td. *samika. V. -cepsi.",
+    "meaning_bangla": "'প্রকৃতি' বা 'সাদৃশ্য' নির্দেশক প্রত্যয়। Td. *samika। V. -cepsi।"
+  },
+  {
+    "word_roman": "SIK",
+    "word_bangla": "সিক",
+    "category": "Noun",
+    "meaning_english": "A small iron-rod. Per. sikh.",
+    "meaning_bangla": "ছোট লোহার রড। Per. sikh।"
+  },
+  {
+    "word_roman": "SIKÁN-KHÁN",
+    "word_bangla": "সিকান-খান",
+    "category": "Noun",
+    "meaning_english": "SIKÁN-KHÁNÁ. Alt. forms of śiñān-khān, śiñān-khānlei.",
+    "meaning_bangla": "SIKÁN-KHÁNÁ। śiñān-khān, śiñān-khānlei-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SIKKI",
+    "word_bangla": "সিক্কি",
+    "category": "Noun",
+    "meaning_english": "One-fourth of a rupee. Per.-Ar. sikka=a die for coining.",
+    "meaning_bangla": "এক টাকার চার ভাগের এক ভাগ। Per.-Ar. sikka=মুদ্রা তৈরির ছাঁচ।"
+  },
+  {
+    "word_roman": "SÍN",
+    "word_bangla": "সীন",
+    "category": "Adjective",
+    "meaning_english": "(i) Intelligent. (ii) Cautious. Mt. śīn.",
+    "meaning_bangla": "(i) বুদ্ধিমান। (ii) সতর্ক। Mt. śīn।"
+  },
+  {
+    "word_roman": "SÍNÁN-KHÁN",
+    "word_bangla": "সীনান-খান",
+    "category": "Adjective",
+    "meaning_english": "Too obstinate. Mt. śikhān-khān-pā.—ANI: Being too obstinate.",
+    "meaning_bangla": "অত্যধিক জেদি। Mt. śikhān-khān-pā।—ANI: অত্যধিক জেদি হওয়া।"
+  },
+  {
+    "word_roman": "SÍNKÁP",
+    "word_bangla": "সীঙ্কাপ",
+    "category": "Noun",
+    "meaning_english": "An implement for weaving. Mt. śīnkāp.",
+    "meaning_bangla": "বোনার যন্ত্র। Mt. śīnkāp।"
+  },
+  {
+    "word_roman": "SÍNKAP(M)",
+    "word_bangla": "সীঙ্কাপ(ম)",
+    "category": "Noun",
+    "meaning_english": "Beam of a house-stead. V. above.",
+    "meaning_bangla": "বাড়ির বিম। উপরের।"
+  },
+  {
+    "word_roman": "SÍNKUL",
+    "word_bangla": "সীঙ্কুল",
+    "category": "Noun",
+    "meaning_english": "Conversation. Mt. śīñ-kul (śīñ=pā=to repay). YÁRI—: Gossip.",
+    "meaning_bangla": "কথোপকথন। Mt. śīñ-kul (śīñ-pā=পরিশোধ করা)। YÁRI—: গল্পগুজব।"
+  },
+  {
+    "word_roman": "SÍNGÁREI",
+    "word_bangla": "সীঙ্গারেই",
+    "category": "Noun",
+    "meaning_english": "A white fragrant autumnal flower. Mt. śīñgā-rai.",
+    "meaning_bangla": "সাদা সুগন্ধি শরৎকালীন ফুল। Mt. śīñgā-rai।"
+  },
+  {
+    "word_roman": "SÍNGÁREI",
+    "word_bangla": "সীঙ্গারেই",
+    "category": "Noun",
+    "meaning_english": "A kind of berries (with three spiked ends). Td. *śṛṅgātika, or *śṛṅgā-tāka.",
+    "meaning_bangla": "তিনটা কাঁটা-ওয়ালা বেরি। Td. *śṛṅgātika, or *śṛṅgā-tāka।"
+  },
+  {
+    "word_roman": "SÍNGÁK",
+    "word_bangla": "সীঙ্গাক",
+    "category": "Noun",
+    "meaning_english": "A small rod of bamboo used in weaving. Mt. śīñkhām.",
+    "meaning_bangla": "বোনার জন্য ব্যবহৃত ছোট বাঁশের লাঠি। Mt. śīñkhām।"
+  },
+  {
+    "word_roman": "SÍNĆU, SÍNĆAU(M)",
+    "word_bangla": "সীঞ্চু, সীঞ্চাউ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ćiñcu.",
+    "meaning_bangla": "ćiñcu-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SÍNNÁ",
+    "word_bangla": "সীন্না",
+    "category": "Noun",
+    "meaning_english": "Competition. Mt. śtān-pā.",
+    "meaning_bangla": "প্রতিযোগিতা। Mt. śtān-pā।"
+  },
+  {
+    "word_roman": "SÍNLÁT",
+    "word_bangla": "সীন্লাত",
+    "category": "Noun",
+    "meaning_english": "A small rod used for cleansing a smoking pipe. Mt. śīñ-pā (=to cleanse)+yot (=iron), influenced by BPM. lat. Cf. Mt. śīñgāt-pā=to clear.",
+    "meaning_bangla": "ধূমপানের পাইপ পরিষ্কারের ছোট লাঠি। Mt. śīñ-pā (=পরিষ্কার করা)+yot (=লোহা), BPM দ্বারা প্রভাবিত। lat। Cf. Mt. śīñgāt-pā=পরিষ্কার করা।"
+  },
+  {
+    "word_roman": "SÍNLUP",
+    "word_bangla": "সীন্লুপ",
+    "category": "Noun",
+    "meaning_english": "A feast offered to the persons who attend a cremation. Mt. śīñ-pā (=to repay)+lup (=to meal).",
+    "meaning_bangla": "দাহক্রিয়ায় অংশগ্রহণকারীদের দেওয়া ভোজ। Mt. śīñ-pā (=পরিশোধ করা)+lup (=খাবার)।"
+  },
+  {
+    "word_roman": "SÍNLEI",
+    "word_bangla": "সীন্লেই",
+    "category": "Noun",
+    "meaning_english": "Nerve. Mt. śīnlī (śīn=fibre, li=line).",
+    "meaning_bangla": "স্নায়ু। Mt. śīnlī (śīn=ফাইবার, li=লাইন)।"
+  },
+  {
+    "word_roman": "SÍCCIL",
+    "word_bangla": "সীচ্চিল",
+    "category": "Adjective",
+    "meaning_english": "Only. sup+icil, cont.",
+    "meaning_bangla": "শুধু। sup+icil, cont।"
+  },
+  {
+    "word_roman": "SIJIL",
+    "word_bangla": "সিজিল",
+    "category": "Noun",
+    "meaning_english": "Lady of the royal family. Mt. śija, Cf. Per. shāhzādi.",
+    "meaning_bangla": "রাজপরিবারের মহিলা। Mt. śija, Cf. Per. shāhzādi।"
+  },
+  {
+    "word_roman": "SIT",
+    "word_bangla": "সিত",
+    "category": "Noun",
+    "meaning_english": "Chintz. Eng.",
+    "meaning_bangla": "চিন্টজ কাপড়। Eng।"
+  },
+  {
+    "word_roman": "SÍTÁ",
+    "word_bangla": "সীতা",
+    "category": "Adjective",
+    "meaning_english": "Dry because of hunger and thirst. Mt. śikāānai (śikān=dry, nai-pā=to trouble).",
+    "meaning_bangla": "ক্ষুধা ও তৃষ্ণার কারণে শুকনো। Mt. śikāānai (śikān=শুকনো, nai-pā=কষ্ট দেওয়া)।"
+  },
+  {
+    "word_roman": "SIT",
+    "word_bangla": "সিত",
+    "category": "Noun",
+    "meaning_english": "(i) Disturbed. (ii) Disturbance. Mt. śit.—ANI: Being disturbed.",
+    "meaning_bangla": "(i) বিঘ্নিত। (ii) বিঘ্ন। Mt. śit।—ANI: বিঘ্নিত হওয়া।"
+  },
+  {
+    "word_roman": "SIT",
+    "word_bangla": "সিত",
+    "category": "Noun",
+    "meaning_english": "Rubbed, cleaned (of threads). Mt. śit-pā.—KARANI: Rubbing.",
+    "meaning_bangla": "ঘষা, পরিষ্কার (সুতোর)। Mt. śit-pā।—KARANI: ঘষা।"
+  },
+  {
+    "word_roman": "SITAM",
+    "word_bangla": "সিতাম",
+    "category": "Adjective",
+    "meaning_english": "Finished. Per. sitam=injury at places (of plants). Mt. śi-el (=to die),+ták-pā (=to ruin), sec. el. echo-word.",
+    "meaning_bangla": "সমাপ্ত। Per. sitam=গাছের জায়গায় আঘাত। Mt. śi-el (=মরা),+ták-pā (=নষ্ট করা), sec. el. echo-word।"
+  },
+  {
+    "word_roman": "SITÁM(M)",
+    "word_bangla": "সিতাম(ম)",
+    "category": "Noun",
+    "meaning_english": "V. above. Mt. Per. sitam=die+tām-pā=distant, Cf. Per. sitam=injury.",
+    "meaning_bangla": "উপরের। Mt. Per. sitam=মরা+tām-pā=দূরবর্তী, Cf. Per. sitam=আঘাত।"
+  },
+  {
+    "word_roman": "SIDDHA",
+    "word_bangla": "সিদ্ধ",
+    "category": "Adjective",
+    "meaning_english": "Straight, direct. Td. *siddhaka, H. sidhā.",
+    "meaning_bangla": "সোজা, সরাসরি। Td. *siddhaka, H. sidhā।"
+  },
+  {
+    "word_roman": "SIDDÁ",
+    "word_bangla": "সিদ্দা",
+    "category": "Noun",
+    "meaning_english": "An offering to the gods. Td. *sid-dhaka.",
+    "meaning_bangla": "দেবতাদের উদ্দেশ্যে উপহার। Td. *sid-dhaka।"
+  },
+  {
+    "word_roman": "SIDHÁ",
+    "word_bangla": "সিধা",
+    "category": "Adjective",
+    "meaning_english": "(i) Simple. (ii) Straight. Td. *siddhaka.",
+    "meaning_bangla": "(i) সরল। (ii) সোজা। Td. *siddhaka।"
+  },
+  {
+    "word_roman": "SINDUK",
+    "word_bangla": "সিন্দুক",
+    "category": "Noun",
+    "meaning_english": "A chest, a safe. Per.-Ar. sandūq.",
+    "meaning_bangla": "সিন্দুক, সেফ। Per.-Ar. sandūq।"
+  },
+  {
+    "word_roman": "SINDUR(A)",
+    "word_bangla": "সিন্দুর(আ)",
+    "category": "Noun",
+    "meaning_english": "Vermilion. Ts. sindūra.",
+    "meaning_bangla": "সিঁদুর। Ts. sindūra।"
+  },
+  {
+    "word_roman": "SINNÁPÁ",
+    "word_bangla": "সিন্নাপা",
+    "category": "Noun",
+    "meaning_english": "Substitute. Mt. śinná-pā.",
+    "meaning_bangla": "বিকল্প। Mt. śinná-pā।"
+  },
+  {
+    "word_roman": "SINNÁNI",
+    "word_bangla": "সিন্নানি",
+    "category": "Noun",
+    "meaning_english": "Substitute. Reicipr. fr. śinná.",
+    "meaning_bangla": "বিকল্প। śinná থেকে পরস্পর।"
+  },
+  {
+    "word_roman": "SIBEI",
+    "word_bangla": "সিবেই",
+    "category": "Noun",
+    "meaning_english": "Soldier. Per. sipāhi.",
+    "meaning_bangla": "সৈনিক। Per. sipāhi।"
+  },
+  {
+    "word_roman": "SIMPUL",
+    "word_bangla": "সিম্পুল",
+    "category": "Noun",
+    "meaning_english": "A rope for binding animals, rein. Mt. cinpun (cin=face, pun-pā=to control).",
+    "meaning_bangla": "পশু বাঁধার দড়ি, লাগাম। Mt. cinpun (cin=মুখ, pun-pā=নিয়ন্ত্রণ করা)।"
+  },
+  {
+    "word_roman": "SIYA",
+    "word_bangla": "সিয়া",
+    "category": "Noun",
+    "meaning_english": "(i) Bravo, a word expressing satisfaction. (ii) A word used for re-starting a game. Cf. Asokan edict siyā for OIA. syāt, B. ācchā.",
+    "meaning_bangla": "(i) বাহবা, সন্তুষ্টি প্রকাশক শব্দ। (ii) খেলা পুনরায় শুরু করার শব্দ। Cf. Asokan edict siyā for OIA. syāt, B. ācchā।"
+  },
+  {
+    "word_roman": "SIYAIR",
+    "word_bangla": "সিয়াইর",
+    "category": "Noun",
+    "meaning_english": "Expert. Td. *śikṣākārika.",
+    "meaning_bangla": "বিশেষজ্ঞ। Td. *śikṣākārika।"
+  },
+  {
+    "word_roman": "SIYAR",
+    "word_bangla": "সিয়ার",
+    "category": "Noun",
+    "meaning_english": "Intelligent. Td. śajñāna.",
+    "meaning_bangla": "বুদ্ধিমান। Td. śajñāna।"
+  },
+  {
+    "word_roman": "SIRINÁ",
+    "word_bangla": "সিরিনা",
+    "category": "Adjective",
+    "meaning_english": "Alt. form of śiyir+5.-ā.",
+    "meaning_bangla": "śiyir+5.-ā-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SIRIN-SIRIN",
+    "word_bangla": "সিরিন-সিরিন",
+    "category": "Adjective",
+    "meaning_english": "Having gaps at places, torn. Mt. śirin (=to transplant).",
+    "meaning_bangla": "জায়গায় জায়গায় ফাঁক, ছেঁড়া। Mt. śirin (=রোপণ করা)।"
+  },
+  {
+    "word_roman": "SIRIT",
+    "word_bangla": "সিরিত",
+    "category": "Noun",
+    "meaning_english": "A word denoting slipperiness or smoothness. Onom.",
+    "meaning_bangla": "পিচ্ছিলতা বা মসৃণতা নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "SIRIS",
+    "word_bangla": "সিরিস",
+    "category": "Noun",
+    "meaning_english": "Glue. Per. siris.",
+    "meaning_bangla": "আঠা। Per. siris।"
+  },
+  {
+    "word_roman": "SIRSIR",
+    "word_bangla": "সিরসির",
+    "category": "Noun",
+    "meaning_english": "A word denoting smoothness. Onom.",
+    "meaning_bangla": "মসৃণতা নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "SIL",
+    "word_bangla": "সিল",
+    "category": "Noun",
+    "meaning_english": "(i) The act of changing. (ii) Changed. Mt. śin-pā.—KARANI: Changing.",
+    "meaning_bangla": "(i) পরিবর্তনের কাজ। (ii) পরিবর্তিত। Mt. śin-pā।—KARANI: পরিবর্তন।"
+  },
+  {
+    "word_roman": "SILAI",
+    "word_bangla": "সিলাই",
+    "category": "Noun",
+    "meaning_english": "Sewing. Tu., H. silāi.",
+    "meaning_bangla": "সেলাই। Tu., H. silāi।"
+  },
+  {
+    "word_roman": "SIMANA",
+    "word_bangla": "সিমানা",
+    "category": "Noun",
+    "meaning_english": "Boundary. Td. *simanaka.",
+    "meaning_bangla": "সীমানা। Td. *simanaka।"
+  },
+  {
+    "word_roman": "SU",
+    "word_bangla": "সু",
+    "category": "Noun",
+    "meaning_english": "(i) Supplementation. (ii) Complete (of materials). Mt. śu-pā.—KARANI: Supplementing.",
+    "meaning_bangla": "(i) পরিপূরক। (ii) সম্পূর্ণ (সামগ্রীর)। Mt. śu-pā।—KARANI: পরিপূরক করা।"
+  },
+  {
+    "word_roman": "SU-",
+    "word_bangla": "সু-",
+    "category": "Prefix",
+    "meaning_english": "A pref. used in the sense of 'good'. Ts. su, V. sukām.",
+    "meaning_bangla": "'ভালো' অর্থে প্রিফিক্স। Ts. su, V. sukām।"
+  },
+  {
+    "word_roman": "SU(M)",
+    "word_bangla": "সু(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of śau.",
+    "meaning_bangla": "śau-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SUI",
+    "word_bangla": "সুই",
+    "category": "Noun",
+    "meaning_english": "Needle, injection. Td. sūcika.",
+    "meaning_bangla": "সুই, ইনজেকশন। Td. sūcika।"
+  },
+  {
+    "word_roman": "SUKAM",
+    "word_bangla": "সুকাম",
+    "category": "Noun",
+    "meaning_english": "Good work. Td. sukarna.",
+    "meaning_bangla": "ভালো কাজ। Td. sukarna।"
+  },
+  {
+    "word_roman": "SUKTU",
+    "word_bangla": "সুক্তু",
+    "category": "Adjective",
+    "meaning_english": "Straight. Mt. śūktu (śūk=pestle, matu=position).",
+    "meaning_bangla": "সোজা। Mt. śūktu (śūk=উদ্ধত, matu=অবস্থান)।"
+  },
+  {
+    "word_roman": "SUKSA",
+    "word_bangla": "সুকসা",
+    "category": "Noun",
+    "meaning_english": "An oath to refrain from something. Td. *jugupsā.",
+    "meaning_bangla": "কিছু থেকে বিরত থাকার শপথ। Td. *jugupsā।"
+  },
+  {
+    "word_roman": "SUCARA",
+    "word_bangla": "সুচারা",
+    "category": "Noun",
+    "meaning_english": "Vagabond. Td. chucchundara-karmika.",
+    "meaning_bangla": "ঘুরে বেড়ানো। Td. chucchundara-karmika।"
+  },
+  {
+    "word_roman": "SUJA",
+    "word_bangla": "সুজা",
+    "category": "Noun",
+    "meaning_english": "Straight. Td. *śudhyaka (for *śuddhaka).",
+    "meaning_bangla": "সোজা। Td. *śudhyaka (for *śuddhaka)।"
+  },
+  {
+    "word_roman": "SUJUSI",
+    "word_bangla": "সুজুসি",
+    "category": "Adverb",
+    "meaning_english": "Directly, plainly. Td. *śudhyā-sudhyika.",
+    "meaning_bangla": "সরাসরি, স্পষ্টভাবে। Td. *śudhyā-sudhyika।"
+  },
+  {
+    "word_roman": "SUT",
+    "word_bangla": "সুত",
+    "category": "Noun",
+    "meaning_english": "An evil influence that aggravates an eye-disease. Td. sūtra.—LAGANI: Being affected by an evil influence.",
+    "meaning_bangla": "চোখের রোগ বাড়ানো অশুভ প্রভাব। Td. sūtra।—LAGANI: অশুভ প্রভাবে আক্রান্ত হওয়া।"
+  },
+  {
+    "word_roman": "SUT(M)",
+    "word_bangla": "সুত(ম)",
+    "category": "Noun",
+    "meaning_english": "A head-long collision (of animals). Td. sūtra.—BĀDĀNI: Colliding with the heads.",
+    "meaning_bangla": "মাথা ঠোকাঠুকি (পশুর)। Td. sūtra।—BĀDĀNI: মাথা ঠোকানো।"
+  },
+  {
+    "word_roman": "SUT",
+    "word_bangla": "সুত",
+    "category": "Noun",
+    "meaning_english": "Thread. Soda. sūtra.",
+    "meaning_bangla": "সুতো। Soda. sūtra।"
+  },
+  {
+    "word_roman": "SUTÁLI",
+    "word_bangla": "সুতালি",
+    "category": "Noun",
+    "meaning_english": "Small rope. Per. sūtrāpālikā.",
+    "meaning_bangla": "ছোট দড়ি। Per. sūtrāpālikā।"
+  },
+  {
+    "word_roman": "SUD",
+    "word_bangla": "সুদ",
+    "category": "Noun",
+    "meaning_english": "Interest, usury. Per.-Ar. sūd.",
+    "meaning_bangla": "সুদ, ব্যাজ। Per.-Ar. sūd।"
+  },
+  {
+    "word_roman": "SU'NÁ",
+    "word_bangla": "সু'না",
+    "category": "Noun",
+    "meaning_english": "Begetting. Mt. cūna=sūd (=congenial).",
+    "meaning_bangla": "জন্ম দেওয়া। Mt. cūna=sūd (=সম্পর্কিত)।"
+  },
+  {
+    "word_roman": "SU'NÁRI",
+    "word_bangla": "সু'নারি",
+    "category": "Noun",
+    "meaning_english": "Goldsmith. Td. *suvarṇakāraka.",
+    "meaning_bangla": "স্বর্ণকার। Td. *suvarṇakāraka।"
+  },
+  {
+    "word_roman": "SUNÁLI",
+    "word_bangla": "সুনালি",
+    "category": "Adjective",
+    "meaning_english": "Golden. Td. *suvarṇapālika.",
+    "meaning_bangla": "সোনালি। Td. *suvarṇapālika।"
+  },
+  {
+    "word_roman": "SUNU",
+    "word_bangla": "সুনু",
+    "category": "Noun",
+    "meaning_english": "(i) Lime. (ii) Dust. Td. *cūrṇa.",
+    "meaning_bangla": "(i) চুন। (ii) ধুলো। Td. *cūrṇa।"
+  },
+  {
+    "word_roman": "SUNSAN",
+    "word_bangla": "সুনসান",
+    "category": "Adjective",
+    "meaning_english": "Destroyed. Td. kṣuṇa (=pounded)+kṣṇa (=broken).",
+    "meaning_bangla": "ধ্বংসপ্রাপ্ত। Td. kṣuṇa (=পেষা)+kṣṇa (=ভাঙা)।"
+  },
+  {
+    "word_roman": "SUP",
+    "word_bangla": "সুপ",
+    "category": "Adjective",
+    "meaning_english": "At all. Mt. śup-pā=to shorten.",
+    "meaning_bangla": "সবকিছুতে। Mt. śup-pā=সংক্ষিপ্ত করা।"
+  },
+  {
+    "word_roman": "SÚP",
+    "word_bangla": "সূপ",
+    "category": "Adjective",
+    "meaning_english": "Joined, connected. Mt. śūp-pā=to shorten.",
+    "meaning_bangla": "যুক্ত, সংযুক্ত। Mt. śūp-pā=সংক্ষিপ্ত করা।"
+  },
+  {
+    "word_roman": "SÚBÁRI",
+    "word_bangla": "সূবারি",
+    "category": "Noun",
+    "meaning_english": "Dry betel-nut. Td. *sūtpārika (fr. sūtpāra=name of a place).",
+    "meaning_bangla": "শুকনো পান। Td. *sūtpārika (sūtpāra=স্থানের নাম থেকে)।"
+  },
+  {
+    "word_roman": "SUM",
+    "word_bangla": "সুম",
+    "category": "Adjective",
+    "meaning_english": "(i) Destroyed, mortified or ashamed. (ii) Mt. śūm-pā (=to molest) or śu (=work)+mānna-pā (=destroyed).",
+    "meaning_bangla": "(i) ধ্বংস, লজ্জিত বা অপমানিত। (ii) Mt. śūm-pā (=কষ্ট দেওয়া) or śu (=কাজ)+mānna-pā (=ধ্বংস)।"
+  },
+  {
+    "word_roman": "SUMÁNNA",
+    "word_bangla": "সুমান্না",
+    "category": "Adjective",
+    "meaning_english": "Destroyed, spoiled. Mt. śum-pā (=to molest)+śu (=work)+mānna-pā (=destroyed).",
+    "meaning_bangla": "ধ্বংস, নষ্ট। Mt. śum-pā (=কষ্ট দেওয়া)+śu (=কাজ)+mānna-pā (=ধ্বংস)।"
+  },
+  {
+    "word_roman": "SUMÁRÁ",
+    "word_bangla": "সুমারা",
+    "category": "Noun",
+    "meaning_english": "Children. Td. *śukumāra.",
+    "meaning_bangla": "শিশুরা। Td. *śukumāra।"
+  },
+  {
+    "word_roman": "ŚÁU-",
+    "word_bangla": "শাউ-",
+    "category": "Noun",
+    "meaning_english": "Children. Td. *śukumāra.",
+    "meaning_bangla": "শিশুরা। Td. *śukumāra।"
+  },
+  {
+    "word_roman": "SUMURU, SUMERU(M)",
+    "word_bangla": "সুমুরু, সুমেরু(ম)",
+    "category": "Noun",
+    "meaning_english": "Ending knot of a necklace or a garland. Mt. śum-pā (=to twist)+hairu (=knot) or maru (=end).",
+    "meaning_bangla": "হার বা মালার শেষ গিঁট। Mt. śum-pā (=পাকানো)+hairu (=গিঁট) or maru (=শেষ)।"
+  },
+  {
+    "word_roman": "SUMPYED, SUMHÁTNÁ(M)",
+    "word_bangla": "সুম্পেদ, সুমহাত্না(ম)",
+    "category": "Adjective",
+    "meaning_english": "Destroyed, spoiled. śūm+pā (=to destroy)+hātna (=destroyed).",
+    "meaning_bangla": "ধ্বংস, নষ্ট। śūm+pā (=ধ্বংস করা)+hātna (=ধ্বংস)।"
+  },
+  {
+    "word_roman": "SÚWÁ",
+    "word_bangla": "সূয়া",
+    "category": "Noun",
+    "meaning_english": "Exceeding by a quarter. Td. sápāda.",
+    "meaning_bangla": "এক চতুর্থাংশ বেশি। Td. sápāda।"
+  },
+  {
+    "word_roman": "SÚWÁI",
+    "word_bangla": "সূয়াই",
+    "category": "Noun",
+    "meaning_english": "The act of setting (a dog) against. Onom. su+ -āi. Per. śūghar.",
+    "meaning_bangla": "(কুকুরকে) কারও বিরুদ্ধে লেলানোর কাজ। Onom. su+ -āi। Per. śūghar।"
+  },
+  {
+    "word_roman": "SÚWAGA",
+    "word_bangla": "সূয়াগা",
+    "category": "Noun",
+    "meaning_english": "Nature. Td. svabhāva.",
+    "meaning_bangla": "প্রকৃতি। Td. svabhāva।"
+  },
+  {
+    "word_roman": "SÚWARI",
+    "word_bangla": "সূয়ারি",
+    "category": "Noun",
+    "meaning_english": "Fisherman. Cf. Per. suwār=horse-rider.",
+    "meaning_bangla": "মাছ ধরা মানুষ। Cf. Per. suwār=ঘোড়সওয়ার।"
+  },
+  {
+    "word_roman": "SÚWÁL",
+    "word_bangla": "সূয়াল",
+    "category": "Noun",
+    "meaning_english": "Argument. Per.-Ar. sawāl=question.—ĀTÁNI: Arguing.",
+    "meaning_bangla": "তর্ক। Per.-Ar. sawāl=প্রশ্ন।—ĀTÁNI: তর্ক করা।"
+  },
+  {
+    "word_roman": "SÚRÁK",
+    "word_bangla": "সূরাক",
+    "category": "Noun",
+    "meaning_english": "Passage, hole. Per. sūrāk.",
+    "meaning_bangla": "পথ, গর্ত। Per. sūrāk।"
+  },
+  {
+    "word_roman": "SÚRÁNI",
+    "word_bangla": "সূরানি",
+    "category": "Noun",
+    "meaning_english": "Key. *chotāpānika, H. churāni.",
+    "meaning_bangla": "চাবি। *chotāpānika, H. churāni।"
+  },
+  {
+    "word_roman": "SÚRI",
+    "word_bangla": "সূরি",
+    "category": "Noun",
+    "meaning_english": "A set of things threaded or arranged in a line. Td. *churikā=thong.",
+    "meaning_bangla": "সুতোয় গাঁথা বা সারিবদ্ধ জিনিসের সেট। Td. *churikā=thong।"
+  },
+  {
+    "word_roman": "SÚRUN",
+    "word_bangla": "সূরুন",
+    "category": "Noun",
+    "meaning_english": "Tunnel. Td. suruṅga=thong.",
+    "meaning_bangla": "সুড়ঙ্গ। Td. suruṅga=thong।"
+  },
+  {
+    "word_roman": "SÚRUT",
+    "word_bangla": "সূরুত",
+    "category": "Noun",
+    "meaning_english": "The game of sliding on the earth. Sts. srotas.",
+    "meaning_bangla": "মাটিতে স্লাইড করার খেলা। Sts. srotas।"
+  },
+  {
+    "word_roman": "SÚRÚ",
+    "word_bangla": "সূরু",
+    "category": "Adverb",
+    "meaning_english": "Directly. Td. *śaruka, sec. el. echo-word.",
+    "meaning_bangla": "সরাসরি। Td. *śaruka, sec. el. echo-word।"
+  },
+  {
+    "word_roman": "SURUMÁ",
+    "word_bangla": "সুরুমা",
+    "category": "Adjective",
+    "meaning_english": "Having the top broken and rotten (of bamboos). su+ruñ+5.-ā.",
+    "meaning_bangla": "উপরের অংশ ভাঙা ও পচা (বাঁশের)। su+ruñ+5.-ā।"
+  },
+  {
+    "word_roman": "SURUMPA",
+    "word_bangla": "সুরুম্পা",
+    "category": "Noun",
+    "meaning_english": "V. above. su+ruñ-pā.",
+    "meaning_bangla": "উপরের। su+ruñ-pā।"
+  },
+  {
+    "word_roman": "SURTI",
+    "word_bangla": "সুর্তি",
+    "category": "Noun",
+    "meaning_english": "Opportunity, way. Sts. *srotasika or *sūrtika=walked.",
+    "meaning_bangla": "সুযোগ, পথ। Sts. *srotasika or *sūrtika=হাঁটা।"
+  },
+  {
+    "word_roman": "SU'L",
+    "word_bangla": "সু'ল",
+    "category": "Noun",
+    "meaning_english": "A turn (of duty). Td. *śaluka (fr. śala=to go, to run).",
+    "meaning_bangla": "পালা (ডিউটির)। Td. *śaluka (śala=যাওয়া, দৌড়ানো থেকে)।"
+  },
+  {
+    "word_roman": "SUL",
+    "word_bangla": "সুল",
+    "category": "Adjective",
+    "meaning_english": "Untrue. Td. śūnya. Cf. Mt. sul (sular kathā: A false word).",
+    "meaning_bangla": "মিথ্যা। Td. śūnya। Cf. Mt. sul (sular kathā: মিথ্যা কথা)।"
+  },
+  {
+    "word_roman": "SULÁ",
+    "word_bangla": "সুলা",
+    "category": "Noun",
+    "meaning_english": "Reconciliation. Per. sulh=concord, Urdū sulah.",
+    "meaning_bangla": "মিলন। Per. sulh=ঐক্য, Urdū sulah।"
+  },
+  {
+    "word_roman": "SULLEDE",
+    "word_bangla": "সুল্লেদে",
+    "category": "Adjective",
+    "meaning_english": "V. above. sulle+de.",
+    "meaning_bangla": "উপরের। sulle+de।"
+  },
+  {
+    "word_roman": "SUSA",
+    "word_bangla": "সুসা",
+    "category": "Noun",
+    "meaning_english": "Vagabond. Td. chuchundura. Cf. B. chūcā.",
+    "meaning_bangla": "ঘুরে বেড়ানো। Td. chuchundura। Cf. B. chūcā।"
+  },
+  {
+    "word_roman": "SÚTÁ",
+    "word_bangla": "সূতা",
+    "category": "Suffix",
+    "meaning_english": "A suf. added to nouns to indicate the 'nature' of an action or to adverbs in a pleon. sense. Td. *samena, V. hakse.",
+    "meaning_bangla": "ক্রিয়ার 'প্রকৃতি' নির্দেশ করতে বা অ্যাডভার্বে অতিরিক্ত অর্থে যুক্ত প্রত্যয়। Td. *samena, V. hakse।"
+  },
+  {
+    "word_roman": "SEI-KARANI",
+    "word_bangla": "সেই-কারানি",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of sai-, karāni.",
+    "meaning_bangla": "sai-, karāni-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEI",
+    "word_bangla": "সেই",
+    "category": "Noun",
+    "meaning_english": "The lowest part of a slanting roof. Mt. śāi. Cf. part of a slanting roof.",
+    "meaning_bangla": "ঢালু ছাদের সবচেয়ে নিচের অংশ। Mt. śāi। Cf. ঢালু ছাদের অংশ।"
+  },
+  {
+    "word_roman": "SEIKUP",
+    "word_bangla": "সেইকুপ",
+    "category": "Noun",
+    "meaning_english": "Chewing the cud. Mt. śāy-pā (=to chew)+kūp (=fine, powder), N. Mt. śagup-śāy-pā.",
+    "meaning_bangla": "জাবর কাটা। Mt. śāy-pā (=চিবানো)+kūp (=সূক্ষ্ম, গুঁড়ো), N. Mt. śagup-śāy-pā।"
+  },
+  {
+    "word_roman": "SEIKKAT",
+    "word_bangla": "সেইক্কাত",
+    "category": "Adjective",
+    "meaning_english": "Exactly alike. Sts. sākṣāt.",
+    "meaning_bangla": "ঠিক একই রকম। Sts. sākṣāt।"
+  },
+  {
+    "word_roman": "SEICIL",
+    "word_bangla": "সেইচিল",
+    "category": "Noun",
+    "meaning_english": "The lowest part of a slanting roof. M. Mt. śāicin (śāi=eaves, cin=mouth, front).",
+    "meaning_bangla": "ঢালু ছাদের সবচেয়ে নিচের অংশ। M. Mt. śāicin (śāi=ছাদের কিনারা, cin=মুখ, সামনে)।"
+  },
+  {
+    "word_roman": "SEIS",
+    "word_bangla": "সেইস",
+    "category": "Noun",
+    "meaning_english": "Sycé. Per. sāis (sākya-ya=pass.).",
+    "meaning_bangla": "সাইস। Per. sāis (sākya-ya=পাস)।"
+  },
+  {
+    "word_roman": "SEK-",
+    "word_bangla": "সেক্-",
+    "category": "Verb",
+    "meaning_english": "To apply heat, to foment. Td. svedakriyā, denom.",
+    "meaning_bangla": "তাপ দেওয়া, সেঁক দেওয়া। Td. svedakriyā, denom।"
+  },
+  {
+    "word_roman": "SEK, SEKÁ",
+    "word_bangla": "সেক, সেকা",
+    "category": "Noun",
+    "meaning_english": "Application of heat, fomentation. Td. svedakriyā.",
+    "meaning_bangla": "তাপ প্রয়োগ, সেঁক। Td. svedakriyā।"
+  },
+  {
+    "word_roman": "SEKANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "Being able. se-k+ -āni. Td. *sakyapanika.",
+    "meaning_bangla": "সক্ষম হওয়া। se-k+ -āni। Td. *sakyapanika।"
+  },
+  {
+    "word_roman": "SEKANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "Applying heat, fomenting. Td. *svedakriyapanika.",
+    "meaning_bangla": "তাপ দেওয়া, সেঁক দেওয়া। Td. *svedakriyapanika।"
+  },
+  {
+    "word_roman": "SEKUL",
+    "word_bangla": "সেকুল",
+    "category": "Noun",
+    "meaning_english": "That side. Td. word/s+b+hūla.",
+    "meaning_bangla": "ওই দিক। Td. word/s+b+hūla।"
+  },
+  {
+    "word_roman": "SEKAUSEKAU",
+    "word_bangla": "সেকাউসেকাউ",
+    "category": "Noun",
+    "meaning_english": "A word denoting limping or chewing. Onom.",
+    "meaning_bangla": "খোঁড়ানো বা চিবানো নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "SEKKAT, SEKKHAT(M)",
+    "word_bangla": "সেক্কাত, সেক্খাত(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of seikat.",
+    "meaning_bangla": "seikat-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEKTAI",
+    "word_bangla": "সেকতাই",
+    "category": "Noun",
+    "meaning_english": "Sandy shore (through denom. of sikatā). Td. *sikatāpika.",
+    "meaning_bangla": "বালুকাময় তীর (sikatā-এর denom. মাধ্যমে)। Td. *sikatāpika।"
+  },
+  {
+    "word_roman": "SEKPIL",
+    "word_bangla": "সেকপিল",
+    "category": "Noun",
+    "meaning_english": "Bat. Mt. śekpin.",
+    "meaning_bangla": "বাদুড়। Mt. śekpin।"
+  },
+  {
+    "word_roman": "SEKSAI, SEKSEKAI",
+    "word_bangla": "সেকসাই, সেকসেকাই",
+    "category": "Noun",
+    "meaning_english": "Thorough investigation. Mt. śegāy-śegāy-pā=to tear.",
+    "meaning_bangla": "সম্পূর্ণ তদন্ত। Mt. śegāy-śegāy-pā=ছিঁড়ে ফেলা।"
+  },
+  {
+    "word_roman": "SEN",
+    "word_bangla": "সেন",
+    "category": "Adjective",
+    "meaning_english": "Pure, clear. V. above.—KARE: Again.",
+    "meaning_bangla": "বিশুদ্ধ, পরিষ্কার। উপরের।—KARE: আবার।"
+  },
+  {
+    "word_roman": "SENKA",
+    "word_bangla": "সেন্কা",
+    "category": "Noun",
+    "meaning_english": "A tray with a stand. M. Mt. śenkā (sen=metallic, ascend), N. Mt. śengā. Cf. OIA. śaṅku=to ascend.",
+    "meaning_bangla": "স্ট্যান্ড সহ ট্রে। M. Mt. śenkā (sen=ধাতব, ascend), N. Mt. śengā। Cf. OIA. śaṅku=উঠা।"
+  },
+  {
+    "word_roman": "SENKAM",
+    "word_bangla": "সেন্কাম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of selkam.",
+    "meaning_bangla": "selkam-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENKA",
+    "word_bangla": "সেন্কা",
+    "category": "Noun",
+    "meaning_english": "A supporter of a house-stead. Mt. śān=home-stead, kā-pā=to attend.",
+    "meaning_bangla": "বাড়ির ভিত্তির সমর্থক। Mt. śān=বাড়ির ভিত্তি, kā-pā=সেবা করা।"
+  },
+  {
+    "word_roman": "SENKAP",
+    "word_bangla": "সেন্কাপ",
+    "category": "Noun",
+    "meaning_english": "A tie of split bamboo (used for fitting). Mt. śīnkāp.",
+    "meaning_bangla": "বিভক্ত বাঁশের বাঁধন (ফিটিংয়ের জন্য)। Mt. śīnkāp।"
+  },
+  {
+    "word_roman": "SENKUM(M), SENGAM(M)",
+    "word_bangla": "সেন্কুম(ম), সেঙ্গাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of śeṅkum.",
+    "meaning_bangla": "śeṅkum-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENGÁO",
+    "word_bangla": "সেঙ্গাও",
+    "category": "Noun",
+    "meaning_english": "A purse. Mt. śenkhāo (śen=money, khāo=bag).",
+    "meaning_bangla": "পার্স। Mt. śenkhāo (śen=টাকা, khāo=ব্যাগ)।"
+  },
+  {
+    "word_roman": "SENTÁL",
+    "word_bangla": "সেন্তাল",
+    "category": "Noun",
+    "meaning_english": "Help. Mt. śenthān (śen=money, thān-pā=to subscribe).",
+    "meaning_bangla": "সাহায্য। Mt. śenthān (śen=টাকা, thān-pā=সাবস্ক্রাইব করা)।"
+  },
+  {
+    "word_roman": "SENSEN",
+    "word_bangla": "সেনসেন",
+    "category": "Noun",
+    "meaning_english": "Zinc. Onom.",
+    "meaning_bangla": "জিঙ্ক। Onom।"
+  },
+  {
+    "word_roman": "SENSEI",
+    "word_bangla": "সেনসেই",
+    "category": "Noun",
+    "meaning_english": "A playing bell. Onom. Td. śicya= (pass).",
+    "meaning_bangla": "বাজানো ঘণ্টা। Onom. Td. śicya= (pass)।"
+  },
+  {
+    "word_roman": "SEC-",
+    "word_bangla": "সেক্-",
+    "category": "Verb",
+    "meaning_english": "To go away, to move. Td. śicya (pass fr. śi-).",
+    "meaning_bangla": "চলে যাওয়া, সরে যাওয়া। Td. śicya (pass fr. śi-)।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Noun",
+    "meaning_english": "Slip, sudden and unintentional slide. *śicyana+śacchardana, cont.",
+    "meaning_bangla": "পিছলে যাওয়া, আকস্মিক ও অনিচ্ছাকৃত স্লাইড। *śicyana+śacchardana, cont।"
+  },
+  {
+    "word_roman": "SECARANI",
+    "word_bangla": "সেকারানি",
+    "category": "Noun",
+    "meaning_english": "Dragging or drawing along, trailing. śecārā+ -āni.",
+    "meaning_bangla": "টেনে নেওয়া বা টানা, পিছু নেওয়া। śecārā+ -āni।"
+  },
+  {
+    "word_roman": "SECA",
+    "word_bangla": "সেকা",
+    "category": "Verb",
+    "meaning_english": "To drive away, to remove. Td. *śicyāpaya-.",
+    "meaning_bangla": "তাড়িয়ে দেওয়া, সরিয়ে দেওয়া। Td. *śicyāpaya-।"
+  },
+  {
+    "word_roman": "SECANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Moving, going away. (ii) Removing. (i) śec+ -āni. (ii) śecā+ -āni. Td. *śicyāpanika.",
+    "meaning_bangla": "(i) চলা, চলে যাওয়া। (ii) সরানো। (i) śec+ -āni। (ii) śecā+ -āni। Td. *śicyāpanika।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Noun",
+    "meaning_english": "Prostrate. śecārā+śājārān, cont.",
+    "meaning_bangla": "উপুড় হওয়া। śecārā+śājārān, cont।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Verb",
+    "meaning_english": "To drag or draw along, to trail. denom. śecārā.",
+    "meaning_bangla": "টেনে নেওয়া বা টানা, পিছু নেওয়া। denom. śecārā।"
+  },
+  {
+    "word_roman": "SEI-KARANI",
+    "word_bangla": "সেই-কারানি",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of sai-, karāni.",
+    "meaning_bangla": "sai-, karāni-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEI",
+    "word_bangla": "সেই",
+    "category": "Noun",
+    "meaning_english": "The lowest part of a slanting roof. Mt. śāi. Cf. B. chāic.",
+    "meaning_bangla": "ঢালু ছাদের সবচেয়ে নিচের অংশ। Mt. śāi। Cf. B. chāic।"
+  },
+  {
+    "word_roman": "SEIKUP",
+    "word_bangla": "সেইকুপ",
+    "category": "Noun",
+    "meaning_english": "Chewing the cud. Mt. śāy-pā (=to chew)+kūp (=fine, powder), N. Mt. śagup-śāy-pā.",
+    "meaning_bangla": "জাবর কাটা। Mt. śāy-pā (=চিবানো)+kūp (=সূক্ষ্ম, গুঁড়ো), N. Mt. śagup-śāy-pā।"
+  },
+  {
+    "word_roman": "SEIKKAT",
+    "word_bangla": "সেইক্কাত",
+    "category": "Adjective",
+    "meaning_english": "Exactly alike. Sts. sākṣāt.",
+    "meaning_bangla": "ঠিক একই রকম। Sts. sākṣāt।"
+  },
+  {
+    "word_roman": "SEICIL",
+    "word_bangla": "সেইচিল",
+    "category": "Noun",
+    "meaning_english": "The lowest part of a slanting roof. M. Mt. śāicin (śāi=eaves, cin=mouth, front).",
+    "meaning_bangla": "ঢালু ছাদের সবচেয়ে নিচের অংশ। M. Mt. śāicin (śāi=ছাদের কিনারা, cin=মুখ, সামনে)।"
+  },
+  {
+    "word_roman": "SEIS",
+    "word_bangla": "সেইস",
+    "category": "Noun",
+    "meaning_english": "Sycé. Per. sāis (śākya-ya=pass.).",
+    "meaning_bangla": "সাইস। Per. sāis (śākya-ya=পাস)।"
+  },
+  {
+    "word_roman": "SEK-",
+    "word_bangla": "সেক্-",
+    "category": "Verb",
+    "meaning_english": "To apply heat, to foment. Td. svedakriyā, denom.",
+    "meaning_bangla": "তাপ দেওয়া, সেঁক দেওয়া। Td. svedakriyā, denom।"
+  },
+  {
+    "word_roman": "SEK, SEKÁ",
+    "word_bangla": "সেক, সেকা",
+    "category": "Noun",
+    "meaning_english": "Application of heat, fomentation. Td. svedakriyā.",
+    "meaning_bangla": "তাপ প্রয়োগ, সেঁক। Td. svedakriyā।"
+  },
+  {
+    "word_roman": "SEKANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "Being able. se-k+ -āni. Td. *sakyapanika.",
+    "meaning_bangla": "সক্ষম হওয়া। se-k+ -āni। Td. *sakyapanika।"
+  },
+  {
+    "word_roman": "SEKANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "Applying heat, fomenting. Td. *svedakriyapanika.",
+    "meaning_bangla": "তাপ দেওয়া, সেঁক দেওয়া। Td. *svedakriyapanika।"
+  },
+  {
+    "word_roman": "SEKUL",
+    "word_bangla": "সেকুল",
+    "category": "Noun",
+    "meaning_english": "That side. Td. word/s+b+hūla.",
+    "meaning_bangla": "ওই দিক। Td. word/s+b+hūla।"
+  },
+  {
+    "word_roman": "SEKAUSEKAU",
+    "word_bangla": "সেকাউসেকাউ",
+    "category": "Noun",
+    "meaning_english": "A word denoting limping or chewing. Onom.",
+    "meaning_bangla": "খোঁড়ানো বা চিবানো নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "SEKKAT, SEKKHAT(M)",
+    "word_bangla": "সেক্কাত, সেক্খাত(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of seikat.",
+    "meaning_bangla": "seikat-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEKTAI",
+    "word_bangla": "সেকতাই",
+    "category": "Noun",
+    "meaning_english": "Sandy shore (through denom. of sikatā). Td. *sikatāpika.",
+    "meaning_bangla": "বালুকাময় তীর (sikatā-এর denom. মাধ্যমে)। Td. *sikatāpika।"
+  },
+  {
+    "word_roman": "SEKPIL",
+    "word_bangla": "সেকপিল",
+    "category": "Noun",
+    "meaning_english": "Bat. Mt. śekpin.",
+    "meaning_bangla": "বাদুড়। Mt. śekpin।"
+  },
+  {
+    "word_roman": "SEKSAI, SEKSEKAI",
+    "word_bangla": "সেকসাই, সেকসেকাই",
+    "category": "Noun",
+    "meaning_english": "Thorough investigation. Mt. śegāy-śegāy-pā=to tear.",
+    "meaning_bangla": "সম্পূর্ণ তদন্ত। Mt. śegāy-śegāy-pā=ছিঁড়ে ফেলা।"
+  },
+  {
+    "word_roman": "SEN",
+    "word_bangla": "সেন",
+    "category": "Adjective",
+    "meaning_english": "Pure, clear. V. above.—KARE: Again.",
+    "meaning_bangla": "বিশুদ্ধ, পরিষ্কার। উপরের।—KARE: আবার।"
+  },
+  {
+    "word_roman": "SENKA",
+    "word_bangla": "সেন্কা",
+    "category": "Noun",
+    "meaning_english": "A tray with a stand. M. Mt. śenkā (sen=metallic, ascend), N. Mt. śengā. Cf. OIA. śaṅku=to ascend.",
+    "meaning_bangla": "স্ট্যান্ড সহ ট্রে। M. Mt. śenkā (sen=ধাতব, ascend), N. Mt. śengā। Cf. OIA. śaṅku=উঠা।"
+  },
+  {
+    "word_roman": "SENKAM",
+    "word_bangla": "সেন্কাম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of selkam.",
+    "meaning_bangla": "selkam-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENKA",
+    "word_bangla": "সেন্কা",
+    "category": "Noun",
+    "meaning_english": "A supporter of a house-stead. Mt. śān=home-stead, kā-pā=to attend.",
+    "meaning_bangla": "বাড়ির ভিত্তির সমর্থক। Mt. śān=বাড়ির ভিত্তি, kā-pā=সেবা করা।"
+  },
+  {
+    "word_roman": "SENKAP",
+    "word_bangla": "সেন্কাপ",
+    "category": "Noun",
+    "meaning_english": "A tie of split bamboo (used for fitting). Mt. śīnkāp.",
+    "meaning_bangla": "বিভক্ত বাঁশের বাঁধন (ফিটিংয়ের জন্য)। Mt. śīnkāp।"
+  },
+  {
+    "word_roman": "SENKUM(M), SENGAM(M)",
+    "word_bangla": "সেন্কুম(ম), সেঙ্গাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of śeṅkum.",
+    "meaning_bangla": "śeṅkum-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENGÁO",
+    "word_bangla": "সেঙ্গাও",
+    "category": "Noun",
+    "meaning_english": "A purse. Mt. śenkhāo (śen=money, khāo=bag).",
+    "meaning_bangla": "পার্স। Mt. śenkhāo (śen=টাকা, khāo=ব্যাগ)।"
+  },
+  {
+    "word_roman": "SENTÁL",
+    "word_bangla": "সেন্তাল",
+    "category": "Noun",
+    "meaning_english": "Help. Mt. śenthān (śen=money, thān-pā=to subscribe).",
+    "meaning_bangla": "সাহায্য। Mt. śenthān (śen=টাকা, thān-pā=সাবস্ক্রাইব করা)।"
+  },
+  {
+    "word_roman": "SENSEN",
+    "word_bangla": "সেনসেন",
+    "category": "Noun",
+    "meaning_english": "Zinc. Onom.",
+    "meaning_bangla": "জিঙ্ক। Onom।"
+  },
+  {
+    "word_roman": "SENSEI",
+    "word_bangla": "সেনসেই",
+    "category": "Noun",
+    "meaning_english": "A playing bell. Onom. Td. śicya (pass fr. śi-).",
+    "meaning_bangla": "বাজানো ঘণ্টা। Onom. Td. śicya (pass fr. śi-)।"
+  },
+  {
+    "word_roman": "SEC-",
+    "word_bangla": "সেক্-",
+    "category": "Verb",
+    "meaning_english": "To go away, to move. Td. śicya (pass fr. śi-).",
+    "meaning_bangla": "চলে যাওয়া, সরে যাওয়া। Td. śicya (pass fr. śi-)।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Noun",
+    "meaning_english": "Slip, sudden and unintentional slide. *śicyana+śacchardana, cont.",
+    "meaning_bangla": "পিছলে যাওয়া, আকস্মিক ও অনিচ্ছাকৃত স্লাইড। *śicyana+śacchardana, cont।"
+  },
+  {
+    "word_roman": "SECARANI",
+    "word_bangla": "সেকারানি",
+    "category": "Noun",
+    "meaning_english": "Dragging or drawing along, trailing. śecārā+ -āni.",
+    "meaning_bangla": "টেনে নেওয়া বা টানা, পিছু নেওয়া। śecārā+ -āni।"
+  },
+  {
+    "word_roman": "SECA",
+    "word_bangla": "সেকা",
+    "category": "Verb",
+    "meaning_english": "To drive away, to remove. Td. *śicyāpaya-.",
+    "meaning_bangla": "তাড়িয়ে দেওয়া, সরিয়ে দেওয়া। Td. *śicyāpaya-।"
+  },
+  {
+    "word_roman": "SECANI",
+    "word_bangla": "সেকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Moving, going away. (ii) Removing. (i) śec+ -āni. (ii) śecā+ -āni. Td. *śicyāpanika.",
+    "meaning_bangla": "(i) চলা, চলে যাওয়া। (ii) সরানো। (i) śec+ -āni। (ii) śecā+ -āni। Td. *śicyāpanika।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Noun",
+    "meaning_english": "Prostrate. śecārā+śājārān, cont.",
+    "meaning_bangla": "উপুড় হওয়া। śecārā+śājārān, cont।"
+  },
+  {
+    "word_roman": "SECARA",
+    "word_bangla": "সেকারা",
+    "category": "Verb",
+    "meaning_english": "To drag or draw along, to trail. denom. śecārā.",
+    "meaning_bangla": "টেনে নেওয়া বা টানা, পিছু নেওয়া। denom. śecārā।"
+  },
+  {
+    "word_roman": "SETURÁ",
+    "word_bangla": "সেতুরা",
+    "category": "Adjective",
+    "meaning_english": "Having gaps at places, having ill growth (of plants). Td. *cheduraka.",
+    "meaning_bangla": "জায়গায় জায়গায় ফাঁকযুক্ত, অসুস্থ বৃদ্ধি (গাছের)। Td. *cheduraka।"
+  },
+  {
+    "word_roman": "SET",
+    "word_bangla": "সেট",
+    "category": "Noun",
+    "meaning_english": "The act of chipping. Mt. set-pā=to tear. Cf. OIA. cheda.—KARANI: Chipping.",
+    "meaning_bangla": "চিপিংয়ের কাজ। Mt. set-pā=ছিঁড়ে ফেলা। Cf. OIA. cheda।—KARANI: চিপিং।"
+  },
+  {
+    "word_roman": "SETAK",
+    "word_bangla": "সেটাক",
+    "category": "Adjective",
+    "meaning_english": "Separated. Mt. setthok-pā (fr. set-pā=to tear).",
+    "meaning_bangla": "পৃথক। Mt. setthok-pā (set-pā=ছিঁড়ে ফেলা থেকে)।"
+  },
+  {
+    "word_roman": "SETAR",
+    "word_bangla": "সেতার",
+    "category": "Noun",
+    "meaning_english": "A three-stringed musical instrument. Per. sitār=three-stringed.",
+    "meaning_bangla": "তিন তারের বাদ্যযন্ত্র। Per. sitār=তিন তারযুক্ত।"
+  },
+  {
+    "word_roman": "SENÁ+",
+    "word_bangla": "সেনা+",
+    "category": "Prefix",
+    "meaning_english": "A prefix used to indicate the senses of 'large', 'good', 'nice' etc. Mt. senā+impi.",
+    "meaning_bangla": "'বড়', 'ভালো', 'সুন্দর' ইত্যাদি অর্থে প্রিফিক্স। Mt. senā+impi।"
+  },
+  {
+    "word_roman": "SENÁMPI",
+    "word_bangla": "সেনাম্পি",
+    "category": "Noun",
+    "meaning_english": "Large beam of a house-stead. Mt. senā+impi.",
+    "meaning_bangla": "বাড়ির বড় বিম। Mt. senā+impi।"
+  },
+  {
+    "word_roman": "SENAKÁPAK",
+    "word_bangla": "সেনাকাপাক",
+    "category": "Noun",
+    "meaning_english": "A kind of big fried grain. Mt. senā+kāpak.",
+    "meaning_bangla": "বড় ভাজা শস্যের এক প্রকার। Mt. senā+kāpak।"
+  },
+  {
+    "word_roman": "SENAKHONNAN",
+    "word_bangla": "সেনাখোন্নান",
+    "category": "Noun",
+    "meaning_english": "A species of banyan tree. Mt. senā+khoṅnān.",
+    "meaning_bangla": "বটগাছের এক প্রজাতি। Mt. senā+khoṅnān।"
+  },
+  {
+    "word_roman": "SENAKHAYA",
+    "word_bangla": "সেনাখায়া",
+    "category": "Noun",
+    "meaning_english": "Address to a Brahmin preceptor. Mt. senākhāya (lit. one having gold-feet).",
+    "meaning_bangla": "ব্রাহ্মণ গুরুর সম্বোধন। Mt. senākhāya (আক্ষ. সোনার পা বিশিষ্ট)।"
+  },
+  {
+    "word_roman": "SENÁ-PAK",
+    "word_bangla": "সেনা-পাক",
+    "category": "Noun",
+    "meaning_english": "A thin species of leech found in grassy places. Td. *śīrṣṭaka.",
+    "meaning_bangla": "ঘাসের জায়গায় পাওয়া পাতলা জোঁকের এক প্রজাতি। Td. *śīrṣṭaka।"
+  },
+  {
+    "word_roman": "SENÁPUL",
+    "word_bangla": "সেনাপুল",
+    "category": "Noun",
+    "meaning_english": "Metalic pitcher. Mt. senāpul (senā=gold, pul=pitcher).",
+    "meaning_bangla": "ধাতব কলস। Mt. senāpul (senā=সোনা, pul=কলস)।"
+  },
+  {
+    "word_roman": "SENÁMÁHI",
+    "word_bangla": "সেনামাহি",
+    "category": "Noun",
+    "meaning_english": "Name of a deity. Mt. senā-mahi (senā=gold, mahi=liquid).",
+    "meaning_bangla": "দেবতার নাম। Mt. senā-mahi (senā=সোনা, mahi=তরল)।"
+  },
+  {
+    "word_roman": "SENÁMPA",
+    "word_bangla": "সেনাম্পা",
+    "category": "Noun",
+    "meaning_english": "Otter. Mt. senāmpa.",
+    "meaning_bangla": "উদ। Mt. senāmpa।"
+  },
+  {
+    "word_roman": "SENÁRIK",
+    "word_bangla": "সেনারিক",
+    "category": "Noun",
+    "meaning_english": "A kind of necklace. Mt. senārik (senā=gold, lik=necklace).",
+    "meaning_bangla": "হারের এক প্রকার। Mt. senārik (senā=সোনা, lik=হার)।"
+  },
+  {
+    "word_roman": "SENÁREI",
+    "word_bangla": "সেনারেই",
+    "category": "Noun",
+    "meaning_english": "Indian marigold. Mt. senārei (senā=gold, lai=glower).",
+    "meaning_bangla": "ভারতীয় গাঁদা ফুল। Mt. senārei (senā=সোনা, lai=ফুল)।"
+  },
+  {
+    "word_roman": "SENÁREMBI",
+    "word_bangla": "সেনারেম্বি",
+    "category": "Noun",
+    "meaning_english": "A kind of necklace. Mt. senārembi (senā=gold, lem-bi=grave).",
+    "meaning_bangla": "হারের এক প্রকার। Mt. senārembi (senā=সোনা, lem-bi=কবর)।"
+  },
+  {
+    "word_roman": "SENÁHIDÁK",
+    "word_bangla": "সেনাহিদাক",
+    "category": "Noun",
+    "meaning_english": "Wild Mercury. Mt. senāhidāk.",
+    "meaning_bangla": "বুনো পারদ। Mt. senāhidāk।"
+  },
+  {
+    "word_roman": "SENTÚN",
+    "word_bangla": "সেন্তুন",
+    "category": "Noun",
+    "meaning_english": "The south-west corner (as of a granary). Mt. śanthoṅ.",
+    "meaning_bangla": "দক্ষিণ-পশ্চিম কোণ (যেমন গোলাঘরের)। Mt. śanthoṅ।"
+  },
+  {
+    "word_roman": "SENTHI(M), SENDÁN(M)",
+    "word_bangla": "সেন্থি(ম), সেন্দান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sendi, śelān.",
+    "meaning_bangla": "sendi, śelān-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENDI",
+    "word_bangla": "সেন্দি",
+    "category": "Noun",
+    "meaning_english": "Cow-dung. Mt. śanthi (śan=cow, thi=faeces).",
+    "meaning_bangla": "গোবর। Mt. śanthi (śan=গরু, thi=মল)।"
+  },
+  {
+    "word_roman": "SENDIYAL",
+    "word_bangla": "সেন্দিয়াল",
+    "category": "Noun",
+    "meaning_english": "A species of mushroom. Mt. yen-thiyen (yen=cow, thi=faeces, yen=to grow).",
+    "meaning_bangla": "মাশরুমের এক প্রজাতি। Mt. yen-thiyen (yen=গরু, thi=মল, yen=বাড়া)।"
+  },
+  {
+    "word_roman": "SENDHÁNÁM",
+    "word_bangla": "সেন্ধানাম",
+    "category": "Noun",
+    "meaning_english": "A kirtana continuing for one day. Sts. sandhyā-nāma.",
+    "meaning_bangla": "একদিন চলমান কীর্তন। Sts. sandhyā-nāma।"
+  },
+  {
+    "word_roman": "SENNAPHAM",
+    "word_bangla": "সেন্নাফাম",
+    "category": "Noun",
+    "meaning_english": "Play-ground. Mt. śannā-pham (śannā-pā=to play, pham=place).",
+    "meaning_bangla": "খেলার মাঠ। Mt. śannā-pham (śannā-pā=খেলা, pham=স্থান)।"
+  },
+  {
+    "word_roman": "SENNAM",
+    "word_bangla": "সেন্নাম",
+    "category": "Noun",
+    "meaning_english": "An implement for weaving. Mt. śenām.",
+    "meaning_bangla": "বোনার যন্ত্র। Mt. śenām।"
+  },
+  {
+    "word_roman": "SEPAT",
+    "word_bangla": "সেপাত",
+    "category": "Noun",
+    "meaning_english": "Sponge ground. M. Mt. śepot, N. Mt. śebot.",
+    "meaning_bangla": "স্পঞ্জ জমি। M. Mt. śepot, N. Mt. śebot।"
+  },
+  {
+    "word_roman": "SEBAIT",
+    "word_bangla": "সেবাইত",
+    "category": "Noun",
+    "meaning_english": "A temple-servant. Sts. *sevāpātrika.",
+    "meaning_bangla": "মন্দিরের সেবক। Sts. *sevāpātrika।"
+  },
+  {
+    "word_roman": "SEMTA, SEMTANI",
+    "word_bangla": "সেমতা, সেমতানি",
+    "category": "Noun",
+    "meaning_english": "Same as chemta, chemtani.",
+    "meaning_bangla": "chemta, chemtani-এর মতো।"
+  },
+  {
+    "word_roman": "SEMPAK(M)",
+    "word_bangla": "সেম্পাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of selpak, selpun, sembun(M).",
+    "meaning_bangla": "selpak, selpun, sembun(M)-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEMSAK",
+    "word_bangla": "সেমসাক",
+    "category": "Noun",
+    "meaning_english": "Complexion. Mt. śem-pā (=to constitute)+śākāt-pā (=to construct).",
+    "meaning_bangla": "রং। Mt. śem-pā (=গঠন করা)+śākāt-pā (=নির্মাণ করা)।"
+  },
+  {
+    "word_roman": "SER",
+    "word_bangla": "সের",
+    "category": "Noun",
+    "meaning_english": "A seer in weight. Td. sera, Av. sera.",
+    "meaning_bangla": "ওজনের সের। Td. sera, Av. sera।"
+  },
+  {
+    "word_roman": "SEL",
+    "word_bangla": "সেল",
+    "category": "Noun",
+    "meaning_english": "(i) Leisure, cessation. (ii) Intervened. Mt. śen-pā=to relieve.—ANI: Ceasing (as rainfall).",
+    "meaning_bangla": "(i) অবসর, বিরতি। (ii) হস্তক্ষেপ করা। Mt. śen-pā=স্বস্তি দেওয়া।—ANI: বন্ধ হওয়া (বৃষ্টির মতো)।"
+  },
+  {
+    "word_roman": "SELAT",
+    "word_bangla": "সেলাত",
+    "category": "Noun",
+    "meaning_english": "The act of entrusting. Mt. sel-pā (=to escort)+hotpā (=to make an effect). Cf. Ar. walāyat=assignment.",
+    "meaning_bangla": "ভার দেওয়ার কাজ। Mt. sel-pā (=এসকর্ট করা)+hotpā (=প্রভাব তৈরি করা)। Cf. Ar. walāyat=নিয়োগ।"
+  },
+  {
+    "word_roman": "SELAI",
+    "word_bangla": "সেলাই",
+    "category": "Noun",
+    "meaning_english": "Family, clan. Per. śalāi.",
+    "meaning_bangla": "পরিবার, বংশ। Per. śalāi।"
+  },
+  {
+    "word_roman": "SELAM",
+    "word_bangla": "সেলাম",
+    "category": "Noun",
+    "meaning_english": "Salutation. M. Mt. salām.",
+    "meaning_bangla": "সালাম। M. Mt. salām।"
+  },
+  {
+    "word_roman": "SELKAM",
+    "word_bangla": "সেলকাম",
+    "category": "Noun",
+    "meaning_english": "Milk. M. Mt. śaṅkhom or śaṅkhom (śal=oran=cow, khom=milk).",
+    "meaning_bangla": "দুধ। M. Mt. śaṅkhom or śaṅkhom (śal=oran=গরু, khom=দুধ)।"
+  },
+  {
+    "word_roman": "SELKHAI",
+    "word_bangla": "সেলখাই",
+    "category": "Noun",
+    "meaning_english": "Subscription. Mt. śenkhāy (śen=money, khāy-pā=to pay one's share).",
+    "meaning_bangla": "সাবস্ক্রিপশন। Mt. śenkhāy (śen=টাকা, khāy-pā=নিজের অংশ দেওয়া)।"
+  },
+  {
+    "word_roman": "SELDAN",
+    "word_bangla": "সেলদান",
+    "category": "Noun",
+    "meaning_english": "Subscription for a funeral ceremony. Mt. śenthān (śen=money, thān-pā=to subscribe).",
+    "meaning_bangla": "অন্ত্যেষ্টিক্রিয়ার জন্য সাবস্ক্রিপশন। Mt. śenthān (śen=টাকা, thān-pā=সাবস্ক্রাইব করা)।"
+  },
+  {
+    "word_roman": "SELDUM",
+    "word_bangla": "সেলদুম",
+    "category": "Noun",
+    "meaning_english": "Alt. form of selum.",
+    "meaning_bangla": "selum-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SELPÁK",
+    "word_bangla": "সেল্পাক",
+    "category": "Noun",
+    "meaning_english": "Plate. M. Mt. śenpāk (śen=metallic).",
+    "meaning_bangla": "প্লেট। M. Mt. śenpāk (śen=ধাতব)।"
+  },
+  {
+    "word_roman": "SEMPUL",
+    "word_bangla": "সেম্পুল",
+    "category": "Noun",
+    "meaning_english": "An instrument for fishing. Td. *śāmpula or śāmpula (=fishing trap).",
+    "meaning_bangla": "মাছ ধরার যন্ত্র। Td. *śāmpula or śāmpula (=মাছ ধরার ফাঁদ)।"
+  },
+  {
+    "word_roman": "SENTHI(M)",
+    "word_bangla": "সেন্থি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sendi.",
+    "meaning_bangla": "sendi-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENDÁN(M)",
+    "word_bangla": "সেন্দান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of śelān.",
+    "meaning_bangla": "śelān-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENDI",
+    "word_bangla": "সেন্দি",
+    "category": "Noun",
+    "meaning_english": "Cow-dung. Mt. śanthi (śan=cow, thi=faeces).",
+    "meaning_bangla": "গোবর। Mt. śanthi (śan=গরু, thi=মল)।"
+  },
+  {
+    "word_roman": "SENDIYAL",
+    "word_bangla": "সেন্দিয়াল",
+    "category": "Noun",
+    "meaning_english": "A species of mushroom. Mt. śanthiyal (śan=cow, thi=faeces, yal=to grow).",
+    "meaning_bangla": "মাশরুমের এক প্রজাতি। Mt. śanthiyal (śan=গরু, thi=মল, yal=বাড়া)।"
+  },
+  {
+    "word_roman": "SENDHÁNÁM",
+    "word_bangla": "সেন্ধানাম",
+    "category": "Noun",
+    "meaning_english": "A kirtana continuing for one day. Sts. sandhyā-nāma.",
+    "meaning_bangla": "একদিন চলমান কীর্তন। Sts. sandhyā-nāma।"
+  },
+  {
+    "word_roman": "SENNAPHAM",
+    "word_bangla": "সেন্নাফাম",
+    "category": "Noun",
+    "meaning_english": "Play-ground. Mt. śannā-pham (śannā-pā=to play, pham=place).",
+    "meaning_bangla": "খেলার মাঠ। Mt. śannā-pham (śannā-pā=খেলা, pham=স্থান)।"
+  },
+  {
+    "word_roman": "SENNAM",
+    "word_bangla": "সেন্নাম",
+    "category": "Noun",
+    "meaning_english": "An implement for weaving. Mt. śenām.",
+    "meaning_bangla": "বোনার যন্ত্র। Mt. śenām।"
+  },
+  {
+    "word_roman": "SEPAT",
+    "word_bangla": "সেপাত",
+    "category": "Noun",
+    "meaning_english": "Sponge ground. M. Mt. śepot, N. Mt. śebot.",
+    "meaning_bangla": "স্পঞ্জ জমি। M. Mt. śepot, N. Mt. śebot।"
+  },
+  {
+    "word_roman": "SEBAIT",
+    "word_bangla": "সেবাইত",
+    "category": "Noun",
+    "meaning_english": "A temple-servant. Sts. *sevāpātrika.",
+    "meaning_bangla": "মন্দিরের সেবক। Sts. *sevāpātrika।"
+  },
+  {
+    "word_roman": "SEMTA, SEMTANI",
+    "word_bangla": "সেমতা, সেমতানি",
+    "category": "Noun",
+    "meaning_english": "Same as chemta, chemtani.",
+    "meaning_bangla": "chemta, chemtani-এর মতো।"
+  },
+  {
+    "word_roman": "SEMPAK(M)",
+    "word_bangla": "সেম্পাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of selpak, selpun, sembun(M).",
+    "meaning_bangla": "selpak, selpun, sembun(M)-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEMSAK",
+    "word_bangla": "সেমসাক",
+    "category": "Noun",
+    "meaning_english": "Complexion. Mt. śem-pā (=to constitute)+śākāt-pā (=to construct).",
+    "meaning_bangla": "রং। Mt. śem-pā (=গঠন করা)+śākāt-pā (=নির্মাণ করা)।"
+  },
+  {
+    "word_roman": "SER",
+    "word_bangla": "সের",
+    "category": "Noun",
+    "meaning_english": "A seer in weight. Td. sera, Av. sera.",
+    "meaning_bangla": "ওজনের সের। Td. sera, Av. sera।"
+  },
+  {
+    "word_roman": "HAKKI",
+    "word_bangla": "হাক্কি",
+    "category": "Adjective",
+    "meaning_english": "True. Per.-Ar. ḥaqq.",
+    "meaning_bangla": "সত্য। Per.-Ar. ḥaqq।"
+  },
+  {
+    "word_roman": "HAK-HAK",
+    "word_bangla": "হাক-হাক",
+    "category": "Adverb",
+    "meaning_english": "Quickly, suddenly. Td. hakka + hakka.",
+    "meaning_bangla": "দ্রুত, আকস্মিকভাবে। Td. hakka + hakka।"
+  },
+  {
+    "word_roman": "HAGARBA",
+    "word_bangla": "হাগারবা",
+    "category": "Noun",
+    "meaning_english": "A big fishing trap made of split bamboo. Td. *śāgāraka.",
+    "meaning_bangla": "বিভক্ত বাঁশের তৈরি বড় মাছ ধরার ফাঁদ। Td. *śāgāraka।"
+  },
+  {
+    "word_roman": "HAN",
+    "word_bangla": "হান",
+    "category": "Noun",
+    "meaning_english": "Sting, pointed tip. Td. śala + aṅga.",
+    "meaning_bangla": "হুল, সূচালো ডগা। Td. śala + aṅga।"
+  },
+  {
+    "word_roman": "HAN",
+    "word_bangla": "হান",
+    "category": "Noun",
+    "meaning_english": "(i) Production. (ii) Produced, made. Mt. hof-pā.—KARANI: Making.",
+    "meaning_bangla": "(i) উৎপাদন। (ii) উৎপাদিত, তৈরি। Mt. hof-pā।—KARANI: তৈরি করা।"
+  },
+  {
+    "word_roman": "HANA",
+    "word_bangla": "হানা",
+    "category": "Noun",
+    "meaning_english": "Cucumber. Td. *sasyaka (fr. sasya=fruit) or *śoṣaka=remover (of thirst).",
+    "meaning_bangla": "শসা। Td. *sasyaka (sasya=ফল থেকে) or *śoṣaka=তৃষ্ণা দূরকারী।"
+  },
+  {
+    "word_roman": "HANPITHI",
+    "word_bangla": "হানপিথি",
+    "category": "Noun",
+    "meaning_english": "The middle of the back, the back-bone. Td. *soma-pṛṣṭhika, Cf. Mt. yān=back-bone.",
+    "meaning_bangla": "পিঠের মাঝখান, মেরুদণ্ড। Td. *soma-pṛṣṭhika, Cf. Mt. yān=মেরুদণ্ড।"
+  },
+  {
+    "word_roman": "HACARAT, HACARAT",
+    "word_bangla": "হাচারাত, হাচারাত",
+    "category": "Adjective",
+    "meaning_english": "Loose. Td. ra-sta + ślatha, cont.",
+    "meaning_bangla": "ঢিলা। Td. ra-sta + ślatha, cont।"
+  },
+  {
+    "word_roman": "HACU(M)",
+    "word_bangla": "হাচু(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of āsu.",
+    "meaning_bangla": "āsu-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HAJ",
+    "word_bangla": "হাজ",
+    "category": "Noun",
+    "meaning_english": "Tilling. Td. halakarsaṇa.",
+    "meaning_bangla": "চাষ। Td. halakarsaṇa।"
+  },
+  {
+    "word_roman": "HAJAMA, HAJAK",
+    "word_bangla": "হাজামা, হাজাক",
+    "category": "Noun",
+    "meaning_english": "Tobacco. V. below.",
+    "meaning_bangla": "তামাক। নিচে দেখুন।"
+  },
+  {
+    "word_roman": "HAJAMI",
+    "word_bangla": "হাজামি",
+    "category": "Noun",
+    "meaning_english": "Digestive. hajam + 2.-i.",
+    "meaning_bangla": "হজমকারী। hajam + 2.-i।"
+  },
+  {
+    "word_roman": "HAJU",
+    "word_bangla": "হাজু",
+    "category": "Noun",
+    "meaning_english": "Greed, courage. Per. hāzū (=courageous) or hazū (=greed).",
+    "meaning_bangla": "লোভ, সাহস। Per. hāzū (=সাহসী) or hazū (=লোভ)।"
+  },
+  {
+    "word_roman": "HAJUR",
+    "word_bangla": "হাজুর",
+    "category": "Noun",
+    "meaning_english": "A term for addressing a boss. Ar. ḥaẓūr.",
+    "meaning_bangla": "বসকে সম্বোধনের শব্দ। Ar. ḥaẓūr।"
+  },
+  {
+    "word_roman": "HAT",
+    "word_bangla": "হাত",
+    "category": "Noun",
+    "meaning_english": "Effort, endeavour. Mt. hot-pā.—KARANI: Endeavouring.",
+    "meaning_bangla": "চেষ্টা, প্রচেষ্টা। Mt. hot-pā।—KARANI: চেষ্টা করা।"
+  },
+  {
+    "word_roman": "HATARAN",
+    "word_bangla": "হাতারান",
+    "category": "Noun",
+    "meaning_english": "Leaky. Td. *gātarāndhra.",
+    "meaning_bangla": "ফুটো। Td. *gātarāndhra।"
+  },
+  {
+    "word_roman": "HATINAK",
+    "word_bangla": "হাতিনাক",
+    "category": "Noun",
+    "meaning_english": "Co-wife. Td. *sapatnī + -aka.",
+    "meaning_bangla": "সৎ বউ। Td. *sapatnī + -aka।"
+  },
+  {
+    "word_roman": "HAT-HAT",
+    "word_bangla": "হাত-হাত",
+    "category": "Noun",
+    "meaning_english": "A word used to denote enthusiasm or activeness. Onom.",
+    "meaning_bangla": "উৎসাহ বা সক্রিয়তা নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HADAR-BADAR",
+    "word_bangla": "হাদার-বাদার",
+    "category": "Adjective",
+    "meaning_english": "A person acting as an important one uselessly. Per. hadr.",
+    "meaning_bangla": "অকারণে গুরুত্বপূর্ণ ভান করা ব্যক্তি। Per. hadr।"
+  },
+  {
+    "word_roman": "HADAM",
+    "word_bangla": "হাদাম",
+    "category": "Noun",
+    "meaning_english": "Faeces. Td. svamala.",
+    "meaning_bangla": "মল। Td. svamala।"
+  },
+  {
+    "word_roman": "HAMA",
+    "word_bangla": "হামা",
+    "category": "Noun",
+    "meaning_english": "Salutation, obeisance. Td. sammānna.—RAHA—RUHA: Paying obeisance and weeping.",
+    "meaning_bangla": "সালাম, প্রণাম। Td. sammānna।—RAHA—RUHA: প্রণাম ও কান্না।"
+  },
+  {
+    "word_roman": "HAMA-",
+    "word_bangla": "হামা-",
+    "category": "Verb",
+    "meaning_english": "To enter (of women). Sts. *samājikā.",
+    "meaning_bangla": "প্রবেশ করা (মহিলাদের)। Sts. *samājikā।"
+  },
+  {
+    "word_roman": "HAMANI",
+    "word_bangla": "হামানি",
+    "category": "Noun",
+    "meaning_english": "Entering. hāmā+ -āni. Td. *samājikā.",
+    "meaning_bangla": "প্রবেশ। hāmā+ -āni। Td. *samājikā।"
+  },
+  {
+    "word_roman": "HAMHAM-BADAR",
+    "word_bangla": "হামহাম-বাদার",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hāmhām.",
+    "meaning_bangla": "hāmhām-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HAMDAR(M)",
+    "word_bangla": "হামদার(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of Mt. hāmāl.",
+    "meaning_bangla": "Mt. hāmāl-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HAY",
+    "word_bangla": "হয়",
+    "category": "Particle",
+    "meaning_english": "(used with nay) Either. Td. bhavati.",
+    "meaning_bangla": "(nay-এর সাথে ব্যবহৃত) হয়। Td. bhavati।"
+  },
+  {
+    "word_roman": "HAYATO",
+    "word_bangla": "হয়তো",
+    "category": "Adverb",
+    "meaning_english": "Perhaps, probably. Td. bhavati-tāvat, B. hayata.",
+    "meaning_bangla": "হয়তো, সম্ভবত। Td. bhavati-tāvat, B. hayata।"
+  },
+  {
+    "word_roman": "HAYO(M)",
+    "word_bangla": "হয়ো(ম)",
+    "category": "Noun",
+    "meaning_english": "Address to an elder sister. Td. svasṛ.",
+    "meaning_bangla": "বড় বোনকে সম্বোধন। Td. svasṛ।"
+  },
+  {
+    "word_roman": "HAYO-NAYO",
+    "word_bangla": "হয়ো-নয়ো",
+    "category": "Adjective",
+    "meaning_english": "The actual condition (lit. if it is or not). hay+o+nay+o. Td. bhavatyapi na bhavatyapi.",
+    "meaning_bangla": "প্রকৃত অবস্থা (আক্ষ. হয় বা না হয়)। hay+o+nay+o। Td. bhavatyapi na bhavatyapi।"
+  },
+  {
+    "word_roman": "HAR",
+    "word_bangla": "হার",
+    "category": "Noun",
+    "meaning_english": "(i) Cream. (ii) Mucus. Td. sara.",
+    "meaning_bangla": "(i) ক্রিম। (ii) শ্লেষ্মা। Td. sara।"
+  },
+  {
+    "word_roman": "HAR",
+    "word_bangla": "হার",
+    "category": "Noun",
+    "meaning_english": "Recoupment, compensation (of health). Td. sara=motion, moving.",
+    "meaning_bangla": "স্বাস্থ্যের ক্ষতিপূরণ। Td. sara=গতি, চলা।"
+  },
+  {
+    "word_roman": "HARAN-BARAN(M)",
+    "word_bangla": "হারান-বারান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of arānbārā.",
+    "meaning_bangla": "arānbārā-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HARANI",
+    "word_bangla": "হারানি",
+    "category": "Noun",
+    "meaning_english": "Broom-stick. Td. *sārajika.",
+    "meaning_bangla": "ঝাড়ু। Td. *sārajika।"
+  },
+  {
+    "word_roman": "HARAP",
+    "word_bangla": "হারাপ",
+    "category": "Noun",
+    "meaning_english": "Incense-bowl. Sts. *śarāva.",
+    "meaning_bangla": "ধূপদানী। Sts. *śarāva।"
+  },
+  {
+    "word_roman": "HARA",
+    "word_bangla": "হারা",
+    "category": "Noun",
+    "meaning_english": "An incense-bowl. Td. *śarāva.",
+    "meaning_bangla": "ধূপদানী। Td. *śarāva।"
+  },
+  {
+    "word_roman": "HARANI",
+    "word_bangla": "হারানি",
+    "category": "Noun",
+    "meaning_english": "Driving away. Td. *sārapānika.",
+    "meaning_bangla": "তাড়িয়ে দেওয়া। Td. *sārapānika।"
+  },
+  {
+    "word_roman": "HARALIKA",
+    "word_bangla": "হারালিকা",
+    "category": "Noun",
+    "meaning_english": "A kind of water-fowl. Td. *śālapālika (fr. śalala).",
+    "meaning_bangla": "জলচর পাখির এক প্রকার। Td. *śālapālika (śalala থেকে)।"
+  },
+  {
+    "word_roman": "HARA-HARA",
+    "word_bangla": "হারা-হারা",
+    "category": "Adjective",
+    "meaning_english": "Pulled back (as the eye because of hunger). Td. *harā-hara.",
+    "meaning_bangla": "পিছনে টানা (ক্ষুধার কারণে চোখের মতো)। Td. *harā-hara।"
+  },
+  {
+    "word_roman": "HARINANTHAN",
+    "word_bangla": "হারিনান্থান",
+    "category": "Noun",
+    "meaning_english": "A kind of chirping insect. Mt. harinonāthān.",
+    "meaning_bangla": "চিঁ-চিঁ করা পোকার এক প্রকার। Mt. harinonāthān।"
+  },
+  {
+    "word_roman": "HAREI",
+    "word_bangla": "হারেই",
+    "category": "Noun",
+    "meaning_english": "The trunk of an elephant. Td. *śupadika.",
+    "meaning_bangla": "হাতির শুঁড়। Td. *śupadika।"
+  },
+  {
+    "word_roman": "HARTAN",
+    "word_bangla": "হার্তান",
+    "category": "Noun",
+    "meaning_english": "Hearts (of cards). Po. harten.",
+    "meaning_bangla": "তাসের হার্ট। Po. harten।"
+  },
+  {
+    "word_roman": "HARTA-KARTA",
+    "word_bangla": "হার্তা-কর্তা",
+    "category": "Noun",
+    "meaning_english": "The absolute ruler, dictator (lit. destroyer and builder). Ts.",
+    "meaning_bangla": "পরম শাসক, একনায়ক (আক্ষ. ধ্বংসকারী ও নির্মাতা)। Ts।"
+  },
+  {
+    "word_roman": "HARTAL",
+    "word_bangla": "হরতাল",
+    "category": "Noun",
+    "meaning_english": "Stoppage of all works in a wide area. Gujarati hartāl.",
+    "meaning_bangla": "ব্যাপক এলাকায় সব কাজ বন্ধ। Gujarati hartāl।"
+  },
+  {
+    "word_roman": "HARDAM",
+    "word_bangla": "হরদম",
+    "category": "Adverb",
+    "meaning_english": "Quickly, incessantly. Per. hardam=every moment.",
+    "meaning_bangla": "দ্রুত, অবিরাম। Per. hardam=প্রতি মুহূর্তে।"
+  },
+  {
+    "word_roman": "HALA",
+    "word_bangla": "হালা",
+    "category": "Noun",
+    "meaning_english": "(i) Rod. (ii) A rod around which spun threads are rolled. (iii) A ball of spun threads. Td. śālākā.",
+    "meaning_bangla": "(i) লাঠি। (ii) সুতো গড়ানোর লাঠি। (iii) সুতোর বল। Td. śālākā।"
+  },
+  {
+    "word_roman": "HALA",
+    "word_bangla": "হালা",
+    "category": "Adjective",
+    "meaning_english": "Distinct, clean (as cooked rice). Td. *śālākā.",
+    "meaning_bangla": "স্বতন্ত্র, পরিষ্কার (রান্না করা ভাতের মতো)। Td. *śālākā।"
+  },
+  {
+    "word_roman": "HALA-",
+    "word_bangla": "হালা-",
+    "category": "Verb",
+    "meaning_english": "To exchange. Td. *śārapaya-, *harāpanika.",
+    "meaning_bangla": "বিনিময় করা। Td. *śārapaya-, *harāpanika।"
+  },
+  {
+    "word_roman": "HALANI",
+    "word_bangla": "হালানি",
+    "category": "Noun",
+    "meaning_english": "Exchanging. hālā+ -āni. Td. *śārapānika.",
+    "meaning_bangla": "বিনিময়। hālā+ -āni। Td. *śārapānika।"
+  },
+  {
+    "word_roman": "HALI(M)",
+    "word_bangla": "হালি(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of halei, holikā or *huḍikā=tumultuous behaviour.",
+    "meaning_bangla": "halei, holikā or *huḍikā=উচ্ছৃঙ্খল আচরণ-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HALI-HATARAN",
+    "word_bangla": "হালি-হাতারান",
+    "category": "Adjective",
+    "meaning_english": "Emptied. Td. *harita.",
+    "meaning_bangla": "খালি। Td. *harita।"
+  },
+  {
+    "word_roman": "HALEI",
+    "word_bangla": "হালেই",
+    "category": "Noun",
+    "meaning_english": "A ball of thread spun around a rod. Td. *śālākā(pika) (through denom. of śālākā).",
+    "meaning_bangla": "লাঠির চারদিকে পাকানো সুতোর বল। Td. *śālākā(pika) (śālākā-এর denom. মাধ্যমে)।"
+  },
+  {
+    "word_roman": "HAS",
+    "word_bangla": "হাস",
+    "category": "Noun",
+    "meaning_english": "Instruments (of weaving). Td. hastya.",
+    "meaning_bangla": "বোনার যন্ত্রপাতি। Td. hastya।"
+  },
+  {
+    "word_roman": "HASTA",
+    "word_bangla": "হস্ত",
+    "category": "Noun",
+    "meaning_english": "(i) Cheap. (ii) Spending liberally. Per. sust=relaxed.",
+    "meaning_bangla": "(i) সস্তা। (ii) উদারভাবে খরচ। Per. sust=আরামদায়ক।"
+  },
+  {
+    "word_roman": "HA",
+    "word_bangla": "হা",
+    "category": "Interjection",
+    "meaning_english": "An expression of joyfulness. Ts.",
+    "meaning_bangla": "আনন্দের প্রকাশ। Ts।"
+  },
+  {
+    "word_roman": "HA",
+    "word_bangla": "হা",
+    "category": "Noun",
+    "meaning_english": "(i) Vapour. (ii) Affliction, mental agony. Td. vāsapa.",
+    "meaning_bangla": "(i) বাষ্প। (ii) কষ্ট, মানসিক যন্ত্রণা। Td. vāsapa।"
+  },
+  {
+    "word_roman": "HA",
+    "word_bangla": "হা",
+    "category": "Noun",
+    "meaning_english": "The act of offering (to a deity). Mt. hā-pā.—KARANI: Offering (to a deity).",
+    "meaning_bangla": "দেবতার উদ্দেশ্যে উপহার দেওয়ার কাজ। Mt. hā-pā।—KARANI: উপহার দেওয়া।"
+  },
+  {
+    "word_roman": "HA",
+    "word_bangla": "হা",
+    "category": "Adjective",
+    "meaning_english": "Rude, harsh, adamant. Td. kṣāra.",
+    "meaning_bangla": "অভদ্র, কঠোর, জেদি। Td. kṣāra।"
+  },
+  {
+    "word_roman": "SETURÁ",
+    "word_bangla": "সেতুরা",
+    "category": "Adjective",
+    "meaning_english": "Having gaps at places, having ill growth (of plants). Td. *cheduraka.",
+    "meaning_bangla": "জায়গায় জায়গায় ফাঁকযুক্ত, অসুস্থ বৃদ্ধি (গাছের)। Td. *cheduraka।"
+  },
+  {
+    "word_roman": "SET",
+    "word_bangla": "সেট",
+    "category": "Noun",
+    "meaning_english": "The act of chipping. Mt. set-pā=to tear. Cf. OIA. cheda.—KARANI: Chipping.",
+    "meaning_bangla": "চিপিংয়ের কাজ। Mt. set-pā=ছিঁড়ে ফেলা। Cf. OIA. cheda।—KARANI: চিপিং।"
+  },
+  {
+    "word_roman": "SETAK",
+    "word_bangla": "সেটাক",
+    "category": "Adjective",
+    "meaning_english": "Separated. Mt. setthok-pā (fr. set-pā=to tear).",
+    "meaning_bangla": "পৃথক। Mt. setthok-pā (set-pā=ছিঁড়ে ফেলা থেকে)।"
+  },
+  {
+    "word_roman": "SETAR",
+    "word_bangla": "সেতার",
+    "category": "Noun",
+    "meaning_english": "A three-stringed musical instrument. Per. sitār=three-stringed.",
+    "meaning_bangla": "তিন তারের বাদ্যযন্ত্র। Per. sitār=তিন তারযুক্ত।"
+  },
+  {
+    "word_roman": "SENÁ+",
+    "word_bangla": "সেনা+",
+    "category": "Prefix",
+    "meaning_english": "A prefix used to indicate the senses of 'large', 'good', 'nice' etc. Mt. senā+impi.",
+    "meaning_bangla": "'বড়', 'ভালো', 'সুন্দর' ইত্যাদি অর্থে প্রিফিক্স। Mt. senā+impi।"
+  },
+  {
+    "word_roman": "SENÁMPI",
+    "word_bangla": "সেনাম্পি",
+    "category": "Noun",
+    "meaning_english": "Large beam of a house-stead. Mt. senā+impi.",
+    "meaning_bangla": "বাড়ির বড় বিম। Mt. senā+impi।"
+  },
+  {
+    "word_roman": "SENAKÁPAK",
+    "word_bangla": "সেনাকাপাক",
+    "category": "Noun",
+    "meaning_english": "A kind of big fried grain. Mt. senā+kāpak.",
+    "meaning_bangla": "বড় ভাজা শস্যের এক প্রকার। Mt. senā+kāpak।"
+  },
+  {
+    "word_roman": "SENAKHONNAN",
+    "word_bangla": "সেনাখোন্নান",
+    "category": "Noun",
+    "meaning_english": "A species of banyan tree. Mt. senā+khoṅnān.",
+    "meaning_bangla": "বটগাছের এক প্রজাতি। Mt. senā+khoṅnān।"
+  },
+  {
+    "word_roman": "SENAKHAYA",
+    "word_bangla": "সেনাখায়া",
+    "category": "Noun",
+    "meaning_english": "Address to a Brahmin preceptor. Mt. senākhāya (lit. one having gold-feet).",
+    "meaning_bangla": "ব্রাহ্মণ গুরুর সম্বোধন। Mt. senākhāya (আক্ষ. সোনার পা বিশিষ্ট)।"
+  },
+  {
+    "word_roman": "SENÁ-PAK",
+    "word_bangla": "সেনা-পাক",
+    "category": "Noun",
+    "meaning_english": "A thin species of leech found in grassy places. Td. *śīrṣṭaka.",
+    "meaning_bangla": "ঘাসের জায়গায় পাওয়া পাতলা জোঁকের এক প্রজাতি। Td. *śīrṣṭaka।"
+  },
+  {
+    "word_roman": "SENÁPUL",
+    "word_bangla": "সেনাপুল",
+    "category": "Noun",
+    "meaning_english": "Metalic pitcher. Mt. senāpul (senā=gold, pul=pitcher).",
+    "meaning_bangla": "ধাতব কলস। Mt. senāpul (senā=সোনা, pul=কলস)।"
+  },
+  {
+    "word_roman": "SENÁMÁHI",
+    "word_bangla": "সেনামাহি",
+    "category": "Noun",
+    "meaning_english": "Name of a deity. Mt. senā-mahi (senā=gold, mahi=liquid).",
+    "meaning_bangla": "দেবতার নাম। Mt. senā-mahi (senā=সোনা, mahi=তরল)।"
+  },
+  {
+    "word_roman": "SENÁMPA",
+    "word_bangla": "সেনাম্পা",
+    "category": "Noun",
+    "meaning_english": "Otter. Mt. senāmpa.",
+    "meaning_bangla": "উদ। Mt. senāmpa।"
+  },
+  {
+    "word_roman": "SENÁRIK",
+    "word_bangla": "সেনারিক",
+    "category": "Noun",
+    "meaning_english": "A kind of necklace. Mt. senārik (senā=gold, lik=necklace).",
+    "meaning_bangla": "হারের এক প্রকার। Mt. senārik (senā=সোনা, lik=হার)।"
+  },
+  {
+    "word_roman": "SENÁREI",
+    "word_bangla": "সেনারেই",
+    "category": "Noun",
+    "meaning_english": "Indian marigold. Mt. senārei (senā=gold, lai=glower).",
+    "meaning_bangla": "ভারতীয় গাঁদা ফুল। Mt. senārei (senā=সোনা, lai=ফুল)।"
+  },
+  {
+    "word_roman": "SENÁREMBI",
+    "word_bangla": "সেনারেম্বি",
+    "category": "Noun",
+    "meaning_english": "A kind of necklace. Mt. senārembi (senā=gold, lem-bi=grave).",
+    "meaning_bangla": "হারের এক প্রকার। Mt. senārembi (senā=সোনা, lem-bi=কবর)।"
+  },
+  {
+    "word_roman": "SENÁHIDÁK",
+    "word_bangla": "সেনাহিদাক",
+    "category": "Noun",
+    "meaning_english": "Wild Mercury. Mt. senāhidāk.",
+    "meaning_bangla": "বুনো পারদ। Mt. senāhidāk।"
+  },
+  {
+    "word_roman": "SENTÚN",
+    "word_bangla": "সেন্তুন",
+    "category": "Noun",
+    "meaning_english": "The south-west corner (as of a granary). Mt. śanthoṅ.",
+    "meaning_bangla": "দক্ষিণ-পশ্চিম কোণ (যেমন গোলাঘরের)। Mt. śanthoṅ।"
+  },
+  {
+    "word_roman": "SENTHI(M), SENDÁN(M)",
+    "word_bangla": "সেন্থি(ম), সেন্দান(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of sendi, śelān.",
+    "meaning_bangla": "sendi, śelān-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SENDI",
+    "word_bangla": "সেন্দি",
+    "category": "Noun",
+    "meaning_english": "Cow-dung. Mt. śanthi (śan=cow, thi=faeces).",
+    "meaning_bangla": "গোবর। Mt. śanthi (śan=গরু, thi=মল)।"
+  },
+  {
+    "word_roman": "SENDIYAL",
+    "word_bangla": "সেন্দিয়াল",
+    "category": "Noun",
+    "meaning_english": "A species of mushroom. Mt. śanthiyal (śan=cow, thi=faeces, yal=to grow).",
+    "meaning_bangla": "মাশরুমের এক প্রজাতি। Mt. śanthiyal (śan=গরু, thi=মল, yal=বাড়া)।"
+  },
+  {
+    "word_roman": "SENDHÁNÁM",
+    "word_bangla": "সেন্ধানাম",
+    "category": "Noun",
+    "meaning_english": "A kirtana continuing for one day. Sts. sandhyā-nāma.",
+    "meaning_bangla": "একদিন চলমান কীর্তন। Sts. sandhyā-nāma।"
+  },
+  {
+    "word_roman": "SENNAPHAM",
+    "word_bangla": "সেন্নাফাম",
+    "category": "Noun",
+    "meaning_english": "Play-ground. Mt. śannā-pham (śannā-pā=to play, pham=place).",
+    "meaning_bangla": "খেলার মাঠ। Mt. śannā-pham (śannā-pā=খেলা, pham=স্থান)।"
+  },
+  {
+    "word_roman": "SENNAM",
+    "word_bangla": "সেন্নাম",
+    "category": "Noun",
+    "meaning_english": "An implement for weaving. Mt. śenām.",
+    "meaning_bangla": "বোনার যন্ত্র। Mt. śenām।"
+  },
+  {
+    "word_roman": "SEPAT",
+    "word_bangla": "সেপাত",
+    "category": "Noun",
+    "meaning_english": "Sponge ground. M. Mt. śepot, N. Mt. śebot.",
+    "meaning_bangla": "স্পঞ্জ জমি। M. Mt. śepot, N. Mt. śebot।"
+  },
+  {
+    "word_roman": "SEBAIT",
+    "word_bangla": "সেবাইত",
+    "category": "Noun",
+    "meaning_english": "A temple-servant. Sts. *sevāpātrika.",
+    "meaning_bangla": "মন্দিরের সেবক। Sts. *sevāpātrika।"
+  },
+  {
+    "word_roman": "SEMTA, SEMTANI",
+    "word_bangla": "সেমতা, সেমতানি",
+    "category": "Noun",
+    "meaning_english": "Same as chemta, chemtani.",
+    "meaning_bangla": "chemta, chemtani-এর মতো।"
+  },
+  {
+    "word_roman": "SEMPAK(M)",
+    "word_bangla": "সেম্পাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of selpak, selpun, sembun(M).",
+    "meaning_bangla": "selpak, selpun, sembun(M)-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "SEMSAK",
+    "word_bangla": "সেমসাক",
+    "category": "Noun",
+    "meaning_english": "Complexion. Mt. śem-pā (=to constitute)+śākāt-pā (=to construct).",
+    "meaning_bangla": "রং। Mt. śem-pā (=গঠন করা)+śākāt-pā (=নির্মাণ করা)।"
+  },
+  {
+    "word_roman": "SER",
+    "word_bangla": "সের",
+    "category": "Noun",
+    "meaning_english": "A seer in weight. Td. sera, Av. sera.",
+    "meaning_bangla": "ওজনের সের। Td. sera, Av. sera।"
+  },
+  {
+    "word_roman": "HAJAR",
+    "word_bangla": "হাজার",
+    "category": "Noun",
+    "meaning_english": "Thousand. Per. hazar.",
+    "meaning_bangla": "হাজার। Per. hazar।"
+  },
+  {
+    "word_roman": "HAJARI",
+    "word_bangla": "হাজারি",
+    "category": "Noun",
+    "meaning_english": "A kind of louse growing on animal skin. Per. hazir+BPM.2.-i.",
+    "meaning_bangla": "পশুর চামড়ায় জন্মানো উকুনের এক প্রকার। Per. hazir+BPM.2.-i।"
+  },
+  {
+    "word_roman": "HAJIR",
+    "word_bangla": "হাজির",
+    "category": "Adjective",
+    "meaning_english": "Present. Per.-Ar. hāzir.",
+    "meaning_bangla": "উপস্থিত। Per.-Ar. hāzir।"
+  },
+  {
+    "word_roman": "HAJIRA",
+    "word_bangla": "হাজিরা",
+    "category": "Noun",
+    "meaning_english": "Presence. Per. hāzirī.",
+    "meaning_bangla": "উপস্থিতি। Per. hāzirī।"
+  },
+  {
+    "word_roman": "HAÑJA",
+    "word_bangla": "হাঞ্জা",
+    "category": "Noun",
+    "meaning_english": "To arrange (of a lofty work). Td. *sañjñāya.",
+    "meaning_bangla": "ব্যবস্থা করা (উচ্চ কাজের)। Td. *sañjñāya।"
+  },
+  {
+    "word_roman": "HAÑJANI",
+    "word_bangla": "হাঞ্জানি",
+    "category": "Noun",
+    "meaning_english": "Arranging (of a lofty work). hāñjā+ -āni. Td. *sañjñāpanika.",
+    "meaning_bangla": "ব্যবস্থা করা। hāñjā+ -āni। Td. *sañjñāpanika।"
+  },
+  {
+    "word_roman": "HAÑJUR",
+    "word_bangla": "হাঞ্জুর",
+    "category": "Noun",
+    "meaning_english": "Tied jointly (as cows). Td. sañyukta.",
+    "meaning_bangla": "যৌথভাবে বাঁধা (গরুর মতো)। Td. sañyukta।"
+  },
+  {
+    "word_roman": "HAT",
+    "word_bangla": "হাত",
+    "category": "Noun",
+    "meaning_english": "(i) Market. (ii) To pay a short visit. Td. *haṭa-(L. Sk. aṭha).",
+    "meaning_bangla": "(i) বাজার। (ii) সংক্ষিপ্ত সফর। Td. *haṭa-(L. Sk. aṭha)।"
+  },
+  {
+    "word_roman": "HATAN",
+    "word_bangla": "হাতান",
+    "category": "Noun",
+    "meaning_english": "A search. Td. *ghaṭṭana.",
+    "meaning_bangla": "অনুসন্ধান। Td. *ghaṭṭana।"
+  },
+  {
+    "word_roman": "HATAN",
+    "word_bangla": "হাতান",
+    "category": "Noun",
+    "meaning_english": "A stroke (as by a buffalo with its horn). Td. *sṛṅga.",
+    "meaning_bangla": "আঘাত (মহিষের শিং দিয়ে)। Td. *sṛṅga।"
+  },
+  {
+    "word_roman": "HATAN",
+    "word_bangla": "হাতান",
+    "category": "Adjective",
+    "meaning_english": "(i) Strange. (ii) Unlikely. Td. *sṛṣṭa.—NEI: Not strange, not unlikely.",
+    "meaning_bangla": "(i) অদ্ভুত। (ii) অসম্ভব। Td. *sṛṣṭa।—NEI: অদ্ভুত নয়, অসম্ভব নয়।"
+  },
+  {
+    "word_roman": "HATHA",
+    "word_bangla": "হাথা",
+    "category": "Noun",
+    "meaning_english": "A stroke (as by a buffalo with its horn). Td. *sṛṣṭipāka.",
+    "meaning_bangla": "আঘাত (মহিষের শিং দিয়ে)। Td. *sṛṣṭipāka।"
+  },
+  {
+    "word_roman": "HATA-",
+    "word_bangla": "হাতা-",
+    "category": "Verb",
+    "meaning_english": "To search minutely. Td. *ghaṭṭāpay-.",
+    "meaning_bangla": "সূক্ষ্মভাবে অনুসন্ধান করা। Td. *ghaṭṭāpay-।"
+  },
+  {
+    "word_roman": "HATA-",
+    "word_bangla": "হাতা-",
+    "category": "Verb",
+    "meaning_english": "To hurt, to strike. Td. *saṭṭapaya.",
+    "meaning_bangla": "আঘাত করা, মারা। Td. *saṭṭapaya।"
+  },
+  {
+    "word_roman": "HATANI",
+    "word_bangla": "হাতানি",
+    "category": "Noun",
+    "meaning_english": "(i) Proceeding. (ii) Paying a short visit. hāt+ -āni.",
+    "meaning_bangla": "(i) অগ্রসর হওয়া। (ii) সংক্ষিপ্ত সফর। hāt+ -āni।"
+  },
+  {
+    "word_roman": "HATANI",
+    "word_bangla": "হাতানি",
+    "category": "Noun",
+    "meaning_english": "Searching minutely. hāt+ -āni.",
+    "meaning_bangla": "সূক্ষ্ম অনুসন্ধান। hāt+ -āni।"
+  },
+  {
+    "word_roman": "HATANI",
+    "word_bangla": "হাতানি",
+    "category": "Noun",
+    "meaning_english": "Striking. 2. hāt+ -āni. Td. *saṭṭāpanika.",
+    "meaning_bangla": "আঘাত করা। 2. hāt+ -āni। Td. *saṭṭāpanika।"
+  },
+  {
+    "word_roman": "HAT(M)",
+    "word_bangla": "হাত(ম)",
+    "category": "Noun",
+    "meaning_english": "She-buffalo. Mt. hātam=heifer.",
+    "meaning_bangla": "মহিষী। Mt. hātam=বাছুরী।"
+  },
+  {
+    "word_roman": "HATAR",
+    "word_bangla": "হাতার",
+    "category": "Noun",
+    "meaning_english": "Head-deep (of water). Td. santara.",
+    "meaning_bangla": "মাথা পর্যন্ত জল। Td. santara।"
+  },
+  {
+    "word_roman": "HANUKUN(M)",
+    "word_bangla": "হানুকুন(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hāṃkam.",
+    "meaning_bangla": "hāṃkam-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HANKEL",
+    "word_bangla": "হান্কেল",
+    "category": "Noun",
+    "meaning_english": "A fishing net placed open under water. Mt. haṅken (haṅ=to open, ken-pā=to fall).",
+    "meaning_bangla": "জলের নিচে খোলা রাখা মাছ ধরার জাল। Mt. haṅken (haṅ=খোলা, ken-pā=পড়া)।"
+  },
+  {
+    "word_roman": "HANGAN",
+    "word_bangla": "হাঙ্গান",
+    "category": "Noun",
+    "meaning_english": "Jail, an enclosed area. Td. saṅgrāha.",
+    "meaning_bangla": "জেল, ঘেরা এলাকা। Td. saṅgrāha।"
+  },
+  {
+    "word_roman": "HANGAMA",
+    "word_bangla": "হাঙ্গামা",
+    "category": "Noun",
+    "meaning_english": "Riot, quarrel, difficulty. Per. hangāmah.",
+    "meaning_bangla": "দাঙ্গা, ঝগড়া, অসুবিধা। Per. hangāmah।"
+  },
+  {
+    "word_roman": "HANGAMAPAL",
+    "word_bangla": "হাঙ্গামাপাল",
+    "category": "Noun",
+    "meaning_english": "Yellow colour. Mt. haṅgām-mapāl (haṅgām=mustard, mapāl=yellow).",
+    "meaning_bangla": "হলুদ রং। Mt. haṅgām-mapāl (haṅgām=সরিষা, mapāl=হলুদ)।"
+  },
+  {
+    "word_roman": "HANTA-",
+    "word_bangla": "হান্তা-",
+    "category": "Verb",
+    "meaning_english": "To hint, to inform. Td. *saṅketapaya.",
+    "meaning_bangla": "ইঙ্গিত দেওয়া, জানানো। Td. *saṅketapaya।"
+  },
+  {
+    "word_roman": "HANTANI",
+    "word_bangla": "হান্তানি",
+    "category": "Noun",
+    "meaning_english": "Hinting, informing. hāntā+ -āni.",
+    "meaning_bangla": "ইঙ্গিত দেওয়া। hāntā+ -āni।"
+  },
+  {
+    "word_roman": "HANTAT-HANTI",
+    "word_bangla": "হান্তাত-হান্তি",
+    "category": "Noun",
+    "meaning_english": "Mutual hinting. Recipr. fr. hāntā.",
+    "meaning_bangla": "পরস্পর ইঙ্গিত। hāntā থেকে পরস্পর।"
+  },
+  {
+    "word_roman": "HANMEI(M)",
+    "word_bangla": "হানমেই(ম)",
+    "category": "Noun",
+    "meaning_english": "An instrument for carpentry. Mt. hāṃmai.",
+    "meaning_bangla": "ছুতারের যন্ত্র। Mt. hāṃmai।"
+  },
+  {
+    "word_roman": "HACA",
+    "word_bangla": "হাচা",
+    "category": "Adjective",
+    "meaning_english": "True. Td. *satyaka, MIA. saccas.",
+    "meaning_bangla": "সত্য। Td. *satyaka, MIA. saccas।"
+  },
+  {
+    "word_roman": "HACANACAK(M)",
+    "word_bangla": "হাচানাচাক(ম)",
+    "category": "Noun",
+    "meaning_english": "A medicinal water-plant. Mt. hacānak.",
+    "meaning_bangla": "ঔষধি জলজ উদ্ভিদ। Mt. hacānak।"
+  },
+  {
+    "word_roman": "HACUR",
+    "word_bangla": "হাচুর",
+    "category": "Noun",
+    "meaning_english": "To be infected or transmitted. Td. sañcāra.",
+    "meaning_bangla": "সংক্রমিত হওয়া বা প্রেরিত হওয়া। Td. sañcāra।"
+  },
+  {
+    "word_roman": "HACURANI",
+    "word_bangla": "হাচুরানি",
+    "category": "Noun",
+    "meaning_english": "Being infected or transmitted. hācur+ -āni. Td. *sañcārapanika.",
+    "meaning_bangla": "সংক্রমিত হওয়া। hācur+ -āni। Td. *sañcārapanika।"
+  },
+  {
+    "word_roman": "HÁRI",
+    "word_bangla": "হারি",
+    "category": "Noun",
+    "meaning_english": "Entire. Td. *sārika.—DIN: The whole day.",
+    "meaning_bangla": "সম্পূর্ণ। Td. *sārika।—DIN: সারাদিন।"
+  },
+  {
+    "word_roman": "HÁRI",
+    "word_bangla": "হারি",
+    "category": "Noun",
+    "meaning_english": "Row, line. Td. *sārika (fr. sāra=cord, line).",
+    "meaning_bangla": "সারি, লাইন। Td. *sārika (sāra=দড়ি, লাইন থেকে)।"
+  },
+  {
+    "word_roman": "HÁRIDAM",
+    "word_bangla": "হারিদাম",
+    "category": "Adverb",
+    "meaning_english": "Always. Td. *sārika+Per. hardam, cont.",
+    "meaning_bangla": "সর্বদা। Td. *sārika+Per. hardam, cont।"
+  },
+  {
+    "word_roman": "HÁRAU, HÁRAUPA",
+    "word_bangla": "হারাউ, হারাউপা",
+    "category": "Adjective",
+    "meaning_english": "(i) Happy, joyful. (ii) Happiness, gaiety. Mt. haru-pā. Cf. OIA. *harṣuka.",
+    "meaning_bangla": "(i) খুশি, আনন্দিত। (ii) আনন্দ, উল্লাস। Mt. haru-pā। Cf. OIA. *harṣuka।"
+  },
+  {
+    "word_roman": "HÁL",
+    "word_bangla": "হাল",
+    "category": "Noun",
+    "meaning_english": "A measure of land amounting to twelve kilyārs. Cf. OIA. hāla=plough.",
+    "meaning_bangla": "বারো কিলিয়ার পরিমাণ জমির মাপ। Cf. OIA. hāla=লাঙ্গল।"
+  },
+  {
+    "word_roman": "HÁL",
+    "word_bangla": "হাল",
+    "category": "Noun",
+    "meaning_english": "Splinter. Td. śalya.",
+    "meaning_bangla": "কাঠের টুকরো। Td. śalya।"
+  },
+  {
+    "word_roman": "HAL",
+    "word_bangla": "হাল",
+    "category": "Noun",
+    "meaning_english": "(i) A piece of bamboo or wood from which a cloth under weaving hangs. (ii) A hand-loom. Td. halat. (iii) Enclosure, fence. Cf. Ass. hāl, Mt. hān-pā=to place.",
+    "meaning_bangla": "(i) বোনার সময় কাপড় ঝোলানোর বাঁশ বা কাঠ। (ii) হাত তাঁত। Td. halat। (iii) ঘেরা, বেড়া। Cf. Ass. hāl, Mt. hān-pā=রাখা।"
+  },
+  {
+    "word_roman": "HÁL",
+    "word_bangla": "হাল",
+    "category": "Noun",
+    "meaning_english": "Condition. Per.-Ar. hāl.—CAL: Condition, trend.",
+    "meaning_bangla": "অবস্থা। Per.-Ar. hāl।—CAL: অবস্থা, প্রবণতা।"
+  },
+  {
+    "word_roman": "HÁLAT",
+    "word_bangla": "হালাত",
+    "category": "Noun",
+    "meaning_english": "Condition. Per.-Ar. hālat.—KARANI: Forming.",
+    "meaning_bangla": "অবস্থা। Per.-Ar. hālat।—KARANI: গঠন।"
+  },
+  {
+    "word_roman": "HÁLA",
+    "word_bangla": "হালা",
+    "category": "Noun",
+    "meaning_english": "Wife's younger brother. Td. śyāla.—HAMUDI: Wife's younger brother.",
+    "meaning_bangla": "স্ত্রীর ছোট ভাই। Td. śyāla।—HAMUDI: স্ত্রীর ছোট ভাই।"
+  },
+  {
+    "word_roman": "HÁLAK",
+    "word_bangla": "হালাক",
+    "category": "Adjective",
+    "meaning_english": "Related as wife's younger brother. Td. śyālaka.",
+    "meaning_bangla": "স্ত্রীর ছোট ভাই-সম্পর্কিত। Td. śyālaka।"
+  },
+  {
+    "word_roman": "HALI-NAK",
+    "word_bangla": "হালি-নাক",
+    "category": "Adjective",
+    "meaning_english": "Related as wife's younger sister. Td. śyālikā, sec. el. nāk.",
+    "meaning_bangla": "স্ত্রীর ছোট বোন-সম্পর্কিত। Td. śyālikā, sec. el. nāk।"
+  },
+  {
+    "word_roman": "HALUK",
+    "word_bangla": "হালুক",
+    "category": "Noun",
+    "meaning_english": "Esculent root of water-lily. Td. śāluka.",
+    "meaning_bangla": "জলশাকের খাওয়ার যোগ্য মূল। Td. śāluka।"
+  },
+  {
+    "word_roman": "HÁLKA",
+    "word_bangla": "হালকা",
+    "category": "Adjective",
+    "meaning_english": "Light. Td. *lāghava-kṛta (?).",
+    "meaning_bangla": "হালকা। Td. *lāghava-kṛta (?)।"
+  },
+  {
+    "word_roman": "HÁL",
+    "word_bangla": "হাল",
+    "category": "Noun",
+    "meaning_english": "The second stage of husking. Mt. challa+kṣobha, V. chuwā. Cf. B. halla.",
+    "meaning_bangla": "ধান ছাড়ানোর দ্বিতীয় পর্যায়। Mt. challa+kṣobha, V. chuwā। Cf. B. halla।"
+  },
+  {
+    "word_roman": "HÁŚIYÁ",
+    "word_bangla": "হাশিয়া",
+    "category": "Noun",
+    "meaning_english": "(i) Fringe (as of a pond). (ii) Small canal. Per.-Ar. hāśiyah=border.",
+    "meaning_bangla": "(i) ঝালর (পুকুরের মতো)। (ii) ছোট খাল। Per.-Ar. hāśiyah=সীমানা।"
+  },
+  {
+    "word_roman": "HÁNKEL",
+    "word_bangla": "হাঙ্কেল",
+    "category": "Noun",
+    "meaning_english": "A fishing net placed open under water. Mt. haṅken (haṅ=to open, ken-pā=to fall).",
+    "meaning_bangla": "জলের নিচে খোলা রাখা মাছ ধরার জাল। Mt. haṅken (haṅ=খোলা, ken-pā=পড়া)।"
+  },
+  {
+    "word_roman": "HÁNGAN",
+    "word_bangla": "হাঙ্গান",
+    "category": "Noun",
+    "meaning_english": "Jail, an enclosed area. Td. saṅgrāha.",
+    "meaning_bangla": "জেল, ঘেরা এলাকা। Td. saṅgrāha।"
+  },
+  {
+    "word_roman": "HÁNGAMA",
+    "word_bangla": "হাঙ্গামা",
+    "category": "Noun",
+    "meaning_english": "Riot, quarrel, difficulty. Per. hangāmah.",
+    "meaning_bangla": "দাঙ্গা, ঝগড়া, অসুবিধা। Per. hangāmah।"
   }
 ]
