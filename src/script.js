@@ -150,4 +150,70 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Real-time search on input
   searchInput.addEventListener('input', performSearch);
+
+  // Page Navigation Logic
+  const pages = document.querySelectorAll('.page');
+  const navLinks = document.querySelectorAll('.desktop-nav a, .mobile-nav-link, #logo-link, .footer-link');
+  const backButtons = document.querySelectorAll('.back-btn');
+
+  const showPage = (pageId) => {
+    pages.forEach(page => {
+      if (page.id === `${pageId}-page`) {
+        page.classList.add('active');
+      } else {
+        page.classList.remove('active');
+      }
+    });
+    
+    // Scroll to top when switching pages
+    window.scrollTo(0, 0);
+  };
+
+  navLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      let target = link.id ? link.id.replace('nav-', '') : link.getAttribute('data-target');
+      
+      if (link.id === 'logo-link') target = 'home';
+      
+      if (target === 'home' || target === 'dictionary') {
+        showPage('dictionary');
+      } else if (target === 'intro') {
+        showPage('introduction');
+      }
+      
+      // Close mobile drawer if it's open
+      if (mobileDrawer.classList.contains('active')) {
+        toggleMenu();
+      }
+    });
+  });
+
+  backButtons.forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const target = btn.getAttribute('data-target');
+      if (target === 'home') {
+        showPage('dictionary');
+      }
+    });
+  });
+
+  // Hamburger Menu Toggle
+  const hamburgerBtn = document.getElementById('hamburger-btn');
+  const mobileDrawer = document.getElementById('mobile-drawer');
+  const drawerCloseBtn = document.getElementById('drawer-close');
+
+  const toggleMenu = () => {
+    hamburgerBtn.classList.toggle('active');
+    mobileDrawer.classList.toggle('active');
+  };
+
+  if (hamburgerBtn && mobileDrawer) {
+    hamburgerBtn.addEventListener('click', toggleMenu);
+    
+    if (drawerCloseBtn) {
+      drawerCloseBtn.addEventListener('click', toggleMenu);
+    }
+  }
 });

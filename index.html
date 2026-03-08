@@ -10,17 +10,160 @@
     <link rel="stylesheet" href="src/style.css">
 </head>
 <body>
-    <div class="container">
-        <div class="logo-container">
-            <img src="http://oja.rf.gd/wp-content/uploads/2026/03/Picsart_26-03-05_19-55-37-990.png" alt="Logo" class="logo" referrerPolicy="no-referrer">
+    <header class="main-header">
+        <div class="header-content">
+            <div class="header-logo">
+                <a href="#" id="logo-link">
+                    <span class="text-logo">BM DICTIONERY</span>
+                </a>
+            </div>
+            <nav class="desktop-nav">
+                <ul>
+                    <li><a href="#" id="nav-home">Home</a></li>
+                    <li><a href="#" id="nav-intro">Introduction</a></li>
+                    <li><a href="#" id="nav-dictionary">Dictionary</a></li>
+                    <li><a href="#" id="nav-contact">Contact</a></li>
+                </ul>
+            </nav>
+            <button class="hamburger" id="hamburger-btn" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </div>
-        <div class="search-box">
-            <input type="text" id="search-input" placeholder="Search..." autofocus autocomplete="off">
-        </div>
-        <div id="result-container" class="result-container">
-            <div class="empty-state"></div>
+    </header>
+
+    <div class="mobile-drawer" id="mobile-drawer">
+        <button class="drawer-close" id="drawer-close" aria-label="Close menu">&times;</button>
+        <nav class="mobile-nav">
+            <ul>
+                <li><a href="#" class="mobile-nav-link" data-target="home">Home</a></li>
+                <li><a href="#" class="mobile-nav-link" data-target="intro">Introduction</a></li>
+                <li><a href="#" class="mobile-nav-link" data-target="dictionary">Dictionary</a></li>
+                <li><a href="#" class="mobile-nav-link" data-target="contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="dictionary-page" class="page active">
+        <div class="container">
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Search..." autofocus autocomplete="off">
+            </div>
+            <div id="result-container" class="result-container">
+                <div class="empty-state"></div>
+            </div>
         </div>
     </div>
+
+    <div id="introduction-page" class="page">
+        <div class="intro-container">
+            <button class="back-btn" data-target="home">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+                Back to Home
+            </button>
+            <article class="intro-content">
+                <header class="intro-header">
+                    <h3>Bishnupriya Manipuri Language: An In-Depth Introduction</h3>
+                </header>
+                
+                <section>
+                    <p><strong>Bishnupriya Manipuri</strong> (also known as BPM, Bishnupriya, or Bishnupriya Meitei) is an Eastern Indo-Aryan language spoken primarily by the Bishnupriya people in parts of Northeast India (Assam, Tripura, Manipur) and Sylhet Division in Bangladesh. It evolved from Magadhi Prakrit and shares roots with Bengali, Assamese, and Odia, while incorporating significant Meitei (Tibeto-Burman) influences due to long historical contact in Manipur.</p>
+                </section>
+
+                <section>
+                    <h4>Dialects: Madai Gang and Rajar Gang</h4>
+                    <p>Bishnupriya Manipuri has two main dialects:</p>
+                    <ul>
+                        <li><strong>Madai Gang</strong> (Queen's Village dialect): Closer to Meitei in vocabulary and phonetics, with stronger Tibeto-Burman influence.</li>
+                        <li><strong>Rajar Gang</strong> (King's Village dialect): Closer to Bengali and Assamese.</li>
+                    </ul>
+                    <p>These dialects coexist in the same areas rather than being geographically separated. Morphological differences between them are negligible.</p>
+                    <p>In terms of vocabulary:</p>
+                    <ul>
+                        <li>Madai Gang aligns more with Meitei.</li>
+                        <li>Rajar Gang aligns more with Bengali and Assamese.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h4>Vocabulary Composition of Bishnupriya Manipuri</h4>
+                    <p>Dr. Kali Prasad Sinha (a key scholar) compiled a comprehensive etymological dictionary with about 30,000 words of BPM. The breakdown includes:</p>
+                    <ul>
+                        <li><strong>Tatsamas</strong> (direct Sanskrit borrowings): ~10,000</li>
+                        <li><strong>Semi-tatsamas</strong> / <strong>Ardha-tatsamas</strong> (partially modified Sanskrit): ~1,500</li>
+                        <li><strong>Tadbhavas</strong> (evolved from Old Indo-Aryan, shared with Hindi/Bengali/Assamese): ~8,000</li>
+                        <li><strong>Tadbhavas peculiar to BPM</strong> (unique to Bishnupriya): ~2,000–8,000 (estimates vary; many sources note over 8,000 words unique and not found in Assamese or Bengali)</li>
+                        <li><strong>Meitei borrowings</strong> (Tibeto-Burman): ~3,500–4,000</li>
+                        <li><strong>Perso-Arabic</strong>: ~2,000</li>
+                        <li><strong>English</strong>: ~700</li>
+                        <li><strong>Hybrid words</strong> (Indo-Aryan + Meitei combinations): ~1,000–1,300</li>
+                        <li><strong>Deśī</strong> (native/non-Aryan), others, and obscure origin: ~1,500–3,000</li>
+                    </ul>
+                    <p>The most remarkable feature is hybrid words formed by combining Old Indo-Aryan (OIA) and Meitei elements, highlighting the language's creole-like nature.</p>
+                </section>
+
+                <section>
+                    <h4>Source and Origin of Bishnupriya Manipuri</h4>
+                    <p>BPM developed from <strong>Magadhi Prakrit</strong> and ranks alongside Bengali, Odia, and Assamese in the Eastern Indo-Aryan group. This is evident from retained distinctive Magadhi features, including pronouns, conjugational, and declensional endings, which change slowly and match or closely relate to those in Bengali, Odia, and Assamese.</p>
+                </section>
+
+                <section>
+                    <h4>BPM as an Independent Language</h4>
+                    <p>Some scholars view BPM as a dialect of Assamese or Bengali due to shared characteristics. However, this is not tenable. BPM shares features not because it is a dialect, but because it originated from the same Magadhi Prakrit source.</p>
+                    <p>BPM has unique peculiarities absent in Assamese or Bengali:</p>
+                    <ul>
+                        <li>(a) Verbal forms vary by subject number and gender (e.g., "he goes" vs. "she goes").</li>
+                        <li>(b) Distinct case-endings and affixes (e.g., "lo" for "with", "rangto" for "from").</li>
+                        <li>(c) A complete "t-" form for future tense (e.g., "Mi kortou" = I shall do).</li>
+                        <li>(d) Distinct pronominal forms for verbal nouns.</li>
+                        <li>(e) Infinitives carry real sense (no pleonastic use).</li>
+                        <li>(f) Over 8,000 words unique to BPM, not found in Assamese or Bengali.</li>
+                    </ul>
+                    <p>It has had two dialects since ancient times. G.A. Grierson (Linguistic Survey of India) noted that BPM "widely differs" from both Assamese and Bengali, supporting its independent status.</p>
+                </section>
+
+                <section>
+                    <h4>Formation of BPM in Manipur</h4>
+                    <p>Claims that BPM is not native to Manipur (but imported from Assam/Bengal or a post-18th-century development by migrants) are misconceptions. BPM formed in Manipur itself and nowhere else.</p>
+                    <ul>
+                        <li>Historical works (e.g., Dalton's Ethnology of Bengal, Major McCulloch's Account of the Valley of Munnipore, Grierson's Linguistic Survey, Navakhendra's Khumal Purana) confirm BPM's existence in Manipur before the 19th century.</li>
+                        <li>About 50,000 people in Manipur's valley speak Meitei but are known as Bishnupriyas (with similar facial features/traditions), likely spoke BPM until early 20th century.</li>
+                        <li>Tibeto-Burman speakers (Meiteis) developing a uniform Indo-Aryan tongue with distinct pronunciation is unlikely without long coexistence.</li>
+                        <li>Migration theories fail to explain uniform language development in distant shelters.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h4>Earliest Existence of BPM in Manipur</h4>
+                    <p>European/Indian scholars' works from the first half of the 19th century reference BPM in Manipur. Navakhendra's Khumal Purana mentions it during Garib Nawaj's reign (mid-18th century). The oldest folk song, "Boron-dahanir Ela" (Rain-invoking/Rain-breaking song), analyzed linguistically and culturally, was likely composed in the mid-16th century (or 13th–15th centuries per some estimates). It incorporates many Meitei words, indicating long coexistence.</p>
+                    <p>BPM likely separated from the eastern Indo-Aryan group during the 13th–15th centuries A.D., developing distinctive features in Manipur. Waves of Indo-Aryan speakers entered Manipur over time, contributing elements.</p>
+                </section>
+
+                <section>
+                    <h4>Stages of Development in Bishnupriya Manipuri</h4>
+                    <p>BPM's history divides into three stages:</p>
+                    <ol>
+                        <li><strong>Old BPM</strong> (13th–16th centuries): Prevalent during close Bishnupriya-Meitei contact; BPM became replete with Meitei words.</li>
+                        <li><strong>Middle BPM</strong> (17th–18th centuries): Fewer Indo-Aryan groups entered and assimilated; more Indo-Aryan words incorporated, Meitei influence weakened slightly.</li>
+                        <li><strong>New BPM</strong> (19th century onward): After migration to Assam, Tripura, and Sylhet due to conflicts, contact with other Indo-Aryan speakers increased. Meitei influence diminished; many Meitei-origin words replaced by Indo-Aryan ones. This replacement continues today.</li>
+                    </ol>
+                </section>
+
+                <footer class="intro-footer">
+                    <p>Bishnupriya Manipuri remains a vibrant, endangered language preserving a unique blend of Indo-Aryan structure and Tibeto-Burman (Meitei) lexicon. It forms a key part of Manipur's shared heritage despite community differences.</p>
+                </footer>
+            </article>
+        </div>
+    </div>
+
+    <footer class="main-footer">
+        <div class="footer-container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 BM DICTIONERY. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
     <script src="src/script.js"></script>
 </body>
 </html>
