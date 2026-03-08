@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const metaDesc = document.getElementById('meta-description');
       const canonLink = document.getElementById('canonical-link');
       if (metaDesc) metaDesc.setAttribute('content', "Explore the BM Dictionary to find meanings of regional words in English and Bangla. A simple, fast, and modern dictionary app.");
-      if (canonLink) canonLink.setAttribute('href', window.location.origin);
+      if (canonLink) canonLink.setAttribute('href', 'https://oja.rf.gd/');
 
       resultContainer.innerHTML = `
         <div class="empty-state">
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       // Update Canonical Link
       if (canonicalLink) {
-        const url = new URL(window.location.href);
+        const url = new URL('https://oja.rf.gd/');
         url.searchParams.set('q', query);
         canonicalLink.setAttribute('href', url.toString());
       }
@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Limit results for performance if many matches
       const displayMatches = matches.slice(0, 50);
       
-      resultContainer.innerHTML = displayMatches.map(entry => `
+      resultContainer.innerHTML = displayMatches.map((entry, index) => `
         <div class="result-card">
           <div class="word-header">
             <h2 class="word-roman">${highlight(entry.word_roman, query)}</h2>
@@ -165,6 +165,10 @@ document.addEventListener('DOMContentLoaded', () => {
             <h3 class="section-label label-bangla">Bangla Meaning</h3>
             <p class="meaning-text bangla-meaning bangla-text">${entry.meaning_bangla || ''}</p>
           </div>
+
+          <button class="share-btn-top" onclick="shareWord('${entry.word_roman.replace(/'/g, "\\'")}', '${entry.meaning_english.replace(/'/g, "\\'")}')" title="Share Word">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>
+          </button>
         </div>
       `).join('');
 
@@ -175,7 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Reset SEO to default
       document.title = defaultTitle;
       if (metaDescription) metaDescription.setAttribute('content', defaultDesc);
-      if (canonicalLink) canonicalLink.setAttribute('href', window.location.origin);
+      if (canonicalLink) canonicalLink.setAttribute('href', 'https://oja.rf.gd/');
 
       resultContainer.innerHTML = `
         <div class="error">
@@ -192,6 +196,50 @@ document.addEventListener('DOMContentLoaded', () => {
   const pages = document.querySelectorAll('.page');
   const navLinks = document.querySelectorAll('.desktop-nav a, .mobile-nav-link, #logo-link, .footer-link');
   const backButtons = document.querySelectorAll('.back-btn');
+
+  // Toast System
+  const toast = document.createElement('div');
+  toast.className = 'toast';
+  document.body.appendChild(toast);
+
+  const showToast = (message) => {
+    toast.textContent = message;
+    toast.classList.add('show');
+    setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2000);
+  };
+
+  // Copy to Clipboard
+  window.copyToClipboard = (word, meaning) => {
+    const text = `${word}: ${meaning}\nShared via BM Dictionary`;
+    navigator.clipboard.writeText(text).then(() => {
+      showToast('Copied to clipboard!');
+    }).catch(err => {
+      console.error('Failed to copy: ', err);
+    });
+  };
+
+  // Share Functionality
+  window.shareWord = (word, meaning) => {
+    const shareUrl = `https://oja.rf.gd/?q=${encodeURIComponent(word)}`;
+    const shareData = {
+      title: `${word} - BM Dictionary`,
+      text: `Learn the meaning of "${word}" in BM Dictionary: ${meaning}`,
+      url: shareUrl
+    };
+
+    if (navigator.share) {
+      navigator.share(shareData).catch(err => {
+        console.log('Share failed:', err);
+      });
+    } else {
+      // Fallback: Copy link
+      navigator.clipboard.writeText(shareUrl).then(() => {
+        showToast('Link copied to clipboard!');
+      });
+    }
+  };
 
   const showPage = (pageId) => {
     pages.forEach(page => {
