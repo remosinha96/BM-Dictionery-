@@ -48605,5 +48605,1622 @@
     "category": "Interjection",
     "meaning_english": "A word expressing 'sorrow and astonishment'. Cf. Vedic haye.",
     "meaning_bangla": "'দুঃখ ও বিস্ময়' প্রকাশক শব্দ। Cf. Vedic haye।"
+  },
+  {
+    "word_roman": "HÁP",
+    "word_bangla": "হাপ",
+    "category": "Noun",
+    "meaning_english": "Embrace. Mt. hāp-pā=to embrace.—DANI: Embracing.",
+    "meaning_bangla": "আলিঙ্গন। Mt. hāp-pā=আলিঙ্গন করা।—DANI: আলিঙ্গন করা।"
+  },
+  {
+    "word_roman": "HÁPU(M)",
+    "word_bangla": "হাপু(ম)",
+    "category": "Noun",
+    "meaning_english": "Weeds (as are stuck to a plough). Mt. hāpu.",
+    "meaning_bangla": "আগাছা (লাঙ্গলে আটকে থাকা)। Mt. hāpu।"
+  },
+  {
+    "word_roman": "HÁPEI",
+    "word_bangla": "হাপেই",
+    "category": "Noun",
+    "meaning_english": "A big wicker-basket. Mt. hāp-pā=to place+pai-pā=to heap.",
+    "meaning_bangla": "বড় বেতের ঝুড়ি। Mt. hāp-pā=রাখা+pai-pā=স্তূপ করা।"
+  },
+  {
+    "word_roman": "HÁPTÁ",
+    "word_bangla": "হাপ্তা",
+    "category": "Noun",
+    "meaning_english": "Week. Td. saptāha.",
+    "meaning_bangla": "সপ্তাহ। Td. saptāha।"
+  },
+  {
+    "word_roman": "HÁBBHÁB",
+    "word_bangla": "হাব্ভাব",
+    "category": "Noun",
+    "meaning_english": "Condition, mentality. Td. *sambhāva.",
+    "meaning_bangla": "অবস্থা, মানসিকতা। Td. *sambhāva।"
+  },
+  {
+    "word_roman": "HAM",
+    "word_bangla": "হাম",
+    "category": "Adjective",
+    "meaning_english": "Dry and weak. Td. kṣāma.",
+    "meaning_bangla": "শুকনো ও দুর্বল। Td. kṣāma।"
+  },
+  {
+    "word_roman": "HAMÁ",
+    "word_bangla": "হামা",
+    "category": "Adjective",
+    "meaning_english": "All. Per. ham.—UMAR: For all the time.",
+    "meaning_bangla": "সব। Per. ham।—UMAR: সর্বদা।"
+  },
+  {
+    "word_roman": "HAMAT",
+    "word_bangla": "হামাত",
+    "category": "Noun",
+    "meaning_english": "End, conclusion. Sts. samāpta.—DENA: Concluding, finishing.",
+    "meaning_bangla": "শেষ, সমাপ্তি। Sts. samāpta।—DENA: সমাপ্তি, শেষ করা।"
+  },
+  {
+    "word_roman": "HAMAL",
+    "word_bangla": "হামাল",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hambāl.",
+    "meaning_bangla": "hambāl-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HAMUK",
+    "word_bangla": "হামুক",
+    "category": "Noun",
+    "meaning_english": "Snail. Td. śambūka.",
+    "meaning_bangla": "শামুক। Td. śambūka।"
+  },
+  {
+    "word_roman": "HAMUDI",
+    "word_bangla": "হামুদি",
+    "category": "Noun",
+    "meaning_english": "Wife's brother (used after the word 'hālā' to indicate a plural sense). Td. *sāmbandhika.",
+    "meaning_bangla": "স্ত্রীর ভাই ('hālā' শব্দের পর ব্যবহৃত বহুবচন নির্দেশ করতে)। Td. *sāmbandhika।"
+  },
+  {
+    "word_roman": "HAMESA",
+    "word_bangla": "হামেশা",
+    "category": "Adverb",
+    "meaning_english": "Always. Per. hameśah.—BIL: Always.",
+    "meaning_bangla": "সর্বদা। Per. hameśah।—BIL: সর্বদা।"
+  },
+  {
+    "word_roman": "HAMCA(M)",
+    "word_bangla": "হামচা(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hāmuk.",
+    "meaning_bangla": "hāmuk-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HAMBAL",
+    "word_bangla": "হাম্বাল",
+    "category": "Noun",
+    "meaning_english": "Epidemic. Td. *sañcāra.",
+    "meaning_bangla": "মহামারী। Td. *sañcāra।"
+  },
+  {
+    "word_roman": "HAMBAL",
+    "word_bangla": "হাম্বাল",
+    "category": "Noun",
+    "meaning_english": "Growth, age or growth (of animals). Td. sambhāra or *sambhārika (=control>strength). Syl. B. hāmbālika.",
+    "meaning_bangla": "বৃদ্ধি, বয়স বা বৃদ্ধি (পশুর)। Td. sambhāra or *sambhārika (=নিয়ন্ত্রণ>শক্তি)। Syl. B. hāmbālika।"
+  },
+  {
+    "word_roman": "HAMBAL",
+    "word_bangla": "হাম্বাল",
+    "category": "Noun",
+    "meaning_english": "Weeds (as was stuck to a plough). Mt. hām-pā=to remove dirt.",
+    "meaning_bangla": "আগাছা (লাঙ্গলে আটকে থাকা)। Mt. hām-pā=ময়লা অপসারণ।"
+  },
+  {
+    "word_roman": "HAMLA",
+    "word_bangla": "হামলা",
+    "category": "Noun",
+    "meaning_english": "Riot. Per.-Ar. hamla=attack.",
+    "meaning_bangla": "দাঙ্গা। Per.-Ar. hamla=আক্রমণ।"
+  },
+  {
+    "word_roman": "HAMHAM",
+    "word_bangla": "হামহাম",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'state of full vigour' or 'working with full vigour'. Onom.",
+    "meaning_bangla": "'পূর্ণ উদ্যমের অবস্থা' বা 'পূর্ণ উদ্যমে কাজ করা' নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HAYAT",
+    "word_bangla": "হায়াত",
+    "category": "Noun",
+    "meaning_english": "Strength. Per. hayāt=life.",
+    "meaning_bangla": "শক্তি। Per. hayāt=জীবন।"
+  },
+  {
+    "word_roman": "PHURANI",
+    "word_bangla": "ফুরানি",
+    "category": "Noun",
+    "meaning_english": "Strength being exhausted. Onom.",
+    "meaning_bangla": "শক্তি নিঃশেষ হওয়া। Onom।"
+  },
+  {
+    "word_roman": "HAYAYTI",
+    "word_bangla": "হায়ায়তি",
+    "category": "Noun",
+    "meaning_english": "Strength. hāyāt+i.—NEI: Impossible.",
+    "meaning_bangla": "শক্তি। hāyāt+i।—NEI: অসম্ভব।"
+  },
+  {
+    "word_roman": "HAYHAY",
+    "word_bangla": "হায়হায়",
+    "category": "Interjection",
+    "meaning_english": "A word expressing 'sorrow and astonishment'. Cf. Vedic haye.",
+    "meaning_bangla": "'দুঃখ ও বিস্ময়' প্রকাশক শব্দ। Cf. Vedic haye।"
+  },
+  {
+    "word_roman": "HI'CI-MICI",
+    "word_bangla": "হি'চি-মিচি",
+    "category": "Adjective",
+    "meaning_english": "Scattered. Td. *siñcika, sec. el. echo-word.",
+    "meaning_bangla": "ছড়ানো। Td. *siñcika, sec. el. echo-word।"
+  },
+  {
+    "word_roman": "HIJ-",
+    "word_bangla": "হিজ্-",
+    "category": "Verb",
+    "meaning_english": "To be boiled, to be affected with heat. Td. siddhya-.",
+    "meaning_bangla": "সিদ্ধ হওয়া, তাপে আক্রান্ত হওয়া। Td. siddhya-।"
+  },
+  {
+    "word_roman": "HIJA",
+    "word_bangla": "হিজা",
+    "category": "Noun",
+    "meaning_english": "Ear (as paddy). Td. siddhya-.",
+    "meaning_bangla": "ধানের কান (শীষ)। Td. siddhya-।"
+  },
+  {
+    "word_roman": "HIJÁ",
+    "word_bangla": "হিজা",
+    "category": "Noun",
+    "meaning_english": "(i) Ear (of paddy left in the field). Td. *śiṣyaka (for vavāśiṣyaka) or *śrṣaka.",
+    "meaning_bangla": "(i) ক্ষেতে রেখে যাওয়া ধানের শীষ। Td. *śiṣyaka (vavāśiṣyaka-এর জন্য) or *śrṣaka।"
+  },
+  {
+    "word_roman": "HIJA",
+    "word_bangla": "হিজা",
+    "category": "Adjective",
+    "meaning_english": "Boiled (as rice). Td. *siddhyaka, *siddhyāpaka.",
+    "meaning_bangla": "সিদ্ধ (ভাতের মতো)। Td. *siddhyaka, *siddhyāpaka।"
+  },
+  {
+    "word_roman": "HUA-",
+    "word_bangla": "হুয়া-",
+    "category": "Verb",
+    "meaning_english": "To boil, to affect with heat. Td. *siddhyāpaya-.",
+    "meaning_bangla": "সিদ্ধ করা, তাপে আক্রান্ত করা। Td. *siddhyāpaya-।"
+  },
+  {
+    "word_roman": "HUJA-",
+    "word_bangla": "হুজা-",
+    "category": "Verb",
+    "meaning_english": "(i) To boil. (ii) To husk finally. Td. *siddhyāpaya-.",
+    "meaning_bangla": "(i) সিদ্ধ করা। (ii) শেষভাবে খোসা ছাড়ানো। Td. *siddhyāpaya-।"
+  },
+  {
+    "word_roman": "HUJAN-THAU",
+    "word_bangla": "হুজান-থাউ",
+    "category": "Adjective",
+    "meaning_english": "Enterprising, enthusiastic. Mt. haiśīñ+lañthau, cont.",
+    "meaning_bangla": "উদ্যমী, উৎসাহী। Mt. haiśīñ+lañthau, cont।"
+  },
+  {
+    "word_roman": "HUJANI",
+    "word_bangla": "হুজানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being boiled, being affected with heat. (ii) Boiling. huj+ -āni. Td. *siddhyāpanika.",
+    "meaning_bangla": "(i) সিদ্ধ হওয়া, তাপে আক্রান্ত হওয়া। (ii) সিদ্ধ করা। huj+ -āni। Td. *siddhyāpanika।"
+  },
+  {
+    "word_roman": "HUJANI",
+    "word_bangla": "হুজানি",
+    "category": "Noun",
+    "meaning_english": "Being boiled fully. (i) huj+ -āni. (ii) huj+ -āni. Td. *siddhyāpanika.",
+    "meaning_bangla": "পুরোপুরি সিদ্ধ হওয়া। (i) huj+ -āni। (ii) huj+ -āni। Td. *siddhyāpanika।"
+  },
+  {
+    "word_roman": "HUJABUI",
+    "word_bangla": "হুজাবুই",
+    "category": "Adjective",
+    "meaning_english": "Worthless, meaningless. Cf. B. hijibiji.",
+    "meaning_bangla": "মূল্যহীন, অর্থহীন। Cf. B. hijibiji।"
+  },
+  {
+    "word_roman": "HINCAPA",
+    "word_bangla": "হিনচাপা",
+    "category": "Noun",
+    "meaning_english": "(i) Demon, man-eater. (ii) Cruel man. M. Mt. hiñcāpā (hiñ=alive, cā-pā=to eat).",
+    "meaning_bangla": "(i) দানব, মানুষখেকো। (ii) নিষ্ঠুর মানুষ। M. Mt. hiñcāpā (hiñ=জীবিত, cā-pā=খাওয়া)।"
+  },
+  {
+    "word_roman": "HINCAP(I)",
+    "word_bangla": "হিনচাপ(ই)",
+    "category": "Noun",
+    "meaning_english": "(i) Demons. (ii) Cruel woman. M. Mt. hiñcāpi.",
+    "meaning_bangla": "(i) দানব। (ii) নিষ্ঠুর মহিলা। M. Mt. hiñcāpi।"
+  },
+  {
+    "word_roman": "HITA-HITA",
+    "word_bangla": "হিতা-হিতা",
+    "category": "Adjective",
+    "meaning_english": "Half-wet, half-dry. Td. hiñcāpā.",
+    "meaning_bangla": "অর্ধেক ভেজা, অর্ধেক শুকনো। Td. hiñcāpā।"
+  },
+  {
+    "word_roman": "HITAKARI",
+    "word_bangla": "হিতাকারি",
+    "category": "Noun",
+    "meaning_english": "Well-wisher, benefactor. Ts. *śītakāri.",
+    "meaning_bangla": "হিতৈষী, উপকারী। Ts. *śītakāri।"
+  },
+  {
+    "word_roman": "HITAM",
+    "word_bangla": "হিতাম",
+    "category": "Noun",
+    "meaning_english": "The act of applying a spell or charm. Mt. (mahi=applying spell)+tām-pā (=to read).",
+    "meaning_bangla": "মন্ত্র বা তাবিজ লাগানোর কাজ। Mt. (mahi=মন্ত্র লাগানো)+tām-pā (=পড়া)।"
+  },
+  {
+    "word_roman": "HIDA(M), HIDAL",
+    "word_bangla": "হিদা(ম), হিদাল",
+    "category": "Noun",
+    "meaning_english": "Preserved or fermented fish. Td. *sidhma.",
+    "meaning_bangla": "সংরক্ষিত বা গাঁজানো মাছ। Td. *sidhma।"
+  },
+  {
+    "word_roman": "HIDAL",
+    "word_bangla": "হিদাল",
+    "category": "Noun",
+    "meaning_english": "Cot. Mt. hidān.",
+    "meaning_bangla": "খাট। Mt. hidān।"
+  },
+  {
+    "word_roman": "HIN",
+    "word_bangla": "হিন",
+    "category": "Noun",
+    "meaning_english": "Sufferings. Td. khinna.—ULĀ: Labourer.",
+    "meaning_bangla": "কষ্ট। Td. khinna।—ULĀ: শ্রমিক।"
+  },
+  {
+    "word_roman": "HINA",
+    "word_bangla": "হিনা",
+    "category": "Noun",
+    "meaning_english": "Stitching. hi-+ -nā. Td. *sivanaka.",
+    "meaning_bangla": "সেলাই। hi-+ -nā। Td. *sivanaka।"
+  },
+  {
+    "word_roman": "HINA",
+    "word_bangla": "হিনা",
+    "category": "Noun",
+    "meaning_english": "To have a bath. Td. snāna.",
+    "meaning_bangla": "স্নান করা। Td. snāna।"
+  },
+  {
+    "word_roman": "HINANI",
+    "word_bangla": "হিনানি",
+    "category": "Noun",
+    "meaning_english": "Bathing. hiñā+ -āni. Td. *snāpanika.",
+    "meaning_bangla": "স্নান করা। hiñā+ -āni। Td. *snāpanika।"
+  },
+  {
+    "word_roman": "HINDU",
+    "word_bangla": "হিন্দু",
+    "category": "Noun",
+    "meaning_english": "The Hindu. Per. hindu, OIA. sindhu.",
+    "meaning_bangla": "হিন্দু। Per. hindu, OIA. sindhu।"
+  },
+  {
+    "word_roman": "HIMANI",
+    "word_bangla": "হিমানি",
+    "category": "Noun",
+    "meaning_english": "Snow. Ts. hima.",
+    "meaning_bangla": "তুষার। Ts. hima।"
+  },
+  {
+    "word_roman": "HIMMAT",
+    "word_bangla": "হিম্মত",
+    "category": "Noun",
+    "meaning_english": "Courage. Per.-Ar. himmat=power.",
+    "meaning_bangla": "সাহস। Per.-Ar. himmat=শক্তি।"
+  },
+  {
+    "word_roman": "HIYAR",
+    "word_bangla": "হিয়ার",
+    "category": "Noun",
+    "meaning_english": "The direction towards the head of a person lying. Td. śikhara.",
+    "meaning_bangla": "শুয়ে থাকা ব্যক্তির মাথার দিক। Td. śikhara।"
+  },
+  {
+    "word_roman": "HIYA-",
+    "word_bangla": "হিয়া-",
+    "category": "Verb",
+    "meaning_english": "To sew, to stitch. Td. *sivāpaya-.",
+    "meaning_bangla": "সেলাই করা। Td. *sivāpaya-।"
+  },
+  {
+    "word_roman": "HIYANI",
+    "word_bangla": "হিয়ানি",
+    "category": "Noun",
+    "meaning_english": "Stitching. hiyā+ -āni. Td. *sivāpanika.",
+    "meaning_bangla": "সেলাই। hiyā+ -āni। Td. *sivāpanika।"
+  },
+  {
+    "word_roman": "HIYAL",
+    "word_bangla": "হিয়াল",
+    "category": "Noun",
+    "meaning_english": "Jackal. Td. śṛgāla.",
+    "meaning_bangla": "শিয়াল। Td. śṛgāla।"
+  },
+  {
+    "word_roman": "HIRAM",
+    "word_bangla": "হিরাম",
+    "category": "Noun",
+    "meaning_english": "Condition, probability (as of flood). Mt. hiram=subject.",
+    "meaning_bangla": "অবস্থা, সম্ভাবনা (বন্যার মতো)। Mt. hiram=বিষয়।"
+  },
+  {
+    "word_roman": "HIRAM(M)",
+    "word_bangla": "হিরাম(ম)",
+    "category": "Noun",
+    "meaning_english": "Effort, enterprise. Mt. hiram.",
+    "meaning_bangla": "চেষ্টা, উদ্যোগ। Mt. hiram।"
+  },
+  {
+    "word_roman": "HÍSÁNI",
+    "word_bangla": "হিসানি",
+    "category": "Adjective",
+    "meaning_english": "(i) Calculative. (ii) Circumspect, cautious. hi+sáb+2.-i.",
+    "meaning_bangla": "(i) হিসাবী। (ii) সতর্ক, সাবধান। hi+sáb+2.-i।"
+  },
+  {
+    "word_roman": "HÍSKA",
+    "word_bangla": "হিস্কা",
+    "category": "Noun",
+    "meaning_english": "Habbit. Cf. OIA. *śirṣakta.",
+    "meaning_bangla": "অভ্যাস। Cf. OIA. *śirṣakta।"
+  },
+  {
+    "word_roman": "HIRÁ",
+    "word_bangla": "হিরা",
+    "category": "Noun",
+    "meaning_english": "Diamond. Mt. hū. Cf. Per. humā=poison.",
+    "meaning_bangla": "হীরা। Mt. hū। Cf. Per. humā=বিষ।"
+  },
+  {
+    "word_roman": "HU-",
+    "word_bangla": "হু-",
+    "category": "Verb",
+    "meaning_english": "To tolerate, to bear. Td. saha-.",
+    "meaning_bangla": "সহ্য করা। Td. saha-।"
+  },
+  {
+    "word_roman": "HUI(M)",
+    "word_bangla": "হুই(ম)",
+    "category": "Noun",
+    "meaning_english": "Rivet. Mt. hui.",
+    "meaning_bangla": "রিভেট। Mt. hui।"
+  },
+  {
+    "word_roman": "HUIHUI",
+    "word_bangla": "হুইহুই",
+    "category": "Noun",
+    "meaning_english": "A word denoting 'extreme hunger'. Onom. Cf. Mt. hūi=dog.",
+    "meaning_bangla": "'চরম ক্ষুধা' নির্দেশক শব্দ। Onom. Cf. Mt. hūi=কুকুর।"
+  },
+  {
+    "word_roman": "HUK-",
+    "word_bangla": "হুক্-",
+    "category": "Verb",
+    "meaning_english": "(i) To become dry, to be sunned. (ii) To emaciate. Td. śuṣka, denom.",
+    "meaning_bangla": "(i) শুকিয়ে যাওয়া, রোদে দেওয়া। (ii) কৃশ হওয়া। Td. śuṣka, denom।"
+  },
+  {
+    "word_roman": "HUKAN",
+    "word_bangla": "হুকান",
+    "category": "Noun",
+    "meaning_english": "Dry fish. Td. *śuṣkana.",
+    "meaning_bangla": "শুকনো মাছ। Td. *śuṣkana।"
+  },
+  {
+    "word_roman": "HUKA",
+    "word_bangla": "হুকা",
+    "category": "Noun",
+    "meaning_english": "Sunning. denom. of śuṣka.",
+    "meaning_bangla": "রোদে দেওয়া। śuṣka-এর denom।"
+  },
+  {
+    "word_roman": "HUKAPAKA",
+    "word_bangla": "হুকাপাকা",
+    "category": "Verb",
+    "meaning_english": "To dry, to sun, to emaciate. Td. *śuṣkāpay-.",
+    "meaning_bangla": "শুকানো, রোদে দেওয়া, কৃশ করা। Td. *śuṣkāpay-।"
+  },
+  {
+    "word_roman": "HUKANA",
+    "word_bangla": "হুকানা",
+    "category": "Adjective",
+    "meaning_english": "Dry, withered. Td. *śuṣka.",
+    "meaning_bangla": "শুকনো, শুকিয়ে যাওয়া। Td. *śuṣka।"
+  },
+  {
+    "word_roman": "HUKANI",
+    "word_bangla": "হুকানি",
+    "category": "Noun",
+    "meaning_english": "(i) Being dried, being sunned, being emaciated. (ii) Drying, sunning. (i) huk+ -āni. (ii) hukā+ -āni. Td. *śuṣkāpanika.",
+    "meaning_bangla": "(i) শুকানো হওয়া, রোদে দেওয়া হওয়া, কৃশ হওয়া। (ii) শুকানো, রোদে দেওয়া। (i) huk+ -āni। (ii) hukā+ -āni। Td. *śuṣkāpanika।"
+  },
+  {
+    "word_roman": "HUKUM",
+    "word_bangla": "হুকুম",
+    "category": "Noun",
+    "meaning_english": "Order, command. Per.-Ar. hukm.",
+    "meaning_bangla": "আদেশ, হুকুম। Per.-Ar. hukm।"
+  },
+  {
+    "word_roman": "HUKTI",
+    "word_bangla": "হুক্তি",
+    "category": "Noun",
+    "meaning_english": "Dry fish. Td. śuṣka+i+śukti or *śuṣkavṛtti.",
+    "meaning_bangla": "শুকনো মাছ। Td. śuṣka+i+śukti or *śuṣkavṛtti।"
+  },
+  {
+    "word_roman": "HUN(M)",
+    "word_bangla": "হুন(ম)",
+    "category": "Noun",
+    "meaning_english": "Pointed tip of something. Td. śūla.",
+    "meaning_bangla": "কোনো কিছুর সূচালো ডগা। Td. śūla।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Noun",
+    "meaning_english": "A word denoting a 'state of sudden fury or fear or astonishment'. Onom.",
+    "meaning_bangla": "'আকস্মিক রাগ বা ভয় বা বিস্ময়ের অবস্থা' নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HUCI",
+    "word_bangla": "হুচি",
+    "category": "Noun",
+    "meaning_english": "Needle. Td. sūci.",
+    "meaning_bangla": "সুই। Td. sūci।"
+  },
+  {
+    "word_roman": "HUCIKA",
+    "word_bangla": "হুচিকা",
+    "category": "Noun",
+    "meaning_english": "Itch, scab. Td. *sūciktā.—RIKA: The act of applying a spell or charm.",
+    "meaning_bangla": "চুলকানি, খোসা। Td. *sūciktā।—RIKA: মন্ত্র বা তাবিজ লাগানোর কাজ।"
+  },
+  {
+    "word_roman": "HUCIDHARA",
+    "word_bangla": "হুচিধারা",
+    "category": "Noun",
+    "meaning_english": "Alt. form of khucidhara.",
+    "meaning_bangla": "khucidhara-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HUCCYYAR",
+    "word_bangla": "হুচ্চিয়ার",
+    "category": "Adjective",
+    "meaning_english": "Cautious. Per. hośyār=clever.",
+    "meaning_bangla": "সতর্ক। Per. hośyār=চতুর।"
+  },
+  {
+    "word_roman": "HU'CEL",
+    "word_bangla": "হু'চেল",
+    "category": "Noun",
+    "meaning_english": "Whistle. Eng.",
+    "meaning_bangla": "হুইসেল। Eng।"
+  },
+  {
+    "word_roman": "HUJ-",
+    "word_bangla": "হুজ্-",
+    "category": "Verb",
+    "meaning_english": "To repay. Td. śudhya.",
+    "meaning_bangla": "পরিশোধ করা। Td. śudhya।"
+  },
+  {
+    "word_roman": "HUJA",
+    "word_bangla": "হুজা",
+    "category": "Noun",
+    "meaning_english": "(i) A carrier made of bamboo or wood (lit. straight). Td. *śudhyaka (for straight) or *śudhyaka.",
+    "meaning_bangla": "(i) বাঁশ বা কাঠের বাহক (আক্ষ. সোজা)। Td. *śudhyaka (সোজা-এর জন্য) or *śudhyaka।"
+  },
+  {
+    "word_roman": "HUJA-",
+    "word_bangla": "হুজা-",
+    "category": "Verb",
+    "meaning_english": "(i) To repay. (ii) To retaliate. Td. *śudhyāpaya-.",
+    "meaning_bangla": "(i) পরিশোধ করা। (ii) প্রতিশোধ নেওয়া। Td. *śudhyāpaya-।"
+  },
+  {
+    "word_roman": "HUJANI",
+    "word_bangla": "হুজানি",
+    "category": "Noun",
+    "meaning_english": "(i) Repaying. (ii) Retaliating. hujā+ -āni. Td. *śudhyāpanika.",
+    "meaning_bangla": "(i) পরিশোধ। (ii) প্রতিশোধ। hujā+ -āni। Td. *śudhyāpanika।"
+  },
+  {
+    "word_roman": "HUJUG",
+    "word_bangla": "হুজুগ",
+    "category": "Noun",
+    "meaning_english": "Excitement, whim. Per.-Ar. hujūm.",
+    "meaning_bangla": "উত্তেজনা, খেয়াল। Per.-Ar. hujūm।"
+  },
+  {
+    "word_roman": "HUTA",
+    "word_bangla": "হুতা",
+    "category": "Adjective",
+    "meaning_english": "Half-dry, not fresh (as a flower). Td. *śuṣṭa.",
+    "meaning_bangla": "অর্ধেক শুকনো, তাজা নয় (ফুলের মতো)। Td. *śuṣṭa।"
+  },
+  {
+    "word_roman": "HUT(M)",
+    "word_bangla": "হুত(ম)",
+    "category": "Noun",
+    "meaning_english": "The essence of a fruit. Cf. OIA. sūta.",
+    "meaning_bangla": "ফলের সার। Cf. OIA. sūta।"
+  },
+  {
+    "word_roman": "HUT",
+    "word_bangla": "হুত",
+    "category": "Noun",
+    "meaning_english": "Current, flow. Td. srotas.",
+    "meaning_bangla": "প্রবাহ, স্রোত। Td. srotas।"
+  },
+  {
+    "word_roman": "HUT-",
+    "word_bangla": "হুত্-",
+    "category": "Verb",
+    "meaning_english": "To stick to the ground. Td. *srotas.",
+    "meaning_bangla": "মাটিতে আটকে থাকা। Td. *srotas।"
+  },
+  {
+    "word_roman": "HUTANI",
+    "word_bangla": "হুতানি",
+    "category": "Noun",
+    "meaning_english": "(i) Sticking to the ground. (ii) Felling to the ground. (i) hut+ -āni. (ii) hutā+ -āni. Td. *suptāpanika.",
+    "meaning_bangla": "(i) মাটিতে আটকে থাকা। (ii) মাটিতে ফেলা। (i) hut+ -āni। (ii) hutā+ -āni। Td. *suptāpanika।"
+  },
+  {
+    "word_roman": "HUTAS",
+    "word_bangla": "হুতাস",
+    "category": "Noun",
+    "meaning_english": "Repentance. Sts. hatāśa.",
+    "meaning_bangla": "অনুতাপ। Sts. hatāśa।"
+  },
+  {
+    "word_roman": "HUTARI",
+    "word_bangla": "হুতারি",
+    "category": "Noun",
+    "meaning_english": "Carpenter. Sts. hatāśādhārika.",
+    "meaning_bangla": "ছুতার। Sts. hatāśādhārika।"
+  },
+  {
+    "word_roman": "HUTURA",
+    "word_bangla": "হুতুরা",
+    "category": "Adjective",
+    "meaning_english": "Sloping, slanting. Td. *srotas-kāraka.",
+    "meaning_bangla": "ঢালু, তির্যক। Td. *srotas-kāraka।"
+  },
+  {
+    "word_roman": "HUTTUME",
+    "word_bangla": "হুত্তুমে",
+    "category": "Adverb",
+    "meaning_english": "Truly. Sts. satyameva.",
+    "meaning_bangla": "সত্যিই। Sts. satyameva।"
+  },
+  {
+    "word_roman": "HUT-HUTEI",
+    "word_bangla": "হুত-হুতেই",
+    "category": "Noun",
+    "meaning_english": "A word denoting the 'sound of caning'. Onom. hut-hut+ -āi.",
+    "meaning_bangla": "বেত্রাঘাতের 'শব্দ' নির্দেশক শব্দ। Onom. hut-hut+ -āi।"
+  },
+  {
+    "word_roman": "HUDA",
+    "word_bangla": "হুদা",
+    "category": "Adjective",
+    "meaning_english": "Only. Td. *śuddha.",
+    "meaning_bangla": "শুধু। Td. *śuddha।"
+  },
+  {
+    "word_roman": "HUDA-RUHA",
+    "word_bangla": "হুদা-রুহা",
+    "category": "Noun",
+    "meaning_english": "A plant. Td. *śuddha.",
+    "meaning_bangla": "একটি উদ্ভিদ। Td. *śuddha।"
+  },
+  {
+    "word_roman": "HUDAL",
+    "word_bangla": "হুদাল",
+    "category": "Adjective",
+    "meaning_english": "Vacant, empty. Td. *śuddhapālaka.",
+    "meaning_bangla": "খালি, শূন্য। Td. *śuddhapālaka।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Noun",
+    "meaning_english": "The act of straining oneself by stopping or controlling breath. Onom.",
+    "meaning_bangla": "শ্বাস নিয়ন্ত্রণ করে নিজেকে চাপ দেওয়ার কাজ। Onom।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Adjective",
+    "meaning_english": "Vacant, empty. Td. śūnya.—PET: Empty.",
+    "meaning_bangla": "খালি, শূন্য। Td. śūnya।—PET: খালি।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Noun",
+    "meaning_english": "The state of the belly before taking meals. Td. *śṛṇpaka.",
+    "meaning_bangla": "খাবার নেওয়ার আগে পেটের অবস্থা। Td. *śṛṇpaka।"
+  },
+  {
+    "word_roman": "HUN-",
+    "word_bangla": "হুন-",
+    "category": "Verb",
+    "meaning_english": "To hear. Td. śṛṇ-.",
+    "meaning_bangla": "শোনা। Td. śṛṇ-।"
+  },
+  {
+    "word_roman": "HUN-",
+    "word_bangla": "হুন-",
+    "category": "Verb",
+    "meaning_english": "To smell. Td. sughrāpa, denom.",
+    "meaning_bangla": "গন্ধ নেওয়া। Td. sughrāpa, denom।"
+  },
+  {
+    "word_roman": "HUNAR",
+    "word_bangla": "হুনার",
+    "category": "Noun",
+    "meaning_english": "Strength, skill. Per. hunar.",
+    "meaning_bangla": "শক্তি, দক্ষতা। Per. hunar।"
+  },
+  {
+    "word_roman": "HUNA",
+    "word_bangla": "হুনা",
+    "category": "Noun",
+    "meaning_english": "Gold. Td. *suvarṇaka.",
+    "meaning_bangla": "সোনা। Td. *suvarṇaka।"
+  },
+  {
+    "word_roman": "HUNA",
+    "word_bangla": "হুনা",
+    "category": "Noun",
+    "meaning_english": "Heard. Td. *śṛṇpa.",
+    "meaning_bangla": "শোনা। Td. *śṛṇpa।"
+  },
+  {
+    "word_roman": "HUNA-",
+    "word_bangla": "হুনা-",
+    "category": "Verb",
+    "meaning_english": "To cause to hear. Caus. of hun-. Td. *śṛṇpaya-.",
+    "meaning_bangla": "শোনানো। hun-এর কারণাত্মক। Td. *śṛṇpaya-।"
+  },
+  {
+    "word_roman": "HUNA-",
+    "word_bangla": "হুনা-",
+    "category": "Verb",
+    "meaning_english": "To cause to smell. Caus. of hun-. Td. *sughrāpaya-.",
+    "meaning_bangla": "গন্ধ পাওয়ানো। hun-এর কারণাত্মক। Td. *sughrāpaya-।"
+  },
+  {
+    "word_roman": "HUNANI",
+    "word_bangla": "হুনানি",
+    "category": "Noun",
+    "meaning_english": "(i) Hearing. (ii) Causing to hear. hun+ -āni. Td. *śṛṇāpanika.",
+    "meaning_bangla": "(i) শোনা। (ii) শোনানো। hun+ -āni। Td. *śṛṇāpanika।"
+  },
+  {
+    "word_roman": "HUNANI",
+    "word_bangla": "হুনানি",
+    "category": "Noun",
+    "meaning_english": "(i) Smelling. (ii) Causing to smell. (i) hun+ -āni. (ii) hunā+ -āni. Td. *sughrāpāpanika.",
+    "meaning_bangla": "(i) গন্ধ নেওয়া। (ii) গন্ধ পাওয়ানো। (i) hun+ -āni। (ii) hunā+ -āni। Td. *sughrāpāpanika।"
+  },
+  {
+    "word_roman": "HUNARI",
+    "word_bangla": "হুনারি",
+    "category": "Noun",
+    "meaning_english": "Goldsmith. Td. svarṇakāraka.",
+    "meaning_bangla": "স্বর্ণকার। Td. svarṇakāraka।"
+  },
+  {
+    "word_roman": "HUNUWA-",
+    "word_bangla": "হুনুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to hear. Caus. of hun-.",
+    "meaning_bangla": "শোনানো। hun-এর কারণাত্মক।"
+  },
+  {
+    "word_roman": "HUNUWA-",
+    "word_bangla": "হুনুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to smell. Caus. of hun-.",
+    "meaning_bangla": "গন্ধ পাওয়ানো। hun-এর কারণাত্মক।"
+  },
+  {
+    "word_roman": "HUPI",
+    "word_bangla": "হুপি",
+    "category": "Noun",
+    "meaning_english": "(i) A bamboo-made instrument for fishing. (ii) A mouth-cover for animals. Td. *śupika or *śurpika.",
+    "meaning_bangla": "(i) মাছ ধরার বাঁশের যন্ত্র। (ii) পশুর মুখ ঢাকা। Td. *śupika or *śurpika।"
+  },
+  {
+    "word_roman": "HUPI-BAGH",
+    "word_bangla": "হুপি-বাঘ",
+    "category": "Noun",
+    "meaning_english": "Wolf. Td. *śupika+vyāghra, Cf. upavyāghra.",
+    "meaning_bangla": "নেকড়ে। Td. *śupika+vyāghra, Cf. upavyāghra।"
+  },
+  {
+    "word_roman": "HUBAHU",
+    "word_bangla": "হুবাহু",
+    "category": "Adverb",
+    "meaning_english": "Totally, exactly. Ar. hū-bā-hū.",
+    "meaning_bangla": "পুরোপুরি, ঠিক। Ar. hū-bā-hū।"
+  },
+  {
+    "word_roman": "HUM",
+    "word_bangla": "হুম",
+    "category": "Noun",
+    "meaning_english": "Sleep (child-language). V. ham, ghum.",
+    "meaning_bangla": "ঘুম (শিশু ভাষা)। V. ham, ghum।"
+  },
+  {
+    "word_roman": "HUMUN",
+    "word_bangla": "হুমুন",
+    "category": "Noun",
+    "meaning_english": "The front leg (of animals). Mt. humún (khu=leg, mān=front).",
+    "meaning_bangla": "পশুর সামনের পা। Mt. humún (khu=পা, mān=সামনে)।"
+  },
+  {
+    "word_roman": "HUMEI(M)",
+    "word_bangla": "হুমেই(ম)",
+    "category": "Noun",
+    "meaning_english": "Fan. Mt. humai (hu=to be bare, māy=face).",
+    "meaning_bangla": "পাখা। Mt. humai (hu=খোলা, māy=মুখ)।"
+  },
+  {
+    "word_roman": "HUJANI",
+    "word_bangla": "হুজানি",
+    "category": "Noun",
+    "meaning_english": "(i) Repaying. (ii) Retaliating. hujā+ -āni. Td. *śudhyāpanika.",
+    "meaning_bangla": "(i) পরিশোধ। (ii) প্রতিশোধ। hujā+ -āni। Td. *śudhyāpanika।"
+  },
+  {
+    "word_roman": "HUJUG",
+    "word_bangla": "হুজুগ",
+    "category": "Noun",
+    "meaning_english": "Excitement, whim. Per.-Ar. hujūm.",
+    "meaning_bangla": "উত্তেজনা, খেয়াল। Per.-Ar. hujūm।"
+  },
+  {
+    "word_roman": "HUTA",
+    "word_bangla": "হুতা",
+    "category": "Adjective",
+    "meaning_english": "Half-dry, not fresh (as a flower). Td. *śuṣṭa.",
+    "meaning_bangla": "অর্ধেক শুকনো, তাজা নয় (ফুলের মতো)। Td. *śuṣṭa।"
+  },
+  {
+    "word_roman": "HUT(M)",
+    "word_bangla": "হুত(ম)",
+    "category": "Noun",
+    "meaning_english": "The essence of a fruit. Cf. OIA. sūta.",
+    "meaning_bangla": "ফলের সার। Cf. OIA. sūta।"
+  },
+  {
+    "word_roman": "HUT",
+    "word_bangla": "হুত",
+    "category": "Noun",
+    "meaning_english": "Current, flow. Td. srotas.",
+    "meaning_bangla": "প্রবাহ, স্রোত। Td. srotas।"
+  },
+  {
+    "word_roman": "HUT-",
+    "word_bangla": "হুত্-",
+    "category": "Verb",
+    "meaning_english": "To stick to the ground. Td. *srotas.",
+    "meaning_bangla": "মাটিতে আটকে থাকা। Td. *srotas।"
+  },
+  {
+    "word_roman": "HUTANI",
+    "word_bangla": "হুতানি",
+    "category": "Noun",
+    "meaning_english": "(i) Sticking to the ground. (ii) Felling to the ground. (i) hut+ -āni. (ii) hutā+ -āni. Td. *suptāpanika.",
+    "meaning_bangla": "(i) মাটিতে আটকে থাকা। (ii) মাটিতে ফেলা। (i) hut+ -āni। (ii) hutā+ -āni। Td. *suptāpanika।"
+  },
+  {
+    "word_roman": "HUTAS",
+    "word_bangla": "হুতাস",
+    "category": "Noun",
+    "meaning_english": "Repentance. Sts. hatāśa.",
+    "meaning_bangla": "অনুতাপ। Sts. hatāśa।"
+  },
+  {
+    "word_roman": "HUTARI",
+    "word_bangla": "হুতারি",
+    "category": "Noun",
+    "meaning_english": "Carpenter. Sts. hatāśādhārika.",
+    "meaning_bangla": "ছুতার। Sts. hatāśādhārika।"
+  },
+  {
+    "word_roman": "HUTURA",
+    "word_bangla": "হুতুরা",
+    "category": "Adjective",
+    "meaning_english": "Sloping, slanting. Td. *srotas-kāraka.",
+    "meaning_bangla": "ঢালু, তির্যক। Td. *srotas-kāraka।"
+  },
+  {
+    "word_roman": "HUTTUME",
+    "word_bangla": "হুত্তুমে",
+    "category": "Adverb",
+    "meaning_english": "Truly. Sts. satyameva.",
+    "meaning_bangla": "সত্যিই। Sts. satyameva।"
+  },
+  {
+    "word_roman": "HUT-HUTEI",
+    "word_bangla": "হুত-হুতেই",
+    "category": "Noun",
+    "meaning_english": "A word denoting the 'sound of caning'. Onom. hut-hut+ -āi.",
+    "meaning_bangla": "বেত্রাঘাতের 'শব্দ' নির্দেশক শব্দ। Onom. hut-hut+ -āi।"
+  },
+  {
+    "word_roman": "HUDA",
+    "word_bangla": "হুদা",
+    "category": "Adjective",
+    "meaning_english": "Only. Td. *śuddha.",
+    "meaning_bangla": "শুধু। Td. *śuddha।"
+  },
+  {
+    "word_roman": "HUDA-RUHA",
+    "word_bangla": "হুদা-রুহা",
+    "category": "Noun",
+    "meaning_english": "A plant. Td. *śuddha.",
+    "meaning_bangla": "একটি উদ্ভিদ। Td. *śuddha।"
+  },
+  {
+    "word_roman": "HUDAL",
+    "word_bangla": "হুদাল",
+    "category": "Adjective",
+    "meaning_english": "Vacant, empty. Td. *śuddhapālaka.",
+    "meaning_bangla": "খালি, শূন্য। Td. *śuddhapālaka।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Noun",
+    "meaning_english": "The act of straining oneself by stopping or controlling breath. Onom.",
+    "meaning_bangla": "শ্বাস নিয়ন্ত্রণ করে নিজেকে চাপ দেওয়ার কাজ। Onom।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Adjective",
+    "meaning_english": "Vacant, empty. Td. śūnya.—PET: Empty.",
+    "meaning_bangla": "খালি, শূন্য। Td. śūnya।—PET: খালি।"
+  },
+  {
+    "word_roman": "HUN",
+    "word_bangla": "হুন",
+    "category": "Noun",
+    "meaning_english": "The state of the belly before taking meals. Td. *śṛṇpaka.",
+    "meaning_bangla": "খাবার নেওয়ার আগে পেটের অবস্থা। Td. *śṛṇpaka।"
+  },
+  {
+    "word_roman": "HUN-",
+    "word_bangla": "হুন-",
+    "category": "Verb",
+    "meaning_english": "To hear. Td. śṛṇ-.",
+    "meaning_bangla": "শোনা। Td. śṛṇ-।"
+  },
+  {
+    "word_roman": "HUN-",
+    "word_bangla": "হুন-",
+    "category": "Verb",
+    "meaning_english": "To smell. Td. sughrāpa, denom.",
+    "meaning_bangla": "গন্ধ নেওয়া। Td. sughrāpa, denom।"
+  },
+  {
+    "word_roman": "HUNAR",
+    "word_bangla": "হুনার",
+    "category": "Noun",
+    "meaning_english": "Strength, skill. Per. hunar.",
+    "meaning_bangla": "শক্তি, দক্ষতা। Per. hunar।"
+  },
+  {
+    "word_roman": "HUNA",
+    "word_bangla": "হুনা",
+    "category": "Noun",
+    "meaning_english": "Gold. Td. *suvarṇaka.",
+    "meaning_bangla": "সোনা। Td. *suvarṇaka।"
+  },
+  {
+    "word_roman": "HUNA",
+    "word_bangla": "হুনা",
+    "category": "Noun",
+    "meaning_english": "Heard. Td. *śṛṇpa.",
+    "meaning_bangla": "শোনা। Td. *śṛṇpa।"
+  },
+  {
+    "word_roman": "HUNA-",
+    "word_bangla": "হুনা-",
+    "category": "Verb",
+    "meaning_english": "To cause to hear. Caus. of hun-. Td. *śṛṇpaya-.",
+    "meaning_bangla": "শোনানো। hun-এর কারণাত্মক। Td. *śṛṇpaya-।"
+  },
+  {
+    "word_roman": "HUNA-",
+    "word_bangla": "হুনা-",
+    "category": "Verb",
+    "meaning_english": "To cause to smell. Caus. of hun-. Td. *sughrāpaya-.",
+    "meaning_bangla": "গন্ধ পাওয়ানো। hun-এর কারণাত্মক। Td. *sughrāpaya-।"
+  },
+  {
+    "word_roman": "HUNANI",
+    "word_bangla": "হুনানি",
+    "category": "Noun",
+    "meaning_english": "(i) Hearing. (ii) Causing to hear. hun+ -āni. Td. *śṛṇāpanika.",
+    "meaning_bangla": "(i) শোনা। (ii) শোনানো। hun+ -āni। Td. *śṛṇāpanika।"
+  },
+  {
+    "word_roman": "HUNANI",
+    "word_bangla": "হুনানি",
+    "category": "Noun",
+    "meaning_english": "(i) Smelling. (ii) Causing to smell. (i) hun+ -āni. (ii) hunā+ -āni. Td. *sughrāpāpanika.",
+    "meaning_bangla": "(i) গন্ধ নেওয়া। (ii) গন্ধ পাওয়ানো। (i) hun+ -āni। (ii) hunā+ -āni। Td. *sughrāpāpanika।"
+  },
+  {
+    "word_roman": "HUNARI",
+    "word_bangla": "হুনারি",
+    "category": "Noun",
+    "meaning_english": "Goldsmith. Td. svarṇakāraka.",
+    "meaning_bangla": "স্বর্ণকার। Td. svarṇakāraka।"
+  },
+  {
+    "word_roman": "HUNUWA-",
+    "word_bangla": "হুনুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to hear. Caus. of hun-.",
+    "meaning_bangla": "শোনানো। hun-এর কারণাত্মক।"
+  },
+  {
+    "word_roman": "HUNUWA-",
+    "word_bangla": "হুনুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to smell. Caus. of hun-.",
+    "meaning_bangla": "গন্ধ পাওয়ানো। hun-এর কারণাত্মক।"
+  },
+  {
+    "word_roman": "HUPI",
+    "word_bangla": "হুপি",
+    "category": "Noun",
+    "meaning_english": "(i) A bamboo-made instrument for fishing. (ii) A mouth-cover for animals. Td. *śupika or *śurpika.",
+    "meaning_bangla": "(i) মাছ ধরার বাঁশের যন্ত্র। (ii) পশুর মুখ ঢাকা। Td. *śupika or *śurpika।"
+  },
+  {
+    "word_roman": "HUPI-BAGH",
+    "word_bangla": "হুপি-বাঘ",
+    "category": "Noun",
+    "meaning_english": "Wolf. Td. *śupika+vyāghra, Cf. upavyāghra.",
+    "meaning_bangla": "নেকড়ে। Td. *śupika+vyāghra, Cf. upavyāghra।"
+  },
+  {
+    "word_roman": "HUBAHU",
+    "word_bangla": "হুবাহু",
+    "category": "Adverb",
+    "meaning_english": "Totally, exactly. Ar. hū-bā-hū.",
+    "meaning_bangla": "পুরোপুরি, ঠিক। Ar. hū-bā-hū।"
+  },
+  {
+    "word_roman": "HUM",
+    "word_bangla": "হুম",
+    "category": "Noun",
+    "meaning_english": "Sleep (child-language). V. ham, ghum.",
+    "meaning_bangla": "ঘুম (শিশু ভাষা)। V. ham, ghum।"
+  },
+  {
+    "word_roman": "HUMUN",
+    "word_bangla": "হুমুন",
+    "category": "Noun",
+    "meaning_english": "The front leg (of animals). Mt. humún (khu=leg, mān=front).",
+    "meaning_bangla": "পশুর সামনের পা। Mt. humún (khu=পা, mān=সামনে)।"
+  },
+  {
+    "word_roman": "HUMEI(M)",
+    "word_bangla": "হুমেই(ম)",
+    "category": "Noun",
+    "meaning_english": "Fan. Mt. humai (hu=to be bare, māy=face).",
+    "meaning_bangla": "পাখা। Mt. humai (hu=খোলা, māy=মুখ)।"
+  },
+  {
+    "word_roman": "HURHURI-PURPURI",
+    "word_bangla": "হুরহুরি-পুরপুরি",
+    "category": "Adjective",
+    "meaning_english": "One who remains still, one who speaks and moves rapidly. húrhur+2.-i+purpur+ (a)+2.-i.",
+    "meaning_bangla": "যে স্থির থাকে, যে দ্রুত কথা বলে ও নড়ে। húrhur+2.-i+purpur+ (a)+2.-i।"
+  },
+  {
+    "word_roman": "HURUM-DURUM",
+    "word_bangla": "হুরুম-দুরুম",
+    "category": "Noun",
+    "meaning_english": "(i) A word denoting 'disorderly or noisy movement'. (ii) Very quickly. Onom. or Td. huḍu.",
+    "meaning_bangla": "(i) 'অগোছালো বা শোরগোলের চলাচল' নির্দেশক শব্দ। (ii) খুব দ্রুত। Onom. or Td. huḍu।"
+  },
+  {
+    "word_roman": "HUL",
+    "word_bangla": "হুল",
+    "category": "Noun",
+    "meaning_english": "(i) Sting. Td. huḍa=bar, cf. ala.",
+    "meaning_bangla": "(i) হুল। Td. huḍa=bar, cf. ala।"
+  },
+  {
+    "word_roman": "HUL",
+    "word_bangla": "হুল",
+    "category": "Noun",
+    "meaning_english": "The act of sprouting. Mt. hun-pā=to supply.—KARANI: Sprouting.",
+    "meaning_bangla": "অঙ্কুরোদগমের কাজ। Mt. hun-pā=সরবরাহ করা।—KARANI: অঙ্কুরোদগম।"
+  },
+  {
+    "word_roman": "HULUSTHUL",
+    "word_bangla": "হুলুস্থুল",
+    "category": "Noun",
+    "meaning_english": "Commotion. Td. huḍu (=sheep)+sthala or echo-word.",
+    "meaning_bangla": "হট্টগোল। Td. huḍu (=ভেড়া)+sthala or echo-word।"
+  },
+  {
+    "word_roman": "HUS",
+    "word_bangla": "হুস",
+    "category": "Noun",
+    "meaning_english": "Consciousness, sense. Per. hoś-.",
+    "meaning_bangla": "চেতনা, বোধ। Per. hoś-।"
+  },
+  {
+    "word_roman": "HUŚIYAR",
+    "word_bangla": "হুশিয়ার",
+    "category": "Adjective",
+    "meaning_english": "Alt. form of huciyyar.",
+    "meaning_bangla": "huciyyar-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HUHU",
+    "word_bangla": "হুহু",
+    "category": "Noun",
+    "meaning_english": "A word denoting the 'sound of air'. Onom.",
+    "meaning_bangla": "'বাতাসের শব্দ' নির্দেশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HE",
+    "word_bangla": "হে",
+    "category": "Interjection",
+    "meaning_english": "(i) Hallo. (ii) What? Ts. he.",
+    "meaning_bangla": "(i) হ্যালো। (ii) কী? Ts. he।"
+  },
+  {
+    "word_roman": "HE",
+    "word_bangla": "হে",
+    "category": "Particle",
+    "meaning_english": "That (used only in compounds). Td. saha.",
+    "meaning_bangla": "যে (শুধু যৌগিক শব্দে ব্যবহৃত)। Td. saha।"
+  },
+  {
+    "word_roman": "+HE",
+    "word_bangla": "+হে",
+    "category": "Particle",
+    "meaning_english": "A particle denoting 'certainty' or 'emphasis'. Td. sakah.",
+    "meaning_bangla": "'নিশ্চয়তা' বা 'জোর' নির্দেশক কণা। Td. sakah।"
+  },
+  {
+    "word_roman": "HET",
+    "word_bangla": "হেত",
+    "category": "Noun",
+    "meaning_english": "With zeal. Onom.—KARE: With zeal.",
+    "meaning_bangla": "উৎসাহ সহকারে। Onom।—KARE: উৎসাহ সহকারে।"
+  },
+  {
+    "word_roman": "HEI",
+    "word_bangla": "হেই",
+    "category": "Noun",
+    "meaning_english": "The act of waving or whirling. Mt. hai.—KARANI: Waving, whirling.",
+    "meaning_bangla": "দোলানো বা ঘুরানোর কাজ। Mt. hai।—KARANI: দোলানো, ঘুরানো।"
+  },
+  {
+    "word_roman": "HEI",
+    "word_bangla": "হেই",
+    "category": "Noun",
+    "meaning_english": "Husband. Td. *svāmika.",
+    "meaning_bangla": "স্বামী। Td. *svāmika।"
+  },
+  {
+    "word_roman": "HEILAN",
+    "word_bangla": "হেইলান",
+    "category": "Noun",
+    "meaning_english": "Flirting woman. Td. svāmika.",
+    "meaning_bangla": "ফ্লার্ট করা মহিলা। Td. svāmika।"
+  },
+  {
+    "word_roman": "HEI",
+    "word_bangla": "হেই",
+    "category": "Noun",
+    "meaning_english": "A word expressing 'repulsion', 'aversion' etc. Onom.",
+    "meaning_bangla": "'বিমুখতা', 'ঘৃণা' ইত্যাদি প্রকাশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HEIKIRI",
+    "word_bangla": "হেইকিরি",
+    "category": "Noun",
+    "meaning_english": "Dillenia indica. Mt. haikari.",
+    "meaning_bangla": "Dillenia indica। Mt. haikari।"
+  },
+  {
+    "word_roman": "HEIKUTIBEI KUTI",
+    "word_bangla": "হেইকুতিবেই কুতি",
+    "category": "Noun",
+    "meaning_english": "Of undefinable nature. Td. sai api+kojika.",
+    "meaning_bangla": "অবর্ণনীয় প্রকৃতির। Td. sai api+kojika।"
+  },
+  {
+    "word_roman": "HEIKURU",
+    "word_bangla": "হেইকুরু",
+    "category": "Noun",
+    "meaning_english": "A kind of heavy necklace (looking like emblic myrobalam). Mt. haikuru (=emblic myrobalam).",
+    "meaning_bangla": "ভারী হারের এক প্রকার (আমলকীর মতো দেখতে)। Mt. haikuru (=emblic myrobalam)।"
+  },
+  {
+    "word_roman": "HEICA",
+    "word_bangla": "হেইচা",
+    "category": "Adjective",
+    "meaning_english": "Effective (as a medicine). M. Mt. haica-pā=practicable.",
+    "meaning_bangla": "কার্যকর (ঔষধের মতো)। M. Mt. haica-pā=প্রয়োগযোগ্য।"
+  },
+  {
+    "word_roman": "HEICAPAT",
+    "word_bangla": "হেইচাপাত",
+    "category": "Noun",
+    "meaning_english": "Entreaty, request. Mt. haicāpā.",
+    "meaning_bangla": "অনুরোধ। Mt. haicāpā।"
+  },
+  {
+    "word_roman": "HEICAPAT",
+    "word_bangla": "হেইচাপাত",
+    "category": "Noun",
+    "meaning_english": "A light repast of sweets given by the bridegroom-party to the villagers of the bride after the settlement of a marriage proposal. Mt. haicāpāt.",
+    "meaning_bangla": "বিয়ের প্রস্তাব নিষ্পত্তির পর বরপক্ষের দ্বারা কনের গ্রামবাসীদের দেওয়া মিষ্টির হালকা খাবার। Mt. haicāpāt।"
+  },
+  {
+    "word_roman": "HEICAHAU",
+    "word_bangla": "হেইচাহাউ",
+    "category": "Noun",
+    "meaning_english": "Complainant. M. Mt. hāyca-pā.",
+    "meaning_bangla": "অভিযোগকারী। M. Mt. hāyca-pā।"
+  },
+  {
+    "word_roman": "HEICIN",
+    "word_bangla": "হেইচিন",
+    "category": "Noun",
+    "meaning_english": "A kind of edible herb. Mt. haicin.",
+    "meaning_bangla": "খাওয়ার যোগ্য ভেষজের এক প্রকার। Mt. haicin।"
+  },
+  {
+    "word_roman": "HEIDI",
+    "word_bangla": "হেইদি",
+    "category": "Noun",
+    "meaning_english": "The parting line of hair on the head. Td. simantika, influenced by hādi.",
+    "meaning_bangla": "মাথার চুলের সিঁথি। Td. simantika, hādi দ্বারা প্রভাবিত।"
+  },
+  {
+    "word_roman": "HEINA",
+    "word_bangla": "হেইনা",
+    "category": "Noun",
+    "meaning_english": "Skilful. Mt. haina-pā.",
+    "meaning_bangla": "দক্ষ। Mt. haina-pā।"
+  },
+  {
+    "word_roman": "HEINACAK(M)",
+    "word_bangla": "হেইনাচাক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of he'il-āncak.",
+    "meaning_bangla": "he'il-āncak-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEININPA",
+    "word_bangla": "হেইনিন্পা",
+    "category": "Adjective",
+    "meaning_english": "Enthusiastic. Mt. haininpa.",
+    "meaning_bangla": "উৎসাহী। Mt. haininpa।"
+  },
+  {
+    "word_roman": "HEININPI",
+    "word_bangla": "হেইনিন্পি",
+    "category": "Adjective",
+    "meaning_english": "Enthusiastic (of women). Mt. haininpi.",
+    "meaning_bangla": "উৎসাহী (মহিলাদের)। Mt. haininpi।"
+  },
+  {
+    "word_roman": "HEINAU",
+    "word_bangla": "হেইনাউ",
+    "category": "Noun",
+    "meaning_english": "Mango. Mt. hainau (hai=fruit, nau-pā=soft).",
+    "meaning_bangla": "আম। Mt. hainau (hai=ফল, nau-pā=নরম)।"
+  },
+  {
+    "word_roman": "HEINAUCAM",
+    "word_bangla": "হেইনাউচাম",
+    "category": "Noun",
+    "meaning_english": "Averrhoa carambola. N. Mt. hainau com.",
+    "meaning_bangla": "কামরাঙ্গা। N. Mt. hainau com।"
+  },
+  {
+    "word_roman": "HEIRU",
+    "word_bangla": "হেইরু",
+    "category": "Noun",
+    "meaning_english": "Knot, button. Mt. hairu.",
+    "meaning_bangla": "গিঁট, বোতাম। Mt. hairu।"
+  },
+  {
+    "word_roman": "HEIRUK(M), HEIRAU(M)",
+    "word_bangla": "হেইরুক(ম), হেইরাউ(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of eíruk, heiru.",
+    "meaning_bangla": "eíruk, heiru-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEILANCAK",
+    "word_bangla": "হেইলাঞ্চাক",
+    "category": "Noun",
+    "meaning_english": "A kind of water-cress. Td. hilamtha repans, influenced by Mt. hai=fruit and cāk=food. Cf. B. helecā.",
+    "meaning_bangla": "জলশাকের এক প্রকার। Td. hilamtha repans, Mt. hai=ফল এবং cāk=খাদ্য দ্বারা প্রভাবিত। Cf. B. helecā।"
+  },
+  {
+    "word_roman": "HEIS",
+    "word_bangla": "হেইস",
+    "category": "Noun",
+    "meaning_english": "A word expressing 'repulsion, aversion, sorrow' etc. Onom.",
+    "meaning_bangla": "'বিমুখতা, ঘৃণা, দুঃখ' ইত্যাদি প্রকাশক শব্দ। Onom।"
+  },
+  {
+    "word_roman": "HEISIN",
+    "word_bangla": "হেইসিন",
+    "category": "Adjective",
+    "meaning_english": "Alt. form of heisinpa. Expert and enthusiastic. Mt. haiśīñpā (hai=skilful, śin-pā=intelligent).",
+    "meaning_bangla": "heisinpa-এর বিকল্প রূপ। দক্ষ ও উৎসাহী। Mt. haiśīñpā (hai=দক্ষ, śin-pā=বুদ্ধিমান)।"
+  },
+  {
+    "word_roman": "HEISINPI",
+    "word_bangla": "হেইসিন্পি",
+    "category": "Adjective",
+    "meaning_english": "Expert and enthusiastic (of women). Mt. haiśīñpi.",
+    "meaning_bangla": "দক্ষ ও উৎসাহী (মহিলাদের)। Mt. haiśīñpi।"
+  },
+  {
+    "word_roman": "HEO",
+    "word_bangla": "হেও",
+    "category": "Adjective",
+    "meaning_english": "Slanting, loose. Td. kṣepa.",
+    "meaning_bangla": "ঢালু, ঢিলা। Td. kṣepa।"
+  },
+  {
+    "word_roman": "HEK",
+    "word_bangla": "হেক",
+    "category": "Noun",
+    "meaning_english": "Pitch, note (of music). Mt. thek-pā=to bend.—CEL-ANT: (Weeping) by modulating the voice.",
+    "meaning_bangla": "সুর, স্বর (সঙ্গীতের)। Mt. thek-pā=বাঁকা।—CEL-ANT: কণ্ঠস্বর মডুলেট করে (কান্না)।"
+  },
+  {
+    "word_roman": "HEKARATI",
+    "word_bangla": "হেকারাতি",
+    "category": "Noun",
+    "meaning_english": "Haughiness, unyielding attitude. Per. haqārat=affront.",
+    "meaning_bangla": "অহংকার, অবিচল মনোভাব। Per. haqārat=অপমান।"
+  },
+  {
+    "word_roman": "HEKKA(RE)",
+    "word_bangla": "হেক্কা(রে)",
+    "category": "Adverb",
+    "meaning_english": "Swiftly, quickly. Mt. thek-pā+BPM. ka(re).",
+    "meaning_bangla": "দ্রুত, তাড়াতাড়ি। Mt. thek-pā+BPM. ka(re)।"
+  },
+  {
+    "word_roman": "HEKKASE, HEKKUCE(M)",
+    "word_bangla": "হেক্কাসে, হেক্কুচে(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of ha'kase.",
+    "meaning_bangla": "ha'kase-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEKTHELA",
+    "word_bangla": "হেক্থেলা",
+    "category": "Noun",
+    "meaning_english": "(i) Obstinate. (ii) Obstinacy. Td. *kṣepatha+helā.",
+    "meaning_bangla": "(i) জেদি। (ii) জেদ। Td. *kṣepatha+helā।"
+  },
+  {
+    "word_roman": "HEGAHEGA",
+    "word_bangla": "হেগাহেগা",
+    "category": "Adjective",
+    "meaning_english": "Totally tired. Td. sveda+*vega, cont.",
+    "meaning_bangla": "পুরোপুরি ক্লান্ত। Td. sveda+*vega, cont।"
+  },
+  {
+    "word_roman": "HEGJAL-BEGJAL(M)",
+    "word_bangla": "হেগজাল-বেগজাল(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hejal-bejal.",
+    "meaning_bangla": "hejal-bejal-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HENGAM",
+    "word_bangla": "হেঙ্গাম",
+    "category": "Noun",
+    "meaning_english": "Difficulty, harassment. V. above.",
+    "meaning_bangla": "অসুবিধা, হয়রানি। উপরের।"
+  },
+  {
+    "word_roman": "HEIDUR",
+    "word_bangla": "হেইদুর",
+    "category": "Noun",
+    "meaning_english": "Utterance of words of neglect. Td. *dūra.",
+    "meaning_bangla": "অবহেলার কথা উচ্চারণ। Td. *dūra।"
+  },
+  {
+    "word_roman": "HEJAL-BEJAL",
+    "word_bangla": "হেজাল-বেজাল",
+    "category": "Adjective",
+    "meaning_english": "Totally tired, very weak. Td. svedajala-vagajala.",
+    "meaning_bangla": "পুরোপুরি ক্লান্ত, খুব দুর্বল। Td. svedajala-vagajala।"
+  },
+  {
+    "word_roman": "HEJA",
+    "word_bangla": "হেজা",
+    "category": "Noun",
+    "meaning_english": "Bed. Td. *śeyyaka.",
+    "meaning_bangla": "বিছানা। Td. *śeyyaka।"
+  },
+  {
+    "word_roman": "HEJAK",
+    "word_bangla": "হেজাক",
+    "category": "Noun",
+    "meaning_english": "Light. hassak (name of a company).",
+    "meaning_bangla": "হালকা। hassak (একটি কোম্পানির নাম)।"
+  },
+  {
+    "word_roman": "HEJI",
+    "word_bangla": "হেজি",
+    "category": "Noun",
+    "meaning_english": "Bed. Td. *śeyyika. Alt. form of hejal-bejal.",
+    "meaning_bangla": "বিছানা। Td. *śeyyika। hejal-bejal-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEINCIL",
+    "word_bangla": "হেইনচিল",
+    "category": "Noun",
+    "meaning_english": "Superstition (as in speaking). Mt. heñcin (hen-pā=to supersede).",
+    "meaning_bangla": "কুসংস্কার (কথা বলার ক্ষেত্রে)। Mt. heñcin (hen-pā=অতিক্রম করা)।"
+  },
+  {
+    "word_roman": "HENTAK",
+    "word_bangla": "হেন্তাক",
+    "category": "Noun",
+    "meaning_english": "(i) Return. (ii) Return to the father's family permanently (of a married woman). Mt. hanthok-pā (han=to return, thok-pā=to happen).",
+    "meaning_bangla": "(i) ফিরে আসা। (ii) বিবাহিত মহিলার স্থায়ীভাবে বাবার পরিবারে ফিরে আসা। Mt. hanthok-pā (han=ফিরে আসা, thok-pā=ঘটা)।"
+  },
+  {
+    "word_roman": "HENTAKPI",
+    "word_bangla": "হেন্তাকপি",
+    "category": "Noun",
+    "meaning_english": "One who has returned to the father's family permanently (of a married woman). Mt. hanthokpi.",
+    "meaning_bangla": "বিবাহিত মহিলা যে স্থায়ীভাবে বাবার পরিবারে ফিরে এসেছে। Mt. hanthokpi।"
+  },
+  {
+    "word_roman": "HED",
+    "word_bangla": "হেদ",
+    "category": "Noun",
+    "meaning_english": "Fomentation, application of heat. Td. sveda.",
+    "meaning_bangla": "সেঁক, তাপ প্রয়োগ। Td. sveda।"
+  },
+  {
+    "word_roman": "HEDANI",
+    "word_bangla": "হেদানি",
+    "category": "Noun",
+    "meaning_english": "Fomenting. hed+ -āni. Td. *svedapānika.",
+    "meaning_bangla": "সেঁক দেওয়া। hed+ -āni। Td. *svedapānika।"
+  },
+  {
+    "word_roman": "HED",
+    "word_bangla": "হেদ",
+    "category": "Noun",
+    "meaning_english": "Being fomented after boiling. Td. siddha, denom.",
+    "meaning_bangla": "সিদ্ধের পর সেঁক দেওয়া। Td. siddha, denom।"
+  },
+  {
+    "word_roman": "HEDUWA-",
+    "word_bangla": "হেদুয়া-",
+    "category": "Verb",
+    "meaning_english": "To cause to foment or apply heat. Caus. of hed-. Td. *svedāpaya-.",
+    "meaning_bangla": "সেঁক দেওয়ানো বা তাপ দেওয়ানো। hed-এর কারণাত্মক। Td. *svedāpaya-।"
+  },
+  {
+    "word_roman": "HENI",
+    "word_bangla": "হেনি",
+    "category": "Noun",
+    "meaning_english": "Heat. Caus. of straw. Td. *chādanika, Cf. B. chāni=straw.",
+    "meaning_bangla": "তাপ। খড়ের কারণাত্মক। Td. *chādanika, Cf. B. chāni=খড়।"
+  },
+  {
+    "word_roman": "HENU(M), HENDOK(M)",
+    "word_bangla": "হেনু(ম), হেন্দোক(ম)",
+    "category": "Noun",
+    "meaning_english": "Alt. forms of helthak.",
+    "meaning_bangla": "helthak-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEP",
+    "word_bangla": "হেপ",
+    "category": "Adjective",
+    "meaning_english": "Slack, lazy, dilatory (as in work). Td. kṣepa.",
+    "meaning_bangla": "ঢিলা, অলস, বিলম্বকারী (কাজে)। Td. kṣepa।"
+  },
+  {
+    "word_roman": "HE-PAR",
+    "word_bangla": "হে-পার",
+    "category": "Adverb",
+    "meaning_english": "That time. Td. sakab, sah+prahara.",
+    "meaning_bangla": "সেই সময়। Td. sakab, sah+prahara।"
+  },
+  {
+    "word_roman": "HE-PEY",
+    "word_bangla": "হে-পেয়",
+    "category": "Adverb",
+    "meaning_english": "There. Td. sakah, sah, sec. el. V.-pey.",
+    "meaning_bangla": "সেখানে। Td. sakah, sah, sec. el. V.-pey।"
+  },
+  {
+    "word_roman": "HEBANIYA",
+    "word_bangla": "হেবানিয়া",
+    "category": "Noun",
+    "meaning_english": "Fellow (in a deprecatory sense). V. he'māniya.",
+    "meaning_bangla": "লোক (অবজ্ঞার অর্থে)। V. he'māniya।"
+  },
+  {
+    "word_roman": "HEMA, HEMAN",
+    "word_bangla": "হেমা, হেমান",
+    "category": "Adjective",
+    "meaning_english": "Foolish. Ar. haiwān=beast.",
+    "meaning_bangla": "মূর্খ। Ar. haiwān=পশু।"
+  },
+  {
+    "word_roman": "HEMANIYA",
+    "word_bangla": "হেমানিয়া",
+    "category": "Adjective",
+    "meaning_english": "Foolish. hemā+ -niya, influenced by Mt. heimerak, cont.",
+    "meaning_bangla": "মূর্খ। hemā+ -niya, Mt. heimerak দ্বারা প্রভাবিত, cont।"
+  },
+  {
+    "word_roman": "HEMERAK",
+    "word_bangla": "হেমেরাক",
+    "category": "Adjective",
+    "meaning_english": "Foolish. hemā+heimerak, cont.",
+    "meaning_bangla": "মূর্খ। hemā+heimerak, cont।"
+  },
+  {
+    "word_roman": "HEY",
+    "word_bangla": "হেয়",
+    "category": "Noun",
+    "meaning_english": "Related as husband. 2. hei-ak : Td. *svāmika.",
+    "meaning_bangla": "স্বামী-সম্পর্কিত। 2. hei-ak : Td. *svāmika।"
+  },
+  {
+    "word_roman": "HEWAG",
+    "word_bangla": "হেওয়াগ",
+    "category": "Noun",
+    "meaning_english": "Slanting. Td. *kṣepaka.",
+    "meaning_bangla": "ঢালু। Td. *kṣepaka।"
+  },
+  {
+    "word_roman": "HER",
+    "word_bangla": "হের",
+    "category": "Noun",
+    "meaning_english": "Gap, scope. Td. *hera (Cf. herika=spy).—PHER: Difference, discrepancy.",
+    "meaning_bangla": "ফাঁক, সুযোগ। Td. *hera (Cf. herika=গুপ্তচর)।—PHER: পার্থক্য, অসঙ্গতি।"
+  },
+  {
+    "word_roman": "HERE",
+    "word_bangla": "হেরে",
+    "category": "Noun",
+    "meaning_english": "The other. 2. he+re. Alt. form of heidi.",
+    "meaning_bangla": "অন্যটি। 2. he+re। heidi-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HEL-",
+    "word_bangla": "হেল্-",
+    "category": "Verb",
+    "meaning_english": "To recline. (L. Sk.) hila-.",
+    "meaning_bangla": "হেলান দেওয়া। (L. Sk.) hila-।"
+  },
+  {
+    "word_roman": "HEL",
+    "word_bangla": "হেল",
+    "category": "Noun",
+    "meaning_english": "(i) Excess, supersession. (ii) Exceeding, superseding. Mt. hen-pā : Exceeding.",
+    "meaning_bangla": "(i) অতিরিক্ত, অতিক্রম। (ii) অতিক্রম করা। Mt. hen-pā : অতিক্রম।"
+  },
+  {
+    "word_roman": "HELPA(M)",
+    "word_bangla": "হেল্পা(ম)",
+    "category": "Noun",
+    "meaning_english": "Exceeding, superseding. V. above.",
+    "meaning_bangla": "অতিক্রম, অতিক্রমণ। উপরের।"
+  },
+  {
+    "word_roman": "HELA",
+    "word_bangla": "হেলা",
+    "category": "Noun",
+    "meaning_english": "Negligence. Ts. *elā-.",
+    "meaning_bangla": "অবহেলা। Ts. *elā-।"
+  },
+  {
+    "word_roman": "HELAN(M)",
+    "word_bangla": "হেলান(ম)",
+    "category": "Noun",
+    "meaning_english": "Reclining. *hilāpana.",
+    "meaning_bangla": "হেলান দেওয়া। *hilāpana।"
+  },
+  {
+    "word_roman": "HELANI",
+    "word_bangla": "হেলানি",
+    "category": "Noun",
+    "meaning_english": "Alt. form of elāni.",
+    "meaning_bangla": "elāni-এর বিকল্প রূপ।"
+  },
+  {
+    "word_roman": "HELEN-BELEN",
+    "word_bangla": "হেলেন-বেলেন",
+    "category": "Adjective",
+    "meaning_english": "A word denoting 'unsteadiness' or 'feebleness'. Td. *hilāpana, sec. el. echo-word.",
+    "meaning_bangla": "'অস্থিরতা' বা 'দুর্বলতা' নির্দেশক শব্দ। Td. *hilāpana, sec. el. echo-word।"
+  },
+  {
+    "word_roman": "HELGA-MELGA",
+    "word_bangla": "হেলগা-মেলগা",
+    "category": "Noun",
+    "meaning_english": "Laziness, dilatoriness. Td. helā+aghaśa, sec. el. echo-word.",
+    "meaning_bangla": "অলসতা, বিলম্ব। Td. helā+aghaśa, sec. el. echo-word।"
+  },
+  {
+    "word_roman": "HELTHAK(M)",
+    "word_bangla": "হেলথাক(ম)",
+    "category": "Noun",
+    "meaning_english": "(i) Excess, supersession. (ii) Exceeding. M. Mt. henthok-pā.",
+    "meaning_bangla": "(i) অতিরিক্ত, অতিক্রম। (ii) অতিক্রম করা। M. Mt. henthok-pā।"
+  },
+  {
+    "word_roman": "HEJAK",
+    "word_bangla": "হেজাক",
+    "category": "Noun",
+    "meaning_english": "Bed. *śakka.",
+    "meaning_bangla": "বিছানা। *śakka।"
+  },
+  {
+    "word_roman": "HEJAK-BEJAK",
+    "word_bangla": "হেজাক-বেজাক",
+    "category": "Noun",
+    "meaning_english": "Alt. form of hejal-bejal.",
+    "meaning_bangla": "hejal-bejal-এর বিকল্প রূপ।"
   }
 ]
