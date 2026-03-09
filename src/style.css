@@ -306,8 +306,8 @@ body {
 .search-box {
   width: 100%;
   max-width: 600px;
-  background: #ffffff;
-  padding: 2rem 1.5rem;
+  background: transparent;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
   z-index: 10;
 }
 
